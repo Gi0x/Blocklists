@@ -51,17 +51,52 @@
 
 # D
 /\.(dabur|dad|dance|data|date|dating|datsun|day)/
-/\.(dclk|dds|deal|dealer|deals|degree|delivery|dell|deloitte|delta|democrat|dental|dentist|desi|design|dev|dhl|diamonds|diet|digital|direct|directory|discount|discover|dish|diy|dnp|docs|doctor|dodge|dog|doha|domains|doosan|dot|download|drive|dtv|dubai|duck|dunlop|duns|dupont|durban|dvag|dvr)/
+/\.(deal|dealer|deals|degree|delivery|dell|deloitte|delta|democrat|dental|dentist|desi|design|dev)/
+/\.(diamonds|diet|digital|direct|directory|discount|discover|dish|diy)/
+/\.(docs|doctor|dodge|dog|doha|domains|doosan|dot|download)/
+/\.(dubai|duck|dunlop|duns|dupont|durban)/
+/\.(dvag|dvr)/
 
-/\.(dclk|dds)/
+/\.(dclk|dds|dhl|dnp|drive|dtv)/
 
 # E
-/\.(earth|eat|eco|edeka|education|email|emerck|energy|engineer|engineering|enterprises|epost|epson|equipment|ericsson|erni|estate|esurance|etisalat|eurovision|eus|events|everbank|exchange|expert|exposed|express|extraspace)/
+/\.(earth|eat)/
+/\.(edeka|education)/
+/\.(email|emerck)/
+/\.(energy|engineer|engineering|enterprises)/
+/\.(epost|epson)/
+/\.(ericsson|erni)/
+/\.(estate|esurance)/
+/\.(eurovision|eus)/
+/\.(events|everbank)/
+/\.(exchange|expert|exposed|express|extraspace)/
 
-/\.(fage|fail|fairwinds|faith|family|fan|fans|farm|farmers|fashion|fast|fedex|feedback|ferrari|ferrero|fiat|fidelity|fido|film|final|finance|financial|fire|firestone|firmdale|fish|fishing|fit|fitness|flickr|flights|flir|florist|flowers|flsmidth|fly|foo|food|foodnetwork|football|ford|forex|forsale|forum|foundation|fox|free|fresenius|frl|frogans|frontdoor|frontier|ftr|fujitsu|fujixerox|fun|fund|furniture|futbol|fyi)/
+/\.(eco|equipment|etisalat)/
 
-/\.(gal|gallery|gallo|gallup|game|games|gap|garden|gay|gbiz|gdn|gea|gent|genting|george|ggee|gift|gifts|gives|giving|glade|glass|gle|global|globo|gmail|gmbh|gmo|gmx|godaddy|gold|goldpoint|golf|goo|goodhands|goodyear|goog|google|gop|got|grainger|graphics|gratis|green|gripe|grocery|group|guardian|gucci|guge|guide|guitars|guru)/
+# F
+/\.(fage|fail|fairwinds|faith|family|fan|fans|farm|farmers|fashion|fast)/
+/\.(fedex|feedback|ferrari|ferrero)/
+/\.(fiat|fidelity|fido|film|final|finance|financial|fire|firestone|firmdale|fish|fishing|fit|fitness)/
+/\.(flickr|flights|flir|florist|flowers|flsmidth|fly)/
+/\.(foo|food|foodnetwork|football|ford|forex|forsale|forum|foundation|fox)/
+/\.(free|fresenius|frl|frogans|frontdoor|frontier)/
+/\.(fujitsu|fujixerox|fun|fund|furniture|futbol)/
 
+/\.(ftr|fyi)/
+
+# G
+/\.(gal|gallery|gallo|gallup|game|games|gap|garden|gay)/
+/\.(gea|gent|genting|george)/
+/\.(gift|gifts|gives|giving)/
+/\.(glade|glass|gle|global|globo)/
+/\.(gmail|gmbh|gmo|gmx)/
+/\.(godaddy|gold|goldpoint|golf|goo|goodhands|goodyear|goog|google|gop|got)/
+/\.(grainger|graphics|gratis|green|gripe|grocery|group)/
+/\.(guardian|gucci|guge|guide|guitars|guru)/
+
+/\.(gbiz|gdn|ggee)
+
+# H
 /\.(hair|hamburg|hangout|haus|hbo|hdfc|hdfcbank|health|healthcare|help|helsinki|here|hermes|hgtv|hiphop|hisamitsu|hitachi|hiv|hkt|hockey|holdings|holiday|homedepot|homegoods|homes|homesense|honda|honeywell|horse|hospital|host|hosting|hot|hoteles|hotels|hotmail|house|how|hsbc|htc|hughes|hyatt|hyundai)/
 
 /\.(ibm|icbc|ice|icu|ieee|ifm|iinet|ikano|imamat|imdb|immo|immobilien|inc|industries|infiniti|info|ing|ink|institute|insurance|insure|int|intel|international|intuit|investments|ipiranga|irish|iselect|ismaili|ist|istanbul|itau|itv|iveco)/
