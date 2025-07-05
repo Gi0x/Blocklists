@@ -1,6 +1,28 @@
 ::: GENERIC TLDs :::
 
-/\.(aaa|aarp|abarth|abb|abbott|abbvie|abc|able|abogado|abudhabi|academy|accenture|accountant|accountants|aco|active|actor|adac|ads|adult|aeg|aero|aetna|afamilycompany|afl|africa|agakhan|agency|aig|aigo|airbus|airforce|airtel|akdn|alfaromeo|alibaba|alipay|allfinanz|allstate|ally|alsace|alstom|amazon|americanexpress|americanfamily|amex|amfam|amica|amsterdam|analytics|android|anquan|anz|aol|apartments|app|apple|aquarelle|arab|aramco|archi|army|arpa|art|arte|asda|asia|associates|athleta|attorney|auction|audi|audible|audio|auspost|author|auto|autos|avianca|aws|axa|azure)/
+# A
+/\.(aaa|aarp)/
+/\.(abarth|abb|abbott|abbvie|abc|able|abogado|abudhabi)/
+/\.(academy|accenture|accountant|accountants|aco|active|actor)/
+/\.(adac|ads|adult)/
+/\.(aeg|aero|aetna)/
+/\.(afamilycompany|afl|africa)/
+/\.(agakhan|agency)/
+/\.(aig|aigo|airbus|airforce|airtel)/
+/\.(alfaromeo|alibaba|alipay|allfinanz|allstate|ally|alsace|alstom)/
+/\.(amazon|americanexpress|americanfamily|amex|amfam|amica|amsterdam)/
+/\.(analytics|android|anquan|anz)/
+/\.(apartments|app|apple)/
+/\.(arab|aramco|archi|army|arpa|art|arte)/
+/\.(asda|asia|associates)/
+/\.(athleta|attorney)/
+/\.(auction|audi|audible|audio|auspost|author|auto|autos)/
+
+/\.(akdn|aol|aquarelle|avianca|aws|axa|azure)/
+
+# B
+
+
 
 /\.(baby|baidu|banamex|bananarepublic|band|bank|bar|barcelona|barclaycard|barclays|barefoot|bargains|baseball|basketball|bauhaus|bayern|bbc|bbt|bbva|bcg|bcn|beats|beauty|beats|beauty|beer|bentley|berlin|best|bestbuy|bet|bharti|bible|bid|bike|bing|bingo|bio|biz|black|blackfriday|blanco|blockbuster|blog|bloomberg|blue|bms|bmw|bnl|bnpparibas|boats|boehringer|bofa|bom|bond|boo|book|booking|boots|bosch|bostik|boston|bot|boutique|box|bradesco|bridgestone|broadway|broker|brother|brussels|budapest|bugatti|build|builders|business|buy|buzz|bzh)/
 
