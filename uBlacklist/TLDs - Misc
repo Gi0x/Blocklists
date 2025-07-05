@@ -1,5 +1,3 @@
-::: GENERIC TLDs :::
-
 # A
 /\.(aaa|aarp)/
 /\.(abarth|abb|abbott|abbvie|abc|able|abogado|abudhabi)/
@@ -253,13 +251,29 @@
 /\.(whoswho|wme)/
 
 # X
-/\.(xbox|xerox|xfinity|xihuan|xin|xperia|xxx|xyz)/
+/\.(xihuan|xin)/
 
-/\.(yachts|yahoo|yamaxun|yandex|yodobashi|yoga|yokohama|you|youtube|yun)/
+/\.(xbox|xerox|xfinity|xperia|xxx|xyz)/
 
-/\.(zappos|zara|zero|zip|zippo|zone|zuerich)/
+# Y
+/\.(yachts|yahoo|yamaxun|yandex)/
+/\.(yodobashi|yoga|yokohama|you|youtube)/
 
-/\.(δοκιμή|сайт|дети|испытание|католик|ком|москва|онлайн|орг|рус)/
+/\.(yun)/
+
+# Z
+/\.(zappos|zara)/
+/\.(zip|zippo)/
+
+/\.(zero|zone|zuerich)/
+
+# 
+/\.(католик|ком)/
+/\.(онлайн|орг)/
+
+/\.(δοκιμή|сайт|дети|испытание|москва|рус)/
+
+
 /\.(セール|ファッション|ストア|アマゾン|クラウド|ポイント|グーグル|テスト)/
 /\.(测试|कॉम|परीक्षा|佛山|慈善|集团|在线|大众汽车|点看|คอม|八卦|موقع‎|公益|公司|香格里拉|网站|移动|我爱你|联通|时尚|微博|테스트|淡马锡|नेट|삼성|商标|商店|商城|新闻|工行|家電|中文网|中信|娱乐|谷歌|電訊盈科|购物|測試|通販‎|பரிட்சை|网店|संगठन|餐厅|网络|亚马逊|诺基亚|食品|飞利浦|手表|手机|닷컴|政府|机构|组织机构|健康|招聘|珠宝|大拿|みんな|世界|書籍|网址|닷넷|コム|天主教|游戏|企业|信息|嘉里大酒店|嘉里|广东|政务)/
 
