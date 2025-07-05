@@ -31,6 +31,6 @@
 /\.(ଭାରତ|ಭಾರತ|ভারত|বাংলা|சிங்கப்பூர்|భారత్|ලංකා|ભારત|भारतम्|भारत|भारोत|გე|ไทย|ລາວ|ഭാരതം|ਭਾਰਤ|இலங்கை|இந்தியா|հայ|新加坡)/
 
 ******
-# Exclude: at, ca, co, de, eu, hu, io, ne, rs
+# Before saving, make sure to exclude: at, ca, co, de, eu, hu, io, ne, rs
 - co because of [.com,.co,.co.uk]
 - ne because of [.net]
