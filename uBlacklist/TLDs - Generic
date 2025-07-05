@@ -169,24 +169,90 @@
 /\.(nba|nfl|ngo|nhk|ntt|nyc)/
 
 # O
-/\.(obi|observer|off|office|okinawa|olayan|olayangroup|oldnavy|ollo|omega|one|ong|onl|online|onyourside|ooo|open|oracle|orange|organic|orientexpress|origins|osaka|otsuka|ott|ovh)/
+/\.(obi|observer)/
+/\.(off|office)/
+/\.(olayan|olayangroup|oldnavy|ollo)/
+/\.(one|ong|onl|online|onyourside)/
+/\.(ooo|open)/
+/\.(oracle|orange|organic|orientexpress|origins)/
+/\.(otsuka|ott)/
 
-/\.(page|pamperedchef|panasonic|panerai|paris|pars|partners|parts|party|passagens|pay|pccw|pet|pfizer|pharmacy|phd|philips|phone|photo|photos|photography|physio|piaget|pics|pictet|pictures|pid|pin|ping|pink|pioneer|pizza|place|play|playstation|plumbing|plus|pnc|pohl|poker|politie|porn|post|pramerica|praxi|press|prime|pro|prod|productions|prof|progressive|promo|properties|property|protection|pru|prudential|pub|pwc)/
+/\.(okinawa|omega|osaka|ovh)/
 
-/\.(qpon|quebec|quest|qvc)/
+# P
+/\.(page|pamperedchef|panasonic|panerai|paris|pars|partners|parts|party|passagens|pay)/
+/\.(pharmacy|phd|philips|phone|photo|photos|photography|physio)/
+/\.(piaget|pics|pictet|pictures|pid|pin|ping|pink|pioneer|pizza)/
+/\.(place|play|playstation|plumbing|plus)/
+/\.(pohl|poker|politie|porn|post)/
+/\.(pramerica|praxi|press|prime|pro|prod|productions|prof|progressive|promo|properties|property|protection|pru|prudential)/
 
-/\.(racing|radio|raid|read|realestate|realtor|realty|recipes|red|redstone|redumbrella|rehab|reise|reisen|reit|reliance|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rexroth|rich|richardli|ricoh|rightathome|ril|rio|rip|rmit|rocher|rocks|rodeo|rogers|room|rsvp|rugby|ruhr|run|rwe|ryukyu)/
+/\.(pccw|pet|pfizer|pnc|pub|pwc)/
 
-/\.(saarland|safe|safety|sakura|sale|salon|samsclub|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|sas|save|saxo|sbi|sbs|sca|scb|schaeffler|schmidt|scholarships|school|schule|schwarz|science|scjohnson|scor|scot|search|seat|secure|security|seek|select|sener|services|ses|seven|sew|sex|sexy|sfr|shangrila|sharp|shaw|shell|shia|shiksha|shoes|shop|shopping|shouji|show|showtime|shriram|silk|sina|singles|site|ski|skin|sky|skype|sling|smart|smile|sncf|soccer|social|softbank|software|sohu|solar|solutions|song|sony|soy|spa|space|spiegel|sport|spot|spreadbetting|srl|srt|stada|staples|star|starhub|statebank|statefarm|statoil|stc|stcgroup|stockholm|storage|store|stream|studio|study|style|sucks|supplies|supply|support|surf|surgery|suzuki|swatch|swiftcover|swiss|sydney|symantec|systems)/
+# Q
+/\.(quebec|quest)/
 
-/\.(tab|taipei|talk|taobao|target|tatamotors|tatar|tattoo|tax|taxi|tci|tdk|team|tech|technology|tel|telecity|telefonica|temasek|tennis|teva|thd|theater|theatre|tiaa|tickets|tienda|tiffany|tips|tires|tirol|tjmaxx|tjx|tkmaxx|tmall|today|tokyo|tools|top|toray|toshiba|total|tours|town|toyota|toys|trade|trading|training|travel|travelchannel|travelers|travelersinsurance|trust|trv|tube|tui|tunes|tushu|tvs)/
+/\.(qpon|qvc)/
 
-/\.(ubank|ubs|uconnect|unicom|university|uno|uol|ups)/
+# R
+/\.(racing|radio|raid)/
+/\.(read|realestate|realtor|realty|recipes|red|redstone|redumbrella|rehab|reise|reisen|reit|reliance|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rexroth)/
+/\.(rich|richardli|ricoh|rightathome|ril|rio|rip)/
+/\.(rocher|rocks|rodeo|rogers|room)/
+/\.(rugby|ruhr|run)/
 
-/\.(vacations|vana|vanguard|vegas|ventures|verisign|vermögensberater|vermögensberatung|versicherung|vet|viajes|video|vig|viking|villas|vin|vip|virgin|visa|vision|vista|vistaprint|viva|vivo|vlaanderen|vodka|volkswagen|volvo|vote|voting|voto|voyage|vuelos)/
+/\.(rmit|rsvp|rwe|ryukyu)/
 
-/\.(wales|walmart|walter|wang|wanggou|warman|watch|watches|weather|weatherchannel|webcam|weber|website|wed|wedding|weibo|weir|whoswho|wien|wiki|williamhill|win|windows|wine|winners|wme|wolterskluwer|woodside|work|works|world|wow|wtc|wtf)/
+# S
+/\.(saarland|safe|safety|sakura|sale|salon|samsclub|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|sas|save|saxo)/
+/\.(sbi|sbs)/
+/\.(sca|scb|schaeffler|schmidt|scholarships|school|schule|schwarz|science|scjohnson|scor|scot)/
+/\.(search|seat|secure|security|seek|select|sener|services|ses|seven|sew|sex|sexy)/
+/\.(shangrila|sharp|shaw|shell|shia|shiksha|shoes|shop|shopping|shouji|show|showtime|shriram)/
+/\.(silk|sina|singles|site)/
+/\.(ski|skin|sky|skype)/
+/\.(smart|smile)/
+/\.(social|softbank|software|sohu|solar|solutions|song|sony|soy)/
+/\.(spa|space|spiegel|sport|spot|spreadbetting)/
+/\.(srl|srt)/
+/\.(stada|staples|star|starhub|statebank|statefarm|statoil|stc|stcgroup|stockholm|storage|store|stream|studio|study|style)/
+/\.(sucks|supplies|supply|support|surf|surgery|suzuki)/
+/\.(swatch|swiftcover|swiss)/
+/\.(sydney|symantec|systems)/
 
+/\.(sfr|sling|sncf)/
+
+# T
+/\.(tab|taipei|talk|taobao|target|tatamotors|tatar|tattoo|tax|taxi)/
+/\.(team|tech|technology|tel|telecity|telefonica)/
+/\.(thd|theater|theatre|tiaa|tickets|tienda|tiffany|tips|tires|tirol|tjmaxx|tjx|tkmaxx|tmall|today|tokyo|tools|top|toray|toshiba|total|tours|town|toyota|toys|trade|trading|training|travel|travelchannel|travelers|travelersinsurance|trust|trv|tube|tui|tunes|tushu|tvs)/
+
+/\.(tci|tdk|temasek|tennis|teva|
+
+# U
+/\.(ubank|ubs)/
+/\.(unicom|university|uno)/
+
+/\.(uconnect|uol|ups)/
+
+# V
+/\.(vacations|vana|vanguard)/
+/\.(vegas|ventures|verisign|vermögensberater|vermögensberatung|versicherung|vet)/
+/\.(viajes|video|vig|viking|villas|vin|vip|virgin|visa|vision|vista|vistaprint|viva|vivo)/
+/\.(vodka|volkswagen|volvo|vote|voting|voto|voyage)/
+
+/\.(vlaanderen|vuelos)/
+
+# W
+/\.(wales|walmart|walter|wang|wanggou|warman|watch|watches)/
+/\.(weather|weatherchannel|webcam|weber|website|wed|wedding|weibo|weir)/
+/\.(wien|wiki|williamhill|win|windows|wine|winners)/
+/\.(wolterskluwer|woodside|work|works|world|wow)/
+/\.(wtc|wtf)/
+
+/\.(whoswho|wme)/
+
+# X
 /\.(xbox|xerox|xfinity|xihuan|xin|xperia|xxx|xyz)/
 
 /\.(yachts|yahoo|yamaxun|yandex|yodobashi|yoga|yokohama|you|youtube|yun)/
