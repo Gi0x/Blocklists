@@ -97,14 +97,38 @@
 /\.(gbiz|gdn|ggee)
 
 # H
-/\.(hair|hamburg|hangout|haus|hbo|hdfc|hdfcbank|health|healthcare|help|helsinki|here|hermes|hgtv|hiphop|hisamitsu|hitachi|hiv|hkt|hockey|holdings|holiday|homedepot|homegoods|homes|homesense|honda|honeywell|horse|hospital|host|hosting|hot|hoteles|hotels|hotmail|house|how|hsbc|htc|hughes|hyatt|hyundai)/
+/\.(hair|hamburg|hangout|haus)/
+/\.(hdfc|hdfcbank)/
+/\.(health|healthcare|help|helsinki|here|hermes)/
+/\.(hiphop|hisamitsu|hitachi|hiv)/
+/\.(hockey|holdings|holiday|homedepot|homegoods|homes|homesense|honda|honeywell|horse|hospital|host|hosting|hot|hoteles|hotels|hotmail|house|how)/
+/\.(hyatt|hyundai)/
 
-/\.(ibm|icbc|ice|icu|ieee|ifm|iinet|ikano|imamat|imdb|immo|immobilien|inc|industries|infiniti|info|ing|ink|institute|insurance|insure|int|intel|international|intuit|investments|ipiranga|irish|iselect|ismaili|ist|istanbul|itau|itv|iveco)/
+/\.(hbo|hgtv|hkt|hsbc|htc|hughes)/
 
-/\.(jaguar|java|jcb|jcp|jeep|jetzt|jewelry|jio|jlc|jll|jmp|jnj|jobs|joburg|jot|joy|jpmorgan|jprs|juegos|juniper)/
+# I
+/\.(icbc|ice|icu)/
+/\.(imamat|imdb|immo|immobilien)/
+/\.(inc|industries|infiniti|info|ing|ink|institute|insurance|insure|int|intel|international|intuit|investments)/
+/\.(iselect|ismaili|ist|istanbul)/
+/\.(itau|itv)/
 
+/\.(ibm|ieee|ifm|iinet|ikano|ipiranga|irish|iveco)/
+
+# J
+/\.(jaguar|java)/
+/\.(jcb|jcp)/
+/\.(jeep|jetzt|jewelry)/
+/\.(jobs|joburg|jot|joy)/
+/\.(jpmorgan|jprs)/
+/\.(juegos|juniper)/
+
+/\.(jio|jlc|jll|jmp|jnj)/
+
+# K
 /\.(kaufen|kddi|kerryhotels|kerrylogistics|kerryproperties|kfh|kia|kids|kim|kinder|kindle|kitchen|kiwi|koeln|komatsu|kosher|kpmg|kpn|krd|kred|kuokgroup|kyoto)/
 
+# L
 /\.(lacaixa|ladbrokes|lamborghini|lamer|lancaster|lancia|lancome|land|landrover|lanxess|lasalle|lat|latino|latrobe|law|lawyer|lds|lease|leclerc|lefrak|legal|lego|lexus|lgbt|liaison|lidl|life|lifeinsurance|lifestyle|lighting|like|lilly|limited|limo|lincoln|linde|link|lipsy|live|living|lixil|llc|llp|loan|loans|locker|locus|loft|lol|london|lotte|lotto|love|lpl|lplfinancial|ltd|ltda|lundbeck|lupin|luxe|luxury)/
 
 /\.(macys|madrid|maif|maison|makeup|man|management|mango|map|market|marketing|markets|marriott|marshalls|maserati|mattel|mba|mcd|mcdonalds|mckinsey|med|media|meet|melbourne|meme|memorial|men|menu|meo|merckmsd|metlife|miami|microsoft|mil|mini|mint|mit|mitsubishi|mlb|mls|mma|mobi|mobile|mobily|moda|moe|moi|mom|monash|money|monster|montblanc|mopar|mormon|mortgage|moscow|moto|motorcycles|mov|movie|movistar|msd|mtn|mtpc|mtr|museum|music|mutual|mutuelle)/
