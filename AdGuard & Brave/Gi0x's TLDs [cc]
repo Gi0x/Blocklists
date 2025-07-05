@@ -1,6 +1,23 @@
 ::: COUNTRY TLDs :::
 
-/\.(ac|ad|ae|af|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az)/
+ac
+ad
+ae
+af
+ai
+al
+am
+ao
+aq
+ar
+as
+at
+au
+aw
+ax
+az
+
+
 /\.(ba|bb|bd|be|bf|bg|bh|bi|bj|bl|bm|bn|bo|bq|br|bs|bt|bv|bw|by|bz)/
 /\.(ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cu|cv|cw|cx|cy|cz)/
 /\.(de|dj|dk|dm|do|dz)/
@@ -26,7 +43,13 @@
 /\.(yt)/
 /\.(za|zm|zw)/
 
-/\.(бг|бел|ею|ευ|ελ|қаз|мкд|мон|рф|срб|укр)/
+||бг^
+||бел^
+||ею^
+ευ
+ελ
+қаз
+мкд|мон|рф|срб|укр)/
 /\.(한국|中国|中國|香港|台湾|澳門)/
 /\.(ଭାରତ|ಭಾರತ|ভারত|বাংলা|சிங்கப்பூர்|భారత్|ලංකා|ભારત|भारतम्|भारत|भारोत|გე|ไทย|ລາວ|ഭാരതം|ਭਾਰਤ|இலங்கை|இந்தியா|հայ|新加坡)/
 
