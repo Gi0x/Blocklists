@@ -5,6 +5,7 @@ Description: Removes social media & instagram account viewing sites from search 
 
 *://*.bere.al/*
 *://*.bereal.com/*
+*://*.classmates.com/*
 *://*.clubhouse.com/*
 *://*.facebook-hardware.com/*
 *://*.facebook.com/*
@@ -33,6 +34,13 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.redditinc.com/*
 *://*.snapchat.com/*
 *://*.t.co/*
+*://*.threads.com/*
+*://*.threads.net/*
+*://*.titktok.com/*
+*://*.tumblr.com/*
+*://*.twitter.com/*
+*://*.vk.com/*
+*://*.x.com/*
 
 # Instagram Account Viewng Sites
 
@@ -65,8 +73,6 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.buzzoid.com/*
 *://*.c.im/*
 *://*.chaos.social/*
-*://*.classmates.com/*
-*://*.clubhouse.com/*
 *://*.counter.social/*
 *://*.daikatsu-navi.com/*
 *://*.detracer.com/*
@@ -269,16 +275,11 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.the-picnob.com/*
 *://*.theinstanavigation.com/*
 *://*.thepicnob.com/*
-*://*.threads.com/*
-*://*.threads.net/*
 *://*.tigoen.com/*
 *://*.tinygrab.com/*
-*://*.titktok.com/*
 *://*.toolzu.com/*
 *://*.toot.dummy.cafe/*
 *://*.tubtic.com/*
-*://*.tumblr.com/*
-*://*.twitter.com/*
 *://*.unfollowgram.com/*
 *://*.universeodon.com/*
 *://*.upgrow.com/*
@@ -295,11 +296,9 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.viralblade.com/*
 *://*.viralyft.com/*
 *://*.virtualsocialmedia.com/*
-*://*.vk.com/*
 *://*.wan.io/*
 *://*.weareiu.com/*
 *://*.witches.live/*
-*://*.x.com/*
 *://*.xnspy.com/*
 *://*.yaegames.com/*
 *://*.zirk.us/*
