@@ -1,6 +1,41 @@
 Title: Gi0x's Social Media
 Description: Removes social media & instagram account viewing sites from search results
 
+# Social Media
+
+*://*.bere.al/*
+*://*.bereal.com/*
+*://*.clubhouse.com/*
+*://*.facebook-hardware.com/*
+*://*.facebook.com/*
+*://*.instagram.com/*
+*://*.joinmastodon.org/*
+*://*.mas.to/*
+*://*.masto.ai/*
+*://*.masto.host/*
+*://*.mastodon.blackblock.rocks/*
+*://*.mastodon.cloud/*
+*://*.mastodon.online/*
+*://*.mastodon.party.at/*
+*://*.mastodon.sdf.org/*
+*://*.mastodon.social/*
+*://*.mastodon.top/*
+*://*.mastodon.uno/*
+*://*.mastodon.world/*
+*://*.mastodonapp.uk/*
+*://*.meetup.com/*
+*://*.mstdn.jp/*
+*://*.mstdn.party/*
+*://*.mstdn.social/*
+*://*.mstdn.starnix.network/*
+*://*.quora.com/*
+*://*.reddit.com/*
+*://*.redditinc.com/*
+*://*.snapchat.com/*
+*://*.t.co/*
+
+# Instagram Account Viewng Sites
+
 *://*.ahasave.com/*
 *://*.anon-viewer.com/*
 *://*.anonimoig.com/*
@@ -22,8 +57,6 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.anticapitalist.party/*
 *://*.anycontrol.app/*
 *://*.aware-online.com/*
-*://*.bere.al/*
-*://*.bereal.com/*
 *://*.bitchipdigital.com/*
 *://*.blastup.com/*
 *://*.blindstoryapp.com/*
@@ -42,8 +75,6 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.dumpor.co.uk/*
 *://*.dumpor.io/*
 *://*.embedsocial.com/*
-*://*.facebook-hardware.com/*
-*://*.facebook.com/*
 *://*.famety.com/*
 *://*.fenced.ai/*
 *://*.flocksocial.com/*
@@ -110,7 +141,6 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.insta-stories-viewer.com/*
 *://*.insta-stories.ru/*
 *://*.instaanony.com/*
-*://*.instagram.com/*
 *://*.instagramviewer.com/*
 *://*.instalooker.org/*
 *://*.instanavi.me/*
@@ -145,27 +175,12 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.invisispy.com/*
 *://*.inzto.com/*
 *://*.iqsaved.com/*
-*://*.joinmastodon.org/*
 *://*.keesy.com/*
 *://*.kwai.com/*
 *://*.likee.video/*
 *://*.likefy.com/*
 *://*.love.alicecomplex.com/*
 *://*.m.cmx.im/*
-*://*.mas.to/*
-*://*.masto.ai/*
-*://*.masto.host/*
-*://*.mastodon.blackblock.rocks/*
-*://*.mastodon.cloud/*
-*://*.mastodon.online/*
-*://*.mastodon.party.at/*
-*://*.mastodon.sdf.org/*
-*://*.mastodon.social/*
-*://*.mastodon.top/*
-*://*.mastodon.uno/*
-*://*.mastodon.world/*
-*://*.mastodonapp.uk/*
-*://*.meetup.com/*
 *://*.megafamous.com/*
 *://*.meredithplays.com/*
 *://*.methodmi.com/*
@@ -174,10 +189,6 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.mollygram.com/*
 *://*.monhai.com/*
 *://*.morogaming.com/*
-*://*.mstdn.jp/*
-*://*.mstdn.party/*
-*://*.mstdn.social/*
-*://*.mstdn.starnix.network/*
 *://*.mystalk.org/*
 *://*.nerdacy.com/*
 *://*.noagendasocial.com/*
@@ -203,10 +214,7 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.pypi.org/*
 *://*.quasa.io/*
 *://*.quickfansandlikes.com/*
-*://*.quora.com/*
 *://*.recently-followed.com/*
-*://*.reddit.com/*
-*://*.redditinc.com/*
 *://*.ruby.social/*
 *://*.s.sneak.berlin/*
 *://*.save-free.app/*
@@ -217,7 +225,6 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.simpliers.com/*
 *://*.skweezer.net/*
 *://*.smihub.io/*
-*://*.snapchat.com/*
 *://*.snapsave.app/*
 *://*.socialoapp.com/*
 *://*.socialplug.io/*
@@ -257,7 +264,6 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.storyviewer.com/*
 *://*.swarmapp.com/*
 *://*.swioz.com/*
-*://*.t.co/*
 *://*.tagged.com/*
 *://*.techhub.social/*
 *://*.the-picnob.com/*
