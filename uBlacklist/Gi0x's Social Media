@@ -29,11 +29,16 @@ Description: Removes social media & instagram account viewing sites from search 
 *://*.mstdn.party/*
 *://*.mstdn.social/*
 *://*.mstdn.starnix.network/*
+*://*.mytelegram.org/*
 *://*.quora.com/*
 *://*.reddit.com/*
 *://*.redditinc.com/*
 *://*.snapchat.com/*
 *://*.t.co/*
+*://*.t.me/*
+*://*.telegram.im/*
+*://*.telegram.me/*
+*://*.telegram.org/*
 *://*.threads.com/*
 *://*.threads.net/*
 *://*.titktok.com/*
