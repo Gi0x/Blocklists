@@ -11,7 +11,7 @@
 /(ekspres|elle|ekapija|espreso|euronews)\.(com|co.rs|net|rs)/
 /(glas-javnosti|glasjuga|glas-zajecara|gloria)\.(com|rs)/
 /(happytv|hellomagazin|hercegovina|hitfm|hotsport|hypetv)\.(info|rs)/
-/(istinomer|imperij|infopress|informer|injournal|internetprovale|izvorno)\.(com|info|rs)/
+/(istinomer|imperij|infopress|injournal|internetprovale|izvorno)\.(com|info|rs)/
 /(journal|juznasrbija|juznivetar)\.(info|news|rs)/
 /(k1info|kurir|kutaknet)\.(com|rs)/
 /(ludujemo|luftika)\.(info|rs)/
@@ -28,28 +28,42 @@
 
 /(011info|021|24sedam|cdm|fokustv)\.(com|me|rs)/
 
-# News & Tabloids 🇷🇸,🇲🇪
+# 🇷🇸 + 🇲🇪
+
+# News
 
 *://*.novosti.rs/*
 *://*.kurir.rs/*
 *://*.nova.rs/*
 *://*.espreso.co.rs/*
-*://*.blic.rs/*
 *://*.mondo.rs/*
 *://*.telegraf.rs/*
+
+
+
+# Tabloids
+
+*://*.blic.rs/*
 *://*.hellomagazin.rs/*
 *://*.story.rs/*
 *://*.pulsonline.rs/*
-*://*.alo.rs/*
-*://*.mondo.me/*
-*://*.k1info.rs/*
 *://*.tracara.com/*
 *://*.svet-scandal.rs/*
 *://*.informer.rs/*
 *://*.pink.rs/*
+*://*.poznati.info/*
+*://*.zadruga-uzivo.com/*
+*://*.toxictv.rs/*
+*://*.gloria.rs/*
+
+
+
+
+*://*.alo.rs/*
+*://*.mondo.me/*
+*://*.k1info.rs/*
 *://*.izvorno.info/*
 *://*.hypetv.rs/*
-*://*.gloria.rs/*
 *://*.telegraf.tv/*
 *://*.happytv.rs/*
 *://*.marieclaire.rs/*
@@ -61,7 +75,6 @@
 *://*.vestisrbija1.com/*
 *://*.njuz.net/*
 *://*.krstarica.com/*
-*://*.zadruga-uzivo.com/*
 *://*.trebinjelive.info/*
 *://*.zicer.org/*
 *://*.vijesti.me/*
@@ -71,7 +84,6 @@
 *://*.atraktivnoonline.com/*
 *://*.svetplus.com/*
 *://*.cdm.me/*
-*://*.toxictv.rs/*
 *://*.adria.press/*
 *://*.aska.rs/*
 *://*.danas.rs/*
@@ -112,7 +124,6 @@
 *://*.noizz.rs/*
 *://*.prvii.info/*
 *://*.nezavisniportal.info/*
-*://*.poznati.info/*
 *://*.najzena.rs/*
 *://*.zabavnik.com/*
 *://*.nadlanu.com/*
