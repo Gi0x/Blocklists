@@ -5,23 +5,23 @@
 
 # News & Tabloids 🇷🇸,🇲🇪
 
-/(adria|ana|ananasmag|aska|atraktivnoonline|atvbl|avalainfo)\.(com|press|net|rs)/
-/(b92|bijeljinalive|blic|bl-portal|burek)\.(com|net|rs)/
-/(danas|direktno|dnevnik|dnevno|dobardan)\.(info|rs)/
-/(ekspres|elle|ekapija|espreso|euronews)\.(com|co.rs|net|rs)/
-/(glas-javnosti|glasjuga|glas-zajecara|gloria)\.(com|rs)/
-/(happytv|hellomagazin|hercegovina|hitfm|hotsport|hypetv)\.(info|rs)/
-/(istinomer|imperij|infopress|injournal|internetprovale|izvorno)\.(com|info|rs)/
-/(journal|juznasrbija|juznivetar)\.(info|news|rs)/
-/(k1info|kurir|kutaknet)\.(com|rs)/
+/(ana|ananasmag|atraktivnoonline|avalainfo)\.(com|press|net|rs)/
+/(bijeljinalive|blic|bl-portal|burek)\.(com|net|rs)/
+/(direktno|dnevnik|dnevno|dobardan)\.(info|rs)/
+/(ekspres|elle|espreso|euronews)\.(com|co.rs|net|rs)/
+/(glas-zajecara)\.(com|rs)/
+/(hercegovina|hotsport)\.(info|rs)/
+/(imperij|infopress|injournal|internetprovale)\.(com|info|rs)/
+/(juznasrbija|juznivetar)\.(info|news|rs)/
+/(kutaknet)\.(com|rs)/
 /(ludujemo)\.(info|rs)/
-/(magazindan|magazin-tabloid|marieclaire|mediaportal|mondo|mzlukavica)\.(com|info|me|rs)/
-/(n1info|nadlanu|naslovi|naslovnica|nedeljnik|nezavisne|nezavisniportal|nogomania|noizz|nova|novosti|nportal)\.(com|info|net|rs)/
+/(magazindan|magazin-tabloid|marieclaire|mzlukavica)\.(com|info|me|rs)/
+/(nadlanu|naslovi|naslovnica|nedeljnik|nezavisne|nezavisniportal|nogomania|nova|novosti)\.(com|info|net|rs)/
 /(oazaznanja|objektiv|objektivno|okradio)\.(com|net|rs)/
-/(pancevac-online|pink-rs|pinkradio|portalanalitika|poznati|piplmetar|pressserbia|princip|prva|prvii|pulsonline)\.(com|co.rs|info|me|news|rs)/
-/(radiobijelopolje|radiojat|razbibriga|republika|resetka|rtv|rtvbn)\.(com|me|net|rs)/
-/(serbiantimes|skynews|srbija24|srbijadanas|srbin|srpskacafe|srpskainfo|standard|starmagazin|story|sveopoznatima|svetionik|svet-scandal)\.(com|co.me|eu|info|rs)/
-/(tarzanija|tanjug|telegraf|time|tvbalkanuzivo)\.(com|info|rs|tv)/
+/(pink-rs|pinkradio|portalanalitika|poznati|piplmetar|pressserbia)\.(com|co.rs|info|me|news|rs)/
+/(radiobijelopolje|radiojat|razbibriga|resetka|rtv|rtvbn)\.(com|me|net|rs)/
+/(serbiantimes|skynews|srbija24|srbin|srpskainfo|standard|story|sveopoznatima|svetionik)\.(com|co.me|eu|info|rs)/
+/(tarzanija|tanjug|tvbalkanuzivo)\.(com|info|rs|tv)/
 /(udarnavest|uzvik)\.(rs)/
 /(velikeprice|vesti-online|vijesti)\.(com|me|rs)/
 /(zabavnik|zadrugavesti|zenskimagazin)\.(com|rs)/
@@ -31,12 +31,11 @@
 # 🇷🇸 + 🇲🇪
 
 # News
-
-*://*.novosti.rs/*
-*://*.kurir.rs/*
-*://*.nova.rs/*
 *://*.espreso.co.rs/*
+*://*.kurir.rs/*
 *://*.mondo.rs/*
+*://*.nova.rs/*
+*://*.novosti.rs/*
 *://*.telegraf.rs/*
 
 
@@ -55,9 +54,6 @@
 *://*.zadruga-uzivo.com/*
 *://*.toxictv.rs/*
 *://*.gloria.rs/*
-
-
-
 
 *://*.alo.rs/*
 *://*.mondo.me/*
