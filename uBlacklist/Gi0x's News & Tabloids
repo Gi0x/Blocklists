@@ -5,7 +5,7 @@
 
 # News & Tabloids 🇷🇸,🇲🇪
 
-/(adria|alo|ana|ananasmag|aska|atraktivnoonline|atvbl|avalainfo)\.(com|press|net|rs)/
+/(adria|ana|ananasmag|aska|atraktivnoonline|atvbl|avalainfo)\.(com|press|net|rs)/
 /(b92|bijeljinalive|blic|bl-portal|burek)\.(com|net|rs)/
 /(danas|direktno|dnevnik|dnevno|dobardan)\.(info|rs)/
 /(ekspres|elle|ekapija|espreso|euronews)\.(com|co.rs|net|rs)/
@@ -14,16 +14,16 @@
 /(istinomer|imperij|infopress|injournal|internetprovale|izvorno)\.(com|info|rs)/
 /(journal|juznasrbija|juznivetar)\.(info|news|rs)/
 /(k1info|kurir|kutaknet)\.(com|rs)/
-/(ludujemo|luftika)\.(info|rs)/
+/(ludujemo)\.(info|rs)/
 /(magazindan|magazin-tabloid|marieclaire|mediaportal|mondo|mzlukavica)\.(com|info|me|rs)/
 /(n1info|nadlanu|naslovi|naslovnica|nedeljnik|nezavisne|nezavisniportal|nogomania|noizz|nova|novosti|nportal)\.(com|info|net|rs)/
 /(oazaznanja|objektiv|objektivno|okradio)\.(com|net|rs)/
-/(pancevac-online|pink|pink-rs|pinkradio|portalanalitika|poznati|piplmetar|pressserbia|princip|prva|prvii|pulsonline)\.(com|co.rs|info|me|news|rs)/
-/(radiobijelopolje|radiojat|razbibriga|republika|resetka|rts|rtv|rtvbn)\.(com|me|net|rs)/
-/(sd|serbiantimes|skynews|srbija24|srbijadanas|srbin|srpskacafe|srpskainfo|standard|starmagazin|story|sveopoznatima|svetionik|svetplus|svet-scandal)\.(com|co.me|eu|info|rs)/
-/(tarzanija|tanjug|telegraf|time|toxictv|tracara|trebinjelive|tvbalkanuzivo)\.(com|info|rs|tv)/
-/(udarnavest|una|uzvik)\.(rs)/
-/(velikeprice|vesti|vesti-online|vijesti)\.(com|me|rs)/
+/(pancevac-online|pink-rs|pinkradio|portalanalitika|poznati|piplmetar|pressserbia|princip|prva|prvii|pulsonline)\.(com|co.rs|info|me|news|rs)/
+/(radiobijelopolje|radiojat|razbibriga|republika|resetka|rtv|rtvbn)\.(com|me|net|rs)/
+/(serbiantimes|skynews|srbija24|srbijadanas|srbin|srpskacafe|srpskainfo|standard|starmagazin|story|sveopoznatima|svetionik|svet-scandal)\.(com|co.me|eu|info|rs)/
+/(tarzanija|tanjug|telegraf|time|tvbalkanuzivo)\.(com|info|rs|tv)/
+/(udarnavest|uzvik)\.(rs)/
+/(velikeprice|vesti-online|vijesti)\.(com|me|rs)/
 /(zabavnik|zadrugavesti|zenskimagazin)\.(com|rs)/
 
 /(011info|021|24sedam|cdm|fokustv)\.(com|me|rs)/
