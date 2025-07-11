@@ -1,6 +1,6 @@
 # Title: Gi0x's Porn
 # Description: Removes porn from search results
-
+#
 *://*.247fap.com/*
 *://*.24porn.com/*
 *://*.24video.porn/*
