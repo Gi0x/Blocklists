@@ -11,7 +11,7 @@
 
 
 
-# SearX & SearXNG
+# Searx & SearXNG
 
 *://*.nobigtech.es/*
 *://*.joshuab.xyz/*
