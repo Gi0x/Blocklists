@@ -1,1 +1,29 @@
+# Name: Gi0x's Search Engines
+# Description: Removes search engines from search results
 
+# Main Search Engines
+
+
+# Other Search Engines
+
+
+
+
+
+
+# SearX & SearXNG
+
+*://*.nobigtech.es/*
+*://*.joshuab.xyz/*
+*://*.bndkt.io/*
+*://*.bunse.xyz/*
+*://*.searx.space/*
+*://*.searxng.org/*
+*://*.searx.pl/*
+*://*.searx.info/*
+*://*.joshcenters.com/*
+*://*.jtateossian.xyz/*
+*://*.st8.at/*
+*://*.bndkt.cz/*
+*://*.searchengine.party/*
+*://*.thefloatinglab.world/*
