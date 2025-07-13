@@ -2,9 +2,12 @@
 # Description: Removes random chat sites and apps from search results
 
 *://*.321chat.com/*
+*://*.adriachat.com/*
 *://*.airtalk.live/*
 *://*.azarlive.com/*
 *://*.b-cdn.net/*
+*://*.balkan.chat/*
+*://*.balkanchatcity.com/*
 *://*.bang.chat/*
 *://*.bazoocam.app/*
 *://*.bazoocam.io/*
@@ -12,6 +15,7 @@
 *://*.bazoocam.plus/*
 *://*.bazoocam.pro/*
 *://*.bestchatroulette.com/*
+*://*.bolchat.org/*
 *://*.bozocam.com/*
 *://*.camki.com/*
 *://*.camloo.com/*
@@ -44,6 +48,7 @@
 *://*.chatiw.io/*
 *://*.chatki.com/*
 *://*.chatous.com/*
+*://*.chatovod.com/*
 *://*.chatrad.com/*
 *://*.chatrad.live/*
 *://*.chatrandom.net/*
