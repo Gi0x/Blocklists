@@ -219,6 +219,7 @@
 *://*.fapfappy.com/*
 *://*.fapholic.com/*
 *://*.faphouse.com/*
+*://*.fapodrop.com/*
 *://*.faponhd.com/*
 *://*.faponic.com/*
 *://*.fapopedia.net/*
