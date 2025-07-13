@@ -1,3 +1,8 @@
 
-
+*://*.druzenje.rs/*
+*://*.ljubavni-sastanak.com/*
+*://*.ljubavni-oglasnik.net/*
+*://*.loveguru.mk/*
+*://*.upoznavanje-druzenje.com/*
+*://*.upoznavanje.org/*
 *://*.whosdatedwho.com/*
