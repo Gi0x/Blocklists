@@ -41,7 +41,7 @@
 *://*.telegram.org/*
 *://*.threads.com/*
 *://*.threads.net/*
-*://*.titktok.com/*
+*://*.tiktok.com/*
 *://*.tumblr.com/*
 *://*.twitter.com/*
 *://*.vk.com/*
