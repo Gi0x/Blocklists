@@ -7,7 +7,7 @@
 ! - co because of [.com,.co,.co.uk]
 ! - ne because of [.net]
 !
-! 🌍 Africa
+! 🌍 AFRICA
 !
 ||*.ao^
 ||*.bf^
@@ -67,7 +67,7 @@
 ||*.zm^
 ||*.zw^
 !
-! 🌎 Americas
+! 🌎 AMERICAS
 !
 ||*.ag^
 ||*.ai^
@@ -120,7 +120,7 @@
 ||*.vg^
 ||*.vi^
 !
-! 🌏 Asia
+! 🌏 ASIA
 !
 ||*.ae^
 ||*.af^
@@ -172,7 +172,7 @@
 ||*.vn^
 ||*.ye^
 !
-! 🌏 Europe
+! 🌏 EUROPE
 !
 ||*.ad^
 ||*.al^
@@ -227,7 +227,7 @@
 ||*.uk^
 ||*.va^
 !
-! 🌴 Oceania
+! 🌴 OCEANIA
 !
 ||*.as^
 ||*.au^
@@ -254,7 +254,7 @@
 ||*.wf^
 ||*.ws^
 !
-! 🧊 Antarctica / Overseas / Special Territories
+! 🧊 ANTARCTICA / OVERSEAS / SPECIAL TERRITORIES
 !
 ||*.aq^
 ||*.bv^
@@ -270,7 +270,7 @@
 ||*.re^
 ||*.sx^
 !
-! 🌍 Misc
+! 🌍 MISC
 !
 ||бг^
 ||бел^
