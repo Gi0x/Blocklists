@@ -298,6 +298,8 @@
 ||toolzu.com^
 ||toot.dummy.cafe^
 ||tubtic.com^
+||tumbral.com^
+||tumgir.com^
 ||unfollowgram.com^
 ||universeodon.com^
 ||upgrow.com^
@@ -323,6 +325,3 @@
 ||yaegames.com^
 ||zirk.us^
 ||zoominsta.de^
-
-/tumbral\.(com)/
-/tumgir\.(com)/
