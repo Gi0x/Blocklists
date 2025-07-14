@@ -1,5 +1,5 @@
 # Title: Gi0x's Photo Editors
-# Description: Blocks online photo editing sites
+# Description: Removes online photo editing sites from search results
 
 *://*.123rf.com/*
 *://*.anymaking.com/*
