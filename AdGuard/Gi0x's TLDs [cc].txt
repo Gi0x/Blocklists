@@ -3,6 +3,9 @@
 ! Source: https://www.iana.org/domains/root/db
 !
 ! To unblock a TLD, follow this format: @@||.com^, @@||.net^, @@||*.app^
+! Exclude: at, ca, co, de, eu, hu, io, ne, rs
+! - co because of [.com,.co,.co.uk]
+! - ne because of [.net]
 !
 ! 🌍 Africa
 !
@@ -307,7 +310,3 @@
 ||հայ^
 ||新加坡^
 !
-!
-! Exclude: at, ca, co, de, eu, hu, io, ne, rs
-! - co because of [.com,.co,.co.uk]
-! - ne because of [.net]
