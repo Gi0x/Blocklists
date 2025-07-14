@@ -1,12 +1,14 @@
 ! Title: Gi0x's Social Media
-! Description: Blocks Social Media & Instagram account viewing sites
+! Description: Blocks various social media sites
 !
 ! Social Media
 !
+||ask.fm^
 ||bere.al^
 ||bereal.com^
 ||classmates.com^
 ||clubhouse.com^
+||deviantart.com^
 ||facebook-hardware.com^
 ||facebook.com^
 ||instagram.com^
@@ -29,6 +31,7 @@
 ||mstdn.party^
 ||mstdn.social^
 ||mstdn.starnix.network^
+||myspace.com^
 ||mytelegram.org^
 ||quora.com^
 ||reddit.com^
@@ -45,9 +48,10 @@
 ||tumblr.com^
 ||twitter.com^
 ||vk.com^
+||vk.me^
 ||x.com^
 !
-! Instagram Account Viewng Sites
+! Other
 !
 ||ahasave.com^
 ||anon-viewer.com^
@@ -97,6 +101,7 @@
 ||glassagrm.com^
 ||go5.dev^
 ||goread.io^
+||gramho.com^
 ||gramsnap.com^
 ||greatercollinwood.org^
 ||gwaa.net^
@@ -131,6 +136,7 @@
 ||imglookup.com^
 ||indown.io^
 ||inflact.com^
+||influence.co^
 ||infosec.exchange^
 ||ingramstory.com^
 ||ingramstoryviewer.com^
@@ -186,6 +192,7 @@
 ||invisispy.com^
 ||inzto.com^
 ||iqsaved.com^
+||jolygram.com^
 ||keesy.com^
 ||kwai.com^
 ||likee.video^
@@ -249,6 +256,7 @@
 ||stalkio.co^
 ||stalkto.org^
 ||stalkyapp.com^
+||starngage.com^
 ||stealthgram.net^
 ||storieanonimo.com^
 ||stories-agent.com^
@@ -302,9 +310,28 @@
 ||viralyft.com^
 ||virtualsocialmedia.com^
 ||wan.io^
+||wattpad.com^
 ||weareiu.com^
+||weheartit.com^
 ||witches.live^
 ||xnspy.com^
 ||yaegames.com^
 ||zirk.us^
 ||zoominsta.de^
+
+
+/echat\.(one)/
+/emeraldchat\.(com)/
+
+
+/hypeauditor\.(com)/
+/imgur\.(com)/
+/noxinfluencer\.(com)/
+/pictame\.(com)/
+/pikdo\.(net)/
+/socialblade\.(com)/
+/tumblr\.(com)/
+/tumbral\.(com)/
+/tumgir\.(com)/
+/wannabemagazine\.(com)/
+/wopita\.(com)/
