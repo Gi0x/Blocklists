@@ -1,15 +1,18 @@
-! Title: Gi0x's Country TLDs
+! Title: Gi0x's Country Code TLDs
 ! Description: Blocks country top level domains
 ! Source: https://www.iana.org/domains/root/db
+
+! To unblock a TLD, follow this format: @@||.com^, @@||.net^, @@||*.app^
 
 ||*.ac^
 ||*.ad^
 ||*.ae^
 ||*.af^
-ai
-al
-am
-ao
+||*.ai^
+||*.al^
+||*.am^
+||*.ao^
+
 aq
 ar
 as
