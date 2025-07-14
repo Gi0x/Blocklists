@@ -2,10 +2,10 @@
 ! Description: Blocks country top level domains
 ! Source: https://www.iana.org/domains/root/db
 
-||.ac^
-||.ad^
-||.ae^
-||.af^
+||*.ac^
+||*.ad^
+||*.ae^
+||*.af^
 ai
 al
 am
