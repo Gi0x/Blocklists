@@ -108,6 +108,7 @@
 ||hachyderm.io^
 ||heylocate.mobi^
 ||howsights.com^
+||hypeauditor.com^
 ||ig-crate.com^
 ||iganony.cc^
 ||iganony.cloud^
@@ -216,12 +217,14 @@
 ||pawoo.net^
 ||picnob.info^
 ||picnobi.com^
+||pictame.com^
 ||picuki.com^
 ||picuki.io^
 ||picuki.me^
 ||picuki.site^
 ||picuki.tv^
 ||pieville.net^
+||pikdo.net^
 ||pixelfed.social^
 ||pixelixe.com^
 ||pixnoy.com^
@@ -322,16 +325,10 @@
 
 /echat\.(one)/
 /emeraldchat\.(com)/
-
-
-/hypeauditor\.(com)/
 /imgur\.(com)/
-/noxinfluencer\.(com)/
-/pictame\.(com)/
-/pikdo\.(net)/
+/noxinfluencer\.(com
 /socialblade\.(com)/
 /tumblr\.(com)/
 /tumbral\.(com)/
 /tumgir\.(com)/
-/wannabemagazine\.(com)/
 /wopita\.(com)/
