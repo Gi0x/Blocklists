@@ -2,12 +2,12 @@
 ! Description: Blocks country top level domains
 ! Source: https://www.iana.org/domains/root/db
 !
-! To unblock a TLD, follow this format: @@||.com^, @@||.net^, @@||*.app^
+! To unblock a TLD, follow this format: @@|.com^, @@|.net^, @@||*.app^
 ! Exclude: at, ca, co, de, eu, hu, io, ne, rs
 ! - co because of [.com,.co,.co.uk]
 ! - ne because of [.net]
 !
-! 🌍 AFRICA
+! –––––– 🌍 AFRICA ––––––
 !
 ||*.ao^
 ||*.bf^
@@ -67,9 +67,9 @@
 ||*.zm^
 ||*.zw^
 !
-! |.ao| - Angola, |.bf| - Burkina Faso, |.bi| - Burundi, |.bj| - Benin, |.bw| - Botswana, |.cd| - Democratic Republic of the Congo, |.cf| - Central African Republic, |.cg| - Republic of the Congo, |.ci| - Côte d'Ivoire, |.cm| - Cameroon, |.cv| - Cabo Verde, |.dj| - Djibouti, |.dz| - Algeria, |.eg| - Egypt, |.eh| - Western Sahara, |.er| - Eritrea, |.et| - Ethiopia, |.ga| - Gabon, |.gh| - Ghana, |.gm| - The Gambia, |.gn| - Guinea, |.gq| - Equatorial Guinea, |.gw| - Guinea-Bissau, |.io| - British Indian Ocean Territory, |.ke| - Kenya, |.km| - Comoros, |.lr| - Liberia, |.ls| - Lesotho, |.ly| - Libya, |.ma| - Morocco, |.mg| - Madagascar, |.ml| - Mali, |.mr| - Mauritania, |.mu| - Mauritius, |.mw| - Malawi, |.mz| - Mozambique, |.na| - Namibia, |.ne| - Niger, |.ng| - Nigeria, |.re| - Réunion, |.rw| - Rwanda, |.sc| - Seychelles, |.sd| - Sudan, |.sh| - Saint Helena, Ascension & Tristan da Cunha, |.sl| - Sierra Leone, |.sn| - Senegal, |.so| - Somalia, |.ss| - South Sudan, |.st| - São Tomé & Príncipe, |.sz| - Eswatini, |.td| - Chad, |.tg| - Togo, |.tn| - Tunisia, |.tz| - Tanzania, |.ug| - Uganda, |.yt| - Mayotte, |.za| - South Africa, |.zm| - Zambia, |.zw| - Zimbabwe
+! .ao.- Angola, .bf.- Burkina Faso, .bi.- Burundi, .bj.- Benin, .bw.- Botswana, .cd.- Democratic Republic of the Congo, .cf.- Central African Republic, .cg.- Republic of the Congo, .ci.- Côte d'Ivoire, .cm.- Cameroon, .cv.- Cabo Verde, .dj.- Djibouti, .dz.- Algeria, .eg.- Egypt, .eh.- Western Sahara, .er.- Eritrea, .et.- Ethiopia, .ga.- Gabon, .gh.- Ghana, .gm.- The Gambia, .gn.- Guinea, .gq.- Equatorial Guinea, .gw.- Guinea-Bissau, .io.- British Indian Ocean Territory, .ke.- Kenya, .km.- Comoros, .lr.- Liberia, .ls.- Lesotho, .ly.- Libya, .ma.- Morocco, .mg.- Madagascar, .ml.- Mali, .mr.- Mauritania, .mu.- Mauritius, .mw.- Malawi, .mz.- Mozambique, .na.- Namibia, .ne.- Niger, .ng.- Nigeria, .re.- Réunion, .rw.- Rwanda, .sc.- Seychelles, .sd.- Sudan, .sh.- Saint Helena, Ascension & Tristan da Cunha, .sl.- Sierra Leone, .sn.- Senegal, .so.- Somalia, .ss.- South Sudan, .st.- São Tomé & Príncipe, .sz.- Eswatini, .td.- Chad, .tg.- Togo, .tn.- Tunisia, .tz.- Tanzania, .ug.- Uganda, .yt.- Mayotte, .za.- South Africa, .zm.- Zambia, .zw.- Zimbabwe
 !
-! 🌎 AMERICAS
+! –––––– 🌎 AMERICAS ––––––
 !
 ||*.ag^
 ||*.ai^
@@ -122,7 +122,7 @@
 ||*.vg^
 ||*.vi^
 !
-! 🌏 ASIA
+! –––––– 🌏 ASIA ––––––
 !
 ||*.ae^
 ||*.af^
@@ -174,7 +174,9 @@
 ||*.vn^
 ||*.ye^
 !
-! 🌏 EUROPE
+! .ae - United Arab Emirates, .af - Afghanistan, .am.- Armenia, .az.- Azerbaijan, .bd.- Bangladesh, .bh.- Bahrain, .bn.- Brunei, .bt.- Bhutan, .cc.- Cocos (Keeling) Islands, .cn.- China, .cy.- Cyprus, .ge.- Georgia, .hk.- Hong Kong, .id.- Indonesia, .il.- Israel, .in.- India, .iq.- Iraq, .ir.- Iran, .jo.- Jordan, .jp.- Japan, .kg.- Kyrgyzstan, .kh.- Cambodia, .kp.- North Korea, .kr.- South Korea, .kw.- Kuwait, .kz.- Kazakhstan, .la.- Laos, .lb.- Lebanon, .lk.- Sri Lanka, .mm.- Myanmar, .mn.- Mongolia, .mo.- Macao, .mv.- Maldives, .my.- Malaysia, .np.- Nepal, .om.- Oman, .ph.- Philippines, .pk.- Pakistan, .ps.- Palestine, .qa.- Qatar, .sa - Saudi Arabia, .sg - Singapore, .sy - Syria, .th - Thailand, .tj - Tajikistan, .tm - Turkmenistan, .tr - Turkey, .tw - Taiwan, .uz - Uzbekistan, .vn - Vietnam, .ye - Yemen
+!
+! –––––– 🌏 EUROPE ––––––
 !
 ||*.ad^
 ||*.al^
@@ -256,7 +258,7 @@
 ||*.wf^
 ||*.ws^
 !
-! 🧊 ANTARCTICA / OVERSEAS / SPECIAL TERRITORIES
+! –––––– 🧊 ANTARCTICA / OVERSEAS / SPECIAL TERRITORIES ––––––
 !
 ||*.aq^
 ||*.bv^
@@ -271,6 +273,8 @@
 ||*.bq^
 ||*.re^
 ||*.sx^
+!
+! .aq - Antarctica, .bv - Bouvet Island, .gs - South Georgia & the South Sandwich Islands, .hm - Heard Island and McDonald Islands, .tf - French Southern Territories, .um - United States Minor Outlying Islands
 !
 ! 🌍 MISC
 !
