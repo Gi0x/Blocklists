@@ -211,6 +211,7 @@
 ||mystalk.org^
 ||nerdacy.com^
 ||noagendasocial.com^
+||noxinfluencer.com^
 ||one.darnell.one^
 ||pages.dev^
 ||pathsocial.com^
@@ -247,6 +248,7 @@
 ||skweezer.net^
 ||smihub.io^
 ||snapsave.app^
+||socialblade.com^
 ||socialoapp.com^
 ||socialplug.io^
 ||socialprivateviewer.com^
@@ -322,13 +324,5 @@
 ||zirk.us^
 ||zoominsta.de^
 
-
-/echat\.(one)/
-/emeraldchat\.(com)/
-/imgur\.(com)/
-/noxinfluencer\.(com
-/socialblade\.(com)/
-/tumblr\.(com)/
 /tumbral\.(com)/
 /tumgir\.(com)/
-/wopita\.(com)/
