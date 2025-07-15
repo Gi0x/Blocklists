@@ -69,7 +69,6 @@
 ||*.zw^
 !
 ! .ao.- Angola, .bf.- Burkina Faso, .bi.- Burundi, .bj.- Benin, .bw.- Botswana, .cd.- Democratic Republic of the Congo, .cf.- Central African Republic, .cg.- Republic of the Congo, .ci.- Côte d'Ivoire, .cm.- Cameroon, .cv.- Cabo Verde, .dj.- Djibouti, .dz.- Algeria, .eg.- Egypt, .eh.- Western Sahara, .er.- Eritrea, .et.- Ethiopia, .ga.- Gabon, .gh.- Ghana, .gm.- The Gambia, .gn.- Guinea, .gq.- Equatorial Guinea, .gw.- Guinea-Bissau, .io.- British Indian Ocean Territory, .ke.- Kenya, .km.- Comoros, .lr.- Liberia, .ls.- Lesotho, .ly.- Libya, .ma.- Morocco, .mg.- Madagascar, .ml.- Mali, .mr.- Mauritania, .mu.- Mauritius, .mw.- Malawi, .mz.- Mozambique, .na.- Namibia, .ne.- Niger, .ng.- Nigeria, .re.- Réunion, .rw.- Rwanda, .sc.- Seychelles, .sd.- Sudan, .sh.- Saint Helena, Ascension & Tristan da Cunha, .sl.- Sierra Leone, .sn.- Senegal, .so.- Somalia, .ss.- South Sudan, .st.- São Tomé & Príncipe, .sz.- Eswatini, .td.- Chad, .tg.- Togo, .tn.- Tunisia, .tz.- Tanzania, .ug.- Uganda, .yt.- Mayotte, .za.- South Africa, .zm.- Zambia, .zw.- Zimbabwe
-!
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🌎 AMERICAS 
 !
@@ -178,7 +177,6 @@
 ||*.ye^
 !
 ! .ae - United Arab Emirates, .af - Afghanistan, .am.- Armenia, .az.- Azerbaijan, .bd.- Bangladesh, .bh.- Bahrain, .bn.- Brunei, .bt.- Bhutan, .cc.- Cocos (Keeling) Islands, .cn.- China, .cy.- Cyprus, .ge.- Georgia, .hk.- Hong Kong, .id.- Indonesia, .il.- Israel, .in.- India, .iq.- Iraq, .ir.- Iran, .jo.- Jordan, .jp.- Japan, .kg.- Kyrgyzstan, .kh.- Cambodia, .kp.- North Korea, .kr.- South Korea, .kw.- Kuwait, .kz.- Kazakhstan, .la.- Laos, .lb.- Lebanon, .lk.- Sri Lanka, .mm.- Myanmar, .mn.- Mongolia, .mo.- Macao, .mv.- Maldives, .my.- Malaysia, .np.- Nepal, .om.- Oman, .ph.- Philippines, .pk.- Pakistan, .ps.- Palestine, .qa.- Qatar, .sa - Saudi Arabia, .sg - Singapore, .sy - Syria, .th - Thailand, .tj - Tajikistan, .tm - Turkmenistan, .tr - Turkey, .tw - Taiwan, .uz - Uzbekistan, .vn - Vietnam, .ye - Yemen
-!
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🌏 EUROPE
 ! 
@@ -235,6 +233,7 @@
 ||*.uk^
 ||*.va^
 !
+! .ad - Andorra, .al - Albania, .at - Austria, .ax - Åland Islands, .ba - Bosnia & Herzegovina, .be - Belgium, .bg - Bulgaria, .by - Belarus, .ch - Switzerland, .cz - Czech Republic, .de - Germany, .dk - Denmark, .ee - Estonia, .es - Spain, .eu - European Union, .fi - Finland, .fo - Faroe Islands, .fr - France, .gb - United Kingdom (reserved), .gg - Guernsey, .gi - Gibraltar, .gl - Greenland, .gr - Greece, .hr - Croatia, .hu - Hungary, .ie - Ireland, .im - Isle of Man, .is - Iceland, .it - Italy, .je - Jersey, .li - Liechtenstein, .lt - Lithuania, .lu - Luxembourg, .lv - Latvia, .mc - Monaco, .md - Moldova, .me - Montenegro, .mk - North Macedonia, .mt - Malta, .nl - Netherlands, .no - Norway, .pl - Poland, .pt - Portugal, .ro - Romania, .rs - Serbia, .ru - Russia, .se - Sweden, .si - Slovenia, .sj - Svalbard & Jan Mayen, .sk - Slovakia, .sm - San Marino, .ua - Ukraine, .uk - United Kingdom, .va - Vatican City
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🌴 OCEANIA
 !
@@ -263,6 +262,7 @@
 ||*.wf^
 ||*.ws^
 !
+! .as - American Samoa, .au - Australia, .ck - Cook Islands, .fj - Fiji, .fm - Micronesia, .gu - Guam, .ki - Kiribati, .mh - Marshall Islands, .mp - Northern Mariana Islands, .nc - New Caledonia, .nf - Norfolk Island, .nr - Nauru, .nu - Niue, .nz - New Zealand, .pf - French Polynesia, .pg - Papua New Guinea, .pw - Palau, .sb - Solomon Islands, .tk - Tokelau, .tl - Timor-Leste, .to - Tonga, .tv - Tuvalu, .vu - Vanuatu, .wf - Wallis & Futuna, .ws - Samoa
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🧊 ANTARCTICA / OVERSEAS / SPECIAL TERRITORIES
 !
@@ -281,7 +281,6 @@
 ||*.sx^
 !
 ! .aq - Antarctica, .bv - Bouvet Island, .gs - South Georgia & the South Sandwich Islands, .hm - Heard Island & McDonald Islands, .tf - French Southern Territories, .um - United States Minor Outlying Islands
-!
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🌍 MISC 
 !
@@ -296,14 +295,12 @@
 ||рф^
 ||срб^
 ||укр^
-!
 ||한국^
 ||中国^
 ||中國^
 ||香港^
 ||台湾^
 ||澳門^
-!
 ||ଭାରତ^
 ||ಭಾರತ^
 ||ভারত^
