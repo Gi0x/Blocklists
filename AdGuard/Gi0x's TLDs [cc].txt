@@ -123,6 +123,7 @@
 ||*.vg^
 ||*.vi^
 !
+! .ag - Antigua & Barbuda, .ai - Anguilla, .an – Dutch Antilles, .ar – Argentina, .aw - Aruba, .bb - Barbados, .bl - Saint Barthélemy, .bm - Bermuda, .bo - Bolivia, .bq - Bonaire, Sint Eustatius & Saba, .br - Brazil, .bs - Bahamas, .bz - Belize, .ca - Canada, .cl - Chile, .co - Colombia, .cr - Costa Rica, .cu - Cuba, .dm - Dominica, .do - Dominican Republic, .ec - Ecuador, .fk - Falkland Islands, .gd - Grenada, .gf - French Guiana, .gl - Greenland, .gp - Guadeloupe, .gt - Guatemala, .gy - Guyana, .hn - Honduras, .ht - Haiti, .jm - Jamaica, .kn - Saint Kitts & Nevis, .ky - Cayman Islands, .lc - Saint Lucia, .mf - Saint Martin, .mq - Martinique, .ms - Montserrat, .mx - Mexico, .ni - Nicaragua, .pa - Panama, .pe - Peru, .pm - Saint Pierre & Miquelon, .pr - Puerto Rico, .py - Paraguay, .sr - Suriname, .sv - El Salvador, .sx - Sint Maarten, .tc - Turks & Caicos Islands, .tt - Trinidad & Tobago, .us - United States, .uy - Uruguay, .vc - Saint Vincent & the Grenadines, .ve - Venezuela, .vg - British Virgin Islands, .vi - U.S. Virgin Islands
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🌏 ASIA
 !
