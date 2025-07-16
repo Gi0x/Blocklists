@@ -3,7 +3,7 @@
 ! Source: https://www.iana.org/domains/root/db
 !
 ! To unblock a TLD, use this syntax: @@||.aaa^, @@||.aarp^, @@||*.abarth^
-! Unblocked: @@||*.edu^, @@||*.gov^
+! Unblocked: edu,gov
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 !||*.aaa^
 ||*.aarp^
