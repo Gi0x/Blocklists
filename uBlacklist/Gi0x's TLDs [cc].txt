@@ -1,5 +1,5 @@
 # Name: Gi0x's TLDs [cc]
-# Description: Hides country code TLDs from search results
+# Description: Hides TLDs, by country code, from search results
 # Excluded: at,ca,co,de,eu,hu,io,ne,rs
 # Notes: - co because of [.com,.co,.co.uk], - ne because of [.net]
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
