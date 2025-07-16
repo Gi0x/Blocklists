@@ -2,8 +2,8 @@
 ! Description: Blocks generic top level domains
 ! Source: https://www.iana.org/domains/root/db
 !
-! To unblock a TLD, use this syntax: @@|.aaa^, @@|.aarp^, @@||*.abarth^
-! Excluded: 
+! To unblock a TLD, use this syntax: @@||.aaa^, @@||.aarp^, @@||*.abarth^
+! Unblocked: @@||*.edu^, @@||*.gov^
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 !||*.aaa^
 ||*.aarp^
@@ -329,7 +329,7 @@
 ||*.eat^
 ||*.eco^
 ||*.edeka^
-||*.edu^
+@@||*.edu^
 ||*.education^
 ||*.email^
 ||*.emerck^
@@ -454,7 +454,7 @@
 ||*.google^
 ||*.gop^
 ||*.got^
-||*.gov^
+@@||*.gov^
 ||*.grainger^
 ||*.graphics^
 ||*.gratis^
@@ -1150,6 +1150,7 @@
 ||*.xihuan^
 ||*.xin^
 ||*.xperia^
+||*.xxx^
 ||*.xyz^
 ||*.yachts^
 ||*.yahoo^
@@ -1169,6 +1170,7 @@
 ||*.zone^
 ||*.zuerich^
 !
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Other TLDs
 ! 
 ||*.δοκιμή^
@@ -1261,4 +1263,3 @@
 ||*.닷컴^
 ||*.삼성^
 ||*.테스트^
-||*.xxx^
