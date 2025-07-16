@@ -1,5 +1,6 @@
 # Name: Gi0x's Porn
-# Description: Removes porn sites from search results
+# Description: Hides porn sites from search results
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.171gifs.com/*
 *://*.18asiansex.com/*
