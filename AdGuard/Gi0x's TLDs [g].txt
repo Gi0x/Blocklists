@@ -1,10 +1,10 @@
-! Title: Gi0x's Generic Top Level Domains
+! Title: Gi0x's Generic TLDs
 ! Description: Blocks generic top level domains
 ! Source: https://www.iana.org/domains/root/db
 !
 ! To unblock a TLD, use this syntax: @@|.aaa^, @@|.aarp^, @@||*.abarth^
 ! Excluded: 
-!
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 !||*.aaa^
 ||*.aarp^
 ||*.abarth^
