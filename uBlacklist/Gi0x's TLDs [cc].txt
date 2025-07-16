@@ -1,5 +1,7 @@
 # Name: Gi0x's TLDs [cc]
 # Description: Hides country code TLDs from search results
+# Excluded: at,ca,co,de,eu,hu,io,ne,rs
+# Notes: - co because of [.com,.co,.co.uk], - ne because of [.net]
 
 # 🌍 AFRICA
 /.*\.(ao|bf|bi|bj|bw|cd|cf|cg|ci|cm|cv|dj|dz|eg|eh|er|et|ga|gh|gm|gn|gq|gw|ke|km|lr|ls|ly|ma|mg|ml|mr|mu|mw|mz|na|ne|ng|re|rw|sc|sd|sh|sl|sn|so|ss|st|sz|td|tg|tn|tz|ug|yt|za|zm|zw)($|\/)/
@@ -15,13 +17,3 @@
 
 # 🌐 OCEANIA
 /.*\.(as|au|ck|fj|fm|gu|ki|mh|mp|nc|nf|nr|nu|nz|pg|pw|sb|tk|to|tv|vu|wf|ws)($|\/)/
-
-
-
-/\.(бг|бел|ею|ευ|ελ|қаз|мкд|мон|рф|срб|укр)/
-/\.(한국|中国|中國|香港|台湾|澳門)/
-/\.(ଭାରତ|ಭಾರತ|ভারত|বাংলা|சிங்கப்பூர்|భారత్|ලංකා|ભારત|भारतम्|भारत|भारोत|გე|ไทย|ລາວ|ഭാരതം|ਭਾਰਤ|இலங்கை|இந்தியா|հայ|新加坡)/
-
-# Before saving, make sure to exclude: at, ca, co, de, eu, hu, io, ne, rs
-- co because of [.com,.co,.co.uk]
-- ne because of [.net]
