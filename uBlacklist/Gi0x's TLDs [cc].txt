@@ -1,4 +1,5 @@
-
+# Name: Gi0x's TLDs [cc]
+# Description: Hides country code TLDs from search results
 
 # 🌍 AFRICA
 /.*\.(ao|bf|bi|bj|bw|cd|cf|cg|ci|cm|cv|dj|dz|eg|eh|er|et|ga|gh|gm|gn|gq|gw|ke|km|lr|ls|ly|ma|mg|ml|mr|mu|mw|mz|na|ne|ng|re|rw|sc|sd|sh|sl|sn|so|ss|st|sz|td|tg|tn|tz|ug|yt|za|zm|zw)($|\/)/
