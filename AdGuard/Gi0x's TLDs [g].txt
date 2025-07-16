@@ -26,6 +26,7 @@
 ||*.ads^
 ||*.adult^
 ||*.aeg^
+||*.aero^
 ||*.aetna^
 ||*.afamilycompany^
 ||*.afl^
@@ -70,6 +71,7 @@
 ||*.art^
 ||*.arte^
 ||*.asda^
+||*.asia^
 ||*.associates^
 ||*.athleta^
 ||*.attorney^
@@ -188,6 +190,7 @@
 ||*.caseih^
 ||*.cash^
 ||*.casino^
+||*.cat^
 ||*.catering^
 ||*.catholic^
 ||*.cba^
@@ -249,6 +252,7 @@
 ||*.cooking^
 ||*.cookingchannel^
 ||*.cool^
+||*.coop^
 ||*.corsica^
 ||*.country^
 ||*.coupon^
@@ -325,6 +329,7 @@
 ||*.eat^
 ||*.eco^
 ||*.edeka^
+||*.edu^
 ||*.education^
 ||*.email^
 ||*.emerck^
@@ -449,6 +454,7 @@
 ||*.google^
 ||*.gop^
 ||*.got^
+||*.gov^
 ||*.grainger^
 ||*.graphics^
 ||*.gratis^
@@ -526,6 +532,7 @@
 ||*.institute^
 ||*.insurance^
 ||*.insure^
+||*.int^
 ||*.intel^
 ||*.international^
 ||*.intuit^
@@ -551,6 +558,7 @@
 ||*.jll^
 ||*.jmp^
 ||*.jnj^
+||*.jobs^
 ||*.joburg^
 ||*.jot^
 ||*.joy^
@@ -674,6 +682,7 @@
 ||*.metlife^
 ||*.miami^
 ||*.microsoft^
+||*.mil^
 ||*.mini^
 ||*.mint^
 ||*.mit^
@@ -681,6 +690,7 @@
 ||*.mlb^
 ||*.mls^
 ||*.mma^
+||*.mobi^
 ||*.mobile^
 ||*.mobily^
 ||*.moda^
@@ -704,6 +714,7 @@
 ||*.mtn^
 ||*.mtpc^
 ||*.mtr^
+||*.museum^
 ||*.music^
 ||*.mutual^
 ||*.mutuelle^
@@ -813,6 +824,7 @@
 ||*.poker^
 ||*.politie^
 ||*.porn^
+||*.post^
 ||*.pramerica^
 ||*.praxi^
 ||*.press^
@@ -1012,6 +1024,7 @@
 ||*.team^
 ||*.tech^
 ||*.technology^
+||*.tel^
 ||*.telecity^
 ||*.telefonica^
 ||*.temasek^
@@ -1045,6 +1058,7 @@
 ||*.trade^
 ||*.trading^
 ||*.training^
+||*.travel^
 ||*.travelchannel^
 ||*.travelers^
 ||*.travelersinsurance^
@@ -1247,20 +1261,4 @@
 ||*.닷컴^
 ||*.삼성^
 ||*.테스트^
-
-! Sponsored TLDs
-||*.aero^
-||*.asia^
-||*.cat^
-||*.coop^
-||*.edu^
-||*.gov^
-||*.int^
-||*.jobs^
-||*.mil^
-||*.mobi^
-||*.museum^
-||*.post^
-||*.tel^
-||*.travel^
 ||*.xxx^
