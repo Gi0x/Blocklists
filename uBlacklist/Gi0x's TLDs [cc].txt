@@ -1,30 +1,21 @@
-::: Country TLDs :::
 
-/\.(ac|ad|ae|af|ai|al|am|an|ao|aq|ar|as|at|au|aw|ax|az)/
-/\.(ba|bb|bd|be|bf|bg|bh|bi|bj|bl|bm|bn|bo|bq|br|bs|bt|bv|bw|by|bz)/
-/\.(ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|cr|cu|cv|cw|cx|cy|cz)/
-/\.(de|dj|dk|dm|do|dz)/
-/\.(ec|ee|eg|eh|er|es|et|eu)/
-/\.(fi|fj|fk|fm|fo|fr)/
-/\.(ga|gb|gd|ge|gf|gg|gh|gi|gl|gm|gn|gp|gq|gr|gs|gt|gu|gw|gy)/
-/\.(hk|hm|hn|hr|ht|hu)/
-/\.(id|ie|il|im|in|io|iq|ir|is|it)/
-/\.(je|jm|jo|jp)/
-/\.(ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz)/
-/\.(la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly)/
-/\.(ma|mc|md|me|mf|mg|mh|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|mv|mw|mx|my|mz)/
-/\.(na|nc|ne|nf|ng|ni|nl|no|np|nr|nu|nz)/
-/\.(om)/
-/\.(pa|pe|pf|pg|ph|pk|pl|pm|pn|ps|pt|pw|py)/
-/\.(qa)/
-/\.(re|ro|rs|ru|rw)/
-/\.(sa|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|ss|st|su|sv|sx|sy|sz)/
-/\.(tc|td|tf|tg|th|tj|tk|tl|tm|tn|to|tp|tr|tt|tv|tw|tz)/
-/\.(ua|ug|uk|um|us|uy|uz)/
-/\.(va|vc|ve|vg|vi|vn|vu)/
-/\.(wf|ws)/
-/\.(yt)/
-/\.(za|zm|zw)/
+
+# 🌍 AFRICA
+/.*\.(ao|bf|bi|bj|bw|cd|cf|cg|ci|cm|cv|dj|dz|eg|eh|er|et|ga|gh|gm|gn|gq|gw|ke|km|lr|ls|ly|ma|mg|ml|mr|mu|mw|mz|na|ne|ng|re|rw|sc|sd|sh|sl|sn|so|ss|st|sz|td|tg|tn|tz|ug|yt|za|zm|zw)($|\/)/
+
+# 🌎 AMERICAS
+/.*\.(ag|ai|ar|aw|bb|bl|bm|bo|br|bs|bz|ca|cl|co|cr|cu|dm|do|ec|gf|gd|gp|gt|gy|hn|ht|jm|kn|lc|mq|ms|mx|ni|pa|pe|pr|py|sr|sv|tc|tt|us|uy|ve|vc|vg|vi)($|\/)/
+
+# 🌏 ASIA
+/.*\.(af|am|az|bd|bh|bn|bt|cn|ge|hk|id|il|in|iq|ir|jo|jp|kg|kh|kp|kr|kw|kz|la|lb|lk|mm|mn|mo|mv|my|np|om|ph|pk|ps|qa|sa|sg|sy|th|tj|tl|tm|tr|tw|ae|uz|vn|ye)($|\/)/
+
+# 🌍 EUROPE
+/.*\.(ad|al|at|ba|be|bg|bl|by|ch|cy|cz|de|dk|ee|es|fi|fo|fr|gb|gi|gr|hr|hu|ie|is|it|li|lt|lu|lv|mc|md|me|mf|mk|mt|nl|no|pl|pt|ro|rs|ru|se|si|sk|sm|su|ua|uk|va)($|\/)/
+
+# 🌐 OCEANIA
+/.*\.(as|au|ck|fj|fm|gu|ki|mh|mp|nc|nf|nr|nu|nz|pg|pw|sb|tk|to|tv|vu|wf|ws)($|\/)/
+
+
 
 /\.(бг|бел|ею|ευ|ελ|қаз|мкд|мон|рф|срб|укр)/
 /\.(한국|中国|中國|香港|台湾|澳門)/
