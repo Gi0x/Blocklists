@@ -10,7 +10,7 @@
 /.*\.(ag|ai|ar|aw|bb|bl|bm|bo|br|bs|bz|ca|cl|co|cr|cu|dm|do|ec|gf|gd|gp|gt|gy|hn|ht|jm|kn|lc|mq|ms|mx|ni|pa|pe|pr|py|sr|sv|tc|tt|us|uy|ve|vc|vg|vi)($|\/)/
 
 # 🧊 ANTARCTICA & OVERSEAS SPECIAL TERRITORIES
-
+/.*\.(aq|bq|bv|cc|cx|gs|hm|io|mf|pn|sj|sx|tf|um|xk)($|\/)/
 
 # 🌏 ASIA
 /.*\.(af|am|az|bd|bh|bn|bt|cn|ge|hk|id|il|in|iq|ir|jo|jp|kg|kh|kp|kr|kw|kz|la|lb|lk|mm|mn|mo|mv|my|np|om|ph|pk|ps|qa|sa|sg|sy|th|tj|tl|tm|tr|tw|ae|uz|vn|ye)($|\/)/
