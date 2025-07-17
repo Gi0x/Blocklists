@@ -2,9 +2,41 @@
 # Description: Hides gaming sites and apps from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-# News Media
+# Gaming Companies, News Media & Stores
 
+*://*.2k.com/*
+*://*.2kczech.com/*
+*://*.2kvegas.com/*
+*://*.afkgaming.com/*
+*://*.altarofgaming.com/*
+*://*.boardgamegeek.com/*
+*://*.cloudchamberstudios.com/*
+*://*.epicgames.com/*
+*://*.eurogamer.net/*
+*://*.firaxis.com/*
+*://*.gamecompanies.com/*
+*://*.gameinformer.com/*
+*://*.gamespot.com/*
+*://*.gamesradar.com/*
+*://*.gamestop.com/*
+*://*.gaming.net/*
+*://*.giantbomb.com/*
+*://*.igdb.com/*
+*://*.ign.com/*
+*://*.insider-gaming.com/*
+*://*.kotaku.com/*
+*://*.nba2k.com/*
+*://*.pcgamer.com/*
+*://*.playstation.com/*
+*://*.riotgames.com/*
+*://*.sportsgamersonline.com/*
+*://*.take2games.com/*
+*://*.vcentertainment.com/*
+*://*.videogamegeek.com/*
+*://*.videogameschronicle.com/*
+*://*.worthplaying.com/*
+*://*.xbox.com/*
 
+# Online Games
 
-
-# Gaming
+*://*.steampowered.com/*
