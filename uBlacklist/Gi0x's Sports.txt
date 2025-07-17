@@ -1,1 +1,4 @@
+# Name: Gi0x's Sports
+# Description: Hides sports & sports betting sites from search results
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
