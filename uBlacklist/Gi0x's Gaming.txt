@@ -42,7 +42,21 @@
 *://*.worthplaying.com/*
 *://*.xbox.com/*
 
+*://*.supercell.com/*
+*://*.brawlhub.co/*
+*://*.brawlstats.com/*
+*://*.brawlify.com/*
+*://*.nulls-brawl.com/*
+*://*.brawltime.ninja/*
+*://*.gamingonphone.com/*
+
 # Online Games
 
 *://*.battle.net/*
+*://*.gameslol.net/*
+*://*.miniplay.com/*
+*://*.puzzlegame.com/*
+*://*.poki.com/*
+*://*.play-games.com/*
+*://*.pogogamesplay.com/*
 *://*.steampowered.com/*
