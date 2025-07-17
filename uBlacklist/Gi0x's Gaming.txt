@@ -39,6 +39,7 @@
 *://*.officialactivision.com/*
 *://*.pcgamer.com/*
 *://*.playstation.com/*
+*://*.pocketgamer.com/*
 *://*.riotgames.com/*
 *://*.sportsgamersonline.com/*
 *://*.supercell.com/*
@@ -66,10 +67,13 @@
 
 # Online Gaming Platforms / Websites
 
+*://*.aking.io/*
 *://*.arcadespot.com/*
 *://*.battle.net/*
+://*.brightestgames.com/*
 *://*.gameflare.com/*
 *://*.gameslol.net/*
+*://*.gamenora.com/*
 *://*.king.com/*
 *://*.miniplay.com/*
 *://*.puzzlegame.com/*
