@@ -11,6 +11,7 @@
 *://*.activisionblizzard.com/*
 *://*.afkgaming.com/*
 *://*.altarofgaming.com/*
+*://*.blizzardwatch.com/*
 *://*.boardgamegeek.com/*
 *://*.brawlhub.co/*
 *://*.brawlify.com/*
@@ -18,7 +19,9 @@
 *://*.brawltime.ninja/*
 *://*.callofduty.com/*
 *://*.callofdutyleague.com/*
+*://*.cheatcc.com/*
 *://*.cloudchamberstudios.com/*
+*://*.download-free-games.com/*
 *://*.epicgames.com/*
 *://*.eurogamer.net/*
 *://*.firaxis.com/*
@@ -57,29 +60,46 @@
 *://*.origin.com/*
 *://*.gamenguide.com/*
 *://*.eneba.com/*
+*://*.fortnite.com/*
 *://*.gamesindustry.biz/*
 *://*.gameranx.com/*
+*://*.gamewatcher.com/*
 *://*.ubisoft.com/*
+*://*.unrealengine.com/*
 *://*.cgmagonline.com/*
 *://*.pcgamingwiki.com/*
 *://*.nichegamer.com/*
 *://*.g2a.com/*
 
-# Online Gaming Platforms / Websites
+# Online Gaming Platforms or Websites
 
 *://*.aking.io/*
 *://*.arcadespot.com/*
+*://*.arcadethunder.com/*
+*://*.babygames.com/*
 *://*.battle.net/*
-://*.brightestgames.com/*
+*://*.brightestgames.com/*
+*://*.candycrush.ink/*
+*://*.crazygames-poki.com/*
 *://*.gameflare.com/*
+*://*.gamefools.com/*
 *://*.gameslol.net/*
 *://*.gamenora.com/*
+*://*.geforcenow.com/*
 *://*.king.com/*
 *://*.miniplay.com/*
+*://*.noflashgame.com/*
+*://*.play123.com/*
 *://*.puzzlegame.com/*
 *://*.poki.com/*
 *://*.play-games.com/*
 *://*.pogogamesplay.com/*
 *://*.silvergames.com/*
+*://*.simple.game/*
 *://*.steampowered.com/*
 *://*.storytellergame.io/*
+*://*.topgames.com/*
+*://*.yad.com/*
+
+*://*.kbhgames.com/*
+*://*.arcadethunder.com/*
