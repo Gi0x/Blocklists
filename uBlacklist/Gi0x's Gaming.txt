@@ -2,7 +2,7 @@
 # Description: Hides gaming sites and apps from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-# Gaming Companies, News Media & Stores
+# Gaming Companies, Media & Stores
 
 *://*.2k.com/*
 *://*.2kczech.com/*
@@ -48,10 +48,27 @@
 *://*.videogameschronicle.com/*
 *://*.worthplaying.com/*
 *://*.xbox.com/*
+*://*.ea.com/*
+*://*.pcgamesn.com/*
+*://*.gfinityesports.com/*
+*://*.vg247.com/*
+*://*.pcgamingnetwork.com/*
+*://*.origin.com/*
+*://*.gamenguide.com/*
+*://*.eneba.com/*
+*://*.gamesindustry.biz/*
+*://*.gameranx.com/*
+*://*.ubisoft.com/*
+*://*.cgmagonline.com/*
+*://*.pcgamingwiki.com/*
+*://*.nichegamer.com/*
+*://*.g2a.com/*
 
-# Online Games
+# Online Gaming Platforms / Websites
 
+*://*.arcadespot.com/*
 *://*.battle.net/*
+*://*.gameflare.com/*
 *://*.gameslol.net/*
 *://*.king.com/*
 *://*.miniplay.com/*
@@ -59,4 +76,6 @@
 *://*.poki.com/*
 *://*.play-games.com/*
 *://*.pogogamesplay.com/*
+*://*.silvergames.com/*
 *://*.steampowered.com/*
+*://*.storytellergame.io/*
