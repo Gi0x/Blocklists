@@ -1,5 +1,5 @@
 # Name: Gi0x's Chat
-# Description: Removes random chat sites and apps from search results
+# Description: Hides random chat sites and apps from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.321chat.com/*
