@@ -1,5 +1,5 @@
 # Name: Gi0x's Search Engines
-# Description: Removes search engines from search results
+# Description: Hides search engines from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 # Main Search Engines
