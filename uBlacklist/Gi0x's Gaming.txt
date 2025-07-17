@@ -7,9 +7,13 @@
 *://*.2k.com/*
 *://*.2kczech.com/*
 *://*.2kvegas.com/*
+*://*.activision.com/*
+*://*.activisionblizzard.com/*
 *://*.afkgaming.com/*
 *://*.altarofgaming.com/*
 *://*.boardgamegeek.com/*
+*://*.callofduty.com/*
+*://*.callofdutyleague.com/*
 *://*.cloudchamberstudios.com/*
 *://*.epicgames.com/*
 *://*.eurogamer.net/*
@@ -26,6 +30,7 @@
 *://*.insider-gaming.com/*
 *://*.kotaku.com/*
 *://*.nba2k.com/*
+*://*.officialactivision.com/*
 *://*.pcgamer.com/*
 *://*.playstation.com/*
 *://*.riotgames.com/*
