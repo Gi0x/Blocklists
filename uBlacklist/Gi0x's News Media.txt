@@ -61,6 +61,7 @@
 *://*.naslovi.net/*
 *://*.naslovnica.rs/*
 *://*.nedeljnik.rs/*
+*://*.news-pravda.com/*
 *://*.nezavisne.com/*
 *://*.nezavisni.rs/*
 *://*.nezavisniportal.info/*
@@ -80,6 +81,7 @@
 *://*.prioriteti.info/*
 *://*.prva.rs/*
 *://*.prvii.info/*
+*://*.radiobalkanfox.com/*
 *://*.radiobijelopolje.me/*
 *://*.radiojat.rs/*
 *://*.raskrikavanje.rs/*
@@ -107,6 +109,7 @@
 *://*.tanjug.rs/*
 *://*.telegraf.rs/*
 *://*.telegraf.tv/*
+*://*.thepavlovictoday.com/*
 *://*.time.rs/*
 *://*.topnaslovi.rs/*
 *://*.trebinjelive.info/*
@@ -120,6 +123,7 @@
 *://*.vesti.rs/*
 *://*.vestisrbija1.com/*
 *://*.vijesti.me/*
+*://*.vojvodinauzivo.rs/*
 *://*.zabavnik.com/*
 *://*.zicer.org/*
 
