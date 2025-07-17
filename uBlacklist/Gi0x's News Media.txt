@@ -70,6 +70,7 @@
 *://*.krik.rs/*
 *://*.krstarica.com/*
 *://*.kutaknet.com/*
+*://*.magazinbiznis.rs/*
 *://*.mediaportal.rs/*
 *://*.mojtv.net/*
 *://*.mzlukavica.com/*
