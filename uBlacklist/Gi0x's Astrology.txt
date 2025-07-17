@@ -1,1 +1,4 @@
+# Name: Gi0x's Astrology
+# Description: Hides astrology & tarot sites from search results
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
