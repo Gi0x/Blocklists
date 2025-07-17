@@ -2,3 +2,9 @@
 # Description: Hides gaming sites and apps from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
+# News Media
+
+
+
+
+# Gaming
