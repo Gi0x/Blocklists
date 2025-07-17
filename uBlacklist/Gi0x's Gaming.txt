@@ -44,4 +44,5 @@
 
 # Online Games
 
+*://*.battle.net/*
 *://*.steampowered.com/*
