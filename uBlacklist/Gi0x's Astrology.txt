@@ -2,3 +2,4 @@
 # Description: Hides astrology & tarot sites from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
+*://*.astrotheme.com/*
