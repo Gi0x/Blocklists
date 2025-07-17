@@ -1,3 +1,7 @@
+! Title: Gi0x's Astrology
+! Description: Blocks astrology & tarot websites
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 123-tarot.com
 24astro.tv
 7tarot.com
