@@ -1,5 +1,6 @@
 # Title: Gi0x's Social Media
-# Description: Removes Social Media & Instagram account viewing sites from search results
+# Description: Hides Social Media & Instagram viewing sites from search results
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 # Social Media
 
@@ -47,7 +48,7 @@
 *://*.vk.com/*
 *://*.x.com/*
 
-# Instagram Account Viewng Sites
+# Anonymous Instagram Viewng Sites
 
 *://*.ahasave.com/*
 *://*.anon-viewer.com/*
