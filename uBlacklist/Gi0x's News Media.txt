@@ -16,6 +16,7 @@
 *://*.balkaninsight.com/*
 *://*.bijeljinalive.com/*
 *://*.bl-portal.com/*
+*://*.bogatic.info/*
 *://*.cdm.me/*
 *://*.cudo.rs/*
 *://*.danas.rs/*
@@ -24,15 +25,18 @@
 *://*.dnevnik.rs/*
 *://*.dnevno.rs/*
 *://*.dobardan.info/*
+*://*.dostajebilo.rs/*
 *://*.dugopolje.org/*
 *://*.ekapija.com/*
 *://*.ekspres.net/*
 *://*.euronews.rs/*
+*://*.feljton.rs/*
 *://*.fokustv.rs/*
 *://*.furka.live/*
 *://*.glas-javnosti.rs/*
 *://*.glas-zajecara.com/*
 *://*.glasjuga.rs/*
+*://*.gradskimagazin.rs/*
 *://*.happytv.rs/*
 *://*.hercegovina.info/*
 *://*.hercegovinapress.com/*
@@ -42,6 +46,7 @@
 *://*.infopress.rs/*
 *://*.injournal.rs/*
 *://*.internetprovale.com/*
+*://*.istinomer.rs/*
 *://*.izvorno.info/*
 *://*.jabuka.tv/*
 *://*.journal.rs/*
@@ -71,9 +76,12 @@
 *://*.novatv.rs/*
 *://*.novosti.rs/*
 *://*.nportal.rs/*
+*://*.nsuzivo.rs/*
 *://*.nultatacka.rs/*
 *://*.oazaznanja.com/*
+*://*.objektiv.rs/*
 *://*.pancevac-online.rs/*
+*://*.patak.co.rs/*
 *://*.portalanalitika.me/*
 *://*.pressonline.rs/*
 *://*.pressserbia.com/*
@@ -97,6 +105,7 @@
 *://*.skynews.rs/*
 *://*.srbija24.com/*
 *://*.srbijadanas.com/*
+*://*.srbijadanas.net/*
 *://*.srbin.info/*
 *://*.srpskacafe.com/*
 *://*.srpskainfo.com/*
