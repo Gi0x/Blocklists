@@ -1,5 +1,5 @@
 # Name: Gi0x's Dating
-# Description: Hides dating sites from search results
+# Description: Hides dating, hookup & meetup sites from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.druzenje.rs/*
