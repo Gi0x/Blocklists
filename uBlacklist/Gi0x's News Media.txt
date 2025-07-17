@@ -10,6 +10,7 @@
 *://*.025.rs/*
 *://*.025info.rs/*
 *://*.24sedam.rs/*
+*://*.192.rs/*
 *://*.adria.press/*
 *://*.adriamedia.tv/*
 *://*.ananasmag.com/*
@@ -140,6 +141,7 @@
 *://*.tvbalkanuzivo.com/*
 *://*.udarnavest.rs/*
 *://*.una.rs/*
+*://*.uzicemedia.rs/*
 *://*.uzvik.rs/*
 *://*.vasglas.info/*
 *://*.velikeprice.com/*
@@ -150,6 +152,7 @@
 *://*.vojvodinauzivo.rs/*
 *://*.vreme.com/*
 *://*.zabavnik.com/*
+*://*.zajecar.com/*
 *://*.zapadnevesti.com/*
 *://*.zicer.org/*
 
