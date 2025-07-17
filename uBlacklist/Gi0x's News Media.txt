@@ -1,29 +1,24 @@
+# Name: Gi0x's News Media
+# Description: Hides news media from search results
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# News Media 🇺🇸,🇬🇧
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# News Media 🇷🇸,🇲🇪
 
-# News & Tabloids 🇺🇸,🇬🇧
-
-
-
-
-
-# News & Tabloids 🇷🇸,🇲🇪
+# News
 
 *://*.011info.com/*
 *://*.021.rs/*
 *://*.24sedam.rs/*
 *://*.adria.press/*
-*://*.alo.rs/*
-*://*.ana.rs/*
 *://*.ananasmag.com/*
-*://*.aska.rs/*
-*://*.atraktivnoonline.com/*
 *://*.atvbl.rs/*
 *://*.avalainfo.net/*
 *://*.b92.net/*
 *://*.balkaninsight.com/*
 *://*.bijeljinalive.com/*
 *://*.bl-portal.com/*
-*://*.blic.rs/*
 *://*.cdm.me/*
 *://*.danas.rs/*
 *://*.direktno.rs/*
@@ -34,7 +29,6 @@
 *://*.dugopolje.org/*
 *://*.ekapija.com/*
 *://*.ekspres.net/*
-*://*.elle.rs/*
 *://*.espreso.co.rs/*
 *://*.euronews.rs/*
 *://*.fokustv.rs/*
@@ -42,17 +36,12 @@
 *://*.glas-javnosti.rs/*
 *://*.glas-zajecara.com/*
 *://*.glasjuga.rs/*
-*://*.gloria.rs/*
-*://*.grazia.rs/*
-*://*.hellomagazin.rs/*
 *://*.hercegovina.info/*
 *://*.hercegovinapress.com/*
 *://*.hitfm.rs/*
 *://*.hotsport.rs/*
-*://*.hypetv.rs/*
 *://*.imperij.com/*
 *://*.infopress.rs/*
-*://*.informer.rs/*
 *://*.injournal.rs/*
 *://*.internetprovale.com/*
 *://*.izvorno.info/*
@@ -63,16 +52,10 @@
 *://*.k1info.rs/*
 *://*.kolektiv.me/*
 *://*.krstarica.com/*
-*://*.kurir.rs/*
 *://*.kutaknet.com/*
-*://*.ludujemo.info/*
 *://*.luftika.rs/*
-*://*.magazin-tabloid.com/*
-*://*.marieclaire.rs/*
 *://*.mediaportal.rs/*
 *://*.mojtv.net/*
-*://*.mondo.me/*
-*://*.mondo.rs/*
 *://*.mzlukavica.com/*
 *://*.n1info.com/*
 *://*.nadlanu.com/*
@@ -85,25 +68,18 @@
 *://*.nezavisniportal.info/*
 *://*.njuz.net/*
 *://*.nogomania.com/*
-*://*.noizz.rs/*
 *://*.nova.rs/*
 *://*.novosti.rs/*
 *://*.nportal.rs/*
 *://*.nultatacka.rs/*
 *://*.oazaznanja.com/*
 *://*.pancevac-online.rs/*
-*://*.pink-rs.com/*
-*://*.pink.rs/*
-*://*.pinkradio.rs/*
-*://*.piplmetar.rs/*
 *://*.portalanalitika.me/*
-*://*.poznati.info/*
 *://*.pressserbia.com/*
 *://*.princip.news/*
 *://*.prioriteti.info/*
 *://*.prva.rs/*
 *://*.prvii.info/*
-*://*.pulsonline.rs/*
 *://*.radiobijelopolje.me/*
 *://*.radiojat.rs/*
 *://*.razbibriga.net/*
@@ -124,10 +100,6 @@
 *://*.srpskainfo.com/*
 *://*.standard.co.me/*
 *://*.standard.rs/*
-*://*.starmagazin.rs/*
-*://*.story.rs/*
-*://*.sveopoznatima.com/*
-*://*.svet-scandal.rs/*
 *://*.svetionik.com/*
 *://*.svetplus.com/*
 *://*.svetplus.eu/*
@@ -137,8 +109,6 @@
 *://*.telegraf.tv/*
 *://*.time.rs/*
 *://*.topnaslovi.rs/*
-*://*.toxictv.rs/*
-*://*.tracara.com/*
 *://*.trebinjelive.info/*
 *://*.tvbalkanuzivo.com/*
 *://*.udarnavest.rs/*
@@ -151,8 +121,41 @@
 *://*.vestisrbija1.com/*
 *://*.vijesti.me/*
 *://*.zabavnik.com/*
-*://*.zadruga-uzivo.com/*
-*://*.zadrugavesti.com/*
 *://*.zenskimagazin.net/*
 *://*.zenskimagazin.rs/*
 *://*.zicer.org/*
+
+# Tabloids
+
+*://*.alo.rs/*
+*://*.ana.rs/*
+*://*.aska.rs/*
+*://*.atraktivnoonline.com/*
+*://*.blic.rs/*
+*://*.elle.rs/*
+*://*.gloria.rs/*
+*://*.grazia.rs/*
+*://*.hellomagazin.rs/*
+*://*.hypetv.rs/*
+*://*.informer.rs/*
+*://*.kurir.rs/*
+*://*.ludujemo.info/*
+*://*.magazin-tabloid.com/*
+*://*.marieclaire.rs/*
+*://*.mondo.me/*
+*://*.mondo.rs/*
+*://*.noizz.rs/*
+*://*.pink-rs.com/*
+*://*.pink.rs/*
+*://*.pinkradio.rs/*
+*://*.piplmetar.rs/*
+*://*.poznati.info/*
+*://*.pulsonline.rs/*
+*://*.starmagazin.rs/*
+*://*.story.rs/*
+*://*.sveopoznatima.com/*
+*://*.svet-scandal.rs/*
+*://*.toxictv.rs/*
+*://*.tracara.com/*
+*://*.zadruga-uzivo.com/*
+*://*.zadrugavesti.com/*
