@@ -28,6 +28,7 @@
 *://*.direktno.rs/*
 *://*.dizajnidom.info/*
 *://*.dnevnik.rs/*
+*://*.dnevnikjuga.rs/*
 *://*.dnevno.rs/*
 *://*.dobardan.info/*
 *://*.dostajebilo.rs/*
@@ -35,6 +36,7 @@
 *://*.ekapija.com/*
 *://*.ekspres.net/*
 *://*.euronews.rs/*
+*://*.europa.rs/*
 *://*.feljton.rs/*
 *://*.fokustv.rs/*
 *://*.furka.live/*
@@ -65,6 +67,7 @@
 *://*.k1info.rs/*
 *://*.kolektiv.me/*
 *://*.kratko.rs/*
+*://*.krik.rs/*
 *://*.krstarica.com/*
 *://*.kutaknet.com/*
 *://*.mediaportal.rs/*
@@ -91,6 +94,7 @@
 *://*.nultatacka.rs/*
 *://*.oazaznanja.com/*
 *://*.objektiv.rs/*
+*://*.opcija.net/*
 *://*.pancevac-online.rs/*
 *://*.patak.co.rs/*
 *://*.portalanalitika.me/*
@@ -113,8 +117,10 @@
 *://*.rts.rs/*
 *://*.rtsplaneta.rs/*
 *://*.rtv.rs/*
+*://*.rtvbap.rs/*
 *://*.rtvbn.com/*
 *://*.sd.rs/*
+*://*.serbianmonitor.com/*
 *://*.serbiantimes.info/*
 *://*.skynews.rs/*
 *://*.srbija24.com/*
