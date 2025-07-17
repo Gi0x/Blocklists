@@ -1,1 +1,5 @@
+# Title: Gi0x's Trivia
+# Description: Hides clickbait, listicles & other pointless sites from search results
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
+*://*.listal.com/*
