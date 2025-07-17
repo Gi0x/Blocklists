@@ -7,14 +7,18 @@
 
 *://*.011info.com/*
 *://*.021.rs/*
+*://*.025.rs/*
+*://*.025info.rs/*
 *://*.24sedam.rs/*
 *://*.adria.press/*
+*://*.adriamedia.tv/*
 *://*.ananasmag.com/*
 *://*.atvbl.rs/*
 *://*.avalainfo.net/*
 *://*.b92.net/*
 *://*.balkaninsight.com/*
 *://*.bijeljinalive.com/*
+*://*.bizportal.rs/*
 *://*.bl-portal.com/*
 *://*.bogatic.info/*
 *://*.cdm.me/*
@@ -42,7 +46,11 @@
 *://*.hercegovinapress.com/*
 *://*.hitfm.rs/*
 *://*.hotsport.rs/*
+*://*.ikragujevac.com/*
 *://*.imperij.com/*
+*://*.indeks.rs/*
+*://*.infocentarjug.rs/*
+*://*.infoera.rs/*
 *://*.infopress.rs/*
 *://*.injournal.rs/*
 *://*.internetprovale.com/*
@@ -50,6 +58,7 @@
 *://*.izvorno.info/*
 *://*.jabuka.tv/*
 *://*.journal.rs/*
+*://*.jugpress.com/*
 *://*.juznasrbija.info/*
 *://*.juznevesti.com/*
 *://*.k1info.rs/*
@@ -62,6 +71,7 @@
 *://*.mzlukavica.com/*
 *://*.n1info.com/*
 *://*.n1info.rs/*
+*://*.n2.rs/*
 *://*.nadlanu.com/*
 *://*.naslovi.net/*
 *://*.naslovnica.rs/*
@@ -83,12 +93,14 @@
 *://*.pancevac-online.rs/*
 *://*.patak.co.rs/*
 *://*.portalanalitika.me/*
+*://*.ppmedia.rs/*
 *://*.pressonline.rs/*
 *://*.pressserbia.com/*
 *://*.princip.news/*
 *://*.prioriteti.info/*
 *://*.prva.rs/*
 *://*.prvii.info/*
+*://*.q-media.rs/*
 *://*.radiobalkanfox.com/*
 *://*.radiobijelopolje.me/*
 *://*.radiojat.rs/*
@@ -96,6 +108,7 @@
 *://*.razbibriga.net/*
 *://*.republika.rs/*
 *://*.resetka.rs/*
+*://*.rtk.co.rs/*
 *://*.rts.rs/*
 *://*.rtsplaneta.rs/*
 *://*.rtv.rs/*
@@ -109,6 +122,7 @@
 *://*.srbin.info/*
 *://*.srpskacafe.com/*
 *://*.srpskainfo.com/*
+*://*.srda.rs/*
 *://*.standard.co.me/*
 *://*.standard.rs/*
 *://*.svet.rs/*
@@ -118,6 +132,7 @@
 *://*.tanjug.rs/*
 *://*.telegraf.rs/*
 *://*.telegraf.tv/*
+*://*.temnic.info/*
 *://*.thepavlovictoday.com/*
 *://*.time.rs/*
 *://*.topnaslovi.rs/*
@@ -133,7 +148,9 @@
 *://*.vestisrbija1.com/*
 *://*.vijesti.me/*
 *://*.vojvodinauzivo.rs/*
+*://*.vreme.com/*
 *://*.zabavnik.com/*
+*://*.zapadnevesti.com/*
 *://*.zicer.org/*
 
 # Tabloids
@@ -144,6 +161,7 @@
 *://*.atastars.rs/*
 *://*.atraktivnoonline.com/*
 *://*.belami.rs/*
+*://*.biznis.rs/*
 *://*.blic.rs/*
 *://*.clip.rs/*
 *://*.elle.rs/*
@@ -194,6 +212,5 @@
 *://*.zadrugavesti.com/*
 *://*.zenskimagazin.net/*
 *://*.zenskimagazin.rs/*
-
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # News Media 🇺🇸,🇬🇧
