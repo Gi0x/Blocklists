@@ -10,6 +10,7 @@
 *://*.browser.yandex.com/*
 *://*.chameleonbrowser.com/*
 *://*.citrio.com/*
+*://*.comet.perplexity.ai/*
 *://*.dolphin-browser-app.com/*
 *://*.dolphin.com/*
 *://*.dolphinbrowserfree.com/*
