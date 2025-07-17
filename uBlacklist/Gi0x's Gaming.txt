@@ -28,6 +28,7 @@
 *://*.gamesradar.com/*
 *://*.gamestop.com/*
 *://*.gaming.net/*
+*://*.gamingonphone.com/*
 *://*.giantbomb.com/*
 *://*.igdb.com/*
 *://*.ign.com/*
@@ -40,15 +41,13 @@
 *://*.playstation.com/*
 *://*.riotgames.com/*
 *://*.sportsgamersonline.com/*
+*://*.supercell.com/*
 *://*.take2games.com/*
 *://*.vcentertainment.com/*
 *://*.videogamegeek.com/*
 *://*.videogameschronicle.com/*
 *://*.worthplaying.com/*
 *://*.xbox.com/*
-
-*://*.supercell.com/*
-*://*.gamingonphone.com/*
 
 # Online Games
 
