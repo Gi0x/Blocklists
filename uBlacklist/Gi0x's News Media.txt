@@ -1,9 +1,6 @@
 # Name: Gi0x's News Media
 # Description: Hides news media from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# News Media 🇺🇸,🇬🇧
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # News Media 🇷🇸,🇲🇪
 
 # News
@@ -20,6 +17,7 @@
 *://*.bijeljinalive.com/*
 *://*.bl-portal.com/*
 *://*.cdm.me/*
+*://*.cudo.rs/*
 *://*.danas.rs/*
 *://*.direktno.rs/*
 *://*.dizajnidom.info/*
@@ -51,6 +49,7 @@
 *://*.juznevesti.com/*
 *://*.k1info.rs/*
 *://*.kolektiv.me/*
+*://*.kratko.rs/*
 *://*.krstarica.com/*
 *://*.kutaknet.com/*
 *://*.mediaportal.rs/*
@@ -74,6 +73,7 @@
 *://*.oazaznanja.com/*
 *://*.pancevac-online.rs/*
 *://*.portalanalitika.me/*
+*://*.pressonline.rs/*
 *://*.pressserbia.com/*
 *://*.princip.news/*
 *://*.prioriteti.info/*
@@ -81,6 +81,7 @@
 *://*.prvii.info/*
 *://*.radiobijelopolje.me/*
 *://*.radiojat.rs/*
+*://*.raskrikavanje.rs/*
 *://*.razbibriga.net/*
 *://*.republika.rs/*
 *://*.resetka.rs/*
@@ -98,11 +99,11 @@
 *://*.srpskainfo.com/*
 *://*.standard.co.me/*
 *://*.standard.rs/*
+*://*.svet.rs/*
 *://*.svetionik.com/*
 *://*.svetplus.com/*
 *://*.svetplus.eu/*
 *://*.tanjug.rs/*
-*://*.tarzanija.com/*
 *://*.telegraf.rs/*
 *://*.telegraf.tv/*
 *://*.time.rs/*
@@ -139,6 +140,7 @@
 *://*.grazia.rs/*
 *://*.hellomagazin.rs/*
 *://*.hypetv.rs/*
+*://*.infolo.rs/*
 *://*.informer.rs/*
 *://*.kurir.rs/*
 *://*.lepotica.rs/*
@@ -149,6 +151,7 @@
 *://*.mondo.me/*
 *://*.mondo.rs/*
 *://*.najzena.rs/*
+*://*.neodoljiva.com/*
 *://*.noizz.rs/*
 *://*.pink-rs.com/*
 *://*.pink.rs/*
@@ -159,12 +162,17 @@
 *://*.pulsonline.rs/*
 *://*.redportal.rs/*
 *://*.radaronline.com/*
+*://*.skandal.in.rs
+*://*.skandalozno.net
 *://*.starmagazin.rs/*
 *://*.story.rs/*
 *://*.sveopoznatima.com/*
 *://*.svet-scandal.rs/*
+*://*.tamodaleko.co.rs/*
+*://*.tarzanija.com/*
 *://*.toxictv.rs/*
 *://*.tracara.com/*
+*://*.vidisliku/*
 *://*.vipscena.com/*
 *://*.wanted.rs/*
 *://*.zabavne-strane.com/*
@@ -173,19 +181,5 @@
 *://*.zenskimagazin.net/*
 *://*.zenskimagazin.rs/*
 
-
-cudo.rs
-infolo.rs
-infomark.rs
-kratko.rs
-neodoljiva.com
-novosti.rs
-nportal.rs
-opanak.rs
-pressonline.rs
-raskrikavanje.rs
-skandal.in.rs
-skandalozno.net
-svet.rs
-tamodaleko.co.rs
-vidisliku.com
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# News Media 🇺🇸,🇬🇧
