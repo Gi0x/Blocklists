@@ -56,6 +56,7 @@
 *://*.mojtv.net/*
 *://*.mzlukavica.com/*
 *://*.n1info.com/*
+*://*.n1info.rs/*
 *://*.nadlanu.com/*
 *://*.naslovi.net/*
 *://*.naslovnica.rs/*
