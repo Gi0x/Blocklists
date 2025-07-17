@@ -12,6 +12,10 @@
 *://*.afkgaming.com/*
 *://*.altarofgaming.com/*
 *://*.boardgamegeek.com/*
+*://*.brawlhub.co/*
+*://*.brawlify.com/*
+*://*.brawlstats.com/*
+*://*.brawltime.ninja/*
 *://*.callofduty.com/*
 *://*.callofdutyleague.com/*
 *://*.cloudchamberstudios.com/*
@@ -30,6 +34,7 @@
 *://*.insider-gaming.com/*
 *://*.kotaku.com/*
 *://*.nba2k.com/*
+*://*.nulls-brawl.com/*
 *://*.officialactivision.com/*
 *://*.pcgamer.com/*
 *://*.playstation.com/*
@@ -43,17 +48,13 @@
 *://*.xbox.com/*
 
 *://*.supercell.com/*
-*://*.brawlhub.co/*
-*://*.brawlstats.com/*
-*://*.brawlify.com/*
-*://*.nulls-brawl.com/*
-*://*.brawltime.ninja/*
 *://*.gamingonphone.com/*
 
 # Online Games
 
 *://*.battle.net/*
 *://*.gameslol.net/*
+*://*.king.com/*
 *://*.miniplay.com/*
 *://*.puzzlegame.com/*
 *://*.poki.com/*
