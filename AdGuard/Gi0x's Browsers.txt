@@ -1,6 +1,7 @@
 ! Title: Gi0x's Browsers
 ! Description: Blocks unwanted browsers
-!
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 ||avantbrowser.com^
 ||avast.com/secure-browser^
 ||avg.com/en-ww/secure-browser^
