@@ -12,6 +12,7 @@
 *://*.chameleonbrowser.com/*
 *://*.citrio.com/*
 *://*.comet.perplexity.ai/*
+*://*.diabrowser.com/*
 *://*.dolphin-browser-app.com/*
 *://*.dolphin.com/*
 *://*.dolphinbrowserfree.com/*
