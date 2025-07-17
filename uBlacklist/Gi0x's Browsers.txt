@@ -1,5 +1,5 @@
 # Title: Gi0x's Browsers
-# Description: Removes unwanted browsers from search results
+# Description: Hides unwanted browsers from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.avantbrowser.com/*
