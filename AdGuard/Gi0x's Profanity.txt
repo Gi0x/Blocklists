@@ -3,9 +3,12 @@
 
 ! [abc]
 
-! [ab13]
+
+
+
+! Keywords with # – [ab13]
 
 ||a55
 ||a55hole
 
-! [a$b!]
+! Keywords with foreign characters – [ábc]
