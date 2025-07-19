@@ -1,5 +1,7 @@
 # Name: Gi0x's Gaming
 # Description: Hides gaming sites and apps from search results
+# DeDuplicated: No
+# Sorted (A-Z): No
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 # Gaming Companies, Media & Stores
@@ -102,6 +104,7 @@
 *://*.yad.com/*
 
 # Unsorted
+
 *://*.kbhgames.com/*
 *://*.arcadethunder.com/*
 *://*.arkadium.com/*
