@@ -92,6 +92,7 @@
 *://*.nezavisne.com/*
 *://*.nezavisni.rs/*
 *://*.nezavisniportal.info/*
+*://*.nirapress.com/*
 *://*.njuz.net/*
 *://*.nogomania.com/*
 *://*.nova.rs/*
@@ -167,6 +168,7 @@
 *://*.vijesti.me/*
 *://*.vojvodinauzivo.rs/*
 *://*.vreme.com/*
+*://*.wannabemagazine.com/*
 *://*.zabavnik.com/*
 *://*.zajecar.com/*
 *://*.zapadnevesti.com/*
