@@ -1,7 +1,7 @@
 # Name: Gi0x's News Media
 # Description: Hides news media from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# News Media 🇷🇸,🇲🇪
+# News Media 🇷🇸,🇲🇪,🇧🇦
 
 # News
 
@@ -19,6 +19,7 @@
 *://*.b92.net/*
 *://*.balkaninsight.com/*
 *://*.banjaluka.net/*
+*://*.bhindex.com/*
 *://*.bijeljinalive.com/*
 *://*.bizlife.rs/*
 *://*.bizportal.rs/*
@@ -111,6 +112,7 @@
 *://*.poduzetnik.biz/*
 *://*.portalanalitika.me/*
 *://*.ppmedia.rs/*
+*://*.pressmediabih.com/*
 *://*.pressonline.rs/*
 *://*.pressserbia.com/*
 *://*.princip.news/*
