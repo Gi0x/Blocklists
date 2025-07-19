@@ -1,7 +1,8 @@
 # Name: Gi0x's Chat
 # Description: Hides random chat sites and apps from search results
-# Deduplicated: Yes
-# Sorted (A-Z): Yes
+# Deduplicated: Y
+# Sorted (A-Z): Y
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.321chat.com/*
