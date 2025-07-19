@@ -31,7 +31,6 @@
 *://*.thefamousbirthdays.com/*
 *://*.thestarsfact.co/*
 *://*.wallpapercave.com/*
-*://*.whosdatedwho.com/*
 *://*.walikali.com/*
 *://*.popularbio.com/*
 
