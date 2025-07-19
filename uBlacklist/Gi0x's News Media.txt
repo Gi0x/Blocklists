@@ -19,6 +19,7 @@
 *://*.b92.net/*
 *://*.balkaninsight.com/*
 *://*.bijeljinalive.com/*
+*://*.bizlife.rs/*
 *://*.bizportal.rs/*
 *://*.bl-portal.com/*
 *://*.bogatic.info/*
@@ -49,6 +50,7 @@
 *://*.hercegovinapress.com/*
 *://*.hitfm.rs/*
 *://*.hotsport.rs/*
+*://*.i2portal.rs/*
 *://*.ikragujevac.com/*
 *://*.imperij.com/*
 *://*.indeks.rs/*
@@ -70,6 +72,8 @@
 *://*.krik.rs/*
 *://*.krstarica.com/*
 *://*.kutaknet.com/*
+*://*.laviedeluxe.rs/*
+*://*.lavieenrose.rs/*
 *://*.magazinbiznis.rs/*
 *://*.mediaportal.rs/*
 *://*.mojtv.net/*
@@ -104,6 +108,7 @@
 *://*.pressserbia.com/*
 *://*.princip.news/*
 *://*.prioriteti.info/*
+*://*.profitmagazin.com/*
 *://*.prva.rs/*
 *://*.prvii.info/*
 *://*.q-media.rs/*
