@@ -99,6 +99,7 @@
 *://*.novatv.rs/*
 *://*.novosti.rs/*
 *://*.nportal.rs/*
+*://*.nspm.rs/*
 *://*.nsuzivo.rs/*
 *://*.nultatacka.rs/*
 *://*.oazaznanja.com/*
