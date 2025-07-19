@@ -25,6 +25,7 @@
 *://*.bizportal.rs/*
 *://*.bl-portal.com/*
 *://*.bogatic.info/*
+*://*.bosnamedia.info
 *://*.buro247.rs/*
 *://*.cdm.me/*
 *://*.cudo.rs/*
@@ -135,6 +136,7 @@
 *://*.rtvbap.rs/*
 *://*.rtvbn.com/*
 *://*.samoprovereno.com/*
+*://*.sarajevotimes.com/*
 *://*.sd.rs/*
 *://*.serbianmonitor.com/*
 *://*.serbiantimes.info/*
@@ -190,6 +192,7 @@
 *://*.belami.rs/*
 *://*.biznis.rs/*
 *://*.blic.rs/*
+*://*.cenzurisano.info/*
 *://*.clip.rs/*
 *://*.elle.rs/*
 *://*.espreso.co.rs/*
