@@ -154,6 +154,7 @@
 *://*.telegraf.tv/*
 *://*.temnic.info/*
 *://*.thepavlovictoday.com/*
+*://*.thesrpskatimes.com/*
 *://*.time.rs/*
 *://*.topnaslovi.rs/*
 *://*.trebinjelive.info/*
