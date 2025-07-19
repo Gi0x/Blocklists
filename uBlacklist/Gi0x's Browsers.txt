@@ -10,6 +10,7 @@
 *://*.browser.qq.com/*
 *://*.browser.yandex.com/*
 *://*.chameleonbrowser.com/*
+*://*.chromium.org/*
 *://*.citrio.com/*
 *://*.comet.perplexity.ai/*
 *://*.diabrowser.com/*
