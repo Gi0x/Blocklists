@@ -110,6 +110,7 @@
 *://*.opcija.net/*
 *://*.pancevac-online.rs/*
 *://*.patak.co.rs/*
+*://*.pescanik.net/*
 *://*.poduzetnik.biz/*
 *://*.portalanalitika.me/*
 *://*.ppmedia.rs/*
