@@ -1,5 +1,7 @@
 # Name: Gi0x's Dating
-# Description: Hides dating, hookup & meetup sites from search results
+# Description: Hides anything that has to do with dating, love & seduction from search results
+# DeDuplicated: N
+# Sorted (A-Z): N
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.druzenje.rs/*
@@ -9,3 +11,25 @@
 *://*.upoznavanje-druzenje.com/*
 *://*.upoznavanje.org/*
 *://*.whosdatedwho.com/*
+
+/alphalifestyle\.(com)/
+/alpham\.(com)/
+/alphamagazines\.(com)/
+/alphamaleblueprint\.(com)/
+/alphamalegrooming\.()/
+/alphamalementality\.(com)/
+/alphamalenation\.(com)/
+/alphamalestrategies\.(com)/
+/alphamalestyle\.(com)/
+/alphamalesystem\.(com)/
+/alphamantraining\.(com)/
+/menprovement\.(com)/
+/mens-corner\.(net)/
+/mensaxis\.(com)/
+/menscience\.(com)/
+/mensfitclub\.(com)/
+/menshealth\.(com)/
+/mensjournal\.(com)/
+/menstylefashion\.(com)/
+/mensxp\.(com)/
+/menwit\.(com)/
