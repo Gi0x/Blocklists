@@ -54,7 +54,7 @@
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Other
-# Anonymous instagram viewing sites, social media stats, etc.
+# Anonymous Instagram viewing sites, social media stats, etc.
 
 *://*.ahasave.com/*
 *://*.anon-viewer.com/*
