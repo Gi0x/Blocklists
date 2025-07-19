@@ -2,8 +2,8 @@
 # Description: Hides clickbait, listicles & other pointless sites from search results
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-*://*.aidwiki.com/*
-*://*.allfamous.org/*
+# Biographies
+
 *://*.allstarbio.com/*
 *://*.biografija.org/*
 *://*.biografijaonline.com/*
@@ -11,16 +11,14 @@
 *://*.biographiesareus.com/*
 *://*.biographs.org/*
 *://*.bioscops.com/*
+*://*.wikistarbio.com/*
+
+# Wikis
+
+*://*.aidwiki.com/*
 *://*.collegepill.com/*
 *://*.deadorkicking.com/*
 *://*.facts.net/*
-*://*.famousbirthdays.com/*
-*://*.famousdetails.com/*
-*://*.famousfix.com/*
-*://*.fandango.com/*
-*://*.fandom.com/*
-*://*.fanpop.com/*
-*://*.glamourfame.com/*
 *://*.gossipsdiary.com/*
 *://*.hollywoodlife.com/*
 *://*.howold.co/*
@@ -29,16 +27,12 @@
 *://*.listal.com/*
 *://*.popkult.org/*
 *://*.popnable.com/*
-*://*.poznatelicnosti.org/*
 *://*.savedaughters.com/*
 *://*.thefamousbirthdays.com/*
 *://*.thestarsfact.co/*
 *://*.wallpapercave.com/*
 *://*.whosdatedwho.com/*
-*://*.wikistarbio.com/*
 *://*.walikali.com/*
-
-*://*.famousfix.com/*
 *://*.popularbio.com/*
 
 # Celebs
@@ -160,7 +154,6 @@
 *://*.celebism.com/*
 *://*.celebitchy.com/*
 *://*.celebjar.com/*
-*://*.celebjihad.com/*
 *://*.celeblives.net/*
 *://*.celeblr.com/*
 *://*.celebmafia.com/*
@@ -381,3 +374,51 @@
 *://*.worldcelebzone.com/*
 *://*.wsceleb.com/*
 *://*.yolocelebs.com/*
+
+# Fame
+
+*://*.allfamous.org/*
+*://*.famousbirthdays.com/*
+*://*.famousdetails.com/*
+*://*.famousfix.com/*
+*://*.fandango.com/*
+*://*.fandom.com/*
+*://*.fanpop.com/*
+*://*.glamourfame.com/*
+*://*.poznatelicnosti.org/*
+*://*.famousfix.com/*
+
+# Networth
+
+/netforworth\.(blogspot)/
+/nettvplus\.(com)/
+/networth\.(live)/
+/networth202\.(com)/
+/networthandsalary\.(com)/
+/networthblaze\.(com)/
+/networthbobserver\.(com)/
+/networthbox\.(com)/
+/networthbro\.(com)/
+/networthcity\.(com)/
+/networthculture\.(com)/
+/networthdatabase\.(com)/
+/networthenvy\.(com)/
+/networther\.(com)/
+/networthey\.(com)/
+/networthfolk\.(com)/
+/networthguide\.(com)/
+/networthheightsalary\.(com)/
+/networthier\.(com)/
+/networthlist\.(org)/
+/networthlists\.(com)/
+/networthmag\.(com)/
+/networthpedia\.(com)/
+/networthplanet\.(com)/
+/networthpost\.(org)/
+/networthq\.(com)/
+/networthreporter\.(com)/
+/networthstatus\.(com)/
+/networthupdates\.(com)/
+/networthwikibio\.(org)/
+/networthxi\.(com)/
+/networthzone\.(com)/
