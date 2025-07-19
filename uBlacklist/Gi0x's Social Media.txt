@@ -3,6 +3,7 @@
 # DeDuplicated: Y
 # Sorted (A-Z): Y
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 # Social Media
 
@@ -51,7 +52,9 @@
 *://*.vk.com/*
 *://*.x.com/*
 
-# Anonymous Instagram Viewng Sites
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Other
+# Anonymous instagram viewing sites, social media stats, etc.
 
 *://*.ahasave.com/*
 *://*.anon-viewer.com/*
