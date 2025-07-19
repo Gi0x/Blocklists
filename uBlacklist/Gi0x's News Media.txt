@@ -18,6 +18,7 @@
 *://*.avalainfo.net/*
 *://*.b92.net/*
 *://*.balkaninsight.com/*
+*://*.banjaluka.net/*
 *://*.bijeljinalive.com/*
 *://*.bizlife.rs/*
 *://*.bizportal.rs/*
