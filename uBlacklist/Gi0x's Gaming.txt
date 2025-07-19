@@ -101,5 +101,19 @@
 *://*.topgames.com/*
 *://*.yad.com/*
 
+# Unsorted
 *://*.kbhgames.com/*
 *://*.arcadethunder.com/*
+*://*.arkadium.com/*
+*://*.aarp.org/*
+*://*.innogames.com/*
+*://*.epicgames.com/*
+*://*.agame.com/*
+*://*.funbrain.com/*
+*://*.tetris.com/*
+*://*.stadia.google.com/*
+*://*.eveonline.com/*
+*://*.bgames.com/*
+*://*.pogo.com/*
+*://*.smartgameslive.com/*
+
