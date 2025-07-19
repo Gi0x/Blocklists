@@ -12,6 +12,7 @@
 *://*.facebook.com/*
 *://*.instagram.com/*
 *://*.joinmastodon.org/*
+*://*.linkedin.com/*
 *://*.mas.to/*
 *://*.masto.ai/*
 *://*.masto.host/*
