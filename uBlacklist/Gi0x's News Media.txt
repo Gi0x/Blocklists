@@ -232,6 +232,7 @@
 *://*.zabavne-strane.com/*
 *://*.zadruga-uzivo.com/*
 *://*.zadrugavesti.com/*
+*://*.zenskikutak.rs/*
 *://*.zenskimagazin.net/*
 *://*.zenskimagazin.rs/*
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
