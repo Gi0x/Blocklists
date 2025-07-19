@@ -1,5 +1,7 @@
 # Name: Gi0x's Sports
 # Description: Hides all sports related sites (incl. streaming) from search results
+# DeDuplicated: Y
+# Sorted (A-Z): Y
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.7plus.com/*
