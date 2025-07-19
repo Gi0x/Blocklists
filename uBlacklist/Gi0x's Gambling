@@ -1,3 +1,6 @@
+# Title: Gi0x's Gambling
+# Description: Hides gambling & betting sites from search results
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.maxbetsport.rs/*
 *://*.fansport.rs/*
@@ -28,3 +31,25 @@
 *://*.williamhill.com/*
 *://*.williamhillplc.com/*
 *://*.mybettingsites.com/*
+
+
+/247blackjack\.(com)/
+/247freepoker\.(com)/
+/bestbettingsites\.(co)/
+/bet\.(com)/
+/bet365\.(com)/
+/bet365affiliates\.(com)/
+/betfair\.(com)/
+/betfred\.(com)/
+/betsson\.(com)/
+/boylesports\.(com)/
+/bwin\.(com)/
+/casino\.(org)/
+/coral\.(co)/
+/flutter\.(com)/
+/ladbrokes\.(com)/
+/oddschecker\.(com)/
+/paddypower\.(com)/
+/unibetopen\.(com)/
+/zyngapoker\.(com)/
+
