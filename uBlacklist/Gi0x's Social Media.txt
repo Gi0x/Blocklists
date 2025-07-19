@@ -1,5 +1,7 @@
 # Title: Gi0x's Social Media
 # Description: Hides Social Media & Instagram viewing sites from search results
+# DeDuplicated: Y
+# Sorted (A-Z): Y
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 # Social Media
