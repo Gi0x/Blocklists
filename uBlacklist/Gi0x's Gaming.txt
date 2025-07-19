@@ -1,10 +1,10 @@
 # Name: Gi0x's Gaming
 # Description: Hides gaming sites and apps from search results
-# DeDuplicated: No
-# Sorted (A-Z): No
+# DeDuplicated: N
+# Sorted (A-Z): N
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-# Gaming Companies, Media & Stores
+# Game Development Companies
 
 *://*.2k.com/*
 *://*.2kczech.com/*
@@ -73,7 +73,10 @@
 *://*.nichegamer.com/*
 *://*.g2a.com/*
 
-# Online Gaming Platforms or Websites
+# Gaming News Media
+
+
+# Online Games
 
 *://*.aking.io/*
 *://*.arcadespot.com/*
@@ -120,3 +123,113 @@
 *://*.pogo.com/*
 *://*.smartgameslive.com/*
 
+/aarp\.(org)/
+/addictinggames\.(com)/
+/agame\.(com)/
+/agbrief\.(com)/
+/airforce\.(com)/
+/animaljam\.(com)/
+/arkadium\.(com)/
+/beano\.(com)/
+/betaseries\.(com)/
+/bgames\.(com)/
+/bigfishgames\.(com)/
+/boardgamearena\.(com)/
+/caesars\.(com)/
+/chess\.(com)/
+/codenames\.(game)/
+/construct\.(net)/
+/coolmathgames\.(com)/
+/crazygames\.(com)/
+/daysofwonder\.(com)/
+/elderscrollsonline\.(com)/
+/epicgames\.(com)/
+/eurogamer\.(net)/
+/europeangaming\.(eu)/
+/eveonline\.(com)/
+/freeonlinegames\.(com)/
+/funbrain\.(com)/
+/g2a\.(com)/
+/gamasexual\.(com)/
+/gamehouse\.(com)/
+/gameinformer\.(com)/
+/gamepix\.(com)/
+/gameranger\.(com)/
+/gamerant\.(com)/
+/gamereactor\.(eu)/
+/gamerworldnews\.(com)/
+/games\.(metv)/
+/gamesgames\.(com)/
+/gamesnewzz\.(com)/
+/gamespot\.(com)/
+/gamesradar\.(com)/
+/gamesxl\.(com)/
+/gametop\.(com)/
+/gamilab\.(com)/
+/gamingbolt\.(com)/
+/gaminglyfe\.(com)/
+/gamingverdict\.(com)/
+/gizbot\.(com)/
+/gog\.(com)/
+/gogy\.(com)/
+/happygamer\.(com)/
+/heyduggee\.(com)/
+/igg\.(com)/
+/ign\.(com)/
+/innogames\.(com)/
+/jackboxgames\.(com)/
+/jiogames\.(com)/
+/kahoot\.(com)/
+/kevin\.(games)/
+/kiloo\.(com)/
+/kizi\.(com)/
+/kotaku\.(com)/
+/lagged\.(com)/
+/leagueoflegends\.(com)/
+/miniclip\.(com)/
+/n4g\.(com)/
+/parsec\.(app)/
+/pcgamer\.(com)/
+/pcgamesn\.(com)/
+/play-games\.(com)/
+/play\.(barbie)/
+/playcaliber\.(com)/
+/playclassic\.(games)/
+/playgwent\.(com)/
+/playoverwatch\.(com)/
+/playvalorant\.(com)/
+/pocketgamer\.(biz)/
+/pocketgamer\.(com)/
+/pogo\.(com)/
+/pokemon\.(com)/
+/poki\.(com)/
+/polygon\.(com)/
+/replaypoker\.(com)/
+/riotgames\.(com)/
+/rockpapershotgun\.(com)/
+/setgame\.(com)/
+/shockwave\.(com)/
+/smartgameslive\.(com)/
+/stadia.google\.(com)/
+/steampowered\.(com)/
+/sudoku\.(com)/
+/tabletopgamingnews\.(com)/
+/tabletopia\.(com)/
+/tankionline\.(com)/
+/tetris\.(com)/
+/thegamer\.(com)/
+/thegamerspost\.(com)/
+/totalbattle\.(com)/
+/twitch\.(tv)/
+/twitchrivals\.(com)/
+/unboxholics\.(com)/
+/videogamer\.(com)/
+/videogameschronicle\.(com)/
+/wheeloffortune\.(com)/
+/wizardofodds\.(com)/
+/worldoftanks\.(eu)/
+/worldofwarplanes\.(com)/
+/xbox\.(com)/
+/zapak\.(com)/
+/zigiz\.(com)/
+/zynga\.(com)/
