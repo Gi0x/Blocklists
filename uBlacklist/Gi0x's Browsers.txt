@@ -1,7 +1,8 @@
 # Title: Gi0x's Browsers
 # Description: Hides unwanted browsers from search results
-# Deduplicated: Yes
-# Sorted (A-Z): Yes
+# Deduplicated: Y
+# Sorted (A-Z): Y
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.avantbrowser.com/*
