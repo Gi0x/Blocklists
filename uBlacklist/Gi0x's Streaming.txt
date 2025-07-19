@@ -1,1 +1,6 @@
-
+# Name: Gi0x's Straming
+# Description: Hides streaming audio & video sites from search results
+# DeDuplicated: N
+# Sorted (A-Z): N
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
