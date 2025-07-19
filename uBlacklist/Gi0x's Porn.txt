@@ -1,5 +1,7 @@
 # Name: Gi0x's Porn
 # Description: Hides porn sites from search results
+# DeDuplicated: Y
+# Sorted (A-Z): Y
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 *://*.171gifs.com/*
