@@ -68,6 +68,8 @@
 *://*.horoscopes.astro-seek/*
 *://*.horoscopeurdu.com/*
 *://*.horoscopius.app/*
+*://*.horoskopius.com/*
+*://*.horoskopskiznakovi.com/*
 *://*.izodiacsigns.com/*
 *://*.justastrologythings.com/*
 *://*.kellystarsigns.com/*
