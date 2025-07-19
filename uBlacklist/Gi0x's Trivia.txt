@@ -36,6 +36,7 @@
 *://*.wallpapercave.com/*
 *://*.whosdatedwho.com/*
 *://*.wikistarbio.com/*
+*://*.walikali.com/*
 
 *://*.famousfix.com/*
 *://*.popularbio.com/*
@@ -370,7 +371,6 @@
 *://*.veryceleb.com/*
 *://*.videocelebs.net/*
 *://*.vts-celeb.com/*
-*://*.walikali.com/*
 *://*.wallofcelebrities.com/*
 *://*.wcelebs.com/*
 *://*.wealthycelebrity.com/*
