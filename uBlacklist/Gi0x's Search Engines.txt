@@ -1,5 +1,7 @@
 # Name: Gi0x's Search Engines
-# Description: Hides search engines from search results
+# Description: Hides unwanted search engines from search results
+# DeDuplicated: N
+# Sorted (A-Z): N
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 # Main Search Engines
