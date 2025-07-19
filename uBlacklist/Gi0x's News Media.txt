@@ -131,6 +131,7 @@
 *://*.rtv.rs/*
 *://*.rtvbap.rs/*
 *://*.rtvbn.com/*
+*://*.samoprovereno.com/*
 *://*.sd.rs/*
 *://*.serbianmonitor.com/*
 *://*.serbiantimes.info/*
