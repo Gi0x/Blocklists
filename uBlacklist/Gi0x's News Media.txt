@@ -23,6 +23,7 @@
 *://*.bizportal.rs/*
 *://*.bl-portal.com/*
 *://*.bogatic.info/*
+*://*.buro247.rs/*
 *://*.cdm.me/*
 *://*.cudo.rs/*
 *://*.danas.rs/*
@@ -59,6 +60,7 @@
 *://*.infopress.rs/*
 *://*.injournal.rs/*
 *://*.internetprovale.com/*
+*://*.iserbia.rs/*
 *://*.istinomer.rs/*
 *://*.izvorno.info/*
 *://*.jabuka.tv/*
@@ -84,6 +86,7 @@
 *://*.nadlanu.com/*
 *://*.naslovi.net/*
 *://*.naslovnica.rs/*
+*://*.navidiku.rs/*
 *://*.nedeljnik.rs/*
 *://*.news-pravda.com/*
 *://*.nezavisne.com/*
@@ -102,6 +105,7 @@
 *://*.opcija.net/*
 *://*.pancevac-online.rs/*
 *://*.patak.co.rs/*
+*://*.poduzetnik.biz/*
 *://*.portalanalitika.me/*
 *://*.ppmedia.rs/*
 *://*.pressonline.rs/*
