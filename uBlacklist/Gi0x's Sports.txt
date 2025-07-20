@@ -35,6 +35,7 @@
 *://*.livesportstreams.tv/*
 *://*.my.dish.com/*
 *://*.nbcsports.com/*
+*://*.nogomania.rs/*
 *://*.now.sportsnet.ca/*
 *://*.olympics.com/*
 *://*.olympicstreams.me/*
