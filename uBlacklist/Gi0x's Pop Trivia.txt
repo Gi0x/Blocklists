@@ -1,5 +1,5 @@
-# Title: Gi0x's Trivia
-# Description: Hides clickbait, listicles & other pointless sites from search results
+# Title: Gi0x's Pop Trivia
+# Description: Hides clickbaity articles, listicles & wikis
 # DeDuplicated: N
 # Sorted (A-Z): N
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
