@@ -1,5 +1,5 @@
 # Name: Gi0x's TLDs [cc]
-# Description: Hides TLDs, by country code, from search results
+# Description: Hides TLDs by country code
 # DeDuplicated: Y
 # Sorted (A-Z): Y
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
@@ -9,8 +9,7 @@
 # 🌍 AFRICA
 
 /.*\.(ao|bf|bi|bj|bw|cd|cf|cg|ci|cm|cv|dj|dz|eg|eh|er|et|ga|gh|gm|gn|gq|gw|ke|km|lr|ls|ly|ma|mg|ml|mr|mu|mw|mz|na|ng|rw|sc|sd|sl|sn|so|ss|st|sz|td|tg|tn|tz|ug|yt|za|zm|zw)($|\/)/
-
-# Excluded: ne - because of .net
+# [Excluded = .ne - for .net]
 
 # .ao - Angola / .bf - Burkina Faso / .bi - Burundi / .bj - Benin / .bw - Botswana / .cd - Democratic Republic of the Congo / .cf - Central African Republic / .cg - Republic of the Congo / .ci - Côte d'Ivoire / .cm - Cameroon / .cv - Cabo Verde / .dj - Djibouti / .dz - Algeria / .eg - Egypt / .eh - Western Sahara / .er - Eritrea / .et - Ethiopia / .ga - Gabon / .gh - Ghana / .gm - The Gambia / .gn - Guinea / .gq - Equatorial Guinea / .gw - Guinea-Bissau / .ke - Kenya / .km - Comoros / .lr - Liberia / .ls - Lesotho / .ly - Libya / .ma - Morocco / .mg - Madagascar / .ml - Mali / .mr - Mauritania / .mu - Mauritius / .mw - Malawi / .mz - Mozambique / .na - Namibia / .ne - Niger / .ng - Nigeria / .rw - Rwanda / .sc - Seychelles / .sd - Sudan / .sl - Sierra Leone / .sn - Senegal / .so - Somalia / .ss - South Sudan / .st - São Tomé & Príncipe / .sz - Eswatini / .td - Chad / .tg - Togo / .tn - Tunisia / .tz - Tanzania / .ug - Uganda / .yt - Mayotte / .za - South Africa / .zm - Zambia / .zr - Zaire / .zw - Zimbabwe
 
@@ -18,8 +17,7 @@
 # 🌎 AMERICAS
 
 /.*\.(ag|ai|ar|aw|bb|bl|bm|bo|br|bs|bz|cl|cr|cu|dm|do|ec|gf|gd|gp|gt|gy|hn|ht|jm|kn|lc|mq|ms|mx|ni|pa|pe|pr|py|sr|sv|tc|tt|us|uy|ve|vc|vg|vi)($|\/)/
-
-# Excluded: ca, co - because of .co,.com,.co.uk
+# [Excluded = .ca, .co - for .co,.com,.co.uk]
 
 # .ag - Antigua & Barbuda / .ai - Anguilla / .an - Dutch Antilles / .ar - Argentina / .aw - Aruba / .bb - Barbados / .bl - Saint Barthélemy / .bm - Bermuda / .bo - Bolivia / .bq - Bonaire / Sint Eustatius & Saba / .br - Brazil / .bs - Bahamas / .bz - Belize / .ca - Canada / .cl - Chile / .co - Colombia / .cr - Costa Rica / .cu - Cuba / .dm - Dominica / .do - Dominican Republic / .ec - Ecuador / .fk - Falkland Islands / .gd - Grenada / .gf - French Guiana / .gl - Greenland / .gp - Guadeloupe / .gt - Guatemala / .gy - Guyana / .hn - Honduras / .ht - Haiti / .jm - Jamaica / .kn - Saint Kitts & Nevis / .ky - Cayman Islands / .lc - Saint Lucia / .mq - Martinique / .ms - Montserrat / .mx - Mexico / .ni - Nicaragua / .pa - Panama / .pe - Peru / .pm - Saint Pierre & Miquelon / .pr - Puerto Rico / .py - Paraguay / .sr - Suriname / .sv - El Salvador / .tc - Turks & Caicos Islands / .tt - Trinidad & Tobago / .us - United States / .uy - Uruguay / .vc - Saint Vincent & the Grenadines / .ve - Venezuela / .vg - British Virgin Islands / .vi - U.S. Virgin Islands 
 
@@ -41,8 +39,7 @@
 # 🌍 EUROPE
 
 /.*\.(ad|al|ba|be|bg|bl|by|cy|cz|dk|ee|fi|fo|gb|gi|gl|hr|ie|im|is|je|li|lt|lu|lv|mc|md|mk|mt|nl|no|pl|pt|ro|ru|se|si|sk|sm|su|uk|va|yu)($|\/)/
-
-# Excluded: at, ch, de, es, eu, fr, gr, hu, it, me, rs, ua
+# [Excluded = .at, .ch, .de, .es, .eu, .fr, .gr, .hu, .it, .me, .rs, .ua]
 
 # .ad - Andorra / .al - Albania / .at - Austria / .ax - Åland Islands / .ba - Bosnia & Herzegovina / .be - Belgium / .bg - Bulgaria / .by - Belarus / .ch - Switzerland / .cs - Serbia & Montenegro / .cy - Cyprus / .cz - Czech Republic / .dd - East Germany (GDR) / .de - Germany / .dk - Denmark / .ee - Estonia / .es - Spain / .eu - European Union / .fi - Finland / .fo - Faroe Islands / .fr - France / .gb - United Kingdom / .gg - Guernsey / .gi - Gibraltar / .gl - Greenland / .gr - Greece / .hr - Croatia / .hu - Hungary / .ie - Ireland / .im - Isle of Man / .is - Iceland / .it - Italy / .je - Jersey / .li - Liechtenstein / .lt - Lithuania / .lu - Luxembourg / .lv - Latvia / .mc - Monaco / .md - Moldova / .me - Montenegro / .mk - North Macedonia / .mt - Malta / .nl - Netherlands / .no - Norway / .pl - Poland / .pt - Portugal / .ro - Romania / .rs - Serbia / .ru - Russia / .se - Sweden / .si - Slovenia / .sk - Slovakia / .sm - San Marino / .su - Soviet Union / .ua - Ukraine / .uk - United Kingdom / .va - Vatican City / .yu - Yugoslavia
 
