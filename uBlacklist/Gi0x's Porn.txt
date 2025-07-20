@@ -322,6 +322,7 @@
 *://*.clipvs.net/*
 *://*.clipx.tv/*
 *://*.cloudisexy.com/*
+*://*.cloudizsexy.com/*
 *://*.club-nikkibenz.com/*
 *://*.clubesperanzagomez.com/*
 *://*.clubjuliaann.com/*
@@ -744,6 +745,7 @@
 *://*.hotntubes.com/*
 *://*.hotnudemilfs.com/*
 *://*.hotnupics.com/*
+*://*.hotsportsgirls.com/*
 *://*.hotzxgirl.com/*
 *://*.hqmilfsex.com/*
 *://*.hqporn.pics/*
@@ -1235,6 +1237,7 @@
 *://*.picsporner.com/*
 *://*.pictoa.com/*
 *://*.pimpandhost.com/*
+*://*.pinayflixx.com/*
 *://*.pinkbunny.ph/*
 *://*.pinkcherry.ca/*
 *://*.pinkcherry.com/*
@@ -1721,11 +1724,16 @@
 *://*.theenhancedmale.com/*
 *://*.theeroticreview.com/*
 *://*.theeverygirl.com/*
+*://*.thefappening2015.com/*
 *://*.thefappening.plus/*
 *://*.thefappening.pm/*
 *://*.thefappening.pro/*
+*://*.thefappening.news/*
+*://*.thefappening.uk/*
 *://*.thefappeningblog.com/*
 *://*.thefappeningleak.com/*
+*://*.thefappeningstars.com/*
+*://*.thefappeningtop.com/*
 *://*.theguyshack.com/*
 *://*.thehappywife.com/*
 *://*.thelifelisaann.com/*
@@ -2027,7 +2035,9 @@
 *://*.xxximg.in/*
 *://*.xxxincestsex.com/*
 *://*.xxxjav.cc/*
+*://*.xxxlib.net/*
 *://*.xxxlibz.com/*
+*://*.xxxlibz.net/*
 *://*.xxxmaturemoms.com/*
 *://*.xxxneoncity.com/*
 *://*.xxxomg.com/*
