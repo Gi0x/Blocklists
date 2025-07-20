@@ -1,5 +1,8 @@
 ! Title: Gi0x's Astrology
 ! Description: Blocks astrology & tarot websites
+! DeDuplicated: Y
+! Sorted: N
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 123-tarot.com
