@@ -1,6 +1,10 @@
 ! Title: Gi0x's Photo Editors
 ! Description: Blocks online photo editing sites
-!
+! DeDuplicated: Y
+! Sorted: Y
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 ||123rf.com^
 ||anymaking.com^
 ||batchphoto.com^
