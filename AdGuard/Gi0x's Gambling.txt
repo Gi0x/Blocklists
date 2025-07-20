@@ -1,4 +1,5 @@
-
+! Title: Gi0x's Gambling
+! Description: Blocks gambling & betting sites
 ! DeDuplicated: N
 ! Sorted: N
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
