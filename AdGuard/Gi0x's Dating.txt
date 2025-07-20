@@ -1,3 +1,5 @@
+! Title: Gi0x's Dating
+! Description: Blocks random chat sites and apps
 ! DeDuplicated: N
 ! Sorted: N
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
