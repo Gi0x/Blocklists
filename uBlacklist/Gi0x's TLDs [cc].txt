@@ -49,3 +49,7 @@
 /.*\.(as|au|ck|fj|fm|gu|ki|mh|mp|nc|nf|nr|nu|nz|pg|pw|sb|tk|to|tv|vu|wf|ws)($|\/)/
 
 # .as) - American Samoa, .au - Australia, .ck - Cook Islands, .fj - Fiji, .fm - Micronesia, .gu - Guam, .ki - Kiribati, .mh - Marshall Islands, .mp - Northern Mariana Islands, .nc - New Caledonia, .nf - Norfolk Island, .nh - New Hebrides, .nr - Nauru, .nu - Niue, .nz - New Zealand, .pf - French Polynesia, .pg - Papua New Guinea, .pw - Palau, .sb - Solomon Islands, .tk - Tokelau, .tl - Timor-Leste, .to - Tonga, .tv - Tuvalu, .vu - Vanuatu, .wf - Wallis & Futuna, .ws - Samoa
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Notes on Rules Syntax
+# 
