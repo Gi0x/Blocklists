@@ -1,6 +1,10 @@
 ! Title: Gi0x's Chat
 ! Description: Blocks random chat sites and apps
-!
+! DeDuplicated: Y
+! Sorted: Y
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 ||321chat.com^
 ||adriachat.com^
 ||airtalk.live^
