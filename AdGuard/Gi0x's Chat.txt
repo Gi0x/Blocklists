@@ -1,5 +1,5 @@
 ! Title: Gi0x's Chat
-! Description: Blocks random chat sites and apps
+! Description: Blocks chat sites & apps
 ! DeDuplicated: Y
 ! Sorted: Y
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
