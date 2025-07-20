@@ -1,8 +1,12 @@
-! Title: Gi0x's Social Media
-! Description: Blocks various social media sites
-!
+! Name: Gi0x's Social Media
+! Description: Blocks social media
+! DeDuplicated: N
+! Sorted (A-Z): N
+! ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+! ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Social Media
-!
+
 ||ask.fm^
 ||bere.al^
 ||bereal.com^
@@ -50,9 +54,10 @@
 ||vk.com^
 ||vk.me^
 ||x.com^
-!
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Other
-!
+
 ||ahasave.com^
 ||anon-viewer.com^
 ||anonimoig.com^
