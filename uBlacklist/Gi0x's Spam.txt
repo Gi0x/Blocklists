@@ -1,0 +1,19 @@
+# Spammy question/answer farms
+*.quora.com
+*.answers.com
+*.ask.com
+
+# Fake download and software mirror sites
+*.softonic.com
+*.filehippo.com
+*.freedownloadmanager.org
+
+# Affiliate SEO spam
+*.top10best.com
+*.bestreviewsite.net
+*.productrankings.co
+
+# Low-quality copycat tutorials
+*.geeksforgeeks.org
+*.tutorialspoint.com
+*.studytonight.com
