@@ -1,14 +1,24 @@
-! Title: 
-! Description: 
+# Name: Gi0x's Profanity
+# Description: Blocks online profanity via URL keywords
+# DeDuplicated: N
+# Sorted (A-Z): N
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-! [abc]
+! Keywords – [abc]
 
 
 
 
-! Keywords with # – [ab13]
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+! Keywords – [ab13]
 
 ||a55
 ||a55hole
 
-! Keywords with foreign characters – [ábc]
+
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+! Keywords – [ábc]
