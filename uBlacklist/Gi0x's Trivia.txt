@@ -1,8 +1,12 @@
 # Title: Gi0x's Trivia
 # Description: Hides clickbait, listicles & other pointless sites from search results
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# DeDuplicated: N
+# Sorted (A-Z): N
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
-# Biographies
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Category – Bios
 
 *://*.allstarbio.com/*
 *://*.biografija.org/*
@@ -13,7 +17,8 @@
 *://*.bioscops.com/*
 *://*.wikistarbio.com/*
 
-# Wikis
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Category – Wikis
 
 *://*.aidwiki.com/*
 *://*.collegepill.com/*
@@ -34,7 +39,8 @@
 *://*.walikali.com/*
 *://*.popularbio.com/*
 
-# Celebs
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Category - Celebs, Celebrities
 
 *://*.styloceleb.com/*
 *://*.thecityceleb.com/*
@@ -374,7 +380,8 @@
 *://*.wsceleb.com/*
 *://*.yolocelebs.com/*
 
-# Fame
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Category – Fame
 
 *://*.allfamous.org/*
 *://*.famousbirthdays.com/*
@@ -387,7 +394,8 @@
 *://*.poznatelicnosti.org/*
 *://*.famousfix.com/*
 
-# Networth
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Category – Networth
 
 /netforworth\.(blogspot)/
 /nettvplus\.(com)/
