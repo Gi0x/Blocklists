@@ -2,8 +2,8 @@
 # Description: Hides gambling & betting sites from search results
 # DeDuplicated: Y
 # Sorted (A-Z): N
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.maxbetsport.rs/*
 *://*.fansport.rs/*
@@ -35,7 +35,6 @@
 *://*.williamhillplc.com/*
 *://*.mybettingsites.com/*
 
-
 /247blackjack\.(com)/
 /247freepoker\.(com)/
 /bestbettingsites\.(co)/
@@ -55,4 +54,3 @@
 /paddypower\.(com)/
 /unibetopen\.(com)/
 /zyngapoker\.(com)/
-
