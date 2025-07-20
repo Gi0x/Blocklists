@@ -1,5 +1,5 @@
-# Name: Gi0x's News Media
-# Description: Hides news media from search results
+# Name: Gi0x's News
+# Description: Hides news sites from search results
 # DeDuplicated: N
 # Sorted (A-Z): N
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
@@ -18,6 +18,7 @@
 *://*.192.rs/*
 *://*.adria.press/*
 *://*.adriamedia.tv/*
+*://*.aktuelno.me/*
 *://*.ananasmag.com/*
 *://*.atvbl.rs/*
 *://*.avalainfo.net/*
@@ -72,12 +73,14 @@
 *://*.istinomer.rs/*
 *://*.izvorno.info/*
 *://*.jabuka.tv/*
+*://*.javniservis.net/*
 *://*.journal.rs/*
 *://*.jugpress.com/*
 *://*.juznasrbija.info/*
 *://*.juznevesti.com/*
 *://*.k1info.rs/*
 *://*.kolektiv.me/*
+*://*.kossev.info/*
 *://*.kratko.rs/*
 *://*.krik.rs/*
 *://*.krstarica.com/*
@@ -102,7 +105,6 @@
 *://*.nezavisniportal.info/*
 *://*.nirapress.com/*
 *://*.njuz.net/*
-*://*.nogomania.com/*
 *://*.nova.rs/*
 *://*.novatv.rs/*
 *://*.novosti.rs/*
