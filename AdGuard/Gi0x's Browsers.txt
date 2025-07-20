@@ -1,5 +1,8 @@
 ! Title: Gi0x's Browsers
 ! Description: Blocks unwanted browsers
+! DeDuplicated: Y
+! Sorted: Y
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 ||avantbrowser.com^
