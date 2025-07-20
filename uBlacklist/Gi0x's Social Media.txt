@@ -36,7 +36,6 @@
 *://*.mstdn.social/*
 *://*.mstdn.starnix.network/*
 *://*.mytelegram.org/*
-*://*.quora.com/*
 *://*.reddit.com/*
 *://*.redditinc.com/*
 *://*.snapchat.com/*
