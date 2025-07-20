@@ -116,26 +116,13 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Unsorted
 
-*://*.kbhgames.com/*
-*://*.arcadethunder.com/*
-*://*.arkadium.com/*
-*://*.aarp.org/*
-*://*.innogames.com/*
-*://*.epicgames.com/*
-*://*.agame.com/*
-*://*.funbrain.com/*
-*://*.tetris.com/*
-*://*.stadia.google.com/*
-*://*.eveonline.com/*
-*://*.bgames.com/*
-*://*.pogo.com/*
-*://*.smartgameslive.com/*
 *://*.aarp.org/*
 *://*.addictinggames.com/*
 *://*.agame.com/*
 *://*.agbrief.com/*
 *://*.airforce.com/*
 *://*.animaljam.com/*
+*://*.arcadethunder.com/*
 *://*.arkadium.com/*
 *://*.beano.com/*
 *://*.betaseries.com/*
@@ -187,6 +174,7 @@
 *://*.jackboxgames.com/*
 *://*.jiogames.com/*
 *://*.kahoot.com/*
+*://*.kbhgames.com/*
 *://*.kevin.games/*
 *://*.kiloo.com/*
 *://*.kizi.com/*
