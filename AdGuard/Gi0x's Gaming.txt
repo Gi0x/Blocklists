@@ -1,3 +1,10 @@
+! Title: Gi0x's Gaming
+! Description: Blocks online games, gaming news media & stores
+! DeDuplicated: N
+! Sorted: N
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 007arcadegames.com
 01-casino.com
 01-chase.com
@@ -247,13 +254,8 @@
 80smusiclyrics.com/games
 81.179.53.97
 83.142.27.186/~miniball
-83.88.171.74
 8581.com
 85play.com
-87.106.16.105
-87.106.19.213
-88.191.13.151
-88.191.39.66
 888.com
 8baller.co.uk
 8fat.com
