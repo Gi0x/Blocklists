@@ -56,6 +56,7 @@
 # Anonymous Instagram viewing sites, social media stats, etc.
 
 *://*.ahasave.com/*
+*://*.allstories.co/*
 *://*.anon-viewer.com/*
 *://*.anonimoig.com/*
 *://*.anonimostory.com/*
@@ -64,6 +65,7 @@
 *://*.anonstories.org/*
 *://*.anonstoriesview.com/*
 *://*.anonstoryview.com/*
+*://*.anony-ig.com/*
 *://*.anony-storyviewer.com/*
 *://*.anonyig.com/*
 *://*.anonyig.io/*
@@ -76,6 +78,7 @@
 *://*.anticapitalist.party/*
 *://*.anycontrol.app/*
 *://*.aware-online.com/*
+*://*.bigbangram.com/*
 *://*.bitchipdigital.com/*
 *://*.blastup.com/*
 *://*.blindstoryapp.com/*
@@ -89,9 +92,11 @@
 *://*.detracer.com/*
 *://*.dmpro.app/*
 *://*.dolphinradar.com/*
+*://*.downev.com/*
 *://*.dumpor.co.uk/*
 *://*.dumpor.io/*
 *://*.embedsocial.com/*
+*://*.espressocoder.com/*
 *://*.famety.com/*
 *://*.fenced.ai/*
 *://*.flocksocial.com/*
@@ -103,8 +108,13 @@
 *://*.glassagrm.com/*
 *://*.go5.dev/*
 *://*.goread.io/*
+*://*.gramhir.pro/*
+*://*.gramhir.us/*
 *://*.gramsnap.com/*
+*://*.gramvio.net/*
+*://*.gramzoom.com/*
 *://*.greatercollinwood.org/*
+*://*.greatfon.my/*
 *://*.gwaa.net/*
 *://*.hachyderm.io/*
 *://*.heylocate.mobi/*
@@ -118,6 +128,7 @@
 *://*.igcomment.com/*
 *://*.ighighlightviewer.com/*
 *://*.igmods.com/*
+*://*.igrab.online/*
 *://*.igram.mx/*
 *://*.igram.world/*
 *://*.igreveal.com/*
@@ -132,6 +143,7 @@
 *://*.imginn-instanavigation.com/*
 *://*.imginn.com/*
 *://*.imginn.io/*
+*://*.imginnn.com/*
 *://*.imglooker.net/*
 *://*.imglookup.co/*
 *://*.imglookup.com/*
@@ -140,9 +152,11 @@
 *://*.infosec.exchange/*
 *://*.ingramstory.com/*
 *://*.ingramstoryviewer.com/*
+*://*.inksem.com/*
 *://*.inkstagram.com/*
 *://*.insacret.app/*
 *://*.insanony.app/*
+*://*.insaver.net/*
 *://*.inseen.app/*
 *://*.inshotspot.com/*
 *://*.insmask.com/*
@@ -158,7 +172,10 @@
 *://*.insta-stories-viewer.com/*
 *://*.insta-stories.ru/*
 *://*.instaanony.com/*
+*://*.instabiography.com/*
+*://*.instadp.fun/*
 *://*.instagramviewer.com/*
+*://*.instagrilz.com/*
 *://*.instalooker.org/*
 *://*.instanavi.me/*
 *://*.instanavigation.net/*
@@ -179,12 +196,15 @@
 *://*.instastalker.info/*
 *://*.instastories2.com/*
 *://*.instastory.org/*
+*://*.instastory.watch/*
 *://*.instastoryviewer.io/*
 *://*.instastoryviewers.com/*
+*://*.instasupersave.com/*
 *://*.instasv.com/*
 *://*.instaview.social/*
 *://*.instavisor.net/*
 *://*.instawebviewer.com/*
+*://*.instights.com/*
 *://*.instuky.com/*
 *://*.inthow.com/*
 *://*.inum.com/*
@@ -192,8 +212,10 @@
 *://*.invisispy.com/*
 *://*.inzto.com/*
 *://*.iqsaved.com/*
+*://*.kahawatungu.com/*
 *://*.keesy.com/*
 *://*.kwai.com/*
+*://*.liangyu.dev/*
 *://*.likee.video/*
 *://*.likefy.com/*
 *://*.love.alicecomplex.com/*
@@ -204,6 +226,7 @@
 *://*.mewe.com/*
 *://*.mollygram.com.im/*
 *://*.mollygram.com/*
+*://*.mollygram.org/*
 *://*.monhai.com/*
 *://*.morogaming.com/*
 *://*.mystalk.org/*
@@ -213,6 +236,8 @@
 *://*.pages.dev/*
 *://*.pathsocial.com/*
 *://*.pawoo.net/*
+*://*.picgger.com/*
+*://*.picnob.co.uk/*
 *://*.picnob.info/*
 *://*.picnobi.com/*
 *://*.picuki.com/*
@@ -221,12 +246,14 @@
 *://*.picuki.site/*
 *://*.picuki.tv/*
 *://*.pieville.net/*
+*://*.piktag.com/*
 *://*.pixelfed.social/*
 *://*.pixelixe.com/*
 *://*.pixnoy.com/*
 *://*.pixwox.net/*
 *://*.pixwox.uk/*
 *://*.plixi.com/*
+*://*.popygram.com/*
 *://*.privatephotoviewer.com/*
 *://*.pypi.org/*
 *://*.quasa.io/*
@@ -250,15 +277,18 @@
 *://*.spyinsta.org/*
 *://*.spystoryviewer.com/*
 *://*.sqirk.com/*
+*://*.sssgram.com/*
 *://*.sssinstagram.com/*
 *://*.ssstory.io/*
 *://*.stalkio.co/*
 *://*.stalkto.org/*
 *://*.stalkyapp.com/*
+*://*.stealthgram.com/*
 *://*.stealthgram.net/*
 *://*.storieanonimo.com/*
 *://*.stories-agent.com/*
 *://*.stories-view.com/*
+*://*.stories.watch/*
 *://*.storiesanonimo.co/*
 *://*.storiesanonviewer.com/*
 *://*.storiesdown.fun/*
@@ -272,13 +302,17 @@
 *://*.story-viewer.org/*
 *://*.storybox.io/*
 *://*.storyghost.online/*
+*://*.storyinstanavigation.com/*
 *://*.storynavigation.com/*
+*://*.storyninja.app/*
 *://*.storysaver.fun/*
 *://*.storysaver.net/*
+*://*.storysaver.to/*
 *://*.storystalk.com/*
 *://*.storystalker.app/*
 *://*.storyviewer.ai/*
 *://*.storyviewer.com/*
+*://*.superviral.io/*
 *://*.swarmapp.com/*
 *://*.swioz.com/*
 *://*.tagged.com/*
@@ -291,6 +325,7 @@
 *://*.toolzu.com/*
 *://*.toot.dummy.cafe/*
 *://*.tubtic.com/*
+*://*.twicsy.com/*
 *://*.unfollowgram.com/*
 *://*.universeodon.com/*
 *://*.upgrow.com/*
@@ -303,10 +338,12 @@
 *://*.viewinsta.com/*
 *://*.views4you.com/*
 *://*.viewsocials.com/*
+*://*.viewsstory.com/*
 *://*.viewstoriesanonymously.com/*
 *://*.viralblade.com/*
 *://*.viralyft.com/*
 *://*.virtualsocialmedia.com/*
+*://*.vistasocial.com/*
 *://*.wan.io/*
 *://*.weareiu.com/*
 *://*.witches.live/*
