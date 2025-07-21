@@ -1,28 +1,34 @@
 # Name: Gi0x's Spam
-# Description: Hides sources of low-quality, fake and spammy information from search results
+# Description: Hides low-quality, fake and spammy sites from search results
 # DeDuplicated: N
 # Sorted (A-Z): N
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Spammy Question/Answer Farms
-*.quora.com
-*.answers.com
-*.ask.com
+# Spammy Question & Answer Farms
+
+*://*.answers.com/*
+*://*.ask.com/*
+*://*.quora.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake download and software mirror sites
-*.softonic.com
-*.filehippo.com
-*.freedownloadmanager.org
+# Fake Download & Software Mirror Sites
 
+*://*.filehippo.com/*
+*://*.freedownloadmanager.com/*
+*://*.softonic.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Affiliate SEO spam
-*.top10best.com
-*.bestreviewsite.net
-*.productrankings.co
 
-# Low-quality copycat tutorials
-*.geeksforgeeks.org
-*.tutorialspoint.com
-*.studytonight.com
+*://*.bestreviewsite.com/*
+*://*.productrankings.co/*
+*://*.top10best.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Low-Quality Copycat Tutorials
+
+*://*.geeksforgeeks.com/*
+*://*.studytonight.com/*
+*://*.tutorialspoint.com/*
