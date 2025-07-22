@@ -66,11 +66,10 @@
 *://*.wwwdotbrowser.webs.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Popular Search Engines
+# Search Engines
 
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Alternative Search Engines (ex. Qwant, Searx, SearXNG, etc.)
+# SearX & XNG Instances
 
 *://*.nobigtech.es/*
 *://*.joshuab.xyz/*
