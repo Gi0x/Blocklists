@@ -13,6 +13,18 @@
 *://*.top10best.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Bios
+
+*://*.allstarbio.com/*
+*://*.biografija.org/*
+*://*.biografijaonline.com/*
+*://*.biographies.net/*
+*://*.biographiesareus.com/*
+*://*.biographs.org/*
+*://*.bioscops.com/*
+*://*.wikistarbio.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Fake Download & Software Mirror Sites
 
 *://*.filehippo.com/*
