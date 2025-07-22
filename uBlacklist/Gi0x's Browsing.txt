@@ -1,7 +1,7 @@
 # Title: Gi0x's Browsing
 # Description: Hides unwanted browsers & search engines from search results
-# Deduplicated: Y
-# Sorted (A-Z): Y
+# Deduplicated: N
+# Sorted (A-Z): N
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
@@ -66,4 +66,23 @@
 *://*.wwwdotbrowser.webs.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Search Engines
+# Popular Search Engines
+
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Alternative Search Engines (ex. Qwant, Searx, SearXNG, etc.)
+
+*://*.nobigtech.es/*
+*://*.joshuab.xyz/*
+*://*.bndkt.io/*
+*://*.bunse.xyz/*
+*://*.searx.space/*
+*://*.searxng.org/*
+*://*.searx.pl/*
+*://*.searx.info/*
+*://*.joshcenters.com/*
+*://*.jtateossian.xyz/*
+*://*.st8.at/*
+*://*.bndkt.cz/*
+*://*.searchengine.party/*
+*://*.thefloatinglab.world/*
