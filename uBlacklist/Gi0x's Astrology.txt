@@ -1,5 +1,5 @@
 # Name: Gi0x's Astrology
-# Description: Hides astrology & tarot sites from search results
+# Description: Hides astrology related sites from search results
 # DeDuplicated: Y
 # Sorted (A-Z): Y
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
