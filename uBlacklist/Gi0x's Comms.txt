@@ -13,7 +13,7 @@
 
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Social Media
+# Social Media I
 
 *://*.bere.al/*
 *://*.bereal.com/*
@@ -60,7 +60,7 @@
 *://*.x.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Anonymous Instagram viewing sites, social media stats, etc.
+# Social Media II – Anonymous IG viewing sites, stats, etc.
 
 *://*.ahasave.com/*
 *://*.allstories.co/*
