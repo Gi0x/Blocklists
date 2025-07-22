@@ -22,6 +22,7 @@
 *://*.biographiesareus.com/*
 *://*.biographs.org/*
 *://*.bioscops.com/*
+*://*.popularbio.com/*
 *://*.wikistarbio.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -34,6 +35,11 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Listicles
 
+*://*.facts.net/*
+*://*.deadorkicking.com/*
+*://*.knowsize.com/*
+*://*.listal.com/*
+*://*.thestarsfact.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Low-Quality Copycat Tutorials
@@ -51,4 +57,18 @@
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Unofficial Wikis
+
+*://*.aidwiki.com/*
+*://*.collegepill.com/*
+
+*://*.gossipsdiary.com/*
+*://*.hollywoodlife.com/*
+*://*.howold.co/*
+*://*.infobae.com/*
+*://*.popkult.org/*
+*://*.popnable.com/*
+*://*.savedaughters.com/*
+*://*.thefamousbirthdays.com/*
+*://*.wallpapercave.com/*
+*://*.walikali.com/*
 
