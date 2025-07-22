@@ -58,7 +58,6 @@
 *://*.celebsinsights.com/*
 *://*.celebsmoney.com/*
 *://*.ethnicelebs.com/*
-*://*.celebritynetworth.com/*
 *://*.celebuzz.com/*
 *://*.celebdirtylaundry.com/*
 *://*.celebgossip.co/*
