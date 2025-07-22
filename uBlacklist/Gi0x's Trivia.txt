@@ -1,4 +1,4 @@
-# Title: Gi0x's Pop Trivia
+# Title: Gi0x's Trivia
 # Description: Hides clickbaity articles, listicles & wikis
 # DeDuplicated: N
 # Sorted (A-Z): N
@@ -21,6 +21,7 @@
 # Category – Wikis
 
 *://*.aidwiki.com/*
+*://*.knowsize.com/*
 *://*.collegepill.com/*
 *://*.deadorkicking.com/*
 *://*.facts.net/*
