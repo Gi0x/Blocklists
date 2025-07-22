@@ -1,4 +1,4 @@
-! Name: Gi0x's News Media
+! Name: Gi0x's News
 ! Description: Blocks news media sites
 ! DeDuplicated: N
 ! Sorted (A-Z): N
