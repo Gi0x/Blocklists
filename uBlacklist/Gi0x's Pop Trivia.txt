@@ -1,5 +1,5 @@
-# Title: Gi0x's Trivia
-# Description: Hides clickbaity articles, listicles & wikis
+# Title: Gi0x's Pop Trivia
+# Description: Hides clickbaity material about celebrities, their bios, fame & networth
 # DeDuplicated: N
 # Sorted (A-Z): N
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
