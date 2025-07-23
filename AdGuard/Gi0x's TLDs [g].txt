@@ -1267,3 +1267,19 @@
 ||*.닷컴^
 ||*.삼성^
 ||*.테스트^
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Rules Syntax
+
+! To block all domains under a specific TLD, use the following format: ||*.aaa^
+! This blocks all domains under the TLD .aaa (e.g., example.aaa, abc.aaa).
+! Be cautious when blocking entire TLDs, you may unintentionally block legitimate services. 
+
+! To unblock all domains under a specific TLD, use the following format: @@||*.aaa^
+! You can whitelist specific domains by adding exceptions like: @@||trustedsite.aaa^, @@||example.xyz^, @@||secure.total^
+
+! Syntax Explanation:
+! || — wildcard for any domain.
+! *. — matches all subdomains and domains.
+! aaa — the TLD you want to block.
+! ^ — marks the end of the domain part.
