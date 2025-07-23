@@ -372,7 +372,6 @@ pink.rs
 piplmetar.rs
 pobjeda.me
 pocniponovo.com
-politika.rs
 portalanalitika.me
 poskok.info
 pravda.rs
@@ -438,11 +437,49 @@ vipscena.com
 vreme.com
 wanted.rs
 webtribune.rs
-www.bl-portal.com
-www.zenskimagazin.rs
+bl-portal.com
+zenskimagazin.rs
 yihr.rs
 zagreb.info
 zoomer.rs
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # News Media  🇺🇸 🇬🇧
+
+# Tabloids
+
+bossip.com
+buzzfeed.com
+celebrityinsider.org
+closeronline.co.uk
+dailymail.co.uk
+dailystar.co.uk
+eonline.com
+express.co.uk
+heatworld.com
+heraldsun.com.au
+hollywoodlife.com
+inquisitr.com
+intouchweekly.com
+justjared.com
+lifeandstylemag.com
+mediatakeout.com
+metro.co.uk
+mirror.co.uk
+new-magazine.co.uk
+news.com.au
+nypost.com
+ok.co.uk
+pagesix.com
+perezhilton.com
+popculture.com
+radaronline.com
+screenrant.com
+starcasm.net
+theblast.com
+thesun.co.uk
+tmz.com
+torontosun.com
+usmagazine.com
+vancouversun.com
+yahoo.com/entertainment
