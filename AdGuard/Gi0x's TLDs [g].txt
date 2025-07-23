@@ -3,9 +3,6 @@
 ! DeDuplicated: Y
 ! Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
-! 
-! To unblock a TLD, use this syntax: @@||.aaa^, @@||.aarp^, @@||*.abarth^
-! Unblocked: edu,gov
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
@@ -458,7 +455,7 @@
 ||*.google^
 ||*.gop^
 ||*.got^
-@@||*.gov^
+||*.gov^
 ||*.grainger^
 ||*.graphics^
 ||*.gratis^
@@ -1175,7 +1172,7 @@
 ||*.zuerich^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Other TLDs
+! Other gTLDs
 
 ||*.δοκιμή^
 ||*.дети^
@@ -1271,15 +1268,15 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Rules Syntax
 
-! To block all domains under a specific TLD, use the following format: ||*.aaa^
-! This blocks all domains under the TLD .aaa (e.g., example.aaa, abc.aaa).
-! Be cautious when blocking entire TLDs, you may unintentionally block legitimate services. 
+! To block all domains under a specific gTLD, use the following format: ||*.aaa^
+! This blocks all domains under the gTLD .aaa (e.g., example.aaa, abc.aaa).
+! Be cautious when blocking entire gTLDs, you may unintentionally block legitimate services. 
 
-! To unblock all domains under a specific TLD, use the following format: @@||*.aaa^
+! To unblock all domains under a specific gTLD, use the following format: @@||*.aaa^
 ! You can whitelist specific domains by adding exceptions like: @@||trustedsite.aaa^, @@||example.xyz^, @@||secure.total^
 
 ! Syntax Explanation:
 ! || — wildcard for any domain.
 ! *. — matches all subdomains and domains.
-! aaa — the TLD you want to block.
+! aaa — the gTLD you want to block.
 ! ^ — marks the end of the domain part.
