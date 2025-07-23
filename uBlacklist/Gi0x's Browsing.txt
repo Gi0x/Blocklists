@@ -66,22 +66,23 @@
 *://*.wwwdotbrowser.webs.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Search Engines
+# Search Engines – Main
 
 
-# SearX & XNG Instances
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Search Engines – SearX & XNG Instances
 
-*://*.nobigtech.es/*
-*://*.joshuab.xyz/*
+*://*.bndkt.cz/*
 *://*.bndkt.io/*
 *://*.bunse.xyz/*
-*://*.searx.space/*
+*://*.joshcenters.com/*
+*://*.joshuab.xyz/*
+*://*.jtateossian.xyz/*
+*://*.nobigtech.es/*
+*://*.searchengine.party/*
+*://*.searx.info/*
 *://*.searxng.org/*
 *://*.searx.pl/*
-*://*.searx.info/*
-*://*.joshcenters.com/*
-*://*.jtateossian.xyz/*
+*://*.searx.space/*
 *://*.st8.at/*
-*://*.bndkt.cz/*
-*://*.searchengine.party/*
 *://*.thefloatinglab.world/*
