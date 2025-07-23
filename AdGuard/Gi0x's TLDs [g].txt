@@ -1,5 +1,5 @@
 ! Title: Gi0x's Generic TLDs
-! Description: Blocks generic top level domains
+! Description: Blocks Generic Top Level Domains
 ! DeDuplicated: Y
 ! Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
