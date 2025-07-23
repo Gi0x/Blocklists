@@ -70,8 +70,9 @@
 
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Search Engines – SearX & XNG Instances
+# Search Engines – Alternatives, including SearX & XNG Instances
 
+*://*.100searchengines.com/*
 *://*.bndkt.cz/*
 *://*.bndkt.io/*
 *://*.bunse.xyz/*
