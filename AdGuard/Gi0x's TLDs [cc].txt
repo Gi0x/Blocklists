@@ -334,11 +334,11 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Rules Syntax
 
-! To block ALL domains (e.g., example.ru, abc.ru) under a specific ccTLD, use the following format: ||*.ru^
+! To block ALL domains (e.g., example.ru, abc.ru) under a specific ccTLD, use: ||*.ru^
 ! Be cautious when blocking entire ccTLDs, because you may unintentionally block legitimate services. 
 
-! To unblock ALL domains under a specific ccTLD, use the following format: @@||*.ch^
-! Specific domains can be whitelisted by adding exceptions like: @@||trustedsite.ch^, @@||example.ch^, @@||secure.ch^
+! To unblock ALL domains under a specific ccTLD, use: @@||*.ch^
+! To unblock specific domains under a blocked ccTLD, use: @@||trustedsite.ch^, @@||example.ch^, @@||secure.ch^
 
 ! Syntax Explanation:
 ! || — wildcard for any domain.
