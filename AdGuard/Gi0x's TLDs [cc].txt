@@ -1,11 +1,11 @@
 ! Title: Gi0x's Country Code TLDs
-! Description: Blocks top level domains by country code
+! Description: Blocks Top Level Domains by Country Code
+! Deduplicated: Y
+! Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
-!
-! To unblock a TLD, use this syntax: @@|.ao^ / @@|.bf^ / @@||*.bi^
-! Unblocked: ch, de, es, eu, fr, hu, it, rs, ua
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🌍 AFRICA
 
@@ -334,12 +334,11 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Rules Syntax
 
-! To block all domains under a specific ccTLD, use the following format: ||*.ru^
-! This blocks all domains under the ccTLD .ru (e.g., example.ru, abc.ru).
+! To block ALL domains (e.g., example.ru, abc.ru) under a specific ccTLD, use the following format: ||*.ru^
 ! Be cautious when blocking entire ccTLDs, you may unintentionally block legitimate services. 
 
-! To unblock all domains under a specific ccTLD, use the following format: @@||*.ch^
-! You can whitelist specific domains by adding exceptions like: @@||trustedsite.ch^, @@||example.ch^, @@||secure.ch^
+! To unblock ALL domains under a specific ccTLD, use the following format: @@||*.ch^
+! Specific domains can be whitelisted by adding exceptions like: @@||trustedsite.ch^, @@||example.ch^, @@||secure.ch^
 
 ! Syntax Explanation:
 ! || — wildcard for any domain.
