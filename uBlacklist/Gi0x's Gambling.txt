@@ -8,11 +8,9 @@
 *://*.1xbet./*
 *://*.247blackjack.com/*
 *://*.247freepoker.com/*
-*://*.888./*
 *://*.888sport./*
 *://*.bestbettingsites.co/*
 *://*.bet.com/*
-*://*.bet365./*
 *://*.bet365.com/*
 *://*.bet365affiliates.com/*
 *://*.betaseries.com/*
