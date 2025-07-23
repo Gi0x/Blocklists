@@ -1268,12 +1268,11 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Rules Syntax
 
-! To block all domains under a specific gTLD, use the following format: ||*.aaa^
-! This blocks all domains under the gTLD .aaa (e.g., example.aaa, abc.aaa).
+! To block ALL domains (e.g., example.aaa, abc.aaa) under a specific gTLD, use the following format: ||*.aaa^
 ! Be cautious when blocking entire gTLDs, you may unintentionally block legitimate services. 
 
-! To unblock all domains under a specific gTLD, use the following format: @@||*.aaa^
-! You can whitelist specific domains by adding exceptions like: @@||trustedsite.aaa^, @@||example.xyz^, @@||secure.total^
+! To unblock ALL domains under a specific gTLD, use the following format: @@||*.abb^
+! Specific domains can be whitelisted by adding exceptions like: @@||trustedsite.abb^, @@||example.abb^, @@||secure.abb^
 
 ! Syntax Explanation:
 ! || — wildcard for any domain.
