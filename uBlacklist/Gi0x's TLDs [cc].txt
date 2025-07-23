@@ -24,7 +24,8 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 🧊 ANTARCTICA & OVERSEAS SPECIAL TERRITORIES
 
-/.*\.(aq|bq|bv|cc|cx|gs|hm|io|mf|pn|re|sh|sj|sx|tf|um|xk)($|\/)/
+/.*\.(aq|bq|bv|cc|cx|gs|hm|mf|pn|re|sh|sj|sx|tf|um|xk)($|\/)/
+# [Excluded = .io]
 
 # .aq - Antarctica / .bq - Bonaire, Sint Eustatius & Saba. / .bv - Bouvet Island / .cc - Cocos (Keeling) Islands / .cx - Christmans Island / .gs - South Georgia & the South Sandwich Islands / .hm - Heard Island & McDonald Islands / .io - British Indian Ocean Territory / .mf - Saint Martin / .pn - Pitcairn Islands / .re - Réunion / .sh - Saint Helena, Ascension & Tristan da Cunha / .sj - Svalbard & Jan Mayen / .sx - Sint Maarten / .tf - French Southern Territories / .um - United States Minor Outlying Islands / .xk - Kosovo
 
