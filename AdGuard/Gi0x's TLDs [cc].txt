@@ -45,7 +45,7 @@
 ||*.mw^
 ||*.mz^
 ||*.na^
-||*.ne^
+@@||*.ne^
 ||*.ng^
 ||*.rw^
 ||*.sc^
@@ -85,7 +85,7 @@
 ||*.bz^
 ||*.ca^
 ||*.cl^
-||*.co^
+@@||*.co^
 ||*.cr^
 ||*.cu^
 ||*.dm^
@@ -133,7 +133,7 @@
 ||*.cc^
 ||*.cx^
 ||*.hm^
-||*.io^
+@@||*.io^
 ||*.mf^
 ||*.pn^
 ||*.re^
@@ -240,7 +240,7 @@
 ||*.lv^
 ||*.mc^
 ||*.md^
-||*.me^
+@@||*.me^
 ||*.mk^
 ||*.mt^
 ||*.nl^
@@ -330,3 +330,19 @@
 ||இந்தியா^
 ||հայ^
 ||新加坡^
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Rules Syntax
+
+! To block all domains under a specific ccTLD, use the following format: ||*.ru^
+! This blocks all domains under the ccTLD .ru (e.g., example.ru, abc.ru).
+! Be cautious when blocking entire ccTLDs, you may unintentionally block legitimate services. 
+
+! To unblock all domains under a specific ccTLD, use the following format: @@||*.ch^
+! You can whitelist specific domains by adding exceptions like: @@||trustedsite.ch^, @@||example.ch^, @@||secure.ch^
+
+! Syntax Explanation:
+! || — wildcard for any domain.
+! *. — matches all subdomains and domains.
+! ru — the ccTLD you want to block.
+! ^ — marks the end of the domain part.
