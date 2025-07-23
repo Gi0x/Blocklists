@@ -1,9 +1,12 @@
 ! Title: Gi0x's Search
-! Description: Blocks unwanted browsers
-! DeDuplicated: Y
-! Sorted: Y
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! Description: Blocks listed browsers & search engines
+! Deduplicated: N
+! Sorted (A-Z): N
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Browsers
 
 ||avantbrowser.com^
 ||avast.com/secure-browser^
@@ -58,3 +61,25 @@
 ||waterfox.net^
 ||whale.naver.com^
 ||wwwdotbrowser.webs.com^
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Search Engines – Main
+
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Search Engines – SearX & XNG Instances
+
+||bndkt.cz^
+||bndkt.io^
+||bunse.xyz^
+||joshcenters.com^
+||joshuab.xyz^
+||jtateossian.xyz^
+||nobigtech.es^
+||searchengine.party^
+||searx.info^
+||searxng.org^
+||searx.pl^
+||searx.space^
+||st8.at^
+||thefloatinglab.world^
