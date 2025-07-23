@@ -1,4 +1,4 @@
-! Title: Gi0x's Browsers
+! Title: Gi0x's Search
 ! Description: Blocks unwanted browsers
 ! DeDuplicated: Y
 ! Sorted: Y
