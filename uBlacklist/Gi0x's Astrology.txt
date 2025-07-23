@@ -88,6 +88,8 @@
 *://*.sunsigns.org/*
 *://*.tarot-explained.com/*
 *://*.tarot-live.com/*
+*://*.tarot-reading./*
+*://*.tarot-readings./*
 *://*.tarot.com/*
 *://*.theastrologypodcast.com/*
 *://*.thebirthchart.com/*
