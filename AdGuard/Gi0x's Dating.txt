@@ -2,7 +2,8 @@
 ! Description: Blocks anything that has to with dating, love & seduction
 ! DeDuplicated: N
 ! Sorted: N
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 0-emis-com.chatdate.app
 0-flrn.chatdate.app
@@ -30,9 +31,7 @@
 037topcovid19f5.jpeoplemeet.com
 037topcovid19mailer.jpeoplemeet.com
 037topcovid19star.jpeoplemeet.com
-05-ns512049.tinychat.com
-07-ns512190.tinychat.com
-08-ns512382.tinychat.com
+tinychat.com
 089091.fetlife.com
 badoo.com
 09-ns512493.tinychat.com
@@ -61,7 +60,7 @@ badoo.com
 11-ns512495.tinychat.com
 11.mnogochat.com
 110-pwc.singleparentmeet.com
-117-12dodu1zahidgrandemask.singleparentmeet.com
+singleparentmeet.com
 11mail.easyflirt.com
 12-instant.okcupid.com
 12-ns512496.tinychat.com
@@ -90,22 +89,19 @@ badoo.com
 beautifulpeople.com
 185-88-180-203-event.camdolls.com
 185-88-180-205-event.camdolls.com
-186-252-173-213.beautifulpeople.com
-188-252-173-213.beautifulpeople.com
-189-252-173-213.beautifulpeople.com
+beautifulpeople.com
 18candles.com
 18kin-ero.com
-190-252-173-213.beautifulpeople.com
 199distancelearn.blackpeoplemeet.com
 19hawkeye73.adultfriendfinder.com
 1adb.fling.com
-1click.flirt4free.com
+flirt4free.com
 1date.nl
 1datingsites.com
-1dd84ee04e2526.chaturbate.com
+chaturbate.com
 1freesex.alt.com
-1grtopcovid19.jpeoplemeet.com
-1littledickychaturbatecom.chaturbate.com
+jpeoplemeet.com
+chaturbate.com
 1nightstand.co.uk
 1ofakindlove.sipsap.com
 1on1.chaturbate.com
