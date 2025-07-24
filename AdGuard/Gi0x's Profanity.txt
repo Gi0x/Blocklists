@@ -1,50 +1,50 @@
-# Name: Gi0x's Profanity
-# Description: Blocks explicit content based on keywords that appear in URLs
-# DeDuplicated: Y
-# Sorted (A-Z): Y
+! Name: Gi0x's Profanity
+! Description: Blocks explicit content based on keywords that appear in URLs
+! DeDuplicated: Y
+! Sorted (A-Z): Y
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Keywords – [abc]
 
-||*a hole*^
-||*a holes*^
-||*a holez*^
-||*a n a l*^
-||*a n u s e s*^
-||*a n u s e z*^
-||*a n u s*^
-||*a r s e d*^
-||*a r s e s*^
-||*a r s e z*^
-||*a r s e*^
-||*a s s e d*^
-||*a s s e s*^
-||*a s s e z*^
-||*a s s*^
-||*a s shole*^
-||*a s sholes*^
-||*a s sholez*^
-||*a tomar por culo*^
-||*a tomar por saco*^
-||*a z z e d*^
-||*a z z e s*^
-||*a z z*^
-||*a+hole*^
-||*a+holes*^
-||*a+holez*^
-||*a+n+a+l*^
-||*a+n+u+s*^
-||*a+n+u+s+e+s*^
-||*a+n+u+s+e+z*^
-||*a-hole*^
-||*a-holes*^
-||*a-holez*^
-||*a-n-a-l*^
-||*a-n-u-s*^
-||*a-n-u-s-e-s*^
-||*a-n-u-s-e-z*^
+||*a*hole*^
+||*a*holes*^
+||*a*holez*^
+||*a*n*a*l*^
+||*a*n*u*s*e*s*^
+||*a*n*u*s*e*z*^
+||*a*n*u*s*^
+||*a*r*s*e*d*^
+||*a*r*s*e*s*^
+||*a*r*s*e*z*^
+||*a*r*s*e*^
+||*a*s*s*e*d*^
+||*a*s*s*e*s*^
+||*a*s*s*e*z*^
+||*a*s*s*^
+||*a*s*shole*^
+||*a*s*sholes*^
+||*a*s*sholez*^
+||*a*tomar*por*culo*^
+||*a*tomar*por*saco*^
+||*a*z*z*e*d*^
+||*a*z*z*e*s*^
+||*a*z*z*^
+||*a*hole*^
+||*a*holes*^
+||*a*holez*^
+||*a*n*a*l*^
+||*a*n*u*s*^
+||*a*n*u*s*e*s*^
+||*a*n*u*s*e*z*^
+||*a*hole*^
+||*a*holes*^
+||*a*holez*^
+||*a*n*a*l*^
+||*a*n*u*s*^
+||*a*n*u*s*e*s*^
+||*a*n*u*s*e*z*^
 ||*a_n_a_l*^
 ||*a_n_u_s*^
 ||*a_n_u_s_e_s*^
@@ -65,93 +65,93 @@
 ||*abschaum*^
 ||*accidenti*^
 ||*acrotomophilia*^
-||*adult actress*^
-||*adult cinema*^
-||*adult doll*^
-||*adult dolls*^
-||*adult dollz*^
-||*adult film*^
-||*adult films*^
-||*adult filmz*^
-||*adult fuck*^
-||*adult massage*^
-||*adult massages*^
-||*adult massagez*^
-||*adult movie*^
-||*adult movies*^
-||*adult only*^
-||*adult perform*^
-||*adult performer*^
-||*adult performers*^
-||*adult performerz*^
-||*adult porn*^
-||*adult rated*^
-||*adult seks*^
-||*adult sex*^
-||*adult star*^
-||*adult stars*^
-||*adult starz*^
-||*adult toy*^
-||*adult toys*^
-||*adult toyz*^
-||*adult+actress*^
-||*adult+cinema*^
-||*adult+doll*^
-||*adult+dolls*^
-||*adult+dollz*^
-||*adult+film*^
-||*adult+films*^
-||*adult+filmz*^
-||*adult+fuck*^
-||*adult+massage*^
-||*adult+massages*^
-||*adult+massagez*^
-||*adult+movie*^
-||*adult+movies*^
-||*adult+only*^
-||*adult+perform*^
-||*adult+performer*^
-||*adult+performers*^
-||*adult+performerz*^
-||*adult+porn*^
-||*adult+rated*^
-||*adult+seks*^
-||*adult+sex*^
-||*adult+star*^
-||*adult+stars*^
-||*adult+starz*^
-||*adult+toy*^
-||*adult+toys*^
-||*adult+toyz*^
-||*adult-actress*^
-||*adult-cinema*^
-||*adult-doll*^
-||*adult-dolls*^
-||*adult-dollz*^
-||*adult-film*^
-||*adult-films*^
-||*adult-filmz*^
-||*adult-fuck*^
-||*adult-massage*^
-||*adult-massages*^
-||*adult-massagez*^
-||*adult-movie*^
-||*adult-movies*^
-||*adult-only*^
-||*adult-perform*^
-||*adult-performer*^
-||*adult-performers*^
-||*adult-performerz*^
-||*adult-porn*^
-||*adult-rated*^
-||*adult-seks*^
-||*adult-sex*^
-||*adult-star*^
-||*adult-stars*^
-||*adult-starz*^
-||*adult-toy*^
-||*adult-toys*^
-||*adult-toyz*^
+||*adult*actress*^
+||*adult*cinema*^
+||*adult*doll*^
+||*adult*dolls*^
+||*adult*dollz*^
+||*adult*film*^
+||*adult*films*^
+||*adult*filmz*^
+||*adult*fuck*^
+||*adult*massage*^
+||*adult*massages*^
+||*adult*massagez*^
+||*adult*movie*^
+||*adult*movies*^
+||*adult*only*^
+||*adult*perform*^
+||*adult*performer*^
+||*adult*performers*^
+||*adult*performerz*^
+||*adult*porn*^
+||*adult*rated*^
+||*adult*seks*^
+||*adult*sex*^
+||*adult*star*^
+||*adult*stars*^
+||*adult*starz*^
+||*adult*toy*^
+||*adult*toys*^
+||*adult*toyz*^
+||*adult*actress*^
+||*adult*cinema*^
+||*adult*doll*^
+||*adult*dolls*^
+||*adult*dollz*^
+||*adult*film*^
+||*adult*films*^
+||*adult*filmz*^
+||*adult*fuck*^
+||*adult*massage*^
+||*adult*massages*^
+||*adult*massagez*^
+||*adult*movie*^
+||*adult*movies*^
+||*adult*only*^
+||*adult*perform*^
+||*adult*performer*^
+||*adult*performers*^
+||*adult*performerz*^
+||*adult*porn*^
+||*adult*rated*^
+||*adult*seks*^
+||*adult*sex*^
+||*adult*star*^
+||*adult*stars*^
+||*adult*starz*^
+||*adult*toy*^
+||*adult*toys*^
+||*adult*toyz*^
+||*adult*actress*^
+||*adult*cinema*^
+||*adult*doll*^
+||*adult*dolls*^
+||*adult*dollz*^
+||*adult*film*^
+||*adult*films*^
+||*adult*filmz*^
+||*adult*fuck*^
+||*adult*massage*^
+||*adult*massages*^
+||*adult*massagez*^
+||*adult*movie*^
+||*adult*movies*^
+||*adult*only*^
+||*adult*perform*^
+||*adult*performer*^
+||*adult*performers*^
+||*adult*performerz*^
+||*adult*porn*^
+||*adult*rated*^
+||*adult*seks*^
+||*adult*sex*^
+||*adult*star*^
+||*adult*stars*^
+||*adult*starz*^
+||*adult*toy*^
+||*adult*toys*^
+||*adult*toyz*^
 ||*adultactress*^
 ||*adultcinema*^
 ||*adultdoll*^
@@ -173,9 +173,9 @@
 ||*adultperformerz*^
 ||*adultporn*^
 ||*adultrated*^
-||*adults only*^
-||*adults+only*^
-||*adults-only*^
+||*adults*only*^
+||*adults*only*^
+||*adults*only*^
 ||*adultseks*^
 ||*adultsex*^
 ||*adultsonly*^
@@ -196,104 +196,104 @@
 ||*ainujin*^
 ||*ainuzin*^
 ||*akimekura*^
-||*alabama hot pocket*^
-||*alabama+hot+pocket*^
-||*alabama-hot-pocket*^
+||*alabama*hot*pocket*^
+||*alabama*hot*pocket*^
+||*alabama*hot*pocket*^
 ||*alabamahotpocket*^
-||*alaskan pipeline*^
-||*alaskan+pipeline*^
-||*alaskan-pipeline*^
+||*alaskan*pipeline*^
+||*alaskan*pipeline*^
+||*alaskan*pipeline*^
 ||*alaskanpipeline*^
-||*alfa male*^
-||*alfa males*^
-||*alfa malez*^
-||*alfa+male*^
-||*alfa+males*^
-||*alfa+malez*^
-||*alfa-male*^
-||*alfa-males*^
-||*alfa-malez*^
+||*alfa*male*^
+||*alfa*males*^
+||*alfa*malez*^
+||*alfa*male*^
+||*alfa*males*^
+||*alfa*malez*^
+||*alfa*male*^
+||*alfa*males*^
+||*alfa*malez*^
 ||*alfamale*^
 ||*alfamales*^
 ||*alfamalez*^
-||*alla cazzo di cane*^
-||*alla cazzodicane*^
-||*alla pecorina*^
-||*alla+cazzo+di+cane*^
-||*alla+cazzodicane*^
-||*alla+pecorina*^
-||*alla-cazzo-di-cane*^
-||*alla-cazzodicane*^
-||*alla-pecorina*^
+||*alla*cazzo*di*cane*^
+||*alla*cazzodicane*^
+||*alla*pecorina*^
+||*alla*cazzo*di*cane*^
+||*alla*cazzodicane*^
+||*alla*pecorina*^
+||*alla*cazzo*di*cane*^
+||*alla*cazzodicane*^
+||*alla*pecorina*^
 ||*allacazzodicane*^
 ||*allapecorina*^
-||*aller se faire foutre*^
+||*aller*se*faire*foutre*^
 ||*allupato*^
-||*alpha male*^
-||*alpha males*^
-||*alpha malez*^
-||*alpha+male*^
-||*alpha+males*^
-||*alpha+malez*^
-||*alpha-male*^
-||*alpha-males*^
-||*alpha-malez*^
+||*alpha*male*^
+||*alpha*males*^
+||*alpha*malez*^
+||*alpha*male*^
+||*alpha*males*^
+||*alpha*malez*^
+||*alpha*male*^
+||*alpha*males*^
+||*alpha*malez*^
 ||*alphamale*^
 ||*alphamales*^
 ||*alphamalez*^
-||*amateur porn*^
-||*amateur sex*^
-||*amateur+porn*^
-||*amateur+sex*^
-||*amateur-porn*^
-||*amateur-sex*^
+||*amateur*porn*^
+||*amateur*sex*^
+||*amateur*porn*^
+||*amateur*sex*^
+||*amateur*porn*^
+||*amateur*sex*^
 ||*amateurporn*^
 ||*amateursex*^
 ||*amcik*^
 ||*ammucchiata*^
-||*anal annie*^
-||*anal bead*^
-||*anal beads*^
-||*anal beadz*^
-||*anal impaler*^
-||*anal leakage*^
-||*anal leaking*^
-||*anal leaks*^
-||*anal leakz*^
-||*anal probe*^
-||*anal rape*^
-||*anal rip*^
-||*anal sex*^
-||*anal tear*^
+||*anal*annie*^
+||*anal*bead*^
+||*anal*beads*^
+||*anal*beadz*^
+||*anal*impaler*^
+||*anal*leakage*^
+||*anal*leaking*^
+||*anal*leaks*^
+||*anal*leakz*^
+||*anal*probe*^
+||*anal*rape*^
+||*anal*rip*^
+||*anal*sex*^
+||*anal*tear*^
 ||*anal*^
-||*anal+annie*^
-||*anal+bead*^
-||*anal+beads*^
-||*anal+beadz*^
-||*anal+impaler*^
-||*anal+leakage*^
-||*anal+leaking*^
-||*anal+leaks*^
-||*anal+leakz*^
-||*anal+probe*^
-||*anal+rape*^
-||*anal+rip*^
-||*anal+sex*^
-||*anal+tear*^
-||*anal-annie*^
-||*anal-bead*^
-||*anal-beads*^
-||*anal-beadz*^
-||*anal-impaler*^
-||*anal-leakage*^
-||*anal-leaking*^
-||*anal-leaks*^
-||*anal-leakz*^
-||*anal-probe*^
-||*anal-rape*^
-||*anal-rip*^
-||*anal-sex*^
-||*anal-tear*^
+||*anal*annie*^
+||*anal*bead*^
+||*anal*beads*^
+||*anal*beadz*^
+||*anal*impaler*^
+||*anal*leakage*^
+||*anal*leaking*^
+||*anal*leaks*^
+||*anal*leakz*^
+||*anal*probe*^
+||*anal*rape*^
+||*anal*rip*^
+||*anal*sex*^
+||*anal*tear*^
+||*anal*annie*^
+||*anal*bead*^
+||*anal*beads*^
+||*anal*beadz*^
+||*anal*impaler*^
+||*anal*leakage*^
+||*anal*leaking*^
+||*anal*leaks*^
+||*anal*leakz*^
+||*anal*probe*^
+||*anal*rape*^
+||*anal*rip*^
+||*anal*sex*^
+||*anal*tear*^
 ||*analannie*^
 ||*analbead*^
 ||*analbeads*^
@@ -305,13 +305,13 @@
 ||*analleakz*^
 ||*analna*^
 ||*analne*^
-||*analni seks*^
-||*analni sex*^
+||*analni*seks*^
+||*analni*sex*^
 ||*analni*^
-||*analni+seks*^
-||*analni+sex*^
-||*analni-seks*^
-||*analni-sex*^
+||*analni*seks*^
+||*analni*sex*^
+||*analni*seks*^
+||*analni*sex*^
 ||*analniseks*^
 ||*analnisex*^
 ||*analno*^
@@ -321,50 +321,50 @@
 ||*analrip*^
 ||*analsex*^
 ||*analtear*^
-||*anda a cagar*^
-||*andare a puttane*^
+||*anda*a*cagar*^
+||*andare*a*puttane*^
 ||*andouille*^
 ||*andskota*^
 ||*anfasst*^
 ||*anilingus*^
-||*animal porn*^
-||*animal sex*^
-||*animal+porn*^
-||*animal+sex*^
-||*animal-porn*^
-||*animal-sex*^
+||*animal*porn*^
+||*animal*sex*^
+||*animal*porn*^
+||*animal*sex*^
+||*animal*porn*^
+||*animal*sex*^
 ||*animalporn*^
 ||*animalsex*^
-||*anime porn*^
-||*anime sex*^
-||*anime+porn*^
-||*anime+sex*^
-||*anime-porn*^
-||*anime-sex*^
+||*anime*porn*^
+||*anime*sex*^
+||*anime*porn*^
+||*anime*sex*^
+||*anime*porn*^
+||*anime*sex*^
 ||*animeporn*^
 ||*animesex*^
-||*anus lick*^
-||*anus licker*^
-||*anus lickers*^
-||*anus lickerz*^
-||*anus licking*^
-||*anus licks*^
-||*anus lickz*^
+||*anus*lick*^
+||*anus*licker*^
+||*anus*lickers*^
+||*anus*lickerz*^
+||*anus*licking*^
+||*anus*licks*^
+||*anus*lickz*^
 ||*anus*^
-||*anus+lick*^
-||*anus+licker*^
-||*anus+lickers*^
-||*anus+lickerz*^
-||*anus+licking*^
-||*anus+licks*^
-||*anus+lickz*^
-||*anus-lick*^
-||*anus-licker*^
-||*anus-lickers*^
-||*anus-lickerz*^
-||*anus-licking*^
-||*anus-licks*^
-||*anus-lickz*^
+||*anus*lick*^
+||*anus*licker*^
+||*anus*lickers*^
+||*anus*lickerz*^
+||*anus*licking*^
+||*anus*licks*^
+||*anus*lickz*^
+||*anus*lick*^
+||*anus*licker*^
+||*anus*lickers*^
+||*anus*lickerz*^
+||*anus*licking*^
+||*anus*licks*^
+||*anus*lickz*^
 ||*anuses*^
 ||*anusez*^
 ||*anushead*^
@@ -377,23 +377,23 @@
 ||*anuslickz*^
 ||*anuss*^
 ||*aokan*^
-||*ape shit*^
-||*ape star*^
-||*ape+shit*^
-||*ape+star*^
-||*ape-shit*^
-||*ape-star*^
+||*ape*shit*^
+||*ape*star*^
+||*ape*shit*^
+||*ape*star*^
+||*ape*shit*^
+||*ape*star*^
 ||*apeshit*^
 ||*apestar*^
-||*arab bush*^
-||*arab porn*^
-||*arab sex*^
-||*arab+bush*^
-||*arab+porn*^
-||*arab+sex*^
-||*arab-bush*^
-||*arab-porn*^
-||*arab-sex*^
+||*arab*bush*^
+||*arab*porn*^
+||*arab*sex*^
+||*arab*bush*^
+||*arab*porn*^
+||*arab*sex*^
+||*arab*bush*^
+||*arab*porn*^
+||*arab*sex*^
 ||*arabbush*^
 ||*arabporn*^
 ||*arabsex*^
@@ -402,16 +402,16 @@
 ||*areole*^
 ||*aroused*^
 ||*arrapato*^
-||*arrse hole*^
-||*arrse holes*^
-||*arrse holez*^
+||*arrse*hole*^
+||*arrse*holes*^
+||*arrse*holez*^
 ||*arrse*^
-||*arrse+hole*^
-||*arrse+holes*^
-||*arrse+holez*^
-||*arrse-hole*^
-||*arrse-holes*^
-||*arrse-holez*^
+||*arrse*hole*^
+||*arrse*holes*^
+||*arrse*holez*^
+||*arrse*hole*^
+||*arrse*holes*^
+||*arrse*holez*^
 ||*arrsed*^
 ||*arrsehole*^
 ||*arrseholes*^
@@ -419,12 +419,12 @@
 ||*arrses*^
 ||*arrsez*^
 ||*arruso*^
-||*arsch ficker*^
-||*arsch fotze*^
-||*arsch gefickter*^
-||*arsch geige*^
-||*arsch gesicht*^
-||*arsch loch*^
+||*arsch*ficker*^
+||*arsch*fotze*^
+||*arsch*gefickter*^
+||*arsch*geige*^
+||*arsch*gesicht*^
+||*arsch*loch*^
 ||*arsch*^
 ||*arsche*^
 ||*arschen*^
@@ -434,16 +434,16 @@
 ||*arschgeige*^
 ||*arschgesicht*^
 ||*arschloch*^
-||*arse hole*^
-||*arse holes*^
-||*arse holez*^
+||*arse*hole*^
+||*arse*holes*^
+||*arse*holez*^
 ||*arse*^
-||*arse+hole*^
-||*arse+holes*^
-||*arse+holez*^
-||*arse-hole*^
-||*arse-holes*^
-||*arse-holez*^
+||*arse*hole*^
+||*arse*holes*^
+||*arse*holez*^
+||*arse*hole*^
+||*arse*holes*^
+||*arse*holez*^
 ||*arsed*^
 ||*arsehole*^
 ||*arseholed*^
@@ -453,15 +453,15 @@
 ||*arselicker*^
 ||*arses*^
 ||*arsez*^
-||*as hole*^
-||*as holes*^
-||*as holez*^
-||*as+hole*^
-||*as+holes*^
-||*as+holez*^
-||*as-hole*^
-||*as-holes*^
-||*as-holez*^
+||*as*hole*^
+||*as*holes*^
+||*as*holez*^
+||*as*hole*^
+||*as*holes*^
+||*as*holez*^
+||*as*hole*^
+||*as*holes*^
+||*as*holez*^
 ||*asexual*^
 ||*asexuality*^
 ||*asexuals*^
@@ -469,705 +469,705 @@
 ||*ashole*^
 ||*asholes*^
 ||*asholez*^
-||*asian porn*^
-||*asian sex*^
-||*asian+porn*^
-||*asian+sex*^
-||*asian-porn*^
-||*asian-sex*^
+||*asian*porn*^
+||*asian*sex*^
+||*asian*porn*^
+||*asian*sex*^
+||*asian*porn*^
+||*asian*sex*^
 ||*asianporn*^
 ||*asiansex*^
-||*ass assin*^
-||*ass assins*^
-||*ass assinz*^
-||*ass bag*^
-||*ass bagger*^
-||*ass baggers*^
-||*ass baggerz*^
-||*ass bags*^
-||*ass bagz*^
-||*ass bandit*^
-||*ass bandits*^
-||*ass banditz*^
-||*ass bang*^
-||*ass banged*^
-||*ass banger*^
-||*ass banging*^
-||*ass bangs*^
-||*ass bangz*^
-||*ass bead*^
-||*ass beads*^
-||*ass beadz*^
-||*ass bite*^
-||*ass bites*^
-||*ass bitez*^
-||*ass blaster*^
-||*ass blasters*^
-||*ass blasterz*^
-||*ass bleach*^
-||*ass clown*^
-||*ass clowns*^
-||*ass clownz*^
-||*ass cock*^
-||*ass cocks*^
-||*ass cockz*^
-||*ass cowboy*^
-||*ass cowboys*^
-||*ass cowboyz*^
-||*ass crack*^
-||*ass cracker*^
-||*ass crackers*^
-||*ass crackerz*^
-||*ass cracks*^
-||*ass crackz*^
-||*ass dick*^
-||*ass dildo*^
-||*ass dildos*^
-||*ass dildoz*^
-||*ass dong*^
-||*ass dongs*^
-||*ass dongz*^
-||*ass face*^
-||*ass faces*^
-||*ass facez*^
-||*ass fist*^
-||*ass fisting*^
-||*ass fuck*^
-||*ass fucked*^
-||*ass fucker*^
-||*ass fuckers*^
-||*ass fuckerz*^
-||*ass fucking*^
-||*ass fucks*^
-||*ass fuckz*^
-||*ass fuk*^
-||*ass fukka*^
-||*ass fukkas*^
-||*ass fukkaz*^
-||*ass fuq*^
-||*ass goblin*^
-||*ass goblins*^
-||*ass goblinz*^
-||*ass grab*^
-||*ass grabber*^
-||*ass grabbers*^
-||*ass grabberz*^
-||*ass grabbing*^
-||*ass grabs*^
-||*ass grabz*^
-||*ass grind*^
-||*ass grinder*^
-||*ass grinders*^
-||*ass grinderz*^
-||*ass grinding*^
-||*ass grinds*^
-||*ass grindz*^
-||*ass hat*^
-||*ass hats*^
-||*ass hatz*^
-||*ass head*^
-||*ass heads*^
-||*ass headz*^
-||*ass hol*^
-||*ass hole*^
-||*ass holes*^
-||*ass holez*^
-||*ass hols*^
-||*ass holz*^
-||*ass hop*^
-||*ass hopper*^
-||*ass hoppers*^
-||*ass hopperz*^
-||*ass hore*^
-||*ass hores*^
-||*ass horez*^
-||*ass jab*^
-||*ass jabber*^
-||*ass jabbers*^
-||*ass jabberz*^
-||*ass jabs*^
-||*ass jabz*^
-||*ass jack*^
-||*ass jacker*^
-||*ass jackers*^
-||*ass jackerz*^
-||*ass jacks*^
-||*ass jackz*^
-||*ass jockey*^
-||*ass jockies*^
-||*ass jockiez*^
-||*ass kiss*^
-||*ass kisser*^
-||*ass kissers*^
-||*ass kisserz*^
-||*ass kissing*^
-||*ass klown*^
-||*ass klowns*^
-||*ass klownz*^
-||*ass lick*^
-||*ass licker*^
-||*ass lickers*^
-||*ass lickerz*^
-||*ass licking*^
-||*ass licks*^
-||*ass lickz*^
-||*ass liquid*^
-||*ass lover*^
-||*ass lovers*^
-||*ass loverz*^
-||*ass lube*^
-||*ass lubes*^
-||*ass lubez*^
-||*ass lubricant*^
-||*ass man*^
-||*ass master*^
-||*ass masters*^
-||*ass masterz*^
-||*ass men*^
-||*ass monkey*^
-||*ass monkeys*^
-||*ass monkeyz*^
-||*ass monkies*^
-||*ass monkiez*^
-||*ass mouth*^
-||*ass mucus*^
-||*ass munch*^
-||*ass munched*^
-||*ass muncher*^
-||*ass munchers*^
-||*ass muncherz*^
-||*ass munchies*^
-||*ass munchiez*^
-||*ass munching*^
-||*ass nigga*^
-||*ass niggas*^
-||*ass niggaz*^
-||*ass nigger*^
-||*ass niggers*^
-||*ass niggerz*^
-||*ass packer*^
-||*ass packers*^
-||*ass packerz*^
-||*ass pimple*^
-||*ass pimples*^
-||*ass pimplez*^
-||*ass pirate*^
-||*ass pirates*^
-||*ass piratez*^
-||*ass poop*^
-||*ass puppies*^
-||*ass puppiez*^
-||*ass puppy*^
-||*ass ram*^
-||*ass rammer*^
-||*ass rammers*^
-||*ass rammerz*^
-||*ass ranger*^
-||*ass rangers*^
-||*ass rangerz*^
-||*ass rape*^
-||*ass raper*^
-||*ass rapers*^
-||*ass raperz*^
-||*ass shit*^
-||*ass shred*^
-||*ass shredding*^
-||*ass slave*^
-||*ass slaves*^
-||*ass slavez*^
-||*ass spray*^
-||*ass suck*^
-||*ass sucked*^
-||*ass sucker*^
-||*ass suckers*^
-||*ass suckerz*^
-||*ass sucking*^
-||*ass sucks*^
-||*ass suckz*^
-||*ass to mouth*^
-||*ass turd*^
-||*ass wack*^
-||*ass wacked*^
-||*ass wacker*^
-||*ass wackers*^
-||*ass wackerz*^
-||*ass wacking*^
-||*ass wacks*^
-||*ass wackz*^
-||*ass wad*^
-||*ass wads*^
-||*ass wadz*^
-||*ass wham*^
-||*ass whole*^
-||*ass wholes*^
-||*ass wholez*^
-||*ass whore*^
-||*ass whores*^
-||*ass whorez*^
-||*ass wipe*^
-||*ass wipes*^
-||*ass wipez*^
+||*ass*assin*^
+||*ass*assins*^
+||*ass*assinz*^
+||*ass*bag*^
+||*ass*bagger*^
+||*ass*baggers*^
+||*ass*baggerz*^
+||*ass*bags*^
+||*ass*bagz*^
+||*ass*bandit*^
+||*ass*bandits*^
+||*ass*banditz*^
+||*ass*bang*^
+||*ass*banged*^
+||*ass*banger*^
+||*ass*banging*^
+||*ass*bangs*^
+||*ass*bangz*^
+||*ass*bead*^
+||*ass*beads*^
+||*ass*beadz*^
+||*ass*bite*^
+||*ass*bites*^
+||*ass*bitez*^
+||*ass*blaster*^
+||*ass*blasters*^
+||*ass*blasterz*^
+||*ass*bleach*^
+||*ass*clown*^
+||*ass*clowns*^
+||*ass*clownz*^
+||*ass*cock*^
+||*ass*cocks*^
+||*ass*cockz*^
+||*ass*cowboy*^
+||*ass*cowboys*^
+||*ass*cowboyz*^
+||*ass*crack*^
+||*ass*cracker*^
+||*ass*crackers*^
+||*ass*crackerz*^
+||*ass*cracks*^
+||*ass*crackz*^
+||*ass*dick*^
+||*ass*dildo*^
+||*ass*dildos*^
+||*ass*dildoz*^
+||*ass*dong*^
+||*ass*dongs*^
+||*ass*dongz*^
+||*ass*face*^
+||*ass*faces*^
+||*ass*facez*^
+||*ass*fist*^
+||*ass*fisting*^
+||*ass*fuck*^
+||*ass*fucked*^
+||*ass*fucker*^
+||*ass*fuckers*^
+||*ass*fuckerz*^
+||*ass*fucking*^
+||*ass*fucks*^
+||*ass*fuckz*^
+||*ass*fuk*^
+||*ass*fukka*^
+||*ass*fukkas*^
+||*ass*fukkaz*^
+||*ass*fuq*^
+||*ass*goblin*^
+||*ass*goblins*^
+||*ass*goblinz*^
+||*ass*grab*^
+||*ass*grabber*^
+||*ass*grabbers*^
+||*ass*grabberz*^
+||*ass*grabbing*^
+||*ass*grabs*^
+||*ass*grabz*^
+||*ass*grind*^
+||*ass*grinder*^
+||*ass*grinders*^
+||*ass*grinderz*^
+||*ass*grinding*^
+||*ass*grinds*^
+||*ass*grindz*^
+||*ass*hat*^
+||*ass*hats*^
+||*ass*hatz*^
+||*ass*head*^
+||*ass*heads*^
+||*ass*headz*^
+||*ass*hol*^
+||*ass*hole*^
+||*ass*holes*^
+||*ass*holez*^
+||*ass*hols*^
+||*ass*holz*^
+||*ass*hop*^
+||*ass*hopper*^
+||*ass*hoppers*^
+||*ass*hopperz*^
+||*ass*hore*^
+||*ass*hores*^
+||*ass*horez*^
+||*ass*jab*^
+||*ass*jabber*^
+||*ass*jabbers*^
+||*ass*jabberz*^
+||*ass*jabs*^
+||*ass*jabz*^
+||*ass*jack*^
+||*ass*jacker*^
+||*ass*jackers*^
+||*ass*jackerz*^
+||*ass*jacks*^
+||*ass*jackz*^
+||*ass*jockey*^
+||*ass*jockies*^
+||*ass*jockiez*^
+||*ass*kiss*^
+||*ass*kisser*^
+||*ass*kissers*^
+||*ass*kisserz*^
+||*ass*kissing*^
+||*ass*klown*^
+||*ass*klowns*^
+||*ass*klownz*^
+||*ass*lick*^
+||*ass*licker*^
+||*ass*lickers*^
+||*ass*lickerz*^
+||*ass*licking*^
+||*ass*licks*^
+||*ass*lickz*^
+||*ass*liquid*^
+||*ass*lover*^
+||*ass*lovers*^
+||*ass*loverz*^
+||*ass*lube*^
+||*ass*lubes*^
+||*ass*lubez*^
+||*ass*lubricant*^
+||*ass*man*^
+||*ass*master*^
+||*ass*masters*^
+||*ass*masterz*^
+||*ass*men*^
+||*ass*monkey*^
+||*ass*monkeys*^
+||*ass*monkeyz*^
+||*ass*monkies*^
+||*ass*monkiez*^
+||*ass*mouth*^
+||*ass*mucus*^
+||*ass*munch*^
+||*ass*munched*^
+||*ass*muncher*^
+||*ass*munchers*^
+||*ass*muncherz*^
+||*ass*munchies*^
+||*ass*munchiez*^
+||*ass*munching*^
+||*ass*nigga*^
+||*ass*niggas*^
+||*ass*niggaz*^
+||*ass*nigger*^
+||*ass*niggers*^
+||*ass*niggerz*^
+||*ass*packer*^
+||*ass*packers*^
+||*ass*packerz*^
+||*ass*pimple*^
+||*ass*pimples*^
+||*ass*pimplez*^
+||*ass*pirate*^
+||*ass*pirates*^
+||*ass*piratez*^
+||*ass*poop*^
+||*ass*puppies*^
+||*ass*puppiez*^
+||*ass*puppy*^
+||*ass*ram*^
+||*ass*rammer*^
+||*ass*rammers*^
+||*ass*rammerz*^
+||*ass*ranger*^
+||*ass*rangers*^
+||*ass*rangerz*^
+||*ass*rape*^
+||*ass*raper*^
+||*ass*rapers*^
+||*ass*raperz*^
+||*ass*shit*^
+||*ass*shred*^
+||*ass*shredding*^
+||*ass*slave*^
+||*ass*slaves*^
+||*ass*slavez*^
+||*ass*spray*^
+||*ass*suck*^
+||*ass*sucked*^
+||*ass*sucker*^
+||*ass*suckers*^
+||*ass*suckerz*^
+||*ass*sucking*^
+||*ass*sucks*^
+||*ass*suckz*^
+||*ass*to*mouth*^
+||*ass*turd*^
+||*ass*wack*^
+||*ass*wacked*^
+||*ass*wacker*^
+||*ass*wackers*^
+||*ass*wackerz*^
+||*ass*wacking*^
+||*ass*wacks*^
+||*ass*wackz*^
+||*ass*wad*^
+||*ass*wads*^
+||*ass*wadz*^
+||*ass*wham*^
+||*ass*whole*^
+||*ass*wholes*^
+||*ass*wholez*^
+||*ass*whore*^
+||*ass*whores*^
+||*ass*whorez*^
+||*ass*wipe*^
+||*ass*wipes*^
+||*ass*wipez*^
 ||*ass*^
-||*ass+assin*^
-||*ass+assins*^
-||*ass+assinz*^
-||*ass+bag*^
-||*ass+bagger*^
-||*ass+baggers*^
-||*ass+baggerz*^
-||*ass+bags*^
-||*ass+bagz*^
-||*ass+bandit*^
-||*ass+bandits*^
-||*ass+banditz*^
-||*ass+bang*^
-||*ass+banged*^
-||*ass+banger*^
-||*ass+banging*^
-||*ass+bangs*^
-||*ass+bangz*^
-||*ass+bead*^
-||*ass+beads*^
-||*ass+beadz*^
-||*ass+bite*^
-||*ass+bites*^
-||*ass+bitez*^
-||*ass+blaster*^
-||*ass+blasters*^
-||*ass+blasterz*^
-||*ass+bleach*^
-||*ass+clown*^
-||*ass+clowns*^
-||*ass+clownz*^
-||*ass+cock*^
-||*ass+cocks*^
-||*ass+cockz*^
-||*ass+cowboy*^
-||*ass+cowboys*^
-||*ass+cowboyz*^
-||*ass+crack*^
-||*ass+cracker*^
-||*ass+crackers*^
-||*ass+crackerz*^
-||*ass+cracks*^
-||*ass+crackz*^
-||*ass+dick*^
-||*ass+dildo*^
-||*ass+dildos*^
-||*ass+dildoz*^
-||*ass+dong*^
-||*ass+dongs*^
-||*ass+dongz*^
-||*ass+face*^
-||*ass+faces*^
-||*ass+facez*^
-||*ass+fist*^
-||*ass+fisting*^
-||*ass+fuck*^
-||*ass+fucked*^
-||*ass+fucker*^
-||*ass+fuckers*^
-||*ass+fuckerz*^
-||*ass+fucking*^
-||*ass+fucks*^
-||*ass+fuckz*^
-||*ass+fuk*^
-||*ass+fukka*^
-||*ass+fukkas*^
-||*ass+fukkaz*^
-||*ass+fuq*^
-||*ass+goblin*^
-||*ass+goblins*^
-||*ass+goblinz*^
-||*ass+grab*^
-||*ass+grabber*^
-||*ass+grabbers*^
-||*ass+grabberz*^
-||*ass+grabbing*^
-||*ass+grabs*^
-||*ass+grabz*^
-||*ass+grind*^
-||*ass+grinder*^
-||*ass+grinders*^
-||*ass+grinderz*^
-||*ass+grinding*^
-||*ass+grinds*^
-||*ass+grindz*^
-||*ass+hat*^
-||*ass+hats*^
-||*ass+hatz*^
-||*ass+head*^
-||*ass+heads*^
-||*ass+headz*^
-||*ass+hol*^
-||*ass+hole*^
-||*ass+holes*^
-||*ass+holez*^
-||*ass+hols*^
-||*ass+holz*^
-||*ass+hop*^
-||*ass+hopper*^
-||*ass+hoppers*^
-||*ass+hopperz*^
-||*ass+hore*^
-||*ass+hores*^
-||*ass+horez*^
-||*ass+jab*^
-||*ass+jabber*^
-||*ass+jabbers*^
-||*ass+jabberz*^
-||*ass+jabs*^
-||*ass+jabz*^
-||*ass+jack*^
-||*ass+jacker*^
-||*ass+jackers*^
-||*ass+jackerz*^
-||*ass+jacks*^
-||*ass+jackz*^
-||*ass+jockey*^
-||*ass+jockies*^
-||*ass+jockiez*^
-||*ass+kiss*^
-||*ass+kisser*^
-||*ass+kissers*^
-||*ass+kisserz*^
-||*ass+kissing*^
-||*ass+klown*^
-||*ass+klowns*^
-||*ass+klownz*^
-||*ass+lick*^
-||*ass+licker*^
-||*ass+lickers*^
-||*ass+lickerz*^
-||*ass+licking*^
-||*ass+licks*^
-||*ass+lickz*^
-||*ass+liquid*^
-||*ass+lover*^
-||*ass+lovers*^
-||*ass+loverz*^
-||*ass+lube*^
-||*ass+lubes*^
-||*ass+lubez*^
-||*ass+lubricant*^
-||*ass+man*^
-||*ass+master*^
-||*ass+masters*^
-||*ass+masterz*^
-||*ass+men*^
-||*ass+monkey*^
-||*ass+monkeys*^
-||*ass+monkeyz*^
-||*ass+monkies*^
-||*ass+monkiez*^
-||*ass+mouth*^
-||*ass+mucus*^
-||*ass+munch*^
-||*ass+munched*^
-||*ass+muncher*^
-||*ass+munchers*^
-||*ass+muncherz*^
-||*ass+munchies*^
-||*ass+munchiez*^
-||*ass+munching*^
-||*ass+nigga*^
-||*ass+niggas*^
-||*ass+niggaz*^
-||*ass+nigger*^
-||*ass+niggers*^
-||*ass+niggerz*^
-||*ass+packer*^
-||*ass+packers*^
-||*ass+packerz*^
-||*ass+pimple*^
-||*ass+pimples*^
-||*ass+pimplez*^
-||*ass+pirate*^
-||*ass+pirates*^
-||*ass+piratez*^
-||*ass+poop*^
-||*ass+puppies*^
-||*ass+puppiez*^
-||*ass+puppy*^
-||*ass+ram*^
-||*ass+rammer*^
-||*ass+rammers*^
-||*ass+rammerz*^
-||*ass+ranger*^
-||*ass+rangers*^
-||*ass+rangerz*^
-||*ass+rape*^
-||*ass+raper*^
-||*ass+rapers*^
-||*ass+raperz*^
-||*ass+shit*^
-||*ass+shred*^
-||*ass+shredding*^
-||*ass+slave*^
-||*ass+slaves*^
-||*ass+slavez*^
-||*ass+spray*^
-||*ass+suck*^
-||*ass+sucked*^
-||*ass+sucker*^
-||*ass+suckers*^
-||*ass+suckerz*^
-||*ass+sucking*^
-||*ass+sucks*^
-||*ass+suckz*^
-||*ass+to+mouth*^
-||*ass+turd*^
-||*ass+wack*^
-||*ass+wacked*^
-||*ass+wacker*^
-||*ass+wackers*^
-||*ass+wackerz*^
-||*ass+wacking*^
-||*ass+wacks*^
-||*ass+wackz*^
-||*ass+wad*^
-||*ass+wads*^
-||*ass+wadz*^
-||*ass+wham*^
-||*ass+whole*^
-||*ass+wholes*^
-||*ass+wholez*^
-||*ass+whore*^
-||*ass+whores*^
-||*ass+whorez*^
-||*ass+wipe*^
-||*ass+wipes*^
-||*ass+wipez*^
-||*ass-assin*^
-||*ass-assins*^
-||*ass-assinz*^
-||*ass-bag*^
-||*ass-bagger*^
-||*ass-baggers*^
-||*ass-baggerz*^
-||*ass-bags*^
-||*ass-bagz*^
-||*ass-bandit*^
-||*ass-bandits*^
-||*ass-banditz*^
-||*ass-bang*^
-||*ass-banged*^
-||*ass-banger*^
-||*ass-banging*^
-||*ass-bangs*^
-||*ass-bangz*^
-||*ass-bead*^
-||*ass-beads*^
-||*ass-beadz*^
-||*ass-bite*^
-||*ass-bites*^
-||*ass-bitez*^
-||*ass-blaster*^
-||*ass-blasters*^
-||*ass-blasterz*^
-||*ass-bleach*^
-||*ass-clown*^
-||*ass-clowns*^
-||*ass-clownz*^
-||*ass-cock*^
-||*ass-cocks*^
-||*ass-cockz*^
-||*ass-cowboy*^
-||*ass-cowboys*^
-||*ass-cowboyz*^
-||*ass-crack*^
-||*ass-cracker*^
-||*ass-crackers*^
-||*ass-crackerz*^
-||*ass-cracks*^
-||*ass-crackz*^
-||*ass-dick*^
-||*ass-dildo*^
-||*ass-dildos*^
-||*ass-dildoz*^
-||*ass-dong*^
-||*ass-dongs*^
-||*ass-dongz*^
-||*ass-face*^
-||*ass-faces*^
-||*ass-facez*^
-||*ass-fist*^
-||*ass-fisting*^
-||*ass-fuck*^
-||*ass-fucked*^
-||*ass-fucker*^
-||*ass-fuckers*^
-||*ass-fuckerz*^
-||*ass-fucking*^
-||*ass-fucks*^
-||*ass-fuckz*^
-||*ass-fuk*^
-||*ass-fukka*^
-||*ass-fukkas*^
-||*ass-fukkaz*^
-||*ass-fuq*^
-||*ass-goblin*^
-||*ass-goblins*^
-||*ass-goblinz*^
-||*ass-grab*^
-||*ass-grabber*^
-||*ass-grabbers*^
-||*ass-grabberz*^
-||*ass-grabbing*^
-||*ass-grabs*^
-||*ass-grabz*^
-||*ass-grind*^
-||*ass-grinder*^
-||*ass-grinders*^
-||*ass-grinderz*^
-||*ass-grinding*^
-||*ass-grinds*^
-||*ass-grindz*^
-||*ass-hat*^
-||*ass-hats*^
-||*ass-hatz*^
-||*ass-head*^
-||*ass-heads*^
-||*ass-headz*^
-||*ass-hol*^
-||*ass-hole*^
-||*ass-holes*^
-||*ass-holez*^
-||*ass-hols*^
-||*ass-holz*^
-||*ass-hop*^
-||*ass-hopper*^
-||*ass-hoppers*^
-||*ass-hopperz*^
-||*ass-hore*^
-||*ass-hores*^
-||*ass-horez*^
-||*ass-jab*^
-||*ass-jabber*^
-||*ass-jabbers*^
-||*ass-jabberz*^
-||*ass-jabs*^
-||*ass-jabz*^
-||*ass-jack*^
-||*ass-jacker*^
-||*ass-jackers*^
-||*ass-jackerz*^
-||*ass-jacks*^
-||*ass-jackz*^
-||*ass-jockey*^
-||*ass-jockies*^
-||*ass-jockiez*^
-||*ass-kiss*^
-||*ass-kisser*^
-||*ass-kissers*^
-||*ass-kisserz*^
-||*ass-kissing*^
-||*ass-klown*^
-||*ass-klowns*^
-||*ass-klownz*^
-||*ass-lick*^
-||*ass-licker*^
-||*ass-lickers*^
-||*ass-lickerz*^
-||*ass-licking*^
-||*ass-licks*^
-||*ass-lickz*^
-||*ass-liquid*^
-||*ass-lover*^
-||*ass-lovers*^
-||*ass-loverz*^
-||*ass-lube*^
-||*ass-lubes*^
-||*ass-lubez*^
-||*ass-lubricnat*^
-||*ass-man*^
-||*ass-master*^
-||*ass-masters*^
-||*ass-masterz*^
-||*ass-men*^
-||*ass-monkey*^
-||*ass-monkeys*^
-||*ass-monkeyz*^
-||*ass-monkies*^
-||*ass-monkiez*^
-||*ass-mouth*^
-||*ass-mucus*^
-||*ass-munch*^
-||*ass-munched*^
-||*ass-muncher*^
-||*ass-munchers*^
-||*ass-muncherz*^
-||*ass-munchies*^
-||*ass-munchiez*^
-||*ass-munching*^
-||*ass-nigga*^
-||*ass-niggas*^
-||*ass-niggaz*^
-||*ass-nigger*^
-||*ass-niggers*^
-||*ass-niggerz*^
-||*ass-packer*^
-||*ass-packers*^
-||*ass-packerz*^
-||*ass-pimple*^
-||*ass-pimples*^
-||*ass-pimplez*^
-||*ass-pirate*^
-||*ass-pirates*^
-||*ass-piratez*^
-||*ass-poop*^
-||*ass-puppies*^
-||*ass-puppiez*^
-||*ass-puppy*^
-||*ass-ram*^
-||*ass-rammer*^
-||*ass-rammers*^
-||*ass-rammerz*^
-||*ass-ranger*^
-||*ass-rangers*^
-||*ass-rangerz*^
-||*ass-rape*^
-||*ass-raper*^
-||*ass-rapers*^
-||*ass-raperz*^
-||*ass-shit*^
-||*ass-shred*^
-||*ass-shredding*^
-||*ass-slave*^
-||*ass-slaves*^
-||*ass-slavez*^
-||*ass-spray*^
-||*ass-suck*^
-||*ass-sucked*^
-||*ass-sucker*^
-||*ass-suckers*^
-||*ass-suckerz*^
-||*ass-sucking*^
-||*ass-sucks*^
-||*ass-suckz*^
-||*ass-to-mouth*^
-||*ass-turd*^
-||*ass-wack*^
-||*ass-wacked*^
-||*ass-wacker*^
-||*ass-wackers*^
-||*ass-wackerz*^
-||*ass-wacking*^
-||*ass-wacks*^
-||*ass-wackz*^
-||*ass-wad*^
-||*ass-wads*^
-||*ass-wadz*^
-||*ass-wham*^
-||*ass-whole*^
-||*ass-wholes*^
-||*ass-wholez*^
-||*ass-whore*^
-||*ass-whores*^
-||*ass-whorez*^
-||*ass-wipe*^
-||*ass-wipes*^
-||*ass-wipez*^
+||*ass*assin*^
+||*ass*assins*^
+||*ass*assinz*^
+||*ass*bag*^
+||*ass*bagger*^
+||*ass*baggers*^
+||*ass*baggerz*^
+||*ass*bags*^
+||*ass*bagz*^
+||*ass*bandit*^
+||*ass*bandits*^
+||*ass*banditz*^
+||*ass*bang*^
+||*ass*banged*^
+||*ass*banger*^
+||*ass*banging*^
+||*ass*bangs*^
+||*ass*bangz*^
+||*ass*bead*^
+||*ass*beads*^
+||*ass*beadz*^
+||*ass*bite*^
+||*ass*bites*^
+||*ass*bitez*^
+||*ass*blaster*^
+||*ass*blasters*^
+||*ass*blasterz*^
+||*ass*bleach*^
+||*ass*clown*^
+||*ass*clowns*^
+||*ass*clownz*^
+||*ass*cock*^
+||*ass*cocks*^
+||*ass*cockz*^
+||*ass*cowboy*^
+||*ass*cowboys*^
+||*ass*cowboyz*^
+||*ass*crack*^
+||*ass*cracker*^
+||*ass*crackers*^
+||*ass*crackerz*^
+||*ass*cracks*^
+||*ass*crackz*^
+||*ass*dick*^
+||*ass*dildo*^
+||*ass*dildos*^
+||*ass*dildoz*^
+||*ass*dong*^
+||*ass*dongs*^
+||*ass*dongz*^
+||*ass*face*^
+||*ass*faces*^
+||*ass*facez*^
+||*ass*fist*^
+||*ass*fisting*^
+||*ass*fuck*^
+||*ass*fucked*^
+||*ass*fucker*^
+||*ass*fuckers*^
+||*ass*fuckerz*^
+||*ass*fucking*^
+||*ass*fucks*^
+||*ass*fuckz*^
+||*ass*fuk*^
+||*ass*fukka*^
+||*ass*fukkas*^
+||*ass*fukkaz*^
+||*ass*fuq*^
+||*ass*goblin*^
+||*ass*goblins*^
+||*ass*goblinz*^
+||*ass*grab*^
+||*ass*grabber*^
+||*ass*grabbers*^
+||*ass*grabberz*^
+||*ass*grabbing*^
+||*ass*grabs*^
+||*ass*grabz*^
+||*ass*grind*^
+||*ass*grinder*^
+||*ass*grinders*^
+||*ass*grinderz*^
+||*ass*grinding*^
+||*ass*grinds*^
+||*ass*grindz*^
+||*ass*hat*^
+||*ass*hats*^
+||*ass*hatz*^
+||*ass*head*^
+||*ass*heads*^
+||*ass*headz*^
+||*ass*hol*^
+||*ass*hole*^
+||*ass*holes*^
+||*ass*holez*^
+||*ass*hols*^
+||*ass*holz*^
+||*ass*hop*^
+||*ass*hopper*^
+||*ass*hoppers*^
+||*ass*hopperz*^
+||*ass*hore*^
+||*ass*hores*^
+||*ass*horez*^
+||*ass*jab*^
+||*ass*jabber*^
+||*ass*jabbers*^
+||*ass*jabberz*^
+||*ass*jabs*^
+||*ass*jabz*^
+||*ass*jack*^
+||*ass*jacker*^
+||*ass*jackers*^
+||*ass*jackerz*^
+||*ass*jacks*^
+||*ass*jackz*^
+||*ass*jockey*^
+||*ass*jockies*^
+||*ass*jockiez*^
+||*ass*kiss*^
+||*ass*kisser*^
+||*ass*kissers*^
+||*ass*kisserz*^
+||*ass*kissing*^
+||*ass*klown*^
+||*ass*klowns*^
+||*ass*klownz*^
+||*ass*lick*^
+||*ass*licker*^
+||*ass*lickers*^
+||*ass*lickerz*^
+||*ass*licking*^
+||*ass*licks*^
+||*ass*lickz*^
+||*ass*liquid*^
+||*ass*lover*^
+||*ass*lovers*^
+||*ass*loverz*^
+||*ass*lube*^
+||*ass*lubes*^
+||*ass*lubez*^
+||*ass*lubricant*^
+||*ass*man*^
+||*ass*master*^
+||*ass*masters*^
+||*ass*masterz*^
+||*ass*men*^
+||*ass*monkey*^
+||*ass*monkeys*^
+||*ass*monkeyz*^
+||*ass*monkies*^
+||*ass*monkiez*^
+||*ass*mouth*^
+||*ass*mucus*^
+||*ass*munch*^
+||*ass*munched*^
+||*ass*muncher*^
+||*ass*munchers*^
+||*ass*muncherz*^
+||*ass*munchies*^
+||*ass*munchiez*^
+||*ass*munching*^
+||*ass*nigga*^
+||*ass*niggas*^
+||*ass*niggaz*^
+||*ass*nigger*^
+||*ass*niggers*^
+||*ass*niggerz*^
+||*ass*packer*^
+||*ass*packers*^
+||*ass*packerz*^
+||*ass*pimple*^
+||*ass*pimples*^
+||*ass*pimplez*^
+||*ass*pirate*^
+||*ass*pirates*^
+||*ass*piratez*^
+||*ass*poop*^
+||*ass*puppies*^
+||*ass*puppiez*^
+||*ass*puppy*^
+||*ass*ram*^
+||*ass*rammer*^
+||*ass*rammers*^
+||*ass*rammerz*^
+||*ass*ranger*^
+||*ass*rangers*^
+||*ass*rangerz*^
+||*ass*rape*^
+||*ass*raper*^
+||*ass*rapers*^
+||*ass*raperz*^
+||*ass*shit*^
+||*ass*shred*^
+||*ass*shredding*^
+||*ass*slave*^
+||*ass*slaves*^
+||*ass*slavez*^
+||*ass*spray*^
+||*ass*suck*^
+||*ass*sucked*^
+||*ass*sucker*^
+||*ass*suckers*^
+||*ass*suckerz*^
+||*ass*sucking*^
+||*ass*sucks*^
+||*ass*suckz*^
+||*ass*to*mouth*^
+||*ass*turd*^
+||*ass*wack*^
+||*ass*wacked*^
+||*ass*wacker*^
+||*ass*wackers*^
+||*ass*wackerz*^
+||*ass*wacking*^
+||*ass*wacks*^
+||*ass*wackz*^
+||*ass*wad*^
+||*ass*wads*^
+||*ass*wadz*^
+||*ass*wham*^
+||*ass*whole*^
+||*ass*wholes*^
+||*ass*wholez*^
+||*ass*whore*^
+||*ass*whores*^
+||*ass*whorez*^
+||*ass*wipe*^
+||*ass*wipes*^
+||*ass*wipez*^
+||*ass*assin*^
+||*ass*assins*^
+||*ass*assinz*^
+||*ass*bag*^
+||*ass*bagger*^
+||*ass*baggers*^
+||*ass*baggerz*^
+||*ass*bags*^
+||*ass*bagz*^
+||*ass*bandit*^
+||*ass*bandits*^
+||*ass*banditz*^
+||*ass*bang*^
+||*ass*banged*^
+||*ass*banger*^
+||*ass*banging*^
+||*ass*bangs*^
+||*ass*bangz*^
+||*ass*bead*^
+||*ass*beads*^
+||*ass*beadz*^
+||*ass*bite*^
+||*ass*bites*^
+||*ass*bitez*^
+||*ass*blaster*^
+||*ass*blasters*^
+||*ass*blasterz*^
+||*ass*bleach*^
+||*ass*clown*^
+||*ass*clowns*^
+||*ass*clownz*^
+||*ass*cock*^
+||*ass*cocks*^
+||*ass*cockz*^
+||*ass*cowboy*^
+||*ass*cowboys*^
+||*ass*cowboyz*^
+||*ass*crack*^
+||*ass*cracker*^
+||*ass*crackers*^
+||*ass*crackerz*^
+||*ass*cracks*^
+||*ass*crackz*^
+||*ass*dick*^
+||*ass*dildo*^
+||*ass*dildos*^
+||*ass*dildoz*^
+||*ass*dong*^
+||*ass*dongs*^
+||*ass*dongz*^
+||*ass*face*^
+||*ass*faces*^
+||*ass*facez*^
+||*ass*fist*^
+||*ass*fisting*^
+||*ass*fuck*^
+||*ass*fucked*^
+||*ass*fucker*^
+||*ass*fuckers*^
+||*ass*fuckerz*^
+||*ass*fucking*^
+||*ass*fucks*^
+||*ass*fuckz*^
+||*ass*fuk*^
+||*ass*fukka*^
+||*ass*fukkas*^
+||*ass*fukkaz*^
+||*ass*fuq*^
+||*ass*goblin*^
+||*ass*goblins*^
+||*ass*goblinz*^
+||*ass*grab*^
+||*ass*grabber*^
+||*ass*grabbers*^
+||*ass*grabberz*^
+||*ass*grabbing*^
+||*ass*grabs*^
+||*ass*grabz*^
+||*ass*grind*^
+||*ass*grinder*^
+||*ass*grinders*^
+||*ass*grinderz*^
+||*ass*grinding*^
+||*ass*grinds*^
+||*ass*grindz*^
+||*ass*hat*^
+||*ass*hats*^
+||*ass*hatz*^
+||*ass*head*^
+||*ass*heads*^
+||*ass*headz*^
+||*ass*hol*^
+||*ass*hole*^
+||*ass*holes*^
+||*ass*holez*^
+||*ass*hols*^
+||*ass*holz*^
+||*ass*hop*^
+||*ass*hopper*^
+||*ass*hoppers*^
+||*ass*hopperz*^
+||*ass*hore*^
+||*ass*hores*^
+||*ass*horez*^
+||*ass*jab*^
+||*ass*jabber*^
+||*ass*jabbers*^
+||*ass*jabberz*^
+||*ass*jabs*^
+||*ass*jabz*^
+||*ass*jack*^
+||*ass*jacker*^
+||*ass*jackers*^
+||*ass*jackerz*^
+||*ass*jacks*^
+||*ass*jackz*^
+||*ass*jockey*^
+||*ass*jockies*^
+||*ass*jockiez*^
+||*ass*kiss*^
+||*ass*kisser*^
+||*ass*kissers*^
+||*ass*kisserz*^
+||*ass*kissing*^
+||*ass*klown*^
+||*ass*klowns*^
+||*ass*klownz*^
+||*ass*lick*^
+||*ass*licker*^
+||*ass*lickers*^
+||*ass*lickerz*^
+||*ass*licking*^
+||*ass*licks*^
+||*ass*lickz*^
+||*ass*liquid*^
+||*ass*lover*^
+||*ass*lovers*^
+||*ass*loverz*^
+||*ass*lube*^
+||*ass*lubes*^
+||*ass*lubez*^
+||*ass*lubricnat*^
+||*ass*man*^
+||*ass*master*^
+||*ass*masters*^
+||*ass*masterz*^
+||*ass*men*^
+||*ass*monkey*^
+||*ass*monkeys*^
+||*ass*monkeyz*^
+||*ass*monkies*^
+||*ass*monkiez*^
+||*ass*mouth*^
+||*ass*mucus*^
+||*ass*munch*^
+||*ass*munched*^
+||*ass*muncher*^
+||*ass*munchers*^
+||*ass*muncherz*^
+||*ass*munchies*^
+||*ass*munchiez*^
+||*ass*munching*^
+||*ass*nigga*^
+||*ass*niggas*^
+||*ass*niggaz*^
+||*ass*nigger*^
+||*ass*niggers*^
+||*ass*niggerz*^
+||*ass*packer*^
+||*ass*packers*^
+||*ass*packerz*^
+||*ass*pimple*^
+||*ass*pimples*^
+||*ass*pimplez*^
+||*ass*pirate*^
+||*ass*pirates*^
+||*ass*piratez*^
+||*ass*poop*^
+||*ass*puppies*^
+||*ass*puppiez*^
+||*ass*puppy*^
+||*ass*ram*^
+||*ass*rammer*^
+||*ass*rammers*^
+||*ass*rammerz*^
+||*ass*ranger*^
+||*ass*rangers*^
+||*ass*rangerz*^
+||*ass*rape*^
+||*ass*raper*^
+||*ass*rapers*^
+||*ass*raperz*^
+||*ass*shit*^
+||*ass*shred*^
+||*ass*shredding*^
+||*ass*slave*^
+||*ass*slaves*^
+||*ass*slavez*^
+||*ass*spray*^
+||*ass*suck*^
+||*ass*sucked*^
+||*ass*sucker*^
+||*ass*suckers*^
+||*ass*suckerz*^
+||*ass*sucking*^
+||*ass*sucks*^
+||*ass*suckz*^
+||*ass*to*mouth*^
+||*ass*turd*^
+||*ass*wack*^
+||*ass*wacked*^
+||*ass*wacker*^
+||*ass*wackers*^
+||*ass*wackerz*^
+||*ass*wacking*^
+||*ass*wacks*^
+||*ass*wackz*^
+||*ass*wad*^
+||*ass*wads*^
+||*ass*wadz*^
+||*ass*wham*^
+||*ass*whole*^
+||*ass*wholes*^
+||*ass*wholez*^
+||*ass*whore*^
+||*ass*whores*^
+||*ass*whorez*^
+||*ass*wipe*^
+||*ass*wipes*^
+||*ass*wipez*^
 ||*assatanato*^
 ||*assbag*^
 ||*assbagger*^
@@ -1402,30 +1402,30 @@
 ||*asswipes*^
 ||*asswipez*^
 ||*auschwitz*^
-||*auto erotic*^
-||*auto erotik*^
-||*auto fellate*^
-||*auto fellater*^
-||*auto fellaters*^
-||*auto fellaterz*^
-||*auto fellating*^
-||*auto fellatio*^
-||*auto+erotic*^
-||*auto+erotik*^
-||*auto+fellate*^
-||*auto+fellater*^
-||*auto+fellaters*^
-||*auto+fellaterz*^
-||*auto+fellating*^
-||*auto+fellatio*^
-||*auto-erotic*^
-||*auto-erotik*^
-||*auto-fellate*^
-||*auto-fellater*^
-||*auto-fellaters*^
-||*auto-fellaterz*^
-||*auto-fellating*^
-||*auto-fellatio*^
+||*auto*erotic*^
+||*auto*erotik*^
+||*auto*fellate*^
+||*auto*fellater*^
+||*auto*fellaters*^
+||*auto*fellaterz*^
+||*auto*fellating*^
+||*auto*fellatio*^
+||*auto*erotic*^
+||*auto*erotik*^
+||*auto*fellate*^
+||*auto*fellater*^
+||*auto*fellaters*^
+||*auto*fellaterz*^
+||*auto*fellating*^
+||*auto*fellatio*^
+||*auto*erotic*^
+||*auto*erotik*^
+||*auto*fellate*^
+||*auto*fellater*^
+||*auto*fellaters*^
+||*auto*fellaterz*^
+||*auto*fellating*^
+||*auto*fellatio*^
 ||*autoerotic*^
 ||*autoerotik*^
 ||*autofellate*^
@@ -1434,77 +1434,77 @@
 ||*autofellaterz*^
 ||*autofellating*^
 ||*autofellatio*^
-||*avale mes couilles*^
-||*avere la faccia come il culo*^
-||*avn award*^
-||*avn awards*^
-||*avn+award*^
-||*avn+awards*^
-||*avn-award*^
-||*avn-awards*^
+||*avale*mes*couilles*^
+||*avere*la*faccia*come*il*culo*^
+||*avn*award*^
+||*avn*awards*^
+||*avn*award*^
+||*avn*awards*^
+||*avn*award*^
+||*avn*awards*^
 ||*avnaward*^
 ||*avnawards*^
-||*ax wound*^
-||*ax+wound*^
-||*ax-wound*^
-||*axe wound*^
-||*axe+wound*^
-||*axe-wound*^
+||*ax*wound*^
+||*ax*wound*^
+||*ax*wound*^
+||*axe*wound*^
+||*axe*wound*^
+||*axe*wound*^
 ||*axewound*^
 ||*axwound*^
-||*azz hole*^
-||*azz holes*^
-||*azz holez*^
+||*azz*hole*^
+||*azz*holes*^
+||*azz*holez*^
 ||*azz*^
-||*azz+hole*^
-||*azz+holes*^
-||*azz+holez*^
-||*azz-hole*^
-||*azz-holes*^
-||*azz-holez*^
+||*azz*hole*^
+||*azz*holes*^
+||*azz*holez*^
+||*azz*hole*^
+||*azz*holes*^
+||*azz*holez*^
 ||*azzed*^
 ||*azzes*^
 ||*azzez*^
 ||*azzhole*^
 ||*azzholes*^
 ||*azzholez*^
-||*b a s t a r d*^
-||*b a s t a r ds*^
-||*b a s t a r dz*^
-||*b i t c h s*^
-||*b i t c h*^
-||*b i t c hes*^
-||*b i t c hez*^
-||*b i t ch*^
-||*b i t ches*^
-||*b i t chez*^
-||*b i t chs*^
-||*b o o b s*^
-||*b o o b z*^
-||*b o o b*^
+||*b*a*s*t*a*r*d*^
+||*b*a*s*t*a*r*ds*^
+||*b*a*s*t*a*r*dz*^
+||*b*i*t*c*h*s*^
+||*b*i*t*c*h*^
+||*b*i*t*c*hes*^
+||*b*i*t*c*hez*^
+||*b*i*t*ch*^
+||*b*i*t*ches*^
+||*b*i*t*chez*^
+||*b*i*t*chs*^
+||*b*o*o*b*s*^
+||*b*o*o*b*z*^
+||*b*o*o*b*^
 ||*ba*^
 ||*babe*^
 ||*babeland*^
 ||*babes*^
 ||*babies*^
-||*baby batter*^
-||*baby juice*^
-||*bacha ma culo*^
-||*bachie coupe*^
+||*baby*batter*^
+||*baby*juice*^
+||*bacha*ma*culo*^
+||*bachie*coupe*^
 ||*backdoor*^
 ||*backdoorman*^
 ||*backseat*^
 ||*badfuck*^
-||*bafangu chooch*^
-||*bag licker*^
+||*bafangu*chooch*^
+||*bag*licker*^
 ||*bagasce*^
 ||*bagascia*^
 ||*bagascione*^
 ||*bagassa*^
 ||*bagging*^
 ||*bagnarsi*^
-||*baise moi mor*^
-||*baise toi*^
+||*baise*moi*mor*^
+||*baise*toi*^
 ||*baise*^
 ||*baiser*^
 ||*bakachon*^
@@ -1515,12 +1515,12 @@
 ||*baldracche*^
 ||*baldraccona*^
 ||*baldraccone*^
-||*ball gag*^
-||*ball gravy*^
-||*ball kicking*^
-||*ball licking*^
-||*ball sack*^
-||*ball sucking*^
+||*ball*gag*^
+||*ball*gravy*^
+||*ball*kicking*^
+||*ball*licking*^
+||*ball*sack*^
+||*ball*sucking*^
 ||*ballbag*^
 ||*balle*^
 ||*balllicker*^
@@ -1532,7 +1532,7 @@
 ||*bampots*^
 ||*bampotz*^
 ||*bander*^
-||*bang bros*^
+||*bang*bros*^
 ||*bang*^
 ||*bangbro*^
 ||*bangbros*^
@@ -1540,7 +1540,7 @@
 ||*banging*^
 ||*baptist*^
 ||*bareback*^
-||*barely legal*^
+||*barely*legal*^
 ||*barelylegal*^
 ||*barenaked*^
 ||*barf*^
@@ -1572,7 +1572,7 @@
 ||*battere*^
 ||*battona*^
 ||*battone*^
-||*batty boy*^
+||*batty*boy*^
 ||*bawdy*^
 ||*bazongas*^
 ||*bazooms*^
@@ -1589,19 +1589,19 @@
 ||*beastial*^
 ||*beastiality*^
 ||*beastility*^
-||*beat-off*^
+||*beat*off*^
 ||*beatch*^
 ||*beater*^
 ||*beatoff*^
 ||*beatyourmeat*^
 ||*beauf*^
-||*beaver cleaver*^
-||*beaver lips*^
+||*beaver*cleaver*^
+||*beaver*lips*^
 ||*beaver*^
 ||*beeatch*^
 ||*beeeyotch*^
-||*beef curtain*^
-||*beef curtains*^
+||*beef*curtain*^
+||*beef*curtains*^
 ||*beefwhistle*^
 ||*beeotch*^
 ||*beer*^
@@ -1618,10 +1618,10 @@
 ||*bestiality*^
 ||*beyitch*^
 ||*beyotch*^
-||*bi curious*^
+||*bi*curious*^
 ||*bi*^
-||*bi+ch*^
-||*bi-sexual*^
+||*bi*ch*^
+||*bi*sexual*^
 ||*biach*^
 ||*biatch*^
 ||*bible*^
@@ -1629,10 +1629,10 @@
 ||*bicho*^
 ||*bicot*^
 ||*bicurious*^
-||*big black*^
-||*big breasts*^
-||*big knockers*^
-||*big tits*^
+||*big*black*^
+||*big*breasts*^
+||*big*knockers*^
+||*big*tits*^
 ||*biga*^
 ||*bigass*^
 ||*bigbastard*^
@@ -1644,15 +1644,15 @@
 ||*bimbo*^
 ||*bimbominkia*^
 ||*bimbos*^
-||*bin laden*^
+||*bin*laden*^
 ||*binladen*^
 ||*bint*^
 ||*biotch*^
 ||*birdlock*^
 ||*bise*^
 ||*bisexual*^
-||*bitch ass whore*^
-||*bitch tit*^
+||*bitch*ass*whore*^
+||*bitch*tit*^
 ||*bitch*^
 ||*bitchass*^
 ||*bitched*^
@@ -1670,8 +1670,8 @@
 ||*bitembois*^
 ||*biteme*^
 ||*bitte*^
-||*black cock*^
-||*black people*^
+||*black*cock*^
+||*black*people*^
 ||*black*^
 ||*blackcock*^
 ||*blackman*^
@@ -1681,34 +1681,34 @@
 ||*bladt*^
 ||*blind*^
 ||*bloblos*^
-||*blonde action*^
-||*blonde on blonde action*^
-||*blonde on blonde*^
+||*blonde*action*^
+||*blonde*on*blonde*action*^
+||*blonde*on*blonde*^
 ||*bloodclaat*^
-||*bloody hell*^
+||*bloody*hell*^
 ||*bloody*^
-||*blow j*^
-||*blow job*^
-||*blow jobs*^
-||*blow me*^
-||*blow mud*^
-||*blow your l*^
-||*blow your load*^
+||*blow*j*^
+||*blow*job*^
+||*blow*jobs*^
+||*blow*me*^
+||*blow*mud*^
+||*blow*your*l*^
+||*blow*your*load*^
 ||*blow*^
 ||*blowjob*^
 ||*blowjobs*^
 ||*blowme*^
-||*blue waffle*^
+||*blue*waffle*^
 ||*bluegum*^
 ||*bluegums*^
 ||*blumpkin*^
-||*blutige sau*^
+||*blutige*sau*^
 ||*blutige*^
 ||*blutigesau*^
 ||*blyad*^
 ||*blyadt*^
-||*bo ob*^
-||*bo obs*^
+||*bo*ob*^
+||*bo*obs*^
 ||*boang*^
 ||*bocchinara*^
 ||*bocchinare*^
@@ -1738,7 +1738,7 @@
 ||*bombing*^
 ||*bombs*^
 ||*bomd*^
-||*bon sang*^
+||*bon*sang*^
 ||*bondage*^
 ||*bone*^
 ||*boned*^
@@ -1765,20 +1765,20 @@
 ||*booobies*^
 ||*booobs*^
 ||*boooobs*^
-||*booooobs booooooobs*^
+||*booooobs*booooooobs*^
 ||*booooobs*^
 ||*booooooobs*^
 ||*bootee*^
 ||*bootie*^
 ||*bootlip*^
 ||*bootlips*^
-||*booty call*^
+||*booty*call*^
 ||*booty*^
 ||*bootycall*^
 ||*booze*^
 ||*boozer*^
 ||*boozy*^
-||*bordel de merde*^
+||*bordel*de*merde*^
 ||*bordel*^
 ||*bordello*^
 ||*bosch*^
@@ -1797,8 +1797,8 @@
 ||*bougre*^
 ||*boukak*^
 ||*bounioul*^
-||*bounty bar*^
-||*bounty bars*^
+||*bounty*bar*^
+||*bounty*bars*^
 ||*bountybar*^
 ||*bourdille*^
 ||*bouseux*^
@@ -1809,7 +1809,7 @@
 ||*branlage*^
 ||*branler*^
 ||*branlette*^
-||*branleur de chiens morts*^
+||*branleur*de*chiens*morts*^
 ||*branleur*^
 ||*branleuse*^
 ||*branque*^
@@ -1821,16 +1821,16 @@
 ||*breasts*^
 ||*breeder*^
 ||*brinca*^
-||*brise-burnes*^
+||*brise*burnes*^
 ||*brothel*^
 ||*brotherfucker*^
-||*brouter le cresson*^
-||*broutte-minou*^
-||*brown showers*^
-||*brunette action*^
-||*brutto cornuto*^
-||*brutto figlio di puttana bastardo*^
-||*brutto stronzo*^
+||*brouter*le*cresson*^
+||*broutte*minou*^
+||*brown*showers*^
+||*brunette*action*^
+||*brutto*cornuto*^
+||*brutto*figlio*di*puttana*bastardo*^
+||*brutto*stronzo*^
 ||*btch*^
 ||*bucaiolo*^
 ||*buceta*^
@@ -1846,17 +1846,17 @@
 ||*bukkake*^
 ||*bule*^
 ||*bules*^
-||*bull shit*^
+||*bull*shit*^
 ||*bullcrap*^
 ||*bulldike*^
 ||*bulldyke*^
 ||*bulle*^
-||*bullet vibe*^
+||*bullet*vibe*^
 ||*bullshit*^
 ||*bullshits*^
 ||*bullshitted*^
 ||*bullturds*^
-||*bum boy*^
+||*bum*boy*^
 ||*bum*^
 ||*bumblefuck*^
 ||*bumclat*^
@@ -1864,22 +1864,22 @@
 ||*bummer*^
 ||*bumsen*^
 ||*buncombe*^
-||*bung hole*^
+||*bung*hole*^
 ||*bung*^
 ||*bunga*^
 ||*bungas*^
 ||*bunghole*^
-||*bunny fucker*^
-||*buona donna*^
+||*bunny*fucker*^
+||*buona*donna*^
 ||*buried*^
 ||*burn*^
-||*burr head*^
-||*burr heads*^
+||*burr*head*^
+||*burr*heads*^
 ||*burrhead*^
 ||*burrheads*^
 ||*burro*^
 ||*busone*^
-||*bust a load*^
+||*bust*a*load*^
 ||*bustadipiscio*^
 ||*buster*^
 ||*busty*^
@@ -1887,15 +1887,15 @@
 ||*butchbabes*^
 ||*butchdike*^
 ||*butchdyke*^
-||*butt fuck*^
-||*butt plug*^
-||*butt thumper*^
+||*butt*fuck*^
+||*butt*plug*^
+||*butt*thumper*^
 ||*butt*^
-||*butt-bang*^
-||*butt-fuck*^
-||*butt-fucker*^
-||*butt-fuckers*^
-||*butt-pirate*^
+||*butt*bang*^
+||*butt*fuck*^
+||*butt*fucker*^
+||*butt*fuckers*^
+||*butt*pirate*^
 ||*buttbang*^
 ||*buttcheeks*^
 ||*buttface*^
@@ -1915,9 +1915,9 @@
 ||*buttstain*^
 ||*buttwipe*^
 ||*byatch*^
-||*c u n t*^
-||*c-o-c-k*^
-||*c-u-n-t*^
+||*c*u*n*t*^
+||*c*o*c*k*^
+||*c*u*n*t*^
 ||*cabron*^
 ||*caca*^
 ||*cacafuego*^
@@ -1947,9 +1947,9 @@
 ||*calice*^
 ||*calientapollas*^
 ||*calisse*^
-||*camel jockey*^
-||*camel jockeys*^
-||*camel toe*^
+||*camel*jockey*^
+||*camel*jockeys*^
+||*camel*toe*^
 ||*cameljockey*^
 ||*cameltoe*^
 ||*camgirl*^
@@ -1963,23 +1963,23 @@
 ||*canedidio*^
 ||*cappella*^
 ||*capullo*^
-||*cara de culo*^
-||*cara de monda*^
+||*cara*de*culo*^
+||*cara*de*monda*^
 ||*carajo*^
 ||*caralho*^
 ||*carciofo*^
 ||*carogna*^
 ||*caronya*^
-||*carpet muncher*^
+||*carpet*muncher*^
 ||*carpetmuncher*^
 ||*carpetmunchers*^
 ||*carruth*^
 ||*casci*^
-||*casse-bonbon*^
-||*casse-couille*^
-||*casse-couilles*^
-||*casse-toi*^
-||*casser les couilles*^
+||*casse*bonbon*^
+||*casse*couille*^
+||*casse*couilles*^
+||*casse*toi*^
+||*casser*les*couilles*^
 ||*castrate*^
 ||*catholic*^
 ||*catholics*^
@@ -1998,10 +1998,10 @@
 ||*cazzi*^
 ||*cazzimma*^
 ||*cazzissimo*^
-||*cazzo di merda*^
-||*cazzo in culo*^
-||*cazzo madre di dio*^
-||*cazzo si*^
+||*cazzo*di*merda*^
+||*cazzo*in*culo*^
+||*cazzo*madre*di*dio*^
+||*cazzo*si*^
 ||*cazzo*^
 ||*cazzona*^
 ||*cazzone*^
@@ -2011,7 +2011,7 @@
 ||*cazzuti*^
 ||*cazzutissimo*^
 ||*cazzuto*^
-||*ce un cibirut*^
+||*ce*un*cibirut*^
 ||*ceemen*^
 ||*cemetery*^
 ||*cervix*^
@@ -2024,25 +2024,25 @@
 ||*chatte*^
 ||*chauffard*^
 ||*chav*^
-||*che cavolo*^
-||*che cazzo ne so*^
-||*che cazzo*^
-||*che culo*^
-||*che due coglioni*^
-||*che due palle*^
-||*che palle*^
-||*che te pozzino ammazza*^
+||*che*cavolo*^
+||*che*cazzo*ne*so*^
+||*che*cazzo*^
+||*che*culo*^
+||*che*due*coglioni*^
+||*che*due*palle*^
+||*che*palle*^
+||*che*te*pozzino*ammazza*^
 ||*checca*^
 ||*checche*^
-||*cheese eating surrender monkey*^
-||*cheese eating surrender monkies*^
-||*cheeseeating surrender monkey*^
-||*cheeseeating surrender monkies*^
+||*cheese*eating*surrender*monkey*^
+||*cheese*eating*surrender*monkies*^
+||*cheeseeating*surrender*monkey*^
+||*cheeseeating*surrender*monkies*^
 ||*cheesehead*^
 ||*cheeseheads*^
 ||*cherrypopper*^
 ||*chesticle*^
-||*chi-chi man*^
+||*chi*chi*man*^
 ||*chiant*^
 ||*chiante*^
 ||*chiappa*^
@@ -2053,9 +2053,9 @@
 ||*chiavatona*^
 ||*chiavatone*^
 ||*chichi*^
-||*chick with a dick*^
+||*chick*with*a*dick*^
 ||*chickslick*^
-||*chien sale*^
+||*chien*sale*^
 ||*chiennasse*^
 ||*chienne*^
 ||*chieokure*^
@@ -2064,11 +2064,11 @@
 ||*chieurs*^
 ||*chieuse*^
 ||*chikusatsu*^
-||*child-fucker*^
+||*child*fucker*^
 ||*chimba*^
 ||*chin*^
-||*china swede*^
-||*china swedes*^
+||*china*swede*^
+||*china*swedes*^
 ||*chinaman*^
 ||*chinamen*^
 ||*chinaswede*^
@@ -2078,10 +2078,10 @@
 ||*chinese*^
 ||*chinetoc*^
 ||*chinetoque*^
-||*ching chong*^
-||*ching chongs*^
+||*ching*chong*^
+||*ching*chongs*^
 ||*chinga*^
-||*chingada madre*^
+||*chingada*madre*^
 ||*chingado*^
 ||*chingar*^
 ||*chingate*^
@@ -2099,9 +2099,9 @@
 ||*chnoque*^
 ||*choad*^
 ||*choade*^
-||*choc ice*^
+||*choc*ice*^
 ||*chocho*^
-||*chocolate rosebuds*^
+||*chocolate*rosebuds*^
 ||*chode*^
 ||*chodes*^
 ||*chonga*^
@@ -2110,13 +2110,13 @@
 ||*chonkoro*^
 ||*chonky*^
 ||*chonkys*^
-||*chota bags*^
+||*chota*bags*^
 ||*chourimbo*^
 ||*chourinbo*^
 ||*chourippo*^
 ||*chraa*^
-||*christ killer*^
-||*christ killers*^
+||*christ*killer*^
+||*christ*killers*^
 ||*christ*^
 ||*christian*^
 ||*chug*^
@@ -2131,7 +2131,7 @@
 ||*chute*^
 ||*chuurembo*^
 ||*chuurenbo*^
-||*ci sei cascato come una pirla*^
+||*ci*sei*cascato*come*una*pirla*^
 ||*cigarette*^
 ||*cigs*^
 ||*ciolla*^
@@ -2143,7 +2143,7 @@
 ||*circlejerk*^
 ||*circlejerks*^
 ||*ciucciamelo*^
-||*ciucciami il cazzo*^
+||*ciucciami*il*cazzo*^
 ||*ciucciapalle*^
 ||*clamdigger*^
 ||*clamdiver*^
@@ -2152,9 +2152,9 @@
 ||*clansmen*^
 ||*clanswoman*^
 ||*clanswomen*^
-||*cleveland steamer*^
+||*cleveland*steamer*^
 ||*climax*^
-||*clit licker*^
+||*clit*licker*^
 ||*clit*^
 ||*clitface*^
 ||*clitflicker*^
@@ -2163,12 +2163,12 @@
 ||*clitoris*^
 ||*clitorus*^
 ||*clits*^
-||*clitty litter*^
+||*clitty*litter*^
 ||*clitty*^
 ||*clogwog*^
-||*clover clamps*^
-||*clunge butter*^
-||*clunge gasher*^
+||*clover*clamps*^
+||*clunge*butter*^
+||*clunge*gasher*^
 ||*clunge*^
 ||*clusterfuck*^
 ||*cnts*^
@@ -2178,15 +2178,15 @@
 ||*cocaine*^
 ||*coccydynia*^
 ||*coche*^
-||*cock gobbler*^
-||*cock goblin*^
-||*cock knocker*^
-||*cock pocket*^
-||*cock snot*^
-||*cock sucker*^
+||*cock*gobbler*^
+||*cock*goblin*^
+||*cock*knocker*^
+||*cock*pocket*^
+||*cock*snot*^
+||*cock*sucker*^
 ||*cock*^
-||*cock-head*^
-||*cock-sucker*^
+||*cock*head*^
+||*cock*sucker*^
 ||*cockass*^
 ||*cockbite*^
 ||*cockblock*^
@@ -2239,7 +2239,7 @@
 ||*cockwaffle*^
 ||*cockwomble*^
 ||*cocky*^
-||*coffin dodger*^
+||*coffin*dodger*^
 ||*coger*^
 ||*cogliona*^
 ||*coglionaggine*^
@@ -2267,14 +2267,14 @@
 ||*cojonazos*^
 ||*cojones*^
 ||*cok*^
-||*cokmuncher coksucka*^
+||*cokmuncher*coksucka*^
 ||*cokmuncher*^
 ||*coksucka*^
-||*col cavolo*^
+||*col*cavolo*^
 ||*color*^
 ||*colored*^
 ||*coloured*^
-||*come mierda y muere*^
+||*come*mierda*y*muere*^
 ||*commie*^
 ||*communist*^
 ||*con*^
@@ -2296,10 +2296,10 @@
 ||*coolie*^
 ||*coolies*^
 ||*cooly*^
-||*coon ass*^
-||*coon asses*^
-||*coon hunt*^
-||*coon kill*^
+||*coon*ass*^
+||*coon*asses*^
+||*coon*hunt*^
+||*coon*kill*^
 ||*coon*^
 ||*coonass*^
 ||*coonasses*^
@@ -2310,8 +2310,8 @@
 ||*coons*^
 ||*cooter*^
 ||*cooze*^
-||*cop some wood*^
-||*cop some woodcorksucker*^
+||*cop*some*wood*^
+||*cop*some*woodcorksucker*^
 ||*coprofago*^
 ||*coprofilo*^
 ||*coprolagnia*^
@@ -2322,11 +2322,11 @@
 ||*cornuti*^
 ||*cornuto*^
 ||*cornutoilpapa*^
-||*corp whore*^
+||*corp*whore*^
 ||*corpulent*^
 ||*corruption*^
-||*cotton pic*^
-||*cotton pik*^
+||*cotton*pic*^
+||*cotton*pik*^
 ||*cottonpic*^
 ||*cottonpik*^
 ||*couille*^
@@ -2343,7 +2343,7 @@
 ||*cozzo*^
 ||*crabs*^
 ||*crack*^
-||*crack-whore*^
+||*crack*whore*^
 ||*crackcocain*^
 ||*cracker*^
 ||*crackhead*^
@@ -2394,11 +2394,11 @@
 ||*culo*^
 ||*culona*^
 ||*culone*^
-||*cum chugger*^
-||*cum dumpster*^
-||*cum freak*^
-||*cum guzzler*^
-||*cum on my tits*^
+||*cum*chugger*^
+||*cum*dumpster*^
+||*cum*freak*^
+||*cum*guzzler*^
+||*cum*on*my*tits*^
 ||*cum*^
 ||*cumbubble*^
 ||*cumdump*^
@@ -2424,12 +2424,12 @@
 ||*cunnie*^
 ||*cunnilingus*^
 ||*cunntt*^
-||*cunny ball guzzler*^
+||*cunny*ball*guzzler*^
 ||*cunny*^
-||*cunt hair*^
-||*cunt nugget*^
+||*cunt*hair*^
+||*cunt*nugget*^
 ||*cunt*^
-||*cunt-struck*^
+||*cunt*struck*^
 ||*cuntass*^
 ||*cuntbag*^
 ||*cunteyed*^
@@ -2448,14 +2448,14 @@
 ||*cuntsucker*^
 ||*cuntz*^
 ||*curnut*^
-||*curry muncher*^
-||*curry munchers*^
+||*curry*muncher*^
+||*curry*munchers*^
 ||*currymuncher*^
 ||*currymunchers*^
 ||*cus*^
 ||*cushi*^
 ||*cushis*^
-||*cut rope*^
+||*cut*rope*^
 ||*cvnt*^
 ||*cyalis*^
 ||*cyberfuc*^
@@ -2476,31 +2476,31 @@
 ||*damnation*^
 ||*damned*^
 ||*damnit*^
-||*dare un calcio nel culo a qualcuno*^
+||*dare*un*calcio*nel*culo*a*qualcuno*^
 ||*darkey*^
 ||*darkeys*^
 ||*darkie*^
 ||*darkies*^
 ||*darky*^
 ||*darn*^
-||*date rape*^
+||*date*rape*^
 ||*daterape*^
 ||*datnigga*^
-||*dawgie style*^
-||*dawgie-style*^
+||*dawgie*style*^
+||*dawgie*style*^
 ||*daygo*^
-||*de puta madre*^
+||*de*puta*madre*^
 ||*dead*^
 ||*deapthroat*^
 ||*death*^
 ||*debile*^
-||*deep throat*^
-||*deep throating*^
+||*deep*throat*^
+||*deep*throating*^
 ||*deepaction*^
 ||*deepthroat*^
 ||*deepthroating*^
-||*deez nuts*^
-||*deez nutz*^
+||*deez*nuts*^
+||*deez*nutz*^
 ||*deeznut*^
 ||*deeznuts*^
 ||*deeznutz*^
@@ -2523,23 +2523,23 @@
 ||*deth*^
 ||*devil*^
 ||*devilworshipper*^
-||*di merda*^
-||*diaper head*^
-||*diaper heads*^
+||*di*merda*^
+||*diaper*head*^
+||*diaper*heads*^
 ||*diaperhead*^
 ||*diaperheads*^
-||*dich lecken*^
+||*dich*lecken*^
 ||*dichlecken*^
-||*dick chugger*^
-||*dick fuck*^
-||*dick head*^
-||*dick hole*^
-||*dick licker*^
-||*dick pic*^
-||*dick shy*^
+||*dick*chugger*^
+||*dick*fuck*^
+||*dick*head*^
+||*dick*hole*^
+||*dick*licker*^
+||*dick*pic*^
+||*dick*shy*^
 ||*dick*^
-||*dick-ish*^
-||*dick-sneeze*^
+||*dick*ish*^
+||*dick*sneeze*^
 ||*dickbag*^
 ||*dickbeaters*^
 ||*dickbrain*^
@@ -2571,7 +2571,7 @@
 ||*dicktickler*^
 ||*dickwad*^
 ||*dickweasel*^
-||*dickweed dickwhipper dickzipper*^
+||*dickweed*dickwhipper*dickzipper*^
 ||*dickweed*^
 ||*dickwhipper*^
 ||*dickwod*^
@@ -2598,29 +2598,29 @@
 ||*dingleberry*^
 ||*dink*^
 ||*dinks*^
-||*dio bastardo*^
-||*dio bestia*^
-||*dio boia*^
-||*dio cane*^
-||*dio cangurello*^
-||*dio dannato*^
-||*dio fa*^
-||*dio fottuto*^
-||*dio infame*^
-||*dio lupo*^
-||*dio maiale*^
-||*dio merda*^
-||*dio merdoso*^
-||*dio mona*^
-||*dio poj*^
-||*dio povero*^
-||*dio santo*^
-||*dio schifoso*^
-||*dio serpente*^
-||*dio sorcio*^
-||*dio stronzo*^
-||*dio verme*^
-||*dio zozzo*^
+||*dio*bastardo*^
+||*dio*bestia*^
+||*dio*boia*^
+||*dio*cane*^
+||*dio*cangurello*^
+||*dio*dannato*^
+||*dio*fa*^
+||*dio*fottuto*^
+||*dio*infame*^
+||*dio*lupo*^
+||*dio*maiale*^
+||*dio*merda*^
+||*dio*merdoso*^
+||*dio*mona*^
+||*dio*poj*^
+||*dio*povero*^
+||*dio*santo*^
+||*dio*schifoso*^
+||*dio*serpente*^
+||*dio*sorcio*^
+||*dio*stronzo*^
+||*dio*verme*^
+||*dio*zozzo*^
 ||*diobastardo*^
 ||*diobestia*^
 ||*diobestiazza*^
@@ -2668,38 +2668,38 @@
 ||*dipshit*^
 ||*dipstick*^
 ||*dirsa*^
-||*dirt squirell*^
+||*dirt*squirell*^
 ||*dirtpusher*^
-||*dirty cunt fucker*^
-||*dirty pillows*^
-||*dirty sanchez*^
-||*dirty santa*^
+||*dirty*cunt*fucker*^
+||*dirty*pillows*^
+||*dirty*sanchez*^
+||*dirty*santa*^
 ||*dirty*^
 ||*disease*^
 ||*diseases*^
 ||*disturbed*^
 ||*ditalini*^
 ||*ditalino*^
-||*ditch monster*^
-||*ditch pig*^
-||*dito al*^
+||*ditch*monster*^
+||*ditch*pig*^
+||*dito*al*^
 ||*div*^
 ||*dive*^
 ||*dix*^
 ||*dixiedike*^
 ||*dixiedyke*^
 ||*dlck*^
-||*dog style*^
-||*dog-fucker*^
-||*doggie style*^
+||*dog*style*^
+||*dog*fucker*^
+||*doggie*style*^
 ||*doggie*^
-||*doggie-style doggiestyle*^
-||*doggie-style*^
+||*doggie*style*doggiestyle*^
+||*doggie*style*^
 ||*doggiestyle*^
 ||*doggin*^
 ||*dogging*^
-||*doggy style*^
-||*doggy-style*^
+||*doggy*style*^
+||*doggy*style*^
 ||*doggystyle*^
 ||*dolcett*^
 ||*domination*^
@@ -2709,12 +2709,12 @@
 ||*dommes*^
 ||*dong*^
 ||*dongs*^
-||*donkey punch*^
-||*donkey punches*^
+||*donkey*punch*^
+||*donkey*punches*^
 ||*donkeypunch*^
 ||*donkeyribber*^
-||*doo doo head*^
-||*doo-doo*^
+||*doo*doo*head*^
+||*doo*doo*^
 ||*doochbag*^
 ||*doodoo*^
 ||*doofus*^
@@ -2723,20 +2723,20 @@
 ||*doosh*^
 ||*dope*^
 ||*dopey*^
-||*dot head*^
-||*dot heads*^
+||*dot*head*^
+||*dot*heads*^
 ||*dothead*^
 ||*dotheads*^
-||*double dong*^
-||*double penetration*^
+||*double*dong*^
+||*double*penetration*^
 ||*doubledong*^
 ||*doublelift*^
 ||*doublepenetration*^
-||*douche bag*^
-||*douche monkey*^
+||*douche*bag*^
+||*douche*monkey*^
 ||*douche*^
-||*douche-fag*^
-||*douchebag douchebags*^
+||*douche*fag*^
+||*douchebag*douchebags*^
 ||*douchebag*^
 ||*douchebags*^
 ||*douchecanoe*^
@@ -2745,18 +2745,18 @@
 ||*douchewaffle*^
 ||*douchey*^
 ||*downie*^
-||*dp action*^
+||*dp*action*^
 ||*dp*^
 ||*dpaction*^
 ||*dragqueen*^
 ||*dragqween*^
 ||*drague*^
-||*dreck sack*^
-||*dreck sau*^
-||*dreckige hure*^
-||*dreckige huren*^
+||*dreck*sack*^
+||*dreck*sau*^
+||*dreckige*hure*^
+||*dreckige*huren*^
 ||*dreckige*^
-||*drecks kerl*^
+||*drecks*kerl*^
 ||*drecksack*^
 ||*drecksau*^
 ||*dreckskerl*^
@@ -2766,9 +2766,9 @@
 ||*drugcunt*^
 ||*drunk*^
 ||*drunken*^
-||*dry hump*^
+||*dry*hump*^
 ||*dryhump*^
-||*du schnoc*^
+||*du*schnoc*^
 ||*duche*^
 ||*ducon*^
 ||*duconnot*^
@@ -2776,7 +2776,7 @@
 ||*dugenoux*^
 ||*dugland*^
 ||*dumass*^
-||*dumb ass*^
+||*dumb*ass*^
 ||*dumb*^
 ||*dumbass*^
 ||*dumbasses*^
@@ -2784,24 +2784,24 @@
 ||*dumbcunt*^
 ||*dumbfuck*^
 ||*dumbshit*^
-||*dumm batz*^
+||*dumm*batz*^
 ||*dummbatz*^
-||*dumme kuh*^
-||*dumme schlampe*^
-||*dumme schlampen*^
+||*dumme*kuh*^
+||*dumme*schlampe*^
+||*dumme*schlampen*^
 ||*dummekuh*^
-||*dummes huhn*^
+||*dummes*huhn*^
 ||*dummeschlampe*^
 ||*dummeschlampen*^
 ||*dummeshuhn*^
 ||*dummy*^
 ||*dumshit*^
-||*dun cauf*^
+||*dun*cauf*^
 ||*duncauf*^
-||*dune coon*^
-||*dune coons*^
+||*dune*coon*^
+||*dune*coons*^
 ||*dupa*^
-||*durka durka*^
+||*durka*durka*^
 ||*duro*^
 ||*duschnock*^
 ||*dvda*^
@@ -2809,13 +2809,13 @@
 ||*dyke*^
 ||*dykes*^
 ||*dziwka*^
-||*e che cazzo*^
+||*e*che*cazzo*^
 ||*earotics*^
 ||*easyslut*^
-||*eat a dick*^
-||*eat hair pie*^
-||*eat my ass*^
-||*eat my*^
+||*eat*a*dick*^
+||*eat*hair*pie*^
+||*eat*my*ass*^
+||*eat*my*^
 ||*eatballs*^
 ||*eatme*^
 ||*eatmyass*^
@@ -2830,7 +2830,7 @@
 ||*ejaculatings*^
 ||*ejaculation*^
 ||*ejaculations*^
-||*ejakulate enlargement*^
+||*ejakulate*enlargement*^
 ||*ejakulate*^
 ||*ekrem*^
 ||*ekto*^
@@ -2842,8 +2842,8 @@
 ||*empafe*^
 ||*empapaoute*^
 ||*encule*^
-||*enculer les mouches*^
-||*enculer une mouche*^
+||*enculer*les*mouches*^
+||*enculer*une*mouche*^
 ||*enculer*^
 ||*enculeur*^
 ||*enculeurs*^
@@ -2864,12 +2864,12 @@
 ||*escort*^
 ||*espingoin*^
 ||*esqua*^
-||*essere un culo*^
+||*essere*un*culo*^
 ||*essohbee*^
 ||*etahinin*^
 ||*etambo*^
 ||*etanbo*^
-||*ethical slut*^
+||*ethical*slut*^
 ||*ethiopian*^
 ||*ethnic*^
 ||*etron*^
@@ -2885,21 +2885,21 @@
 ||*explosion*^
 ||*extacy*^
 ||*extasy*^
-||*f u c k e r*^
-||*f u c k e*^
-||*f u c k*^
-||*f u ck e r*^
-||*f u k*^
-||*f-u-c-k*^
+||*f*u*c*k*e*r*^
+||*f*u*c*k*e*^
+||*f*u*c*k*^
+||*f*u*ck*e*r*^
+||*f*u*k*^
+||*f*u*c*k*^
 ||*f_u_c_k*^
-||*fa cagare*^
-||*fa schifo*^
-||*faccia a culo*^
-||*faccia di culo*^
-||*faccia di merda*^
+||*fa*cagare*^
+||*fa*schifo*^
+||*faccia*a*culo*^
+||*faccia*di*culo*^
+||*faccia*di*merda*^
 ||*facciadaculo*^
 ||*facciadimerda*^
-||*face de cul*^
+||*face*de*cul*^
 ||*facefucker*^
 ||*facial*^
 ||*fack*^
@@ -2926,26 +2926,26 @@
 ||*fagt*^
 ||*fagtard*^
 ||*fagz*^
-||*fahr zur holle*^
+||*fahr*zur*holle*^
 ||*faig*^
 ||*faigs*^
 ||*faigt*^
 ||*failed*^
 ||*failure*^
-||*faire enculer*^
+||*faire*enculer*^
 ||*fairies*^
 ||*fairy*^
-||*fais chier*^
+||*fais*chier*^
 ||*faith*^
 ||*fanabla*^
 ||*fanculo*^
 ||*fanny*^
-||*fannybandit fannyflaps fannyfucker*^
+||*fannybandit*fannyflaps*fannyfucker*^
 ||*fannybandit*^
 ||*fannyflaps*^
 ||*fannyfucker*^
 ||*fanyy*^
-||*fare una sega*^
+||*fare*una*sega*^
 ||*fart*^
 ||*farted*^
 ||*farting*^
@@ -2954,14 +2954,14 @@
 ||*fastfuck*^
 ||*fat*^
 ||*fatah*^
-||*fatass bitch*^
-||*fatass whore*^
+||*fatass*bitch*^
+||*fatass*whore*^
 ||*fatass*^
 ||*fatfuck*^
 ||*fatfucker*^
 ||*fatso*^
-||*fatti i cazzi tuoi*^
-||*fatti una pugnetta*^
+||*fatti*i*cazzi*tuoi*^
+||*fatti*una*pugnetta*^
 ||*fava*^
 ||*fck*^
 ||*fckcum*^
@@ -2989,18 +2989,18 @@
 ||*feltch*^
 ||*feltcher*^
 ||*feltching*^
-||*female squirting*^
+||*female*squirting*^
 ||*femalesquirtin*^
 ||*femalesquirting*^
 ||*femdom*^
 ||*femminuccia*^
 ||*fenian*^
-||*ferme ta gueule*^
+||*ferme*ta*gueule*^
 ||*fetish*^
-||*fett backe*^
+||*fett*backe*^
 ||*fettbacke*^
 ||*feuchte*^
-||*feuchten fotze*^
+||*feuchten*fotze*^
 ||*feuchten*^
 ||*feuchtenfotze*^
 ||*feuchtes*^
@@ -3012,20 +3012,20 @@
 ||*ficata*^
 ||*ficate*^
 ||*fice*^
-||*fich dich*^
+||*fich*dich*^
 ||*fichdich*^
-||*fiche moi le paix*^
+||*fiche*moi*le*paix*^
 ||*fiche*^
 ||*fichetta*^
 ||*fichette*^
 ||*fichetti*^
 ||*fichetto*^
-||*fick deine*^
-||*fick dich*^
-||*fick fehler*^
-||*fick fresse*^
-||*fick klappe*^
-||*fick mich*^
+||*fick*deine*^
+||*fick*dich*^
+||*fick*fehler*^
+||*fick*fresse*^
+||*fick*klappe*^
+||*fick*mich*^
 ||*fickdeine*^
 ||*fickdich*^
 ||*ficke*^
@@ -3038,7 +3038,7 @@
 ||*fickmich*^
 ||*ficona*^
 ||*ficone*^
-||*fiddle fuck*^
+||*fiddle*fuck*^
 ||*fif*^
 ||*figa*^
 ||*figata*^
@@ -3062,11 +3062,11 @@
 ||*figliedimignotta*^
 ||*figliediputtana*^
 ||*figlieditroia*^
-||*figlio di buona donna*^
-||*figlio di mignotta*^
-||*figlio di puttana*^
-||*figlio di troia*^
-||*figlio un cane*^
+||*figlio*di*buona*donna*^
+||*figlio*di*mignotta*^
+||*figlio*di*puttana*^
+||*figlio*di*troia*^
+||*figlio*un*cane*^
 ||*figliodicane*^
 ||*figliodimignotta*^
 ||*figliodiputtana*^
@@ -3074,13 +3074,13 @@
 ||*figona*^
 ||*figone*^
 ||*figoni*^
-||*figura di merda*^
+||*figura*di*merda*^
 ||*filipina*^
 ||*filipino*^
-||*fille de pute*^
-||*film de cul*^
-||*fils de pute*^
-||*fils de salope*^
+||*fille*de*pute*^
+||*film*de*cul*^
+||*fils*de*pute*^
+||*fils*de*salope*^
 ||*fingerbang*^
 ||*fingerfood*^
 ||*fingerfuck*^
@@ -3095,7 +3095,7 @@
 ||*fiotte*^
 ||*fire*^
 ||*firing*^
-||*fist fuck*^
+||*fist*fuck*^
 ||*fisted*^
 ||*fister*^
 ||*fistfuck*^
@@ -3119,8 +3119,8 @@
 ||*fleshflute*^
 ||*fletch*^
 ||*flikker*^
-||*flipping the bird*^
-||*flog the log*^
+||*flipping*the*bird*^
+||*flog*the*log*^
 ||*floo*^
 ||*floozy*^
 ||*flydie*^
@@ -3137,7 +3137,7 @@
 ||*foobar*^
 ||*fook*^
 ||*fooker*^
-||*foot fetish*^
+||*foot*fetish*^
 ||*footaction*^
 ||*footfetish*^
 ||*footfuck*^
@@ -3162,16 +3162,16 @@
 ||*fottutissimi*^
 ||*fottutissimo*^
 ||*fottuto*^
-||*fotze fuehlen*^
+||*fotze*fuehlen*^
 ||*fotze*^
 ||*fotzefeuhlen*^
 ||*foursome*^
 ||*fourtwenty*^
-||*fous le camps et morte*^
-||*fous le camps*^
+||*fous*le*camps*et*morte*^
+||*fous*le*camps*^
 ||*fouteur*^
-||*foutre la merde*^
-||*foutre le bordel*^
+||*foutre*la*merde*^
+||*foutre*le*bordel*^
 ||*foutre*^
 ||*fracicone*^
 ||*framble*^
@@ -3180,7 +3180,7 @@
 ||*freakyfucker*^
 ||*freefuck*^
 ||*freex*^
-||*frega un cazzo*^
+||*frega*un*cazzo*^
 ||*fregatte*^
 ||*fregna*^
 ||*frenchify*^
@@ -3205,21 +3205,21 @@
 ||*fuc*^
 ||*fucc*^
 ||*fucck*^
-||*fuck buttons*^
-||*fuck face*^
-||*fuck hole*^
-||*fuck me*^
-||*fuck off*^
-||*fuck puppet*^
-||*fuck stick*^
-||*fuck trophy*^
-||*fuck wit*^
-||*fuck yo mama*^
-||*fuck you*^
+||*fuck*buttons*^
+||*fuck*face*^
+||*fuck*hole*^
+||*fuck*me*^
+||*fuck*off*^
+||*fuck*puppet*^
+||*fuck*stick*^
+||*fuck*trophy*^
+||*fuck*wit*^
+||*fuck*yo*mama*^
+||*fuck*you*^
 ||*fuck*^
-||*fuck-ass*^
-||*fuck-bitch*^
-||*fuck-tard*^
+||*fuck*ass*^
+||*fuck*bitch*^
+||*fuck*tard*^
 ||*fucka*^
 ||*fuckable*^
 ||*fuckass*^
@@ -3248,11 +3248,11 @@
 ||*fuckie*^
 ||*fuckin*^
 ||*fuckina*^
-||*fucking bitch*^
-||*fucking hell*^
+||*fucking*bitch*^
+||*fucking*hell*^
 ||*fucking*^
 ||*fuckingbitch*^
-||*fuckings fuckingshitmotherfucker*^
+||*fuckings*fuckingshitmotherfucker*^
 ||*fuckings*^
 ||*fuckingshitmotherfucker*^
 ||*fuckinnuts*^
@@ -3288,8 +3288,8 @@
 ||*fuckwitt*^
 ||*fuckyou*^
 ||*fuct*^
-||*fudge packer*^
-||*fudge-packer*^
+||*fudge*packer*^
+||*fudge*packer*^
 ||*fudgepacker*^
 ||*fugly*^
 ||*fujinoyamai*^
@@ -3311,12 +3311,12 @@
 ||*fuktards*^
 ||*fukwhit*^
 ||*fukwit*^
-||*fumato il cervello*^
+||*fumato*il*cervello*^
 ||*fumier*^
 ||*funeral*^
 ||*funfuck*^
 ||*fungus*^
-||*fuori come un balcone*^
+||*fuori*come*un*balcone*^
 ||*fupa*^
 ||*fuq*^
 ||*furzegal*^
@@ -3377,11 +3377,11 @@
 ||*fvk*^
 ||*fxck*^
 ||*fxuxcxk*^
-||*g-spot*^
+||*g*spot*^
 ||*gae*^
 ||*gai*^
-||*gang bang*^
-||*gang-bang*^
+||*gang*bang*^
+||*gang*bang*^
 ||*gangbang*^
 ||*gangbanged*^
 ||*gangbanger*^
@@ -3391,11 +3391,11 @@
 ||*garce*^
 ||*garibaldi*^
 ||*gash*^
-||*gassy ass*^
-||*gator bait*^
+||*gassy*ass*^
+||*gator*bait*^
 ||*gatorbait*^
 ||*gaupe*^
-||*gay sex*^
+||*gay*sex*^
 ||*gay*^
 ||*gayass*^
 ||*gaybob*^
@@ -3415,8 +3415,8 @@
 ||*gdm*^
 ||*geez*^
 ||*geezer*^
-||*gehirn geschissen*^
-||*gender bender*^
+||*gehirn*geschissen*^
+||*gender*bender*^
 ||*geni*^
 ||*genital*^
 ||*genitals*^
@@ -3430,7 +3430,7 @@
 ||*gfy*^
 ||*ghay*^
 ||*ghey*^
-||*giant cock*^
+||*giant*cock*^
 ||*gigolo*^
 ||*gilipollas*^
 ||*gin*^
@@ -3441,9 +3441,9 @@
 ||*gippo*^
 ||*gippos*^
 ||*gipps*^
-||*girl on top*^
-||*girl on*^
-||*girls gone wild*^
+||*girl*on*top*^
+||*girl*on*^
+||*girls*gone*wild*^
 ||*girls*^
 ||*git*^
 ||*givehead*^
@@ -3458,17 +3458,17 @@
 ||*gnocche*^
 ||*gnoul*^
 ||*gnoule*^
-||*go felch an anal wart*^
+||*go*felch*an*anal*wart*^
 ||*goatcx*^
 ||*goatse*^
 ||*gob*^
-||*god dammit*^
-||*god damn*^
-||*god damnit*^
 ||*god*^
-||*god-dam*^
-||*god-damned godamn*^
-||*god-damned*^
+||*god*dammit*^
+||*god*damn*^
+||*god*damnit*^
+||*god*dam*^
+||*god*damned*godamn*^
+||*god*damned*^
 ||*godam*^
 ||*godammit*^
 ||*godamn*^
@@ -3487,8 +3487,8 @@
 ||*godsdamn*^
 ||*gogol*^
 ||*gokkun*^
-||*golden shower*^
-||*golden showers*^
+||*golden*shower*^
+||*golden*showers*^
 ||*goldenshower*^
 ||*goldenshowers*^
 ||*goldone*^
@@ -3501,13 +3501,13 @@
 ||*gonorrea*^
 ||*gonorrehea*^
 ||*gonzagas*^
-||*goo girl*^
-||*goo gobbler*^
+||*goo*girl*^
+||*goo*gobbler*^
 ||*gooch*^
 ||*goodpoop*^
 ||*goodpoops*^
-||*gook eye*^
-||*gook eyes*^
+||*gook*eye*^
+||*gook*eyes*^
 ||*gook*^
 ||*gookeye*^
 ||*gookeyes*^
@@ -3520,7 +3520,7 @@
 ||*goregasm*^
 ||*goregasms*^
 ||*gotohell*^
-||*gott verdammt*^
+||*gott*verdammt*^
 ||*gottverdammt*^
 ||*gouilland*^
 ||*gouine*^
@@ -3529,7 +3529,7 @@
 ||*goy*^
 ||*goyim*^
 ||*graine*^
-||*grande folle*^
+||*grande*folle*^
 ||*greaseball*^
 ||*greaseballs*^
 ||*greedy*^
@@ -3542,11 +3542,11 @@
 ||*groid*^
 ||*groids*^
 ||*grope*^
-||*gros tas*^
-||*gross cul*^
+||*gros*tas*^
+||*gross*cul*^
 ||*gross*^
 ||*grostulation*^
-||*group sex*^
+||*group*sex*^
 ||*grundlemuncher*^
 ||*gspot*^
 ||*gstring*^
@@ -3589,8 +3589,8 @@
 ||*gyppy*^
 ||*gyppys*^
 ||*gypsys*^
-||*h e l l*^
-||*h o m*^
+||*h*e*l*l*^
+||*h*o*m*^
 ||*hadji*^
 ||*hadjis*^
 ||*hairpie*^
@@ -3603,14 +3603,14 @@
 ||*hakujakusha*^
 ||*hakuroubyo*^
 ||*hakuzyakusya*^
-||*half breed*^
-||*half caste*^
+||*half*breed*^
+||*half*caste*^
 ||*halfbreed*^
 ||*halfcaste*^
-||*ham flap*^
+||*ham*flap*^
 ||*hamas*^
-||*hand job*^
-||*hand jobs*^
+||*hand*job*^
+||*hand*jobs*^
 ||*handjob*^
 ||*handjobs*^
 ||*hantoujin*^
@@ -3618,15 +3618,15 @@
 ||*haole*^
 ||*haoles*^
 ||*hapa*^
-||*hard core*^
-||*hard on*^
+||*hard*core*^
+||*hard*on*^
 ||*hardcore*^
 ||*hardcoresex*^
 ||*harder*^
 ||*hardon*^
 ||*harem*^
-||*hatchet wound*^
-||*he-she*^
+||*hatchet*wound*^
+||*he*she*^
 ||*headfuck*^
 ||*headlights*^
 ||*hebe*^
@@ -3649,14 +3649,14 @@
 ||*hijack*^
 ||*hijacker*^
 ||*hijacking*^
-||*hijo de perra*^
-||*hijo de puta*^
+||*hijo*de*perra*^
+||*hijo*de*puta*^
 ||*hijueputa*^
 ||*hillbillies*^
 ||*hillbilly*^
 ||*hindoo*^
 ||*hircismus*^
-||*hirnlose ochse*^
+||*hirnlose*ochse*^
 ||*hirnloseochse*^
 ||*hiscock*^
 ||*hitler*^
@@ -3676,10 +3676,10 @@
 ||*hole*^
 ||*holestuffer*^
 ||*holocaust*^
-||*holy shit*^
+||*holy*shit*^
 ||*homey*^
 ||*homicide*^
-||*homo fuerst*^
+||*homo*fuerst*^
 ||*homo*^
 ||*homobangers*^
 ||*homodumbshit*^
@@ -3722,28 +3722,28 @@
 ||*hoser*^
 ||*hostage*^
 ||*hostia*^
-||*hot carl*^
-||*hot chick*^
+||*hot*carl*^
+||*hot*chick*^
 ||*hotcarl*^
 ||*hotdamn*^
 ||*hotpussy*^
 ||*hotsex*^
 ||*hottotrot*^
-||*how to kill*^
-||*how to murdep*^
-||*how to murder*^
-||*huan sohn*^
-||*huan son*^
+||*how*to*kill*^
+||*how*to*murdep*^
+||*how*to*murder*^
+||*huan*sohn*^
+||*huan*son*^
 ||*huansohn*^
 ||*huanson*^
 ||*huevo*^
 ||*huevon*^
 ||*huevos*^
 ||*hufter*^
-||*huge fat*^
+||*huge*fat*^
 ||*hugefat*^
-||*huhren sohn*^
-||*huhren son*^
+||*huhren*sohn*^
+||*huhren*son*^
 ||*huhrensohn*^
 ||*huhrenson*^
 ||*hui*^
@@ -3758,8 +3758,8 @@
 ||*humping*^
 ||*hun*^
 ||*hure*^
-||*huren sohn*^
-||*huren son*^
+||*huren*sohn*^
+||*huren*son*^
 ||*huren*^
 ||*hurensohn*^
 ||*hurenson*^
@@ -3771,9 +3771,9 @@
 ||*hymie*^
 ||*hymies*^
 ||*hypocrite*^
-||*i coglioni*^
+||*i*coglioni*^
 ||*iap*^
-||*iberian slap*^
+||*iberian*slap*^
 ||*iblowu*^
 ||*idiot*^
 ||*idiota*^
@@ -3784,8 +3784,8 @@
 ||*ikeymo*^
 ||*ikeymos*^
 ||*ikwe*^
-||*il est stupide*^
-||*il me fait chier*^
+||*il*est*stupide*^
+||*il*me*fait*chier*^
 ||*illegal*^
 ||*illegals*^
 ||*imbecile*^
@@ -3799,7 +3799,7 @@
 ||*incazzatissime*^
 ||*incazzatissimi*^
 ||*incazzatissimo*^
-||*incazzato nero*^
+||*incazzato*nero*^
 ||*incazzato*^
 ||*incest*^
 ||*incoglionirsi*^
@@ -3819,24 +3819,24 @@
 ||*interracial*^
 ||*intheass*^
 ||*inthebuff*^
-||*intro culo di mammata*^
+||*intro*culo*di*mammata*^
 ||*inugoroshi*^
 ||*inugorosi*^
 ||*italiano*^
 ||*itch*^
-||*jack off*^
-||*jack-off*^
+||*jack*off*^
+||*jack*off*^
 ||*jackass*^
 ||*jackasses*^
 ||*jackhole*^
-||*jacking off*^
+||*jacking*off*^
 ||*jackoff*^
 ||*jackshit*^
 ||*jacktheripper*^
 ||*jade*^
 ||*jaggi*^
 ||*jagoff*^
-||*jail bait*^
+||*jail*bait*^
 ||*jailbait*^
 ||*jap*^
 ||*japanese*^
@@ -3845,16 +3845,16 @@
 ||*japies*^
 ||*japs*^
 ||*javascript*^
-||*je me fais chier ici*^
-||*je pis dans ta bouche*^
-||*je te nique ta race sale fils de chien*^
-||*jean-foutre*^
+||*je*me*fais*chier*ici*^
+||*je*pis*dans*ta*bouche*^
+||*je*te*nique*ta*race*sale*fils*de*chien*^
+||*jean*foutre*^
 ||*jebus*^
 ||*jeez*^
-||*jelly donut*^
-||*jerk off*^
+||*jelly*donut*^
+||*jerk*off*^
 ||*jerk*^
-||*jerk-off*^
+||*jerk*off*^
 ||*jerkass*^
 ||*jerked*^
 ||*jerkoff*^
@@ -3898,7 +3898,7 @@
 ||*jizjuice*^
 ||*jizm*^
 ||*jizn*^
-||*jizz mop*^
+||*jizz*mop*^
 ||*jizz*^
 ||*jizzd*^
 ||*jizzed*^
@@ -3917,16 +3917,16 @@
 ||*juggalo*^
 ||*juggs*^
 ||*jugs*^
-||*jungle bunnies*^
-||*jungle bunny*^
+||*jungle*bunnies*^
+||*jungle*bunny*^
 ||*junglebunny*^
 ||*junkie*^
 ||*junky*^
-||*k k k*^
+||*k*k*k*^
 ||*kacap*^
 ||*kacapas*^
 ||*kacaps*^
-||*kack bratze*^
+||*kack*bratze*^
 ||*kackbratze*^
 ||*kacke*^
 ||*kacken*^
@@ -3942,7 +3942,7 @@
 ||*katsap*^
 ||*katsaps*^
 ||*kawk*^
-||*kevin cudmore*^
+||*kevin*cudmore*^
 ||*keyboard*^
 ||*khokhol*^
 ||*khokhols*^
@@ -3966,11 +3966,11 @@
 ||*kinbaku*^
 ||*kink*^
 ||*kinkster*^
-||*kinky jesus*^
+||*kinky*jesus*^
 ||*kinky*^
 ||*kissass*^
 ||*kitigai*^
-||*kkk klan*^
+||*kkk*klan*^
 ||*kkk*^
 ||*klan*^
 ||*klansman*^
@@ -3978,13 +3978,13 @@
 ||*klanswoman*^
 ||*klanswomen*^
 ||*klootzak*^
-||*klu klux klan*^
-||*klu klux*^
+||*klu*klux*klan*^
+||*klu*klux*^
 ||*kluklux*^
 ||*knife*^
-||*knob end*^
-||*knob gobbler*^
-||*knob head*^
+||*knob*end*^
+||*knob*gobbler*^
+||*knob*head*^
 ||*knob*^
 ||*knobbing*^
 ||*knobead*^
@@ -4001,8 +4001,8 @@
 ||*kondums*^
 ||*kooch*^
 ||*kooches*^
-||*koon hunt*^
-||*koon kill*^
+||*koon*hunt*^
+||*koon*kill*^
 ||*koon*^
 ||*koonhunt*^
 ||*koonkill*^
@@ -4015,7 +4015,7 @@
 ||*krappy*^
 ||*kraut*^
 ||*krauts*^
-||*ku klux klan*^
+||*ku*klux*klan*^
 ||*kuffar*^
 ||*kuk*^
 ||*kuksugare*^
@@ -4041,10 +4041,10 @@
 ||*kushi*^
 ||*kushis*^
 ||*kusi*^
-||*kut lul hoer kloot klote klootzak eikel*^
+||*kut*lul*hoer*kloot*klote*klootzak*eikel*^
 ||*kwa*^
-||*kwai lo*^
-||*kwai los*^
+||*kwai*lo*^
+||*kwai*los*^
 ||*kwif*^
 ||*kxkxk*^
 ||*ky*^
@@ -4053,16 +4053,16 @@
 ||*kyopo*^
 ||*kyopos*^
 ||*kyrpa*^
-||*la concha de tu madre*^
-||*la hostia*^
-||*la meme chose a toi*^
-||*la vache*^
+||*la*concha*de*tu*madre*^
+||*la*hostia*^
+||*la*meme*chose*a*toi*^
+||*la*vache*^
 ||*labia*^
 ||*lacheux*^
 ||*lactate*^
 ||*laid*^
-||*laisse-moi tranquille*^
-||*lame botas*^
+||*laisse*moi*tranquille*^
+||*lame*botas*^
 ||*lameass*^
 ||*lapdance*^
 ||*lardass*^
@@ -4070,9 +4070,9 @@
 ||*latrin*^
 ||*lavette*^
 ||*lds*^
-||*leather restraint*^
-||*leather straight jacket*^
-||*leather straight*^
+||*leather*restraint*^
+||*leather*straight*jacket*^
+||*leather*straight*^
 ||*leatherrestraint*^
 ||*lebo*^
 ||*lebos*^
@@ -4082,15 +4082,15 @@
 ||*leccafica*^
 ||*leccafiga*^
 ||*leccafighe*^
-||*leccami il culo*^
-||*leccami la figa*^
+||*leccami*il*culo*^
+||*leccami*la*figa*^
 ||*leccapalle*^
 ||*lecchino*^
 ||*lech*^
-||*leck mich*^
+||*leck*mich*^
 ||*leckmich*^
 ||*lellek*^
-||*lemon party*^
+||*lemon*party*^
 ||*lemonparty*^
 ||*len*^
 ||*leper*^
@@ -4101,7 +4101,7 @@
 ||*lesbin*^
 ||*lesbo*^
 ||*lesbos*^
-||*levati dai coglioni*^
+||*levati*dai*coglioni*^
 ||*lez*^
 ||*lezbe*^
 ||*lezbefriends*^
@@ -4116,10 +4116,10 @@
 ||*lezzies*^
 ||*lezzo*^
 ||*lezzy*^
-||*li mortacci tua*^
+||*li*mortacci*tua*^
 ||*liberal*^
 ||*libido*^
-||*lick au mosh*^
+||*lick*au*mosh*^
 ||*licker*^
 ||*licking*^
 ||*lickme*^
@@ -4129,7 +4129,7 @@
 ||*limpdick*^
 ||*limy*^
 ||*lingerie*^
-||*links traeger*^
+||*links*traeger*^
 ||*lipshits*^
 ||*lipshitz*^
 ||*liquor*^
@@ -4148,7 +4148,7 @@
 ||*looney*^
 ||*looser*^
 ||*lopette*^
-||*los cojones*^
+||*los*cojones*^
 ||*loser*^
 ||*lotion*^
 ||*lovebone*^
@@ -4173,35 +4173,35 @@
 ||*lust*^
 ||*lusting*^
 ||*lusty*^
-||*lutsch meine eier*^
+||*lutsch*meine*eier*^
 ||*lutsch*^
 ||*lutsche*^
 ||*lutschen*^
 ||*lutscher*^
 ||*lutsches*^
 ||*lynch*^
-||*m-fucking*^
-||*ma couille*^
+||*m*fucking*^
+||*ma*couille*^
 ||*mabuno*^
 ||*mabunos*^
 ||*macaca*^
 ||*macacas*^
 ||*mad*^
 ||*madarchod*^
-||*madonna avvelenata*^
-||*madonna bastarda*^
-||*madonna bocchinara*^
-||*madonna impalata*^
-||*madonna infiammata*^
-||*madonna maiala*^
-||*madonna mignotta*^
-||*madonna puttana*^
-||*madonna santa*^
-||*madonna schifosa*^
-||*madonna strega*^
-||*madonna svergognata*^
-||*madonna troia*^
-||*madonna zoccola*^
+||*madonna*avvelenata*^
+||*madonna*bastarda*^
+||*madonna*bocchinara*^
+||*madonna*impalata*^
+||*madonna*infiammata*^
+||*madonna*maiala*^
+||*madonna*mignotta*^
+||*madonna*puttana*^
+||*madonna*santa*^
+||*madonna*schifosa*^
+||*madonna*strega*^
+||*madonna*svergognata*^
+||*madonna*troia*^
+||*madonna*zoccola*^
 ||*madonna*^
 ||*madonnaassassinata*^
 ||*madonnacane*^
@@ -4227,12 +4227,12 @@
 ||*mahbuno*^
 ||*mahbunos*^
 ||*maiala*^
-||*make me come*^
+||*make*me*come*^
 ||*makemecome*^
 ||*makemecum*^
 ||*makoume*^
 ||*maldito*^
-||*male squirting*^
+||*male*squirting*^
 ||*malparido*^
 ||*malpt*^
 ||*mamahuevo*^
@@ -4242,18 +4242,18 @@
 ||*manberries*^
 ||*mance*^
 ||*manche*^
-||*mange de la merde*^
-||*mange ma bite*^
-||*mange merde et morte*^
-||*mange tes grands morts*^
-||*mange-merde*^
-||*mangia la minchia*^
-||*mangia merda*^
-||*mangia merde e morte*^
+||*mange*de*la*merde*^
+||*mange*ma*bite*^
+||*mange*merde*et*morte*^
+||*mange*tes*grands*morts*^
+||*mange*merde*^
+||*mangia*la*minchia*^
+||*mangia*merda*^
+||*mangia*merde*e*morte*^
 ||*manhater*^
 ||*manico*^
 ||*manko*^
-||*mannaggia tua*^
+||*mannaggia*tua*^
 ||*mannaggia*^
 ||*mannaggiacristo*^
 ||*mannaggiadio*^
@@ -4284,7 +4284,7 @@
 ||*masstrbate*^
 ||*mastabate*^
 ||*mastabater*^
-||*master-bate*^
+||*master*bate*^
 ||*masterbaiter*^
 ||*masterbat*^
 ||*masterbate*^
@@ -4303,21 +4303,21 @@
 ||*masturbation*^
 ||*masturbazione*^
 ||*mattressprincess*^
-||*mau mau*^
-||*mau maus*^
+||*mau*mau*^
+||*mau*maus*^
 ||*maudit*^
 ||*maumau*^
 ||*maumaus*^
 ||*mauviette*^
 ||*maxi*^
 ||*mcfagget*^
-||*me cago en la hostia*^
-||*me cago en ti*^
-||*meat tulip*^
+||*me*cago*en*la*hostia*^
+||*me*cago*en*ti*^
+||*meat*tulip*^
 ||*meatbeatter*^
 ||*meatrack*^
-||*melon farmer*^
-||*menage a trois*^
+||*melon*farmer*^
+||*menage*a*trois*^
 ||*menage*^
 ||*menses*^
 ||*menstruate*^
@@ -4332,7 +4332,7 @@
 ||*merdasse*^
 ||*merdata*^
 ||*merdate*^
-||*merde embulante*^
+||*merde*embulante*^
 ||*merde*^
 ||*merdeuse*^
 ||*merdeux*^
@@ -4347,32 +4347,32 @@
 ||*merdosi*^
 ||*merdoso*^
 ||*merdouillard*^
-||*mes couilles en toi*^
+||*mes*couilles*en*toi*^
 ||*meth*^
 ||*metteux*^
 ||*meuf*^
 ||*mexican*^
-||*mezza sega*^
+||*mezza*sega*^
 ||*mezzasega*^
 ||*mezzeseghe*^
 ||*mf*^
 ||*mgger*^
 ||*mggor*^
-||*mi stai facendo incazzare*^
+||*mi*stai*facendo*incazzare*^
 ||*mibun*^
 ||*michto*^
 ||*micio*^
 ||*mick*^
 ||*mickeyfinn*^
 ||*microphallus*^
-||*middle finger*^
+||*middle*finger*^
 ||*mideast*^
 ||*midget*^
 ||*mierda*^
-||*mieser stricher*^
+||*mieser*stricher*^
 ||*mignotta*^
 ||*mignotte*^
-||*mile high club*^
+||*mile*high*club*^
 ||*milf*^
 ||*minable*^
 ||*mince*^
@@ -4388,21 +4388,21 @@
 ||*minger*^
 ||*minority*^
 ||*minus*^
-||*miserabili pezzo di merda*^
+||*miserabili*pezzo*di*merda*^
 ||*miserable*^
-||*miss geburt*^
+||*miss*geburt*^
 ||*missgeburt*^
-||*missionary position*^
+||*missionary*position*^
 ||*missionary*^
 ||*mitsukuchi*^
 ||*mitukuti*^
-||*mo-fo*^
+||*mo*fo*^
 ||*mockey*^
 ||*mockie*^
 ||*mocky*^
 ||*mofo*^
 ||*moinaille*^
-||*moins-que-rien*^
+||*moins*que*rien*^
 ||*moky*^
 ||*moles*^
 ||*molest*^
@@ -4410,7 +4410,7 @@
 ||*molester*^
 ||*molestor*^
 ||*mom*^
-||*mon dieu*^
+||*mon*dieu*^
 ||*mona*^
 ||*monacaille*^
 ||*mone*^
@@ -4421,25 +4421,25 @@
 ||*monkleigh*^
 ||*monta*^
 ||*montare*^
-||*moo moo foo foo*^
+||*moo*moo*foo*foo*^
 ||*moolie*^
-||*moon cricket*^
-||*moon crickets*^
+||*moon*cricket*^
+||*moon*crickets*^
 ||*mooncricket*^
 ||*mooncrickets*^
-||*morceau de merde*^
+||*morceau*de*merde*^
 ||*moricaud*^
 ||*mormon*^
 ||*moron*^
-||*mortacci tua*^
+||*mortacci*tua*^
 ||*moskal*^
 ||*moskals*^
 ||*moslem*^
 ||*mosshead*^
-||*motha fucker*^
-||*motha fuker*^
-||*motha fukkah*^
-||*motha fukker*^
+||*motha*fucker*^
+||*motha*fuker*^
+||*motha*fukkah*^
+||*motha*fukker*^
 ||*mothafuck*^
 ||*mothafucka*^
 ||*mothafuckas*^
@@ -4451,15 +4451,15 @@
 ||*mothafucking*^
 ||*mothafuckings*^
 ||*mothafucks*^
-||*mother fucker*^
-||*mother fukah*^
-||*mother fuker*^
-||*mother fukkah*^
-||*mother fukker*^
-||*mother fvcker*^
-||*mother-fucker*^
-||*mother-fucking dicksucker*^
-||*mother-fvcker*^
+||*mother*fucker*^
+||*mother*fukah*^
+||*mother*fuker*^
+||*mother*fukkah*^
+||*mother*fukker*^
+||*mother*fvcker*^
+||*mother*fucker*^
+||*mother*fucking*dicksucker*^
+||*mother*fvcker*^
 ||*motherfuck*^
 ||*motherfucka*^
 ||*motherfucked*^
@@ -4474,9 +4474,9 @@
 ||*motherlovebone*^
 ||*mothrfucker*^
 ||*mouliewop*^
-||*mound of venus*^
+||*mound*of*venus*^
 ||*moundofvenus*^
-||*mr hands*^
+||*mr*hands*^
 ||*mrhands*^
 ||*mtherfucker*^
 ||*mthrfuck*^
@@ -4485,10 +4485,10 @@
 ||*mtrfck*^
 ||*mtrfuck*^
 ||*mtrfucker*^
-||*mudblut hure*^
+||*mudblut*hure*^
 ||*mudblut*^
-||*muff diver*^
-||*muff puff*^
+||*muff*diver*^
+||*muff*puff*^
 ||*muff*^
 ||*muffdive*^
 ||*muffdiver*^
@@ -4504,17 +4504,17 @@
 ||*munter*^
 ||*murder*^
 ||*murderer*^
-||*muschi lecker*^
+||*muschi*lecker*^
 ||*muschi*^
 ||*muslim*^
 ||*mussa*^
-||*muter fiker*^
+||*muter*fiker*^
 ||*muterfiker*^
-||*mutha fucker*^
-||*mutha fukah*^
-||*mutha fuker*^
-||*mutha fukkah*^
-||*mutha fukker*^
+||*mutha*fucker*^
+||*mutha*fukah*^
+||*mutha*fuker*^
+||*mutha*fukkah*^
+||*mutha*fukker*^
 ||*mutha*^
 ||*muthafecker*^
 ||*muthafuckaz*^
@@ -4524,13 +4524,13 @@
 ||*mutherfucker*^
 ||*mutherfucking*^
 ||*muthrfucking*^
-||*mutter ficker*^
+||*mutter*ficker*^
 ||*mutterficker*^
 ||*mzungu*^
 ||*mzungus*^
-||*n i g g a*^
-||*n i g g e r*^
-||*n-word*^
+||*n*i*g*g*a*^
+||*n*i*g*g*e*r*^
+||*n*word*^
 ||*nabo*^
 ||*nad*^
 ||*nads*^
@@ -4549,16 +4549,16 @@
 ||*nastyslut*^
 ||*nastywhore*^
 ||*natzi*^
-||*nave scuola*^
+||*nave*scuola*^
 ||*nawashi*^
 ||*naze*^
 ||*nazi*^
 ||*nazis*^
 ||*nazism*^
 ||*nazl*^
-||*ne rien foutre*^
+||*ne*rien*foutre*^
 ||*necro*^
-||*need the dick*^
+||*need*the*dick*^
 ||*negerman*^
 ||*negra*^
 ||*negraccia*^
@@ -4571,20 +4571,20 @@
 ||*negrona*^
 ||*negrone*^
 ||*negros*^
-||*nel culo*^
+||*nel*culo*^
 ||*neonazi*^
 ||*nepesaurio*^
 ||*nerchia*^
-||*nessuno mi unfungulo*^
+||*nessuno*mi*unfungulo*^
 ||*nggerman*^
 ||*nggr*^
 ||*nhiggerman*^
 ||*niac*^
 ||*niaiseux*^
 ||*niakoue*^
-||*nig nog*^
+||*nig*nog*^
 ||*nig*^
-||*nig-nog*^
+||*nig*nog*^
 ||*niga*^
 ||*nigaboo*^
 ||*nigar*^
@@ -4598,7 +4598,7 @@
 ||*nigette*^
 ||*nigettes*^
 ||*nigg*^
-||*nigga ass*^
+||*nigga*ass*^
 ||*nigga*^
 ||*niggah*^
 ||*niggahs*^
@@ -4662,28 +4662,28 @@
 ||*nips*^
 ||*niqqa*^
 ||*niqqer*^
-||*nique la police*^
-||*nique ta mere*^
-||*nique ta race*^
+||*nique*la*police*^
+||*nique*ta*mere*^
+||*nique*ta*race*^
 ||*nique*^
 ||*niquer*^
 ||*nittit*^
 ||*nlgger*^
 ||*nlggor*^
-||*no me jodas*^
-||*no seas gilipollas*^
-||*nob jokey*^
+||*no*me*jodas*^
+||*no*seas*gilipollas*^
+||*nob*jokey*^
 ||*nob*^
 ||*nobhead*^
 ||*nobjocky*^
 ||*nobjokey*^
 ||*nofuckingway*^
 ||*nog*^
-||*nom de dieu de merde*^
-||*nom de dieu*^
-||*non hai capito una sega*^
-||*non me ne importa*^
-||*non mi rompere i coglioni*^
+||*nom*de*dieu*de*merde*^
+||*nom*de*dieu*^
+||*non*hai*capito*una*sega*^
+||*non*me*ne*importa*^
+||*non*mi*rompere*i*coglioni*^
 ||*nonce*^
 ||*nook*^
 ||*nookey*^
@@ -4692,7 +4692,7 @@
 ||*noonan*^
 ||*nooner*^
 ||*noune*^
-||*nsfw images*^
+||*nsfw*images*^
 ||*nsfw*^
 ||*ntm*^
 ||*nude*^
@@ -4704,15 +4704,15 @@
 ||*nugga*^
 ||*nuke*^
 ||*numbnuts*^
-||*nut butter*^
-||*nut sack*^
+||*nut*butter*^
+||*nut*sack*^
 ||*nutfucker*^
 ||*nuts*^
 ||*nutsack*^
 ||*nutslapper*^
 ||*nutted*^
-||*nutten sohn*^
-||*nutten son*^
+||*nutten*sohn*^
+||*nutten*son*^
 ||*nuttensohn*^
 ||*nuttenson*^
 ||*nutter*^
@@ -4720,22 +4720,22 @@
 ||*nymph*^
 ||*nympho*^
 ||*nymphomania*^
-||*o c k*^
+||*o*c*k*^
 ||*octopussy*^
 ||*oddio*^
-||*oh la vache*^
-||*oh putain de merde*^
-||*old bag*^
+||*oh*la*vache*^
+||*oh*putain*de*merde*^
+||*old*bag*^
 ||*omeko*^
 ||*omg*^
 ||*omorashi*^
 ||*onanieren*^
-||*one cup two girls*^
-||*one guy one jar*^
-||*one guy*^
-||*one jar*^
+||*one*cup*two*girls*^
+||*one*guy*one*jar*^
+||*one*guy*^
+||*one*jar*^
 ||*ontherag*^
-||*ooty call*^
+||*ooty*call*^
 ||*opiate*^
 ||*opium*^
 ||*orafis*^
@@ -4756,15 +4756,15 @@
 ||*orifiss*^
 ||*orospu*^
 ||*osama*^
-||*osti de calisse de tabarnak*^
+||*osti*de*calisse*de*tabarnak*^
 ||*osti*^
 ||*ostie*^
 ||*ovary*^
 ||*ovum*^
 ||*ovums*^
-||*p e n i s*^
-||*p i s*^
-||*p u s s y*^
+||*p*e*n*i*s*^
+||*p*i*s*^
+||*p*u*s*s*y*^
 ||*p*^
 ||*packi*^
 ||*packie*^
@@ -4783,8 +4783,8 @@
 ||*palle*^
 ||*palloso*^
 ||*palucher*^
-||*pancake face*^
-||*pancake faces*^
+||*pancake*face*^
+||*pancake*faces*^
 ||*panooch*^
 ||*panoufle*^
 ||*pansies*^
@@ -4793,7 +4793,7 @@
 ||*pantie*^
 ||*panties*^
 ||*panty*^
-||*partir en couille*^
+||*partir*en*couille*^
 ||*paska*^
 ||*pastie*^
 ||*pasty*^
@@ -4824,7 +4824,7 @@
 ||*pedophiliac*^
 ||*pedoque*^
 ||*pee*^
-||*pee-pee*^
+||*pee*pee*^
 ||*peeenus*^
 ||*peeenusss*^
 ||*peehole*^
@@ -4835,19 +4835,19 @@
 ||*pegger*^
 ||*pegging*^
 ||*peinus*^
-||*pelos de los huevos*^
+||*pelos*de*los*huevos*^
 ||*pelotas*^
 ||*pelotudo*^
 ||*penas*^
 ||*pendejo*^
 ||*pendy*^
 ||*penetrate*^
-||*penetration pirate*^
+||*penetration*pirate*^
 ||*penetration*^
 ||*penial*^
 ||*penile*^
 ||*penis*^
-||*penis-breath*^
+||*penis*breath*^
 ||*penisbanger*^
 ||*penises*^
 ||*penisfucker*^
@@ -4872,16 +4872,16 @@
 ||*pet*^
 ||*petasse*^
 ||*peteux*^
-||*petit tabernac*^
-||*petite pute*^
+||*petit*tabernac*^
+||*petite*pute*^
 ||*peyote*^
-||*pezzo di merda*^
+||*pezzo*di*merda*^
 ||*phag*^
 ||*phaggot*^
 ||*phagot*^
 ||*phalli*^
 ||*phallic*^
-||*phone sex*^
+||*phone*sex*^
 ||*phonesex*^
 ||*phuc*^
 ||*phuck*^
@@ -4902,9 +4902,9 @@
 ||*picka*^
 ||*pickaninnies*^
 ||*pickaninny*^
-||*piece of shit*^
+||*piece*of*shit*^
 ||*pieceofshit*^
-||*pieces of shit*^
+||*pieces*of*shit*^
 ||*piefke*^
 ||*piefkes*^
 ||*piehole*^
@@ -4919,7 +4919,7 @@
 ||*piky*^
 ||*pillowbiter*^
 ||*pillu*^
-||*pimmel berger*^
+||*pimmel*berger*^
 ||*pimmel*^
 ||*pimmelberger*^
 ||*pimp*^
@@ -4955,11 +4955,11 @@
 ||*pisin*^
 ||*pising*^
 ||*pisof*^
-||*piss off*^
-||*piss pig*^
+||*piss*off*^
+||*piss*pig*^
 ||*piss*^
-||*piss-off*^
-||*pissed off*^
+||*piss*off*^
+||*pissed*off*^
 ||*pissed*^
 ||*pisser*^
 ||*pissers*^
@@ -4980,7 +4980,7 @@
 ||*pizda*^
 ||*playboy*^
 ||*playgirl*^
-||*pleasure chest*^
+||*pleasure*chest*^
 ||*pleasurechest*^
 ||*pleutre*^
 ||*plote*^
@@ -4998,16 +4998,16 @@
 ||*polack*^
 ||*polacks*^
 ||*polak*^
-||*pole smoker*^
+||*pole*smoker*^
 ||*polesmoker*^
 ||*polla*^
-||*pollas en vinagre*^
+||*pollas*en*vinagre*^
 ||*pollock*^
 ||*pollocks*^
 ||*pom*^
 ||*pomiciare*^
-||*pommie grant*^
-||*pommie grants*^
+||*pommie*grant*^
+||*pommie*grants*^
 ||*pommie*^
 ||*pommies*^
 ||*pommy*^
@@ -5026,7 +5026,7 @@
 ||*poonany*^
 ||*poontang*^
 ||*poontsee*^
-||*poop chute*^
+||*poop*chute*^
 ||*poop*^
 ||*poopchute*^
 ||*pooper*^
@@ -5036,26 +5036,26 @@
 ||*poor*^
 ||*poorwhitetrash*^
 ||*popimp*^
-||*porca madonna*^
-||*porca miseria*^
-||*porca paletta*^
-||*porca puttana*^
-||*porca troia*^
-||*porca vacca*^
+||*porca*madonna*^
+||*porca*miseria*^
+||*porca*paletta*^
+||*porca*puttana*^
+||*porca*troia*^
+||*porca*vacca*^
 ||*porca*^
 ||*porcamadonna*^
 ||*porcaputtana*^
 ||*porcas*^
 ||*porcasse*^
-||*porch monkey*^
-||*porch monkies*^
+||*porch*monkey*^
+||*porch*monkies*^
 ||*porchmonkey*^
-||*porco cane*^
-||*porco dio*^
-||*porco due*^
-||*porco giuda*^
-||*porco iddio*^
-||*porco zio*^
+||*porco*cane*^
+||*porco*dio*^
+||*porco*due*^
+||*porco*giuda*^
+||*porco*iddio*^
+||*porco*zio*^
 ||*porco*^
 ||*porcodidio*^
 ||*porcodio*^
@@ -5078,17 +5078,17 @@
 ||*pouffe*^
 ||*pouffiasse*^
 ||*poufiasse*^
-||*pound town*^
+||*pound*town*^
 ||*pounde*^
 ||*poundtown*^
 ||*pourriture*^
-||*pousse-crotte*^
+||*pousse*crotte*^
 ||*poverty*^
 ||*pplicker*^
-||*prairie nigger*^
-||*prairie niggers*^
+||*prairie*nigger*^
+||*prairie*niggers*^
 ||*premature*^
-||*prendere per il culo*^
+||*prendere*per*il*culo*^
 ||*prete*^
 ||*preteen*^
 ||*pric*^
@@ -5098,13 +5098,13 @@
 ||*prickteaser*^
 ||*prig*^
 ||*primetime*^
-||*prince albert piercing*^
-||*pro-ana*^
-||*pro-anoressia*^
-||*pro-bulimia*^
-||*pro-ed*^
-||*pro-ednos*^
-||*pro-mia*^
+||*prince*albert*piercing*^
+||*pro*ana*^
+||*pro*anoressia*^
+||*pro*bulimia*^
+||*pro*ed*^
+||*pro*ednos*^
+||*pro*mia*^
 ||*proana*^
 ||*proanoressia*^
 ||*probulimia*^
@@ -5151,7 +5151,7 @@
 ||*puppare*^
 ||*puppe*^
 ||*purinapricness*^
-||*purple headed yogurt slinger*^
+||*purple*headed*yogurt*slinger*^
 ||*pusies*^
 ||*puss*^
 ||*pusse*^
@@ -5163,9 +5163,9 @@
 ||*pusssi*^
 ||*pusssl*^
 ||*pusssy*^
-||*pussy fart*^
-||*pussy palace*^
-||*pussy pounder*^
+||*pussy*fart*^
+||*pussy*palace*^
+||*pussy*pounder*^
 ||*pussy*^
 ||*pussycat*^
 ||*pussydestroyer*^
@@ -5179,16 +5179,16 @@
 ||*pussys*^
 ||*pust*^
 ||*pusy*^
-||*puta madre*^
+||*puta*madre*^
 ||*puta*^
-||*putain de bordel de merde*^
-||*putain de merde*^
-||*putain de temps*^
+||*putain*de*bordel*de*merde*^
+||*putain*de*merde*^
+||*putain*de*temps*^
 ||*putain*^
 ||*pute*^
 ||*putin*^
 ||*puto*^
-||*puttana la madonna*^
+||*puttana*la*madonna*^
 ||*puttana*^
 ||*puttanacce*^
 ||*puttanaccia*^
@@ -5212,8 +5212,8 @@
 ||*qahbeh*^
 ||*quaglia*^
 ||*quashie*^
-||*que te den*^
-||*que te jodan*^
+||*que*te*den*^
+||*que*te*jodan*^
 ||*queaf*^
 ||*queef*^
 ||*queefeater*^
@@ -5223,8 +5223,8 @@
 ||*queero*^
 ||*queers*^
 ||*queerz*^
-||*quel bordel*^
-||*quel salaud*^
+||*quel*bordel*^
+||*quel*salaud*^
 ||*queue*^
 ||*queutard*^
 ||*quickie*^
@@ -5234,8 +5234,8 @@
 ||*qweers*^
 ||*qweerz*^
 ||*qweir*^
-||*r-tard*^
-||*r-tards*^
+||*r*tard*^
+||*r*tards*^
 ||*raape*^
 ||*rabbi*^
 ||*rabo*^
@@ -5248,8 +5248,8 @@
 ||*rafael*^
 ||*raghead*^
 ||*ragheads*^
-||*raging boner*^
-||*raging boners*^
+||*raging*boner*^
+||*raging*boners*^
 ||*raging*^
 ||*ragingboner*^
 ||*raibyo*^
@@ -5276,7 +5276,7 @@
 ||*rectal*^
 ||*rectum*^
 ||*rectus*^
-||*red tube*^
+||*red*tube*^
 ||*redleg*^
 ||*redlegs*^
 ||*redlight*^
@@ -5302,7 +5302,7 @@
 ||*retarded*^
 ||*retards*^
 ||*retardz*^
-||*reverse cowgirl*^
+||*reverse*cowgirl*^
 ||*reversecowgirl*^
 ||*revue*^
 ||*ribbed*^
@@ -5315,7 +5315,7 @@
 ||*rincoglionire*^
 ||*rincoglionito*^
 ||*ripopee*^
-||*rirosy palmm*^
+||*rirosy*palmm*^
 ||*ritard*^
 ||*rizzacazzi*^
 ||*rizzape*^
@@ -5324,8 +5324,8 @@
 ||*robber*^
 ||*robespierrot*^
 ||*rompari*^
-||*rompere i miei coglioni*^
-||*rompere il culo a qualcuno*^
+||*rompere*i*miei*coglioni*^
+||*rompere*il*culo*a*qualcuno*^
 ||*rompiballe*^
 ||*rompicazzi*^
 ||*rompicazzo*^
@@ -5333,14 +5333,14 @@
 ||*rompipalle*^
 ||*rosbif*^
 ||*rosebuds*^
-||*rosy palm*^
+||*rosy*palm*^
 ||*rosypalm*^
 ||*rosypalmandherefivesisters*^
-||*rotta in culo*^
+||*rotta*in*culo*^
 ||*rottinculo*^
-||*rotto nel culo*^
+||*rotto*nel*culo*^
 ||*roulure*^
-||*round eyes*^
+||*round*eyes*^
 ||*roundeye*^
 ||*rtard*^
 ||*rtards*^
@@ -5352,18 +5352,18 @@
 ||*ruski*^
 ||*russki*^
 ||*russkie*^
-||*rusty trombone*^
+||*rusty*trombone*^
 ||*rustytrombone*^
-||*s h i t*^
-||*s hit*^
-||*s-h-i-t*^
-||*s-o-b*^
+||*s*h*i*t*^
+||*s*hit*^
+||*s*h*i*t*^
+||*s*o*b*^
 ||*s_h_i_t*^
-||*sa race*^
-||*sac merde*^
-||*sac vin*^
+||*sa*race*^
+||*sac*merde*^
+||*sac*vin*^
 ||*sac*^
-||*sack gesicht*^
+||*sack*gesicht*^
 ||*sack*^
 ||*sackgesicht*^
 ||*sacrament*^
@@ -5383,8 +5383,8 @@
 ||*sambos*^
 ||*samckdaddy*^
 ||*sanchez*^
-||*sand nigger*^
-||*sand niggers*^
+||*sand*nigger*^
+||*sand*niggers*^
 ||*sandbar*^
 ||*sandler*^
 ||*sandm*^
@@ -5392,11 +5392,11 @@
 ||*sanger*^
 ||*sangokujin*^
 ||*sangokuzin*^
-||*santo cazzo madre di cristo*^
+||*santo*cazzo*madre*di*cristo*^
 ||*santorum*^
 ||*satan*^
 ||*satrouille*^
-||*sausage queen*^
+||*sausage*queen*^
 ||*sbattere*^
 ||*sbattersi*^
 ||*sbocchinare*^
@@ -5430,9 +5430,9 @@
 ||*scazzato*^
 ||*schaffer*^
 ||*schbeb*^
-||*scheiss haus*^
-||*scheiss kopf*^
-||*scheiss segal*^
+||*scheiss*haus*^
+||*scheiss*kopf*^
+||*scheiss*segal*^
 ||*scheiss*^
 ||*scheisse*^
 ||*scheissen*^
@@ -5456,10 +5456,10 @@
 ||*schreist*^
 ||*schvartse*^
 ||*schvartsen*^
-||*schwanz lecker*^
-||*schwanz lutsche*^
-||*schwanz lutschen*^
-||*schwanz lutscher*^
+||*schwanz*lecker*^
+||*schwanz*lutsche*^
+||*schwanz*lutschen*^
+||*schwanz*lutscher*^
 ||*schwanz*^
 ||*schwanzlecker*^
 ||*schwanzlutsche*^
@@ -5467,8 +5467,8 @@
 ||*schwanzlutscher*^
 ||*schwartze*^
 ||*schwartzen*^
-||*schweine hund*^
-||*schweine priester*^
+||*schweine*hund*^
+||*schweine*priester*^
 ||*schweinehund*^
 ||*schweinepriester*^
 ||*schwuchtel*^
@@ -5494,8 +5494,8 @@
 ||*scum*^
 ||*scumdumpster*^
 ||*scungio*^
-||*se foutre dans la merde*^
-||*se taire*^
+||*se*foutre*dans*la*merde*^
+||*se*taire*^
 ||*seaman*^
 ||*seamen*^
 ||*secchione*^
@@ -5506,41 +5506,41 @@
 ||*segars*^
 ||*seghe*^
 ||*segone*^
-||*sei duro come il muro*^
-||*sei scemo*^
-||*sei stupido*^
-||*sei un cretino*^
-||*sei un deficiente*^
-||*sei un idiota*^
-||*sei un rompicoglioni*^
-||*sei una sfigata*^
-||*sei una testa di cazzo*^
-||*sei uno stronzo*^
+||*sei*duro*come*il*muro*^
+||*sei*scemo*^
+||*sei*stupido*^
+||*sei*un*cretino*^
+||*sei*un*deficiente*^
+||*sei*un*idiota*^
+||*sei*un*rompicoglioni*^
+||*sei*una*sfigata*^
+||*sei*una*testa*di*cazzo*^
+||*sei*uno*stronzo*^
 ||*seishinhakujaku*^
 ||*seishinijo*^
 ||*seisinhakuzyaku*^
 ||*seisinizyo*^
 ||*seks*^
-||*selbstmord begehen*^
-||*sembri un peni*^
+||*selbstmord*begehen*^
+||*sembri*un*peni*^
 ||*semen*^
 ||*semushiotoko*^
 ||*semusiotoko*^
-||*sent-la-pisse*^
+||*sent*la*pisse*^
 ||*seppo*^
 ||*seppos*^
 ||*septics*^
 ||*servant*^
-||*sex addict*^
-||*sex addicts*^
-||*sex addictz*^
+||*sex*addict*^
+||*sex*addicts*^
+||*sex*addictz*^
 ||*sex*^
-||*sex+addict*^
-||*sex+addicts*^
-||*sex+addictz*^
-||*sex-addict*^
-||*sex-addicts*^
-||*sex-addictz*^
+||*sex*addict*^
+||*sex*addicts*^
+||*sex*addictz*^
+||*sex*addict*^
+||*sex*addicts*^
+||*sex*addictz*^
 ||*sexaddict*^
 ||*sexaddicts*^
 ||*sexaddictz*^
@@ -5569,10 +5569,10 @@
 ||*sexxxy*^
 ||*sexxy*^
 ||*sexy*^
-||*sexy-slim*^
+||*sexy*slim*^
 ||*sexymoma*^
 ||*sexyslim*^
-||*sfacim e merde*^
+||*sfacim*e*merde*^
 ||*sfiga*^
 ||*sfigati*^
 ||*sfigato*^
@@ -5585,9 +5585,9 @@
 ||*sharmute*^
 ||*shat*^
 ||*shav*^
-||*shaved beaver*^
-||*shaved beavers*^
-||*shaved pussy*^
+||*shaved*beaver*^
+||*shaved*beavers*^
+||*shaved*pussy*^
 ||*shaved*^
 ||*shavedbeaver*^
 ||*shavedpussy*^
@@ -5596,7 +5596,7 @@
 ||*shemale*^
 ||*shemales*^
 ||*shhit*^
-||*shi+*^
+||*shi**^
 ||*shibari*^
 ||*shibaris*^
 ||*shiet*^
@@ -5605,13 +5605,13 @@
 ||*shinola*^
 ||*shipal*^
 ||*shirakko*^
-||*shirt lifter*^
+||*shirt*lifter*^
 ||*shishkoff*^
-||*shit ass*^
-||*shit dick*^
-||*shit eating anus bird*^
-||*shit fucker*^
-||*shit goblin*^
+||*shit*ass*^
+||*shit*dick*^
+||*shit*eating*anus*bird*^
+||*shit*fucker*^
+||*shit*goblin*^
 ||*shit*^
 ||*shitass*^
 ||*shitbag*^
@@ -5736,9 +5736,9 @@
 ||*slopeys*^
 ||*slopies*^
 ||*slopy*^
-||*slut bucket*^
-||*slut dumper*^
-||*slut whore*^
+||*slut*bucket*^
+||*slut*dumper*^
+||*slut*whore*^
 ||*slut*^
 ||*slutbag*^
 ||*slutcunt*^
@@ -5779,19 +5779,19 @@
 ||*soccia*^
 ||*socksucker*^
 ||*socmel*^
-||*sod off*^
+||*sod*off*^
 ||*sodom*^
 ||*sodomise*^
 ||*sodomite*^
 ||*sodomize*^
 ||*sodomy*^
-||*sofa king*^
+||*sofa*king*^
 ||*sofaking*^
-||*soggy-ass nigger-lip*^
-||*son of a bitch*^
-||*son of a motherless goat*^
-||*son of a whore*^
-||*son-of-a-bitch*^
+||*soggy*ass*nigger*lip*^
+||*son*of*a*bitch*^
+||*son*of*a*motherless*goat*^
+||*son*of*a*whore*^
+||*son*of*a*bitch*^
 ||*sonofabitch*^
 ||*sonofbitch*^
 ||*sooties*^
@@ -5800,7 +5800,7 @@
 ||*sorca*^
 ||*sos*^
 ||*sottiseux*^
-||*sous-merde*^
+||*sous*merde*^
 ||*souse*^
 ||*soused*^
 ||*soviet*^
@@ -5835,7 +5835,7 @@
 ||*spit*^
 ||*spitter*^
 ||*splittail*^
-||*splooge moose*^
+||*splooge*moose*^
 ||*splooge*^
 ||*spludge*^
 ||*spompinare*^
@@ -5844,7 +5844,7 @@
 ||*spompiniamolo*^
 ||*spooge*^
 ||*spook*^
-||*spread legs*^
+||*spread*legs*^
 ||*spreadeagle*^
 ||*spritz*^
 ||*spritzt*^
@@ -5858,28 +5858,28 @@
 ||*squaw*^
 ||*squinty*^
 ||*squirting*^
-||*sta puttana*^
+||*sta*puttana*^
 ||*stagg*^
-||*staub fressen*^
+||*staub*fressen*^
 ||*staubfressen*^
 ||*std*^
 ||*stds*^
 ||*steamy*^
 ||*stearique*^
 ||*stfu*^
-||*sti cazza*^
+||*sti*cazza*^
 ||*sticchio*^
 ||*stiffy*^
-||*stink fotze*^
+||*stink*fotze*^
 ||*stinkfotze*^
 ||*stoned*^
 ||*stoner*^
-||*strap on*^
+||*strap*on*^
 ||*strapon*^
 ||*strappado*^
 ||*stricher*^
 ||*stringer*^
-||*strip club*^
+||*strip*club*^
 ||*strip*^
 ||*stripclub*^
 ||*stroke*^
@@ -5909,8 +5909,8 @@
 ||*stupide*^
 ||*stupidfuck*^
 ||*stupidfucker*^
-||*style doggy*^
-||*succhia cazzi*^
+||*style*doggy*^
+||*succhia*cazzi*^
 ||*succhiacazzi*^
 ||*succhiamelo*^
 ||*succhiami*^
@@ -5919,9 +5919,9 @@
 ||*succhione*^
 ||*suce*^
 ||*suceuse*^
-||*suck my dick*^
-||*suck my fucking cornhole*^
-||*suck my*^
+||*suck*my*dick*^
+||*suck*my*fucking*cornhole*^
+||*suck*my*^
 ||*suck*^
 ||*suckass*^
 ||*suckdick*^
@@ -5935,13 +5935,13 @@
 ||*suckmytit*^
 ||*suckoff*^
 ||*sucks*^
-||*suicide girl*^
-||*suicide girls*^
+||*suicide*girl*^
+||*suicide*girls*^
 ||*suicide*^
 ||*suicidegirl*^
 ||*suicidegirls*^
 ||*suka*^
-||*sultry women*^
+||*sultry*women*^
 ||*sultry*^
 ||*sultrywoman*^
 ||*sultrywomen*^
@@ -5951,23 +5951,23 @@
 ||*swallow*^
 ||*swallower*^
 ||*swalow*^
-||*swamp guinea*^
-||*swamp guineas*^
+||*swamp*guinea*^
+||*swamp*guineas*^
 ||*swastika*^
 ||*sweetness*^
 ||*swinger*^
-||*swiss charlie*^
+||*swiss*charlie*^
 ||*syokubutuningen*^
 ||*syphilis*^
-||*t i t*^
-||*t i ts*^
-||*ta gueule*^
-||*ta mere est francaise*^
-||*ta mere la pute*^
-||*ta mere suce des bites en enfer*^
+||*t*i*t*^
+||*t*i*ts*^
+||*ta*gueule*^
+||*ta*mere*est*francaise*^
+||*ta*mere*la*pute*^
+||*ta*mere*suce*des*bites*en*enfer*^
 ||*tabarnak*^
 ||*taboo*^
-||*taco sniffer*^
+||*taco*sniffer*^
 ||*tacohead*^
 ||*tacoheads*^
 ||*tacomuncher*^
@@ -5975,11 +5975,11 @@
 ||*tafiole*^
 ||*taig*^
 ||*taint*^
-||*tainted love*^
+||*tainted*love*^
 ||*tainted*^
-||*tais-toi*^
-||*take off your*^
-||*taking the piss*^
+||*tais*toi*^
+||*take*off*your*^
+||*taking*the*piss*^
 ||*tampon*^
 ||*tanche*^
 ||*tang*^
@@ -5988,8 +5988,8 @@
 ||*tantra*^
 ||*tapatte*^
 ||*tapette*^
-||*tar babies*^
-||*tar baby*^
+||*tar*babies*^
+||*tar*baby*^
 ||*tarado*^
 ||*tarbaby*^
 ||*tard*^
@@ -5999,14 +5999,14 @@
 ||*tarte*^
 ||*tarzanelli*^
 ||*tarzanello*^
-||*tas de marde*^
-||*tas de merde*^
-||*taste my*^
+||*tas*de*marde*^
+||*tas*de*merde*^
+||*taste*my*^
 ||*tastemy*^
 ||*tata*^
 ||*tawdry*^
-||*tea bag*^
-||*tea bagging*^
+||*tea*bag*^
+||*tea*bagging*^
 ||*teabag*^
 ||*teabagging*^
 ||*teat*^
@@ -6017,13 +6017,13 @@
 ||*teets*^
 ||*teez*^
 ||*teino*^
-||*tenere qualcuno per le palle*^
+||*tenere*qualcuno*per*le*palle*^
 ||*terd*^
 ||*terrone*^
 ||*terror*^
 ||*terrorist*^
-||*testa di cazzo*^
-||*testa di minchia*^
+||*testa*di*cazzo*^
+||*testa*di*minchia*^
 ||*teste*^
 ||*testee*^
 ||*testes*^
@@ -6057,21 +6057,21 @@
 ||*thrust*^
 ||*thug*^
 ||*thundercunt*^
-||*ti ammazzo*^
-||*ti corro in culo*^
-||*ti sei bevuto*^
+||*ti*ammazzo*^
+||*ti*corro*in*culo*^
+||*ti*sei*bevuto*^
 ||*ti*^
 ||*tickleberryfuntime*^
-||*tied up*^
+||*tied*up*^
 ||*tieokure*^
-||*tight white*^
-||*timber nigger*^
-||*timber niggers*^
+||*tight*white*^
+||*timber*nigger*^
+||*timber*niggers*^
 ||*timbernigger*^
 ||*tinkle*^
 ||*tinpo*^
 ||*tirare*^
-||*tit wank*^
+||*tit*wank*^
 ||*tit*^
 ||*titbitnipply*^
 ||*titfuck*^
@@ -6100,19 +6100,19 @@
 ||*tity*^
 ||*titz*^
 ||*tnt*^
-||*to murder*^
+||*to*murder*^
 ||*tocard*^
 ||*toilet*^
 ||*toke*^
 ||*tokushugakkyu*^
 ||*tokusyugakkyu*^
 ||*tongethruster*^
-||*tongue in a*^
+||*tongue*in*a*^
 ||*tongue*^
 ||*tongueina*^
 ||*tonguethrust*^
 ||*tonguetramp*^
-||*tonto del culo*^
+||*tonto*del*culo*^
 ||*tonto*^
 ||*tontopollas*^
 ||*tool*^
@@ -6127,8 +6127,8 @@
 ||*tosatsu*^
 ||*tosatu*^
 ||*tosser*^
-||*towel head*^
-||*towel heads*^
+||*towel*head*^
+||*towel*heads*^
 ||*towelhead*^
 ||*trailertrash*^
 ||*trainee*^
@@ -6166,21 +6166,21 @@
 ||*troncher*^
 ||*trots*^
 ||*trottel*^
-||*trou de cul*^
-||*trou du cul*^
+||*trou*de*cul*^
+||*trou*du*cul*^
 ||*trouduc*^
 ||*truiasse*^
 ||*trump*^
 ||*trumped*^
-||*tu es con*^
-||*tu es un putain*^
-||*tu et un ane*^
-||*tu fais chier*^
-||*tu me fatigues*^
-||*tu me gonfles*^
-||*tu piezza di merda*^
-||*tua mamma bocchinara*^
-||*tub girl*^
+||*tu*es*con*^
+||*tu*es*un*putain*^
+||*tu*et*un*ane*^
+||*tu*fais*chier*^
+||*tu*me*fatigues*^
+||*tu*me*gonfles*^
+||*tu*piezza*di*merda*^
+||*tua*mamma*bocchinara*^
+||*tub*girl*^
 ||*tubgirl*^
 ||*tuckahoe*^
 ||*tunbo*^
@@ -6190,7 +6190,7 @@
 ||*turnon*^
 ||*tush*^
 ||*tushy*^
-||*twat waffle*^
+||*twat*waffle*^
 ||*twat*^
 ||*twathead*^
 ||*twatlips*^
@@ -6199,9 +6199,9 @@
 ||*twatwaffle*^
 ||*twink*^
 ||*twinkie*^
-||*two fingers with tongue*^
-||*two fingers*^
-||*two girls one cup*^
+||*two*fingers*with*tongue*^
+||*two*fingers*^
+||*two*girls*one*cup*^
 ||*twobitwhore*^
 ||*twunt*^
 ||*twunter*^
@@ -6214,24 +6214,24 @@
 ||*tyurenbo*^
 ||*uccello*^
 ||*uck*^
-||*udge packer*^
+||*udge*packer*^
 ||*ugly*^
 ||*uk*^
 ||*ukrop*^
-||*un pompino*^
-||*un putero*^
-||*uncle tom*^
+||*un*pompino*^
+||*un*putero*^
+||*uncle*tom*^
 ||*unclefucker*^
 ||*undies*^
 ||*undressing*^
-||*une salope*^
+||*une*salope*^
 ||*unfuckable*^
 ||*unwed*^
 ||*uphillgardener*^
 ||*upskirt*^
 ||*uptheass*^
 ||*upthebutt*^
-||*urethra play*^
+||*urethra*play*^
 ||*urethra*^
 ||*urethraplay*^
 ||*urinal*^
@@ -6245,57 +6245,57 @@
 ||*ussys*^
 ||*uterus*^
 ||*uzi*^
-||*v a g i n a*^
-||*va te crosser*^
-||*va te faire baiser*^
-||*va te faire enculer*^
-||*va te faire foutre*^
-||*va te faire mettre*^
-||*va te faire voir*^
-||*va te faire*^
-||*va-j-j*^
+||*v*a*g*i*n*a*^
+||*va*te*crosser*^
+||*va*te*faire*baiser*^
+||*va*te*faire*enculer*^
+||*va*te*faire*foutre*^
+||*va*te*faire*mettre*^
+||*va*te*faire*voir*^
+||*va*te*faire*^
+||*va*j*j*^
 ||*vacca*^
 ||*vaccagare*^
 ||*vaccamadonna*^
 ||*vache*^
-||*vada a bordo*^
+||*vada*a*bordo*^
 ||*vaffanculo*^
 ||*vaffonculo*^
 ||*vag*^
 ||*vagiina*^
 ||*vagina*^
 ||*vaginal*^
-||*vai a cacare*^
-||*vai a cagare*^
-||*vai a farti fottere*^
-||*vai a quel paese*^
-||*vai a vendere il culo*^
+||*vai*a*cacare*^
+||*vai*a*cagare*^
+||*vai*a*farti*fottere*^
+||*vai*a*quel*paese*^
+||*vai*a*vendere*il*culo*^
 ||*vajayjay*^
 ||*vajina*^
 ||*valium*^
 ||*vangare*^
 ||*varpiss*^
-||*vas faire foutre a la vache*^
+||*vas*faire*foutre*a*la*vache*^
 ||*vatefaire*^
 ||*vatican*^
-||*vattela a pigliare in culo*^
+||*vattela*a*pigliare*in*culo*^
 ||*vaurien*^
 ||*venire*^
-||*venus mound*^
+||*venus*mound*^
 ||*veqtable*^
-||*ver fickte*^
-||*ver fickten*^
-||*ver fickter*^
-||*ver ficktes*^
-||*ver hurte*^
-||*ver hurten*^
-||*ver hurtes*^
+||*ver*fickte*^
+||*ver*fickten*^
+||*ver*fickter*^
+||*ver*ficktes*^
+||*ver*hurte*^
+||*ver*hurten*^
+||*ver*hurtes*^
 ||*verdammt*^
 ||*verdammte*^
 ||*verdammten*^
 ||*verdammter*^
 ||*verdammtes*^
-||*verdreht missgeburt*^
+||*verdreht*missgeburt*^
 ||*verdreht*^
 ||*verfickte*^
 ||*verfickten*^
@@ -6306,10 +6306,10 @@
 ||*verhurten*^
 ||*verhurtes*^
 ||*verpiss*^
-||*vete a la mierda*^
-||*vete a la verga*^
-||*vete al demonio*^
-||*vete al infierno*^
+||*vete*a*la*mierda*^
+||*vete*a*la*verga*^
+||*vete*al*demonio*^
+||*vete*al*infierno*^
 ||*veuve*^
 ||*vgra*^
 ||*viagra*^
@@ -6318,12 +6318,12 @@
 ||*vibrater*^
 ||*vibrator*^
 ||*vibrators*^
-||*vide-couilles*^
+||*vide*couilles*^
 ||*viedase*^
 ||*vier*^
 ||*vietcong*^
 ||*violence*^
-||*violet wand*^
+||*violet*wand*^
 ||*virgin*^
 ||*virginbreaker*^
 ||*vittu*^
@@ -6331,22 +6331,22 @@
 ||*vjayjay*^
 ||*vodka*^
 ||*voegeln*^
-||*voll trottel*^
+||*voll*trottel*^
 ||*volltrottel*^
 ||*vomit*^
 ||*vorarephilia*^
-||*vous sentez comme le boeuf et le fromage*^
-||*vous vissez*^
+||*vous*sentez*comme*le*boeuf*et*le*fromage*^
+||*vous*vissez*^
 ||*voyeur*^
 ||*vulgar*^
 ||*vullva*^
 ||*vulva*^
 ||*vvhitepower*^
-||*w h o r e*^
+||*w*h*o*r*e*^
 ||*wab*^
 ||*wad*^
 ||*wang*^
-||*wank stain*^
+||*wank*stain*^
 ||*wank*^
 ||*wanker*^
 ||*wanking*^
@@ -6365,10 +6365,10 @@
 ||*welcher*^
 ||*welfare*^
 ||*wench*^
-||*wertlos kind*^
+||*wertlos*kind*^
 ||*wertlos*^
-||*wet dream*^
-||*wet dreams*^
+||*wet*dream*^
+||*wet*dreams*^
 ||*wetb*^
 ||*wetback*^
 ||*wetbacks*^
@@ -6382,8 +6382,8 @@
 ||*whiskeydick*^
 ||*whiskydick*^
 ||*whit*^
-||*white power*^
-||*white trash*^
+||*white*power*^
+||*white*trash*^
 ||*whitenigger*^
 ||*whitepower*^
 ||*whites*^
@@ -6414,7 +6414,7 @@
 ||*willies*^
 ||*williewanker*^
 ||*willy*^
-||*window licker*^
+||*window*licker*^
 ||*wiseass*^
 ||*wiseasses*^
 ||*wixer*^
@@ -6424,13 +6424,13 @@
 ||*womb*^
 ||*woody*^
 ||*wop*^
-||*wrapping men*^
-||*wrinkled starfish*^
+||*wrapping*men*^
+||*wrinkled*starfish*^
 ||*wtf*^
 ||*wuss*^
 ||*wuzzie*^
-||*x-rated*^
-||*xbl pet*^
+||*x*rated*^
+||*xbl*pet*^
 ||*xblpet*^
 ||*xblrewards*^
 ||*xeropineur*^
@@ -6449,7 +6449,7 @@
 ||*yarpies*^
 ||*yeasty*^
 ||*yed*^
-||*yellow showers*^
+||*yellow*showers*^
 ||*yellowman*^
 ||*yellowshowers*^
 ||*yeule*^
@@ -6470,15 +6470,15 @@
 ||*zibbi*^
 ||*zicke*^
 ||*zickig*^
-||*ziegen ficker*^
+||*ziegen*ficker*^
 ||*ziegenficker*^
 ||*zigabo*^
 ||*zigabos*^
 ||*zigounette*^
 ||*zimtzicke*^
 ||*zinne*^
-||*zio cantante*^
-||*zipper snake*^
+||*zio*cantante*^
+||*zipper*snake*^
 ||*zipperhead*^
 ||*zipperheads*^
 ||*zizi*^
@@ -6490,43 +6490,43 @@
 ||*zubb*^
 ||*zuia*^
 ||*zunga*^
-||*zut alors*^
+||*zut*alors*^
 ||*zut*^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Keywords – [ab13]
+! Keywords – [ab13]
 
-||*a 2 m*^
-||*a 5 5 e 5*^
-||*a 5 5 e d*^
-||*a 5 5 e s*^
-||*a 5 5 e z*^
-||*a 5 5*^
-||*a+2+m*^
-||*a-2-m*^
+||*a*2*m*^
+||*a*5*5*e*5*^
+||*a*5*5*e*d*^
+||*a*5*5*e*s*^
+||*a*5*5*e*z*^
+||*a*5*5*^
+||*a*2*m*^
+||*a*2*m*^
 ||*a2m*^
-||*a55 hole*^
-||*a55 hole5*^
-||*a55 holes*^
-||*a55 holez*^
-||*a55 wipe*^
-||*a55 wipes*^
-||*a55 wipez*^
+||*a55*hole*^
+||*a55*hole5*^
+||*a55*holes*^
+||*a55*holez*^
+||*a55*wipe*^
+||*a55*wipes*^
+||*a55*wipez*^
 ||*a55*^
-||*a55+hole*^
-||*a55+hole5*^
-||*a55+holes*^
-||*a55+holez*^
-||*a55+wipe*^
-||*a55+wipes*^
-||*a55+wipez*^
-||*a55-hole*^
-||*a55-hole5*^
-||*a55-holes*^
-||*a55-holez*^
-||*a55-wipe*^
-||*a55-wipes*^
-||*a55-wipez*^
+||*a55*hole*^
+||*a55*hole5*^
+||*a55*holes*^
+||*a55*holez*^
+||*a55*wipe*^
+||*a55*wipes*^
+||*a55*wipez*^
+||*a55*hole*^
+||*a55*hole5*^
+||*a55*holes*^
+||*a55*holez*^
+||*a55*wipe*^
+||*a55*wipes*^
+||*a55*wipez*^
 ||*a55e5*^
 ||*a55ed*^
 ||*a55es*^
@@ -6554,9 +6554,9 @@
 ||*andou1ll3*^
 ||*andou1lle*^
 ||*andouill3*^
-||*ar5e hole*^
-||*ar5e holes*^
-||*ar5e holez*^
+||*ar5e*hole*^
+||*ar5e*holes*^
+||*ar5e*holez*^
 ||*ar5e*^
 ||*ar5e5*^
 ||*ar5ed*^
@@ -6565,54 +6565,54 @@
 ||*ar5eholez*^
 ||*ar5es*^
 ||*ar5ez*^
-||*are5+hole*^
-||*are5+holes*^
-||*are5+holez*^
-||*are5-hole*^
-||*are5-holes*^
-||*are5-holez*^
-||*as h0le*^
-||*as h0les*^
-||*as h0lez*^
-||*as+h0le*^
-||*as+h0les*^
-||*as+h0lez*^
-||*as-h0le*^
-||*as-h0les*^
-||*as-h0lez*^
+||*are5*hole*^
+||*are5*holes*^
+||*are5*holez*^
+||*are5*hole*^
+||*are5*holes*^
+||*are5*holez*^
+||*as*h0le*^
+||*as*h0les*^
+||*as*h0lez*^
+||*as*h0le*^
+||*as*h0les*^
+||*as*h0lez*^
+||*as*h0le*^
+||*as*h0les*^
+||*as*h0lez*^
 ||*ash0le*^
 ||*ash0les*^
 ||*ash0lez*^
-||*ass 2 mouth*^
-||*ass c0ck*^
-||*ass c0cks*^
-||*ass c0ckz*^
-||*ass h0le*^
-||*ass h0les*^
-||*ass h0lez*^
-||*ass ho1e*^
-||*ass ho1es*^
-||*ass ho1ez*^
-||*ass+2+mouth*^
-||*ass+c0ck*^
-||*ass+c0cks*^
-||*ass+c0ckz*^
-||*ass+h0le*^
-||*ass+h0les*^
-||*ass+h0lez*^
-||*ass+ho1e*^
-||*ass+ho1es*^
-||*ass+ho1ez*^
-||*ass-2-mouth*^
-||*ass-c0ck*^
-||*ass-c0cks*^
-||*ass-c0ckz*^
-||*ass-h0le*^
-||*ass-h0les*^
-||*ass-h0lez*^
-||*ass-ho1e*^
-||*ass-ho1es*^
-||*ass-ho1ez*^
+||*ass*2*mouth*^
+||*ass*c0ck*^
+||*ass*c0cks*^
+||*ass*c0ckz*^
+||*ass*h0le*^
+||*ass*h0les*^
+||*ass*h0lez*^
+||*ass*ho1e*^
+||*ass*ho1es*^
+||*ass*ho1ez*^
+||*ass*2*mouth*^
+||*ass*c0ck*^
+||*ass*c0cks*^
+||*ass*c0ckz*^
+||*ass*h0le*^
+||*ass*h0les*^
+||*ass*h0lez*^
+||*ass*ho1e*^
+||*ass*ho1es*^
+||*ass*ho1ez*^
+||*ass*2*mouth*^
+||*ass*c0ck*^
+||*ass*c0cks*^
+||*ass*c0ckz*^
+||*ass*h0le*^
+||*ass*h0les*^
+||*ass*h0lez*^
+||*ass*ho1e*^
+||*ass*ho1es*^
+||*ass*ho1ez*^
 ||*ass2mouth*^
 ||*assc0ck*^
 ||*assc0cks*^
@@ -6749,13 +6749,13 @@
 ||*bourd1lle*^
 ||*bourdill3*^
 ||*bous3ux*^
-||*br!53-burn35*^
-||*br!5e-burne5*^
-||*br!s3-burn3s*^
-||*br153-burn35*^
-||*br15e-burne5*^
-||*br1s3-burn3s*^
-||*br1se-burnes*^
+||*br!53*burn35*^
+||*br!5e*burne5*^
+||*br!s3*burn3s*^
+||*br153*burn35*^
+||*br15e*burne5*^
+||*br1s3*burn3s*^
+||*br1se*burnes*^
 ||*br@nl3r*^
 ||*br@nl3ur*^
 ||*br@nqu3*^
@@ -6763,10 +6763,10 @@
 ||*branl3ur*^
 ||*branqu3*^
 ||*brea5t*^
-||*bri53-burn35*^
-||*bri5e-burne5*^
-||*bris3-burn3s*^
-||*c-0-c-k*^
+||*bri53*burn35*^
+||*bri5e*burne5*^
+||*bris3*burn3s*^
+||*c*0*c*k*^
 ||*c.0.c.k*^
 ||*c0ch3*^
 ||*c0che*^
@@ -6828,118 +6828,118 @@
 ||*c0unifle*^
 ||*c0urt@ud*^
 ||*c0urtaud*^
-||*c@553-b0nb0n*^
-||*c@553-bonbon*^
-||*c@553-c0u!ll3*^
-||*c@553-c0u!ll35*^
-||*c@553-c0u1ll3*^
-||*c@553-c0u1ll35*^
-||*c@553-c0uill3*^
-||*c@553-c0uill35*^
-||*c@553-cou!ll3*^
-||*c@553-cou!ll35*^
-||*c@553-cou1ll3*^
-||*c@553-cou1ll35*^
-||*c@553-couill3*^
-||*c@553-couill35*^
-||*c@55e-b0nb0n*^
-||*c@55e-bonbon*^
-||*c@55e-c0u!lle*^
-||*c@55e-c0u!lle5*^
-||*c@55e-c0u1lle*^
-||*c@55e-c0u1lle5*^
-||*c@55e-c0uille*^
-||*c@55e-c0uille5*^
-||*c@55e-cou!lle*^
-||*c@55e-cou!lle5*^
-||*c@55e-cou1lle*^
-||*c@55e-cou1lle5*^
-||*c@55e-couille*^
-||*c@55e-couille5*^
+||*c@553*b0nb0n*^
+||*c@553*bonbon*^
+||*c@553*c0u!ll3*^
+||*c@553*c0u!ll35*^
+||*c@553*c0u1ll3*^
+||*c@553*c0u1ll35*^
+||*c@553*c0uill3*^
+||*c@553*c0uill35*^
+||*c@553*cou!ll3*^
+||*c@553*cou!ll35*^
+||*c@553*cou1ll3*^
+||*c@553*cou1ll35*^
+||*c@553*couill3*^
+||*c@553*couill35*^
+||*c@55e*b0nb0n*^
+||*c@55e*bonbon*^
+||*c@55e*c0u!lle*^
+||*c@55e*c0u!lle5*^
+||*c@55e*c0u1lle*^
+||*c@55e*c0u1lle5*^
+||*c@55e*c0uille*^
+||*c@55e*c0uille5*^
+||*c@55e*cou!lle*^
+||*c@55e*cou!lle5*^
+||*c@55e*cou1lle*^
+||*c@55e*cou1lle5*^
+||*c@55e*couille*^
+||*c@55e*couille5*^
 ||*c@c0u*^
 ||*c@fr3*^
 ||*c@ld0ch3*^
 ||*c@ld0che*^
 ||*c@ldoch3*^
-||*c@ss3-b0nb0n*^
-||*c@ss3-bonbon*^
-||*c@ss3-c0u!ll3*^
-||*c@ss3-c0u!ll3s*^
-||*c@ss3-c0u1ll3*^
-||*c@ss3-c0u1ll3s*^
-||*c@ss3-c0uill3*^
-||*c@ss3-c0uill3s*^
-||*c@ss3-cou!ll3*^
-||*c@ss3-cou!ll3s*^
-||*c@ss3-cou1ll3*^
-||*c@ss3-cou1ll3s*^
-||*c@ss3-couill3*^
-||*c@ss3-couill3s*^
-||*c@sse-b0nb0n*^
-||*c@sse-c0u!lle*^
-||*c@sse-c0u!lles*^
-||*c@sse-c0u1lle*^
-||*c@sse-c0u1lles*^
-||*c@sse-c0uille*^
-||*c@sse-c0uilles*^
-||*c@sse-cou1lle*^
-||*c@sse-cou1lles*^
-||*ca553-b0nb0n*^
-||*ca553-bonbon*^
-||*ca553-c0u!ll3*^
-||*ca553-c0u!ll35*^
-||*ca553-c0u1ll3*^
-||*ca553-c0u1ll35*^
-||*ca553-c0uill3*^
-||*ca553-c0uill35*^
-||*ca553-cou!ll3*^
-||*ca553-cou!ll35*^
-||*ca553-cou1ll3*^
-||*ca553-cou1ll35*^
-||*ca553-couill3*^
-||*ca553-couill35*^
-||*ca55e-b0nb0n*^
-||*ca55e-bonbon*^
-||*ca55e-c0u!lle*^
-||*ca55e-c0u!lle5*^
-||*ca55e-c0u1lle*^
-||*ca55e-c0u1lle5*^
-||*ca55e-c0uille*^
-||*ca55e-c0uille5*^
-||*ca55e-cou!lle*^
-||*ca55e-cou!lle5*^
-||*ca55e-cou1lle*^
-||*ca55e-cou1lle5*^
-||*ca55e-couille*^
-||*ca55e-couille5*^
+||*c@ss3*b0nb0n*^
+||*c@ss3*bonbon*^
+||*c@ss3*c0u!ll3*^
+||*c@ss3*c0u!ll3s*^
+||*c@ss3*c0u1ll3*^
+||*c@ss3*c0u1ll3s*^
+||*c@ss3*c0uill3*^
+||*c@ss3*c0uill3s*^
+||*c@ss3*cou!ll3*^
+||*c@ss3*cou!ll3s*^
+||*c@ss3*cou1ll3*^
+||*c@ss3*cou1ll3s*^
+||*c@ss3*couill3*^
+||*c@ss3*couill3s*^
+||*c@sse*b0nb0n*^
+||*c@sse*c0u!lle*^
+||*c@sse*c0u!lles*^
+||*c@sse*c0u1lle*^
+||*c@sse*c0u1lles*^
+||*c@sse*c0uille*^
+||*c@sse*c0uilles*^
+||*c@sse*cou1lle*^
+||*c@sse*cou1lles*^
+||*ca553*b0nb0n*^
+||*ca553*bonbon*^
+||*ca553*c0u!ll3*^
+||*ca553*c0u!ll35*^
+||*ca553*c0u1ll3*^
+||*ca553*c0u1ll35*^
+||*ca553*c0uill3*^
+||*ca553*c0uill35*^
+||*ca553*cou!ll3*^
+||*ca553*cou!ll35*^
+||*ca553*cou1ll3*^
+||*ca553*cou1ll35*^
+||*ca553*couill3*^
+||*ca553*couill35*^
+||*ca55e*b0nb0n*^
+||*ca55e*bonbon*^
+||*ca55e*c0u!lle*^
+||*ca55e*c0u!lle5*^
+||*ca55e*c0u1lle*^
+||*ca55e*c0u1lle5*^
+||*ca55e*c0uille*^
+||*ca55e*c0uille5*^
+||*ca55e*cou!lle*^
+||*ca55e*cou!lle5*^
+||*ca55e*cou1lle*^
+||*ca55e*cou1lle5*^
+||*ca55e*couille*^
+||*ca55e*couille5*^
 ||*cac0u*^
 ||*cafr3*^
 ||*cald0ch3*^
 ||*cald0che*^
 ||*caldoch3*^
-||*cass3-b0nb0n*^
-||*cass3-bonbon*^
-||*cass3-c0u!ll3*^
-||*cass3-c0u!ll3s*^
-||*cass3-c0u1ll3*^
-||*cass3-c0u1ll3s*^
-||*cass3-c0uill3*^
-||*cass3-c0uill3s*^
-||*cass3-cou!ll3*^
-||*cass3-cou!ll3s*^
-||*cass3-cou1ll3*^
-||*cass3-cou1ll3s*^
-||*cass3-couill3*^
-||*cass3-couill3s*^
-||*casse-b0nb0n*^
-||*casse-c0u!lle*^
-||*casse-c0u!lles*^
-||*casse-c0u1lle*^
-||*casse-c0u1lles*^
-||*casse-c0uille*^
-||*casse-c0uilles*^
-||*casse-cou1lle*^
-||*casse-cou1lles*^
+||*cass3*b0nb0n*^
+||*cass3*bonbon*^
+||*cass3*c0u!ll3*^
+||*cass3*c0u!ll3s*^
+||*cass3*c0u1ll3*^
+||*cass3*c0u1ll3s*^
+||*cass3*c0uill3*^
+||*cass3*c0uill3s*^
+||*cass3*cou!ll3*^
+||*cass3*cou!ll3s*^
+||*cass3*cou1ll3*^
+||*cass3*cou1ll3s*^
+||*cass3*couill3*^
+||*cass3*couill3s*^
+||*casse*b0nb0n*^
+||*casse*c0u!lle*^
+||*casse*c0u!lles*^
+||*casse*c0u1lle*^
+||*casse*c0u1lles*^
+||*casse*c0uille*^
+||*casse*c0uilles*^
+||*casse*cou1lle*^
+||*casse*cou1lles*^
 ||*ch!3nn@553*^
 ||*ch!3nn@ss3*^
 ||*ch!3nna553*^
@@ -7100,7 +7100,7 @@
 ||*drou1ll3*^
 ||*drou1lle*^
 ||*drouill3*^
-||*du schn0c*^
+||*du*schn0c*^
 ||*du5chn0ck*^
 ||*du5chnock*^
 ||*duc0n*^
@@ -7280,13 +7280,13 @@
 ||*imb3cil3*^
 ||*imbecil3*^
 ||*j1gabo*^
-||*j3@n-f0utr3*^
-||*j3@n-foutr3*^
-||*j3an-f0utr3*^
-||*j3an-foutr3*^
+||*j3@n*f0utr3*^
+||*j3@n*foutr3*^
+||*j3an*f0utr3*^
+||*j3an*foutr3*^
 ||*j3rk0ff*^
-||*je@n-f0utre*^
-||*jean-f0utre*^
+||*je@n*f0utre*^
+||*jean*f0utre*^
 ||*jerk0ff*^
 ||*k!k00*^
 ||*k!k0u*^
@@ -7298,8 +7298,8 @@
 ||*kik0u*^
 ||*l0p3tt3*^
 ||*l0pette*^
-||*l3i+ch*^
-||*l3i\\+ch*^
+||*l3i*ch*^
+||*l3i\\*ch*^
 ||*l3itch*^
 ||*l@ch3ux*^
 ||*l@v3tt3*^
@@ -7319,32 +7319,32 @@
 ||*m!s3rabl3*^
 ||*m!ser@bl3*^
 ||*m!serabl3*^
-||*m0!n5-qu3-r!3n*^
-||*m0!n5-que-r!en*^
+||*m0!n5*qu3*r!3n*^
+||*m0!n5*que*r!en*^
 ||*m0!n@!ll3*^
 ||*m0!n@!lle*^
 ||*m0!na!ll3*^
 ||*m0!na!lle*^
-||*m0!ns-qu3-r!3n*^
-||*m0!ns-que-r!en*^
-||*m01n5-qu3-r13n*^
-||*m01n5-que-r1en*^
+||*m0!ns*qu3*r!3n*^
+||*m0!ns*que*r!en*^
+||*m01n5*qu3*r13n*^
+||*m01n5*que*r1en*^
 ||*m01n@1ll3*^
 ||*m01n@1lle*^
 ||*m01na1ll3*^
 ||*m01na1lle*^
-||*m01ns-qu3-r13n*^
-||*m01ns-que-r1en*^
+||*m01ns*qu3*r13n*^
+||*m01ns*que*r1en*^
 ||*m0f0*^
 ||*m0fo*^
-||*m0in5-qu3-ri3n*^
-||*m0in5-que-rien*^
+||*m0in5*qu3*ri3n*^
+||*m0in5*que*rien*^
 ||*m0in@ill3*^
 ||*m0in@ille*^
 ||*m0inaill3*^
 ||*m0inaille*^
-||*m0ins-qu3-ri3n*^
-||*m0ins-que-rien*^
+||*m0ins*qu3*ri3n*^
+||*m0ins*que*rien*^
 ||*m0n@c@!ll3*^
 ||*m0n@c@!lle*^
 ||*m0n@c@1ll3*^
@@ -7421,7 +7421,7 @@
 ||*m@k0ume*^
 ||*m@koum3*^
 ||*m@nch3*^
-||*m@ng3-m3rd3*^
+||*m@ng3*m3rd3*^
 ||*m@rch@nd0t*^
 ||*m@rg0u!ll!5t3*^
 ||*m@rg0u!ll!5te*^
@@ -7456,7 +7456,7 @@
 ||*mak0ume*^
 ||*makoum3*^
 ||*manch3*^
-||*mang3-m3rd3*^
+||*mang3*m3rd3*^
 ||*marchand0t*^
 ||*marg0u!ll!5t3*^
 ||*marg0u!ll!5te*^
@@ -7518,25 +7518,25 @@
 ||*mis3rabl3*^
 ||*miser@bl3*^
 ||*miserabl3*^
-||*mo!n5-qu3-r!3n*^
-||*mo!n5-que-r!en*^
+||*mo!n5*qu3*r!3n*^
+||*mo!n5*que*r!en*^
 ||*mo!n@!ll3*^
 ||*mo!na!ll3*^
-||*mo!ns-qu3-r!3n*^
-||*mo1n5-qu3-r13n*^
-||*mo1n5-que-r1en*^
+||*mo!ns*qu3*r!3n*^
+||*mo1n5*qu3*r13n*^
+||*mo1n5*que*r1en*^
 ||*mo1n@1ll3*^
 ||*mo1n@1lle*^
 ||*mo1na1ll3*^
 ||*mo1na1lle*^
-||*mo1ns-qu3-r13n*^
-||*mo1ns-que-r1en*^
+||*mo1ns*qu3*r13n*^
+||*mo1ns*que*r1en*^
 ||*mof0*^
-||*moin5-qu3-ri3n*^
-||*moin5-que-rien*^
+||*moin5*qu3*ri3n*^
+||*moin5*que*rien*^
 ||*moin@ill3*^
 ||*moinaill3*^
-||*moins-qu3-ri3n*^
+||*moins*qu3*ri3n*^
 ||*mon@c@!ll3*^
 ||*mon@c@1ll3*^
 ||*mon@c@1lle*^
@@ -7885,10 +7885,10 @@
 ||*robe5pierrot*^
 ||*robesp1errot*^
 ||*rosb1f*^
-||*rosy palm and her 5 sisters*^
+||*rosy*palm*and*her*5*sisters*^
 ||*rosypalmandher5sisters*^
 ||*roulur3*^
-||*s-h-1-t*^
+||*s*h*1*t*^
 ||*s0b*^
 ||*s0tt!s3ux*^
 ||*s0tt!seux*^
@@ -7896,14 +7896,14 @@
 ||*s0tt1seux*^
 ||*s0ttis3ux*^
 ||*s0ttiseux*^
-||*s0us-m3rd3*^
-||*s0us-merde*^
-||*s3nt-l@-p!ss3*^
-||*s3nt-l@-p1ss3*^
-||*s3nt-l@-piss3*^
-||*s3nt-la-p!ss3*^
-||*s3nt-la-p1ss3*^
-||*s3nt-la-piss3*^
+||*s0us*m3rd3*^
+||*s0us*merde*^
+||*s3nt*l@*p!ss3*^
+||*s3nt*l@*p1ss3*^
+||*s3nt*l@*piss3*^
+||*s3nt*la*p!ss3*^
+||*s3nt*la*p1ss3*^
+||*s3nt*la*piss3*^
 ||*s@g0u!n*^
 ||*s@g0u1n*^
 ||*s@g0uin*^
@@ -7957,8 +7957,8 @@
 ||*schn0qu3*^
 ||*schn0que*^
 ||*schnoqu3*^
-||*sent-l@-p1sse*^
-||*sent-la-p1sse*^
+||*sent*l@*p1sse*^
+||*sent*la*p1sse*^
 ||*sh1t*^
 ||*sh1ter*^
 ||*sh1ts*^
@@ -7968,7 +7968,7 @@
 ||*sott1s3ux*^
 ||*sott1seux*^
 ||*sottis3ux*^
-||*sous-m3rd3*^
+||*sous*m3rd3*^
 ||*st3@r!qu3*^
 ||*st3@r1qu3*^
 ||*st3@riqu3*^
@@ -8108,13 +8108,13 @@
 ||*v!3da53*^
 ||*v!3das3*^
 ||*v!3r*^
-||*v!d3-c0u!ll35*^
-||*v!d3-c0u!ll3s*^
-||*v!d3-cou!ll35*^
-||*v!d3-cou!ll3s*^
-||*v!de-c0u!lle5*^
-||*v!de-c0u!lles*^
-||*v!de-cou!lle5*^
+||*v!d3*c0u!ll35*^
+||*v!d3*c0u!ll3s*^
+||*v!d3*cou!ll35*^
+||*v!d3*cou!ll3s*^
+||*v!de*c0u!lle5*^
+||*v!de*c0u!lles*^
+||*v!de*cou!lle5*^
 ||*v!ed@5e*^
 ||*v!ed@s3*^
 ||*v!eda53*^
@@ -8126,14 +8126,14 @@
 ||*v13das3*^
 ||*v13r*^
 ||*v14gra*^
-||*v1d3-c0u1ll35*^
-||*v1d3-c0u1ll3s*^
-||*v1d3-cou1ll35*^
-||*v1d3-cou1ll3s*^
-||*v1de-c0u1lle5*^
-||*v1de-c0u1lles*^
-||*v1de-cou1lle5*^
-||*v1de-cou1lles*^
+||*v1d3*c0u1ll35*^
+||*v1d3*c0u1ll3s*^
+||*v1d3*cou1ll35*^
+||*v1d3*cou1ll3s*^
+||*v1de*c0u1lle5*^
+||*v1de*c0u1lles*^
+||*v1de*cou1lle5*^
+||*v1de*cou1lles*^
 ||*v1ed@53*^
 ||*v1ed@5e*^
 ||*v1ed@s3*^
@@ -8161,13 +8161,13 @@
 ||*vi3da53*^
 ||*vi3das3*^
 ||*vi3r*^
-||*vid3-c0uill35*^
-||*vid3-c0uill3s*^
-||*vid3-couill35*^
-||*vid3-couill3s*^
-||*vide-c0uille5*^
-||*vide-c0uilles*^
-||*vide-couille5*^
+||*vid3*c0uill35*^
+||*vid3*c0uill3s*^
+||*vid3*couill35*^
+||*vid3*couill3s*^
+||*vide*c0uille5*^
+||*vide*c0uilles*^
+||*vide*couille5*^
 ||*vied@53*^
 ||*vied@5e*^
 ||*vied@s3*^
@@ -8240,30 +8240,30 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Keywords – [áb$]
 
-||*a $ $ e $*^
-||*a $ $ e d*^
-||*a $ $ e s*^
-||*a $ $ e z*^
-||*a $ $*^
-||*a$$ hole*^
-||*a$$ holes*^
-||*a$$ holez*^
-||*a$$ wipe*^
-||*a$$ wipes*^
-||*a$$ wipez*^
+||*a*$*$*e*$*^
+||*a*$*$*e*d*^
+||*a*$*$*e*s*^
+||*a*$*$*e*z*^
+||*a*$*$*^
+||*a$$*hole*^
+||*a$$*holes*^
+||*a$$*holez*^
+||*a$$*wipe*^
+||*a$$*wipes*^
+||*a$$*wipez*^
 ||*a$$*^
-||*a$$+hole*^
-||*a$$+holes*^
-||*a$$+holez*^
-||*a$$+wipe*^
-||*a$$+wipes*^
-||*a$$+wipez*^
-||*a$$-hole*^
-||*a$$-holes*^
-||*a$$-holez*^
-||*a$$-wipe*^
-||*a$$-wipes*^
-||*a$$-wipez*^
+||*a$$*hole*^
+||*a$$*holes*^
+||*a$$*holez*^
+||*a$$*wipe*^
+||*a$$*wipes*^
+||*a$$*wipez*^
+||*a$$*hole*^
+||*a$$*holes*^
+||*a$$*holez*^
+||*a$$*wipe*^
+||*a$$*wipes*^
+||*a$$*wipez*^
 ||*a$$e$*^
 ||*a$$ed*^
 ||*a$$es*^
@@ -8280,13 +8280,13 @@
 ||*a_$_$_e_s*^
 ||*a_$_$_e_z*^
 ||*abrut!*^
-||*allez, va tíen*^
-||*amëne ta mëre pourque je te refasse*^
+||*allez,*va*tíen*^
+||*amëne*ta*mëre*pourque*je*te*refasse*^
 ||*andou!lle*^
-||*avere un culo così grande*^
-||*b!+ch*^
-||*b!+ches*^
-||*b!+chez*^
+||*avere*un*culo*così*grande*^
+||*b!*ch*^
+||*b!*ches*^
+||*b!*chez*^
 ||*b!@tch*^
 ||*b!@tches*^
 ||*b!@tchez*^
@@ -8302,13 +8302,13 @@
 ||*b!tembo!s*^
 ||*b*tch*^
 ||*b@t@rd*^
-||*bang (one's) box*^
-||*bang (one's) boxbangbros*^
+||*bang*(one's)*box*^
+||*bang*(one's)*boxbangbros*^
 ||*be@uf*^
 ||*beschiß*^
 ||*bi@tch*^
 ||*bitch'*^
-||*blöde stinkfotze*^
+||*blöde*stinkfotze*^
 ||*blöde*^
 ||*bougnoul!e*^
 ||*bougnoul!s@t!on*^
@@ -8320,39 +8320,39 @@
 ||*bourd!lle*^
 ||*bourrè*^
 ||*bourrèe*^
-||*br!se-burnes*^
+||*br!se*burnes*^
 ||*br@nler*^
 ||*br@nleur*^
 ||*br@nque*^
-||*brule en l'enfer*^
-||*br˚le en enfer*^
-||*br˚le en líenfer*^
+||*brule*en*l'enfer*^
+||*br*le*en*enfer*^
+||*br*le*en*líenfer*^
 ||*budiùlo*^
 ||*b‚t@rd*^
 ||*b‚tard*^
-||*c'est des conneries*^
+||*c'est*des*conneries*^
 ||*c.o.c.k.*^
 ||*c.u.n.t*^
 ||*c@cou*^
 ||*c@fre*^
 ||*c@ldoche*^
-||*c@sse-bonbon*^
-||*c@sse-cou!lle*^
-||*c@sse-cou!lles*^
-||*c@sse-couille*^
-||*c@sse-couilles*^
+||*c@sse*bonbon*^
+||*c@sse*cou!lle*^
+||*c@sse*cou!lles*^
+||*c@sse*couille*^
+||*c@sse*couilles*^
 ||*cabrón*^
 ||*caned'allah*^
 ||*caned'eva*^
 ||*carità*^
-||*casse-cou!lle*^
-||*casse-cou!lles*^
-||*casse-toi, idiot*^
-||*casse-toi, idiote*^
-||*ce l’hai piccolo*^
-||*ce putain díembouteillage*^
-||*ce putain díordinateur*^
-||*cela me so˚le*^
+||*casse*cou!lle*^
+||*casse*cou!lles*^
+||*casse*toi,*idiot*^
+||*casse*toi,*idiote*^
+||*ce*l’hai*piccolo*^
+||*ce*putain*díembouteillage*^
+||*ce*putain*díordinateur*^
+||*cela*me*so*le*^
 ||*ch!enn@sse*^
 ||*ch!ennasse*^
 ||*ch!er*^
@@ -8362,15 +8362,15 @@
 ||*ch@ch@r*^
 ||*ch@g@sse*^
 ||*ch@uff@rd*^
-||*chancla (méxico)*^
-||*che cavolo.*^
-||*che cazzo fai?*^
-||*chi cazzo sei tu?*^
+||*chancla*(méxico)*^
+||*che*cavolo.*^
+||*che*cazzo*fai?*^
+||*chi*cazzo*sei*tu?*^
 ||*chienn@sse*^
 ||*children's*^
 ||*chissenefrega?*^
-||*chúpame la pija*^
-||*chúpame la polla*^
+||*chúpame*la*pija*^
+||*chúpame*la*polla*^
 ||*chúpamedias*^
 ||*chúpamela*^
 ||*con@rd*^
@@ -8384,7 +8384,7 @@
 ||*coño*^
 ||*cr!cr!*^
 ||*cr0ttè*^
-||*cr0˚t0n*^
+||*cr0*t0n*^
 ||*cret!n*^
 ||*crev@rd*^
 ||*cristod'undio*^
@@ -8393,22 +8393,22 @@
 ||*crou!llat*^
 ||*crou!lle*^
 ||*crouill@t*^
-||*cro˚ton*^
+||*cro*ton*^
 ||*crèt!n*^
 ||*crèt1n*^
 ||*crètin*^
-||*crëve la gueule ouverte*^
-||*cíest chiant*^
-||*cíest des conneries*^
-||*cíest le bordel ici*^
-||*cíest quoi ce bordel*^
-||*cíest vraiment de ta faute*^
+||*crëve*la*gueule*ouverte*^
+||*cíest*chiant*^
+||*cíest*des*conneries*^
+||*cíest*le*bordel*ici*^
+||*cíest*quoi*ce*bordel*^
+||*cíest*vraiment*de*ta*faute*^
 ||*deb!le*^
 ||*dietadell'abc*^
-||*dove cazzo vai?*^
-||*dreckige hüre*^
-||*dreckige hüren*^
-||*drecks gör*^
+||*dove*cazzo*vai?*^
+||*dreckige*hüre*^
+||*dreckige*hüren*^
+||*drecks*gör*^
 ||*drecksgör*^
 ||*drou!lle*^
 ||*dugl@nd*^
@@ -8437,8 +8437,8 @@
 ||*empafè*^
 ||*empapa0utè*^
 ||*empapaoutè*^
-||*encule de ta mëre*^
-||*enculè de ta mëre*^
+||*encule*de*ta*mëre*^
+||*enculè*de*ta*mëre*^
 ||*enculè*^
 ||*enculèe*^
 ||*enf0!rè*^
@@ -8462,15 +8462,15 @@
 ||*f****^
 ||*f*ck*^
 ||*f.u.c.k*^
-||*fare unaš*^
+||*fare*unaš*^
 ||*feign@sse*^
 ||*fr!tz*^
 ||*fum!er*^
 ||*g0ô*^
 ||*g@rce*^
 ||*g@upe*^
-||*garage ‡ bite*^
-||*gehirn geschißen*^
+||*garage*‡*bite*^
+||*gehirn*geschißen*^
 ||*geschißen*^
 ||*gesùcristaccio*^
 ||*gesùesorcizzato*^
@@ -8496,67 +8496,67 @@
 ||*gourg@ndine*^
 ||*gourgand!ne*^
 ||*goô*^
-||*gran’ disgraziato*^
+||*gran’*disgraziato*^
 ||*grogn@sse*^
 ||*gu!ndoule*^
 ||*guen!che*^
 ||*huevón*^
-||*hässliger ziegenficker*^
+||*hässliger*ziegenficker*^
 ||*hässliger*^
 ||*hüre*^
-||*hüren sohn*^
-||*hüren son*^
+||*hüren*sohn*^
+||*hüren*son*^
 ||*hüren*^
 ||*hürensohn*^
 ||*hürenson*^
-||*il fait chaud ici, enculè*^
+||*il*fait*chaud*ici,*enculè*^
 ||*imbècil3*^
 ||*imbècile*^
 ||*imbécil*^
-||*ir budello di tu ma’*^
-||*j'en ai marre*^
-||*j'en ai plus rien ‡ foutre*^
-||*j'en ai ral le bol*^
-||*j'en ai ral le cul*^
-||*j'en ai rien ‡ cirer*^
-||*j'en ai rien ‡ foutre*^
-||*je m'en fiche*^
-||*je m'en fou*^
-||*je m'en fous*^
-||*je m'en sacre*^
-||*je me fais chier.*^
-||*je míemmerde*^
-||*je míen bats les couilles*^
-||*je míen fiche*^
-||*je míen fou*^
-||*je míen fous*^
-||*je t'emmerde*^
-||*je t'encule*^
-||*je te dèteste*^
-||*je tíemmerde*^
-||*je veux faire líamour avec toi*^
-||*je@n-foutre*^
-||*jíai baisè ta mëre*^
-||*jíai envie de chier*^
-||*jíen ai marre*^
-||*jíen ai plus rien ‡ foutre*^
-||*jíen ai ral le bol*^
-||*jíen ai ral le cul*^
-||*jíen ai ras le bol*^
-||*jíen ai rien ‡ cirer*^
+||*ir*budello*di*tu*ma’*^
+||*j'en*ai*marre*^
+||*j'en*ai*plus*rien*‡*foutre*^
+||*j'en*ai*ral*le*bol*^
+||*j'en*ai*ral*le*cul*^
+||*j'en*ai*rien*‡*cirer*^
+||*j'en*ai*rien*‡*foutre*^
+||*je*m'en*fiche*^
+||*je*m'en*fou*^
+||*je*m'en*fous*^
+||*je*m'en*sacre*^
+||*je*me*fais*chier.*^
+||*je*míemmerde*^
+||*je*míen*bats*les*couilles*^
+||*je*míen*fiche*^
+||*je*míen*fou*^
+||*je*míen*fous*^
+||*je*t'emmerde*^
+||*je*t'encule*^
+||*je*te*dèteste*^
+||*je*tíemmerde*^
+||*je*veux*faire*líamour*avec*toi*^
+||*je@n*foutre*^
+||*jíai*baisè*ta*mëre*^
+||*jíai*envie*de*chier*^
+||*jíen*ai*marre*^
+||*jíen*ai*plus*rien*‡*foutre*^
+||*jíen*ai*ral*le*bol*^
+||*jíen*ai*ral*le*cul*^
+||*jíen*ai*ras*le*bol*^
+||*jíen*ai*rien*‡*cirer*^
 ||*jódete*^
 ||*k!koo*^
 ||*k!kou*^
 ||*kr@ut*^
-||*l'arte bolognese*^
+||*l'arte*bolognese*^
 ||*l@cheux*^
 ||*l@vette*^
-||*la madre que te parió*^
-||*la putain de ta mëre*^
+||*la*madre*que*te*parió*^
+||*la*putain*de*ta*mëre*^
 ||*lezza/lesbo*^
-||*lui è proprio un bischero*^
-||*lui è un coglione*^
-||*lëche-cul*^
+||*lui*è*proprio*un*bischero*^
+||*lui*è*un*coglione*^
+||*lëche*cul*^
 ||*l‚ch3ux*^
 ||*l‚cheux*^
 ||*m!5èr@bl3*^
@@ -8586,7 +8586,7 @@
 ||*m@koume*^
 ||*m@koumè*^
 ||*m@nche*^
-||*m@nge-merde*^
+||*m@nge*merde*^
 ||*m@rch@ndot*^
 ||*m@rgou!ll!ste*^
 ||*m@rgouilliste*^
@@ -8594,14 +8594,14 @@
 ||*m@uviette*^
 ||*mak0umè*^
 ||*makoumè*^
-||*mal baisèe*^
+||*mal*baisèe*^
 ||*mamón*^
 ||*mannaggial'arcangelo*^
 ||*margou!ll!ste*^
 ||*maricón*^
 ||*masterbat**^
 ||*mauv!ette*^
-||*ma’ va te ne a fanculo*^
+||*ma’*va*te*ne*a*fanculo*^
 ||*merd@!lle*^
 ||*merd@!llon*^
 ||*merd@ille*^
@@ -8611,24 +8611,24 @@
 ||*merdou!ll@rd*^
 ||*merdou!llard*^
 ||*merdouill@rd*^
-||*meurs, pute*^
+||*meurs,*pute*^
 ||*mi5èr@bl3*^
 ||*mi5èr@ble*^
 ||*mi5èrabl3*^
 ||*mi5èrable*^
 ||*min@ble*^
 ||*miser@ble*^
-||*mist stück*^
+||*mist*stück*^
 ||*miststück*^
 ||*misèr@bl3*^
 ||*misèr@ble*^
 ||*misèrabl3*^
 ||*misèrable*^
-||*miß geburt*^
+||*miß*geburt*^
 ||*mißgeburt*^
 ||*mo!n@!lle*^
 ||*mo!na!lle*^
-||*mo!ns-que-r!en*^
+||*mo!ns*que*r!en*^
 ||*moin@ille*^
 ||*mon@c@!lle*^
 ||*mon@c@ille*^
@@ -8636,9 +8636,9 @@
 ||*mor!c@ud*^
 ||*mor!caud*^
 ||*moric@ud*^
-||*mudblut hüre*^
-||*mènage ‡ trois*^
-||*métetelo por el culo*^
+||*mudblut*hüre*^
+||*mènage*‡*trois*^
+||*métetelo*por*el*culo*^
 ||*möpse*^
 ||*n!@!seux*^
 ||*n!@c*^
@@ -8669,15 +8669,15 @@
 ||*niggard's*^
 ||*niggardliness's*^
 ||*nigger's*^
-||*nique ta mëre espëce de gros b‚tard de merde*^
-||*nique ta mëre la chauve*^
-||*nique ta mëre*^
-||*no me jodás*^
-||*nom de dieu/mon dieu*^
+||*nique*ta*mëre*espëce*de*gros*b‚tard*de*merde*^
+||*nique*ta*mëre*la*chauve*^
+||*nique*ta*mëre*^
+||*no*me*jodás*^
+||*nom*de*dieu/mon*dieu*^
 ||*nègr0*^
 ||*nègro*^
 ||*nëgre*^
-||*oh, merde*^
+||*oh,*merde*^
 ||*orgasim;*^
 ||*p!gnouf*^
 ||*p!ssou*^
@@ -8692,14 +8692,14 @@
 ||*patar!n*^
 ||*ped@le*^
 ||*pequen@ud*^
-||*perché cazzo non mi rispondi?*^
+||*perché*cazzo*non*mi*rispondi?*^
 ||*pet@sse*^
 ||*pimbích3*^
 ||*pimbíche*^
 ||*pipì*^
 ||*porc@s*^
 ||*porc@sse*^
-||*posso leccare il tua figa?*^
+||*posso*leccare*il*tua*figa?*^
 ||*pouc@v*^
 ||*pouf!@sse*^
 ||*pouf!asse*^
@@ -8718,7 +8718,7 @@
 ||*put@!n*^
 ||*put@in*^
 ||*puta!n*^
-||*putain tíes moche*^
+||*putain*tíes*moche*^
 ||*pèd0qu3*^
 ||*pèd0que*^
 ||*pèd@l3*^
@@ -8739,16 +8739,16 @@
 ||*pèta55e*^
 ||*pètass3*^
 ||*pètasse*^
-||*pèter la cenne*^
-||*pèter les couilles*^
+||*pèter*la*cenne*^
+||*pèter*les*couilles*^
 ||*pèter*^
 ||*pèteux*^
 ||*pét@553*^
-||*quando cazzo torni?*^
+||*quando*cazzo*torni?*^
 ||*queut@rd*^
-||*qué cabrón*^
-||*qué te jodan*^
-||*quíest-ce que tu branles*^
+||*qué*cabrón*^
+||*qué*te*jodan*^
+||*quíest*ce*que*tu*branles*^
 ||*r!p0pè3*^
 ||*r!p0pèe*^
 ||*r!popee*^
@@ -8760,8 +8760,8 @@
 ||*r1popèe*^
 ||*r@clure*^
 ||*r@ton*^
-||*rien ‡ branler*^
-||*rien ‡ foutre*^
+||*rien*‡*branler*^
+||*rien*‡*foutre*^
 ||*rip0pè3*^
 ||*rip0pèe*^
 ||*ripopè3*^
@@ -8781,33 +8781,33 @@
 ||*s@loperie*^
 ||*s@trou!lle*^
 ||*s@trouille*^
-||*sa mëre la pute*^
-||*sa mëre*^
-||*sac ‡ foutre*^
-||*sac ‡ merde*^
+||*sa*mëre*la*pute*^
+||*sa*mëre*^
+||*sac*‡*foutre*^
+||*sac*‡*merde*^
 ||*sagou!n*^
 ||*satrou!lle*^
-||*scheiß haus*^
-||*scheiß kopf*^
+||*scheiß*haus*^
+||*scheiß*kopf*^
 ||*scheiße*^
 ||*scheißen*^
 ||*scheißhaus*^
 ||*scheißkopf*^
 ||*scheißsegal*^
-||*sei diventato pazza?*^
-||*sei diventato pazzo?*^
-||*sei impazzita?*^
-||*sei impazzito?*^
-||*sei pazza?*^
-||*sei pazzo?*^
-||*sent-l@-p!sse*^
-||*sent-l@-pisse*^
-||*sent-la-p!sse*^
-||*sh!+*^
+||*sei*diventato*pazza?*^
+||*sei*diventato*pazzo?*^
+||*sei*impazzita?*^
+||*sei*impazzito?*^
+||*sei*pazza?*^
+||*sei*pazzo?*^
+||*sent*l@*p!sse*^
+||*sent*l@*pisse*^
+||*sent*la*p!sse*^
+||*sh!**^
 ||*sh!t*^
 ||*snigger's*^
 ||*sott!seux*^
-||*staub freßen*^
+||*staub*freßen*^
 ||*staubfreßen*^
 ||*ste@r!que*^
 ||*ste@rique*^
@@ -8827,11 +8827,11 @@
 ||*stèariqu3*^
 ||*stèarique*^
 ||*suca!*^
-||*síen branler*^
-||*síen foutre*^
-||*t'as pas de couilles*^
-||*t'es rien qu'un petit connard*^
-||*t'es un salaud*^
+||*síen*branler*^
+||*síen*foutre*^
+||*t'as*pas*de*couilles*^
+||*t'es*rien*qu'un*petit*connard*^
+||*t'es*un*salaud*^
 ||*t3bè*^
 ||*t3ubè*^
 ||*t@f!ole*^
@@ -8841,13 +8841,13 @@
 ||*t@ntouze*^
 ||*t@pette*^
 ||*t@rlouze*^
-||*ta mëre elle suce des ours*^
-||*ta mëre est une pute*^
-||*ta mëre la pute*^
+||*ta*mëre*elle*suce*des*ours*^
+||*ta*mëre*est*une*pute*^
+||*ta*mëre*la*pute*^
 ||*taf!ole*^
 ||*tantouser!e*^
 ||*tebè*^
-||*testa di cazzo.*^
+||*testa*di*cazzo.*^
 ||*teubè*^
 ||*toc@rd*^
 ||*tr@!nee*^
@@ -8866,23 +8866,23 @@
 ||*tru!@sse*^
 ||*tru!asse*^
 ||*trui@sse*^
-||*trës stupide*^
-||*tu commence míenmerder*^
-||*tu es trës stupide*^
-||*tu m'emmerdes*^
-||*tu ma’ piscia in piedi*^
-||*tu míemmerdes*^
+||*trës*stupide*^
+||*tu*commence*míenmerder*^
+||*tu*es*trës*stupide*^
+||*tu*m'emmerdes*^
+||*tu*ma’*piscia*in*piedi*^
+||*tu*míemmerdes*^
 ||*tèt3ux*^
 ||*tèteux*^
-||*tëes rien quíun petit connard*^
-||*tías intèrít ne pas míènervè*^
-||*tías pas de couilles*^
-||*tíes dèbile*^
-||*tíes rien quíun petit connard*^
-||*tíes un salaud*^
-||*tíes vraiment emmerdant, toi*^
-||*títe de núud*^
-||*v!de-cou!lles*^
+||*tëes*rien*quíun*petit*connard*^
+||*tías*intèrít*ne*pas*míènervè*^
+||*tías*pas*de*couilles*^
+||*tíes*dèbile*^
+||*tíes*rien*quíun*petit*connard*^
+||*tíes*un*salaud*^
+||*tíes*vraiment*emmerdant,*toi*^
+||*títe*de*núud*^
+||*v!de*cou!lles*^
 ||*v!ed@se*^
 ||*v!edase*^
 ||*v!er*^
@@ -8904,13 +8904,13 @@
 ||*v1éd@53*^
 ||*v@ur!en*^
 ||*v@urien*^
-||*vaffanculo a chi t'è morto*^
-||*vai a farti fottere, puttana*^
-||*vai all’inferno*^
+||*vaffanculo*a*chi*t'è*morto*^
+||*vai*a*farti*fottere,*puttana*^
+||*vai*all’inferno*^
 ||*vaur!en*^
-||*va’a cacare*^
-||*va’a farti fottere*^
-||*verdreht mißgeburt*^
+||*va’a*cacare*^
+||*va’a*farti*fottere*^
+||*verdreht*mißgeburt*^
 ||*vied@se*^
 ||*vièd@5e*^
 ||*vièd@s3*^
@@ -8920,7 +8920,7 @@
 ||*vièdas3*^
 ||*vièdase*^
 ||*viéd@53*^
-||*vous ítes stupide*^
+||*vous*ítes*stupide*^
 ||*vögeln*^
 ||*women's*^
 ||*xerop!neur*^
@@ -8936,7 +8936,7 @@
 ||*xèrop1neur*^
 ||*xèropin3ur*^
 ||*xèropineur*^
-||*you've gotta be shitting my dick*^
+||*you've*gotta*be*shitting*my*dick*^
 ||*youp!n!s@t!on*^
 ||*youp!n!sat!on*^
 ||*youp!n*^
@@ -8944,16 +8944,16 @@
 ||*youpinis@tion*^
 ||*zguëgu3*^
 ||*zguëgue*^
-||*áa casse les couilles*^
-||*áa craint*^
-||*áa fait chier*^
-||*áa fait shier*^
-||*áa m'emmerde*^
-||*áa me casse les couilles*^
-||*áa me fait chier*^
-||*áa me saoule*^
-||*áa pue*^
-||*áa schlingue*^
+||*áa*casse*les*couilles*^
+||*áa*craint*^
+||*áa*fait*chier*^
+||*áa*fait*shier*^
+||*áa*m'emmerde*^
+||*áa*me*casse*les*couilles*^
+||*áa*me*fait*chier*^
+||*áa*me*saoule*^
+||*áa*pue*^
+||*áa*schlingue*^
 ||*èp@!5*^
 ||*èp@!s*^
 ||*èp@15*^
@@ -8972,17 +8972,20 @@
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Rules Syntax
 
-! These rules block URLs, not page content (e.g., if “keyword” appears in visible text, it won’t be blocked).
-
-! Option 1 – Separate Rules
-! To block any URL containing your keyword(s), use the rule: ||*keyword*^
+! Option 1a – Separate Rules for Single Keywords
+! To block any URL containing your keyword, use the rule: ||*keyword*^
 ! ||*porn*^
 ! ||*ads*^
 ! ||*gambling*^
-! ||*keyword*^ matches anywhere in the full URL (domain, path, query, or file name). 
-! Each line is a separate rule. This rule syntax is the most readable & widely compatible. 
+! ||*keyword*^ matches anywhere in the full URL (domain, path, query, or file name).
+! Each line is a separate rule. This rule syntax is readable & widely compatible. 
 
-! Option 2 – Domain-Specific Match for Multiple Keywords
+! Option 1b – Separate Rules for Consecutive Keywords
+! To block any URL that contains consecutive keywords, insert * between each keyword
+! ||*celebrity*list*^ –  example.com/celebrity-list, example.com/top-celebrity/list-of-stars, example.com/articles/celebrity_listicle.html, cdn.example.com/celebrityTop10List.jpg
+! The * matches any number of any characters, including spaces, hyphens, underscores, slashes, numbers, or letters.
+
+! Option 2 – Domain Specific Match for Multiple Keywords
 ! To block any URL on example.com that contains your keyword(s), use the rule: ||example.com/*keyword*
 ! ||example.com/*porn*
 ! ||example.com/*ads*
@@ -8997,3 +9000,4 @@
 ! Notes:
 ! Use ^ to anchor the end of a domain or path section.
 ! Use wildcards * to broaden matches but avoid over-blocking.
+! These rules block URLs, not page content (e.g., if “keyword” appears in visible text, it won’t be blocked).
