@@ -783,6 +783,7 @@ worthycelebs.com
 wsceleb.com
 yolocelebs.com
 yourcelebrity.net
+xelebrity.com
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Fame
@@ -815,6 +816,11 @@ famoustimes.com
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Gossip
 
+allstargossip.com
+bbcgossip.com
+biogossip.com
+biogossipy.com
+craftgossip.com
 globalgossip.com
 gossip--people.skyrock.com
 gossip-addict.com
@@ -890,6 +896,7 @@ hollywoodpornstars.be
 hollywoodrag.com
 hollywoodreporter.com
 hollywoodsnowflakes.com
+thehollywoodgossip.com
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Jet Set
@@ -1074,3 +1081,29 @@ starsinyou.com
 starsofkarting.com
 starsunfolded.com
 startpeople.fr
+killrockstars.com
+leguidedesstars.cquoi.net
+lincolnstars.com
+little-stars.info
+looktothestars.org
+michaelstars.com
+nameastarlive.com
+navistars.com
+news-de-stars.com
+nosamieslesstars.com
+pixelstar.fr
+planetestars.tchatcheblog.com
+potindestars.com
+seeing-stars.com
+shopatstars.com
+simsstars.com
+sosie-star.com
+superstarsbio.com
+surgerystars.com
+theglobalstardom.com
+todaystars.com
+voistars.com
+womanfineststars.com
+wonderfull-stars.skyrock.com
+yoursuperstar.com
+zoomstars.co
