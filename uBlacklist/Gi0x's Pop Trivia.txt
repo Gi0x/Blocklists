@@ -798,20 +798,19 @@ xelebrity.com
 *://*.glamourfame.com/*
 *://*.poznatelicnosti.org/*
 *://*.famousfix.com/*
-fame10.com
-fameandname.com
-famedpeople.com
-famedstar.com
-fameregistry.com
-fametastic.co.uk
-famosos.mundodescargas.com
-famososycorazon.com
-famous-people-search.com
-famousbirthsdeaths.com
-famousfix.com
-famouspeople.com
-famouspeopletoday.com
-famoustimes.com
+*://*.fame10.com/*
+*://*.fameandname.com/*
+*://*.famedpeople.com/*
+*://*.famedstar.com/*
+*://*.fameregistry.com/*
+*://*.fametastic.co.uk
+*://*.famosos.mundodescargas.com/*
+*://*.famososycorazon.com/*
+*://*.famous-people-search.com/*
+*://*.famousbirthsdeaths.com/*
+*://*.famouspeople.com/*
+*://*.famouspeopletoday.com/*
+*://*.famoustimes.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Gossip
@@ -882,6 +881,7 @@ ubergossip.com
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Hollywood
 
+diaryofahollywoodstreetking.com
 hollyscoop.com
 hollywood.com
 hollywood411news.com
@@ -938,6 +938,13 @@ jetsettuning.com
 jetsetusa.com
 jetsetweblog.com
 jetsetwilly.jodi.org
+designjetset.com
+drinkjetset.com
+experimentaljetset.nl
+littlejetset.com
+thejetsetgirls.blogspot.com
+twojetsetdivas.com
+ultimate-jetset.xooit.com
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Networth
@@ -1004,6 +1011,41 @@ peoplespot.com
 peoplestars.net
 peopletree.co.uk
 peopollywood.com
+123people.com
+actualitepeople.tootisy.com
+actupeople.blogspot.com
+actupeople.fr
+actuspeople.com
+alltheprettypeople.com
+fanpeople.com
+freepeople.com
+fun-people.fr
+healthypeople.gov
+hystericpeople.com
+investorsinpeople.co.uk
+ivmypeople.com
+lyonpeople.com
+megalopeople.com
+missingpeople.org.uk
+mysteriouspeople.com
+news-people.fr
+nice-people-x.com
+ninapeople.com
+nosamislespeople.com
+peopledaily.com.cn
+perfectpeople.net
+purepeople.com
+rootspeople.com
+scotlandspeople.gov.uk
+shootingpeople.org
+stuffwhitepeoplelike.com
+thepeoplehistory.com
+waterforpeople.org
+blackpeopleloveus.com
+buzzandpeople.com
+buzzpeople.info
+pipole.net
+sexypipoles.com
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Pop
@@ -1042,6 +1084,25 @@ rumorsrva.com
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Stars
 
+actu-star.be
+actustar.com
+allstarbio.com
+actualite-de-stars.com
+annuaire-stars-nues.com
+antoine-stars.skyrock.com
+biggeststars.com
+biosstars.com
+buzzinsoapstars.co.uk
+canalstars.com
+actustar.com
+allstarbio.com
+dailystarnews.com
+delire2star.com
+easystar.com
+enstarz.com
+gatheringstars.com
+gleamingstars.com
+jewelryfromthestars.com
 star-1.org
 star-wallpaper.com
 staragora.com
