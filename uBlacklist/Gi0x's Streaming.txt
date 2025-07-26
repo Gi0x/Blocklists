@@ -204,7 +204,6 @@
 *://*.play.maxgo/*
 *://*.plex.tv/*
 *://*.pluto.tv/*
-*://*.pocetna.net/*
 *://*.popcornflix.com/*
 *://*.primevideo.com/*
 *://*.qubit.tv/*
@@ -278,7 +277,6 @@
 *://*.vipbox1.com/*
 *://*.viu.com/*
 *://*.vlive.tv/*
-*://*.vucibatina.com/*
 *://*.vudu.com/*
 *://*.wakanim.tv/*
 *://*.watchdocumentaries.com/*
