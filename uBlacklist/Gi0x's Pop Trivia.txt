@@ -525,6 +525,7 @@
 *://*.famous-people-search.com/*
 *://*.famousbirthdays.com/*
 *://*.famousbirthsdeaths.com/*
+*://*.famousdb.net/*
 *://*.famousdetails.com/*
 *://*.famousfix.com/*
 *://*.famouspeople.com/*
@@ -776,6 +777,7 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Pop Culture
 
+*://*.fanpop.com/*
 *://*.popbuzz.com
 *://*.popbytes.com
 *://*.popcrunch.com
