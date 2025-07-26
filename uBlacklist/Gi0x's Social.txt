@@ -56,7 +56,6 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Anonymous IG viewing sites, stats, etc.
 
-
 *://*.ahasave.com/*
 *://*.allstories.co/*
 *://*.anon-viewer.com/*
