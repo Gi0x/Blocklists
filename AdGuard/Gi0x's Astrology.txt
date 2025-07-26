@@ -1,4 +1,4 @@
-! Title: Gi0x's Astrology
+! Title: Gi0x's Astro
 ! Description: Blocks astrology & tarot websites
 ! DeDuplicated: Y
 ! Sorted: N
