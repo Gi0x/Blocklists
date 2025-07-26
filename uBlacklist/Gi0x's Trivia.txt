@@ -1,4 +1,4 @@
-# Title: Gi0x's Pop Trivia
+# Title: Gi0x's Trivia
 # Description: Hides spammy clickbait about celebrities (their bios, fame & networth)
 # DeDuplicated: Y
 # Sorted (A-Z): Y
