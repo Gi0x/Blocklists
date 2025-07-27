@@ -8,11 +8,13 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # General Social Media
 
+*://*.ask.fm/*
 *://*.bere.al/*
 *://*.bereal.com/*
 *://*.classmates.com/*
 *://*.clubhouse.com/*
 *://*.collabstr.com/*
+*://*.deviantart.com/*
 *://*.facebook-hardware.com/*
 *://*.facebook.com/*
 *://*.instagram.com/*
@@ -36,6 +38,7 @@
 *://*.mstdn.party/*
 *://*.mstdn.social/*
 *://*.mstdn.starnix.network/*
+*://*.myspace.com/*
 *://*.mytelegram.org/*
 *://*.reddit.com/*
 *://*.redditinc.com/*
@@ -51,6 +54,10 @@
 *://*.tumblr.com/*
 *://*.twitter.com/*
 *://*.vk.com/*
+*://*.vk.me/*
+*://*.wattpad.com/*
+*://*.weheartit.com/*
+*://*.wopita.com/*
 *://*.x.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -115,6 +122,7 @@
 *://*.gramhir.com/
 *://*.gramhir.pro/*
 *://*.gramhir.us/*
+*://*.gramho.com/*
 *://*.gramsnap.com/*
 *://*.gramvio.net/*
 *://*.gramzoom.com/*
@@ -125,6 +133,7 @@
 *://*.hachyderm.io/*
 *://*.heylocate.mobi/*
 *://*.howsights.com/*
+*://*.hypeauditor.com/*
 *://*.ig-crate.com/*
 *://*.iganony.cc/*
 *://*.iganony.cloud/*
@@ -158,6 +167,7 @@
 *://*.imglookup.com/*
 *://*.indown.io/*
 *://*.inflact.com/*
+*://*.influence.co/*
 *://*.infosec.exchange/*
 *://*.ingramstory.com/*
 *://*.ingramstoryviewer.com/*
@@ -229,6 +239,7 @@
 *://*.invisispy.com/*
 *://*.inzto.com/*
 *://*.iqsaved.com/*
+*://*.jolygram.com/*
 *://*.kahawatungu.com/*
 *://*.keesy.com/*
 *://*.kwai.com/*
@@ -249,6 +260,7 @@
 *://*.mystalk.org/*
 *://*.nerdacy.com/*
 *://*.noagendasocial.com/*
+*://*.noxinfluencer.com/*
 *://*.one.darnell.one/*
 *://*.pages.dev/*
 *://*.pathsocial.com/*
@@ -257,12 +269,14 @@
 *://*.picnob.co.uk/*
 *://*.picnob.info/*
 *://*.picnobi.com/*
+*://*.pictame.com/*
 *://*.picuki.com/*
 *://*.picuki.io/*
 *://*.picuki.me/*
 *://*.picuki.site/*
 *://*.picuki.tv/*
 *://*.pieville.net/*
+*://*.pikdo.net/*
 *://*.piktag.com/*
 *://*.pixelfed.social/*
 *://*.pixelixe.com/*
@@ -289,6 +303,7 @@
 *://*.snapinsta.app/*
 *://*.snapsave.app/*
 *://*.socialoapp.com/*
+*://*.socialblade.com/*
 *://*.socialplug.io/*
 *://*.socialprivateviewer.com/*
 *://*.socinator.com/*
@@ -301,6 +316,7 @@
 *://*.stalkio.co/*
 *://*.stalkto.org/*
 *://*.stalkyapp.com/*
+*://*.starngage.com/*
 *://*.stealthgram.com/*
 *://*.stealthgram.net/*
 *://*.storieanonimo.com/*
@@ -349,6 +365,8 @@
 *://*.toot.dummy.cafe/*
 *://*.trailblazer.me/*
 *://*.tubtic.com/*
+*://*.tumbral.com/*
+*://*.tumgir.com/*
 *://*.twicsy.com/*
 *://*.unfollowgram.com/*
 *://*.universeodon.com/*
