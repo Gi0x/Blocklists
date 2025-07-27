@@ -1,5 +1,5 @@
-! Title: Gi0x's Photo Editors
-! Description: Blocks photo editing sites online
+! Title: Gi0x's Editors
+! Description: Blocks web-based photo & graphics editors online
 ! DeDuplicated: Y
 ! Sorted: Y
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
