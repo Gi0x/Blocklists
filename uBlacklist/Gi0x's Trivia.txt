@@ -89,7 +89,6 @@
 *://*.celebism.com/*
 *://*.celebitchy.com/*
 *://*.celebjar.com/*
-*://*.celebjihad.com/*
 *://*.celebleatherjackets.com/*
 *://*.celeblite.com/*
 *://*.celeblives.net/*
