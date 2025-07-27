@@ -27,6 +27,8 @@
 *://*.c-date.de/*
 *://*.clover.co/*
 *://*.coffee.meetbagel.com/*
+*://*.datingadvice.com/*
+*://*.datingnews.com/*
 *://*.downapp.com/*
 *://*.druzenje.rs/*
 *://*.edarling.at/*
@@ -86,4 +88,5 @@
 *://*.upoznavanje.org/*
 *://*.whosdatedwho.com/*
 *://*.wieselflink.com/*
+*://*.yourtango.com/*
 *://*.zoosk.com/*
