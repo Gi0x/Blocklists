@@ -1,23 +1,23 @@
 ! Name: Gi0x's Social
 ! Description: Blocks social media
-! DeDuplicated: N
-! Sorted (A-Z): N
+! DeDuplicated: Y
+! Sorted (A-Z): Y
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Social Media
+! General Social Media
 
-||ask.fm^
 ||bere.al^
 ||bereal.com^
 ||classmates.com^
 ||clubhouse.com^
-||deviantart.com^
+||collabstr.com^
 ||facebook-hardware.com^
 ||facebook.com^
 ||instagram.com^
 ||joinmastodon.org^
+||linkedin.com^
 ||mas.to^
 ||masto.ai^
 ||masto.host^
@@ -36,9 +36,7 @@
 ||mstdn.party^
 ||mstdn.social^
 ||mstdn.starnix.network^
-||myspace.com^
 ||mytelegram.org^
-||quora.com^
 ||reddit.com^
 ||redditinc.com^
 ||snapchat.com^
@@ -49,18 +47,19 @@
 ||telegram.org^
 ||threads.com^
 ||threads.net^
-||titktok.com^
+||tiktok.com^
 ||tumblr.com^
 ||twitter.com^
 ||vk.com^
-||vk.me^
 ||x.com^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Other
+! Anonymous IG viewing sites, stats, etc.
 
 ||ahasave.com^
+||allstories.co^
 ||anon-viewer.com^
+||anonigviewer.com^
 ||anonimoig.com^
 ||anonimostory.com^
 ||anonstories.app^
@@ -68,6 +67,7 @@
 ||anonstories.org^
 ||anonstoriesview.com^
 ||anonstoryview.com^
+||anony-ig.com^
 ||anony-storyviewer.com^
 ||anonyig.com^
 ||anonyig.io^
@@ -80,6 +80,8 @@
 ||anticapitalist.party^
 ||anycontrol.app^
 ||aware-online.com^
+||bigbangram.com^
+||bigsta.net^
 ||bitchipdigital.com^
 ||blastup.com^
 ||blindstoryapp.com^
@@ -93,9 +95,12 @@
 ||detracer.com^
 ||dmpro.app^
 ||dolphinradar.com^
+||downev.com^
 ||dumpor.co.uk^
 ||dumpor.io^
 ||embedsocial.com^
+||espressocoder.com^
+||exploreig.com^
 ||famety.com^
 ||fenced.ai^
 ||flocksocial.com^
@@ -107,23 +112,30 @@
 ||glassagrm.com^
 ||go5.dev^
 ||goread.io^
-||gramho.com^
+||gramhir.com/
+||gramhir.pro^
+||gramhir.us^
 ||gramsnap.com^
+||gramvio.net^
+||gramzoom.com^
 ||greatercollinwood.org^
+||greatfon.com^
+||greatfon.my^
 ||gwaa.net^
 ||hachyderm.io^
 ||heylocate.mobi^
 ||howsights.com^
-||hypeauditor.com^
 ||ig-crate.com^
 ||iganony.cc^
 ||iganony.cloud^
+||iganony.com^
 ||iganony.one^
 ||iganony.org^
 ||iganonyviewer.com^
 ||igcomment.com^
 ||ighighlightviewer.com^
 ||igmods.com^
+||igrab.online^
 ||igram.mx^
 ||igram.world^
 ||igreveal.com^
@@ -134,22 +146,26 @@
 ||igviewer.io^
 ||igviewer.one^
 ||igviewer.pro^
+||imagerocket.com^
 ||imganony.com^
 ||imginn-instanavigation.com^
 ||imginn.com^
 ||imginn.io^
+||imginn.org^
+||imginnn.com^
 ||imglooker.net^
 ||imglookup.co^
 ||imglookup.com^
 ||indown.io^
 ||inflact.com^
-||influence.co^
 ||infosec.exchange^
 ||ingramstory.com^
 ||ingramstoryviewer.com^
+||inksem.com^
 ||inkstagram.com^
 ||insacret.app^
 ||insanony.app^
+||insaver.net^
 ||inseen.app^
 ||inshotspot.com^
 ||insmask.com^
@@ -165,9 +181,16 @@
 ||insta-stories-viewer.com^
 ||insta-stories.ru^
 ||instaanony.com^
+||instabiography.com^
+||instadp.fun^
+||instadp.net^
+||instafollowers.co^
+||instafreeview.com^
 ||instagramviewer.com^
+||instagrilz.com^
 ||instalooker.org^
 ||instanavi.me^
+||instanavigation.com^
 ||instanavigation.net^
 ||instanavigation.social^
 ||instanavigationbr.com^
@@ -183,15 +206,22 @@
 ||instasaverr.com^
 ||instascop.com^
 ||instasize.com^
+||inststalk.com^
 ||instastalker.info^
 ||instastories2.com^
+||instastories.watch^
 ||instastory.org^
+||instastory.watch^
 ||instastoryviewer.io^
+||insta-story-viewer.pl^
 ||instastoryviewers.com^
+||instasupersave.com^
 ||instasv.com^
 ||instaview.social^
 ||instavisor.net^
 ||instawebviewer.com^
+||instazoom.co^
+||instights.com^
 ||instuky.com^
 ||inthow.com^
 ||inum.com^
@@ -199,9 +229,10 @@
 ||invisispy.com^
 ||inzto.com^
 ||iqsaved.com^
-||jolygram.com^
+||kahawatungu.com^
 ||keesy.com^
 ||kwai.com^
+||liangyu.dev^
 ||likee.video^
 ||likefy.com^
 ||love.alicecomplex.com^
@@ -210,34 +241,36 @@
 ||meredithplays.com^
 ||methodmi.com^
 ||mewe.com^
-||mollygram.com.im^
 ||mollygram.com^
+||mollygram.com.im^
+||mollygram.org^
 ||monhai.com^
 ||morogaming.com^
 ||mystalk.org^
 ||nerdacy.com^
 ||noagendasocial.com^
-||noxinfluencer.com^
 ||one.darnell.one^
 ||pages.dev^
 ||pathsocial.com^
 ||pawoo.net^
+||picgger.com^
+||picnob.co.uk^
 ||picnob.info^
 ||picnobi.com^
-||pictame.com^
 ||picuki.com^
 ||picuki.io^
 ||picuki.me^
 ||picuki.site^
 ||picuki.tv^
 ||pieville.net^
-||pikdo.net^
+||piktag.com^
 ||pixelfed.social^
 ||pixelixe.com^
 ||pixnoy.com^
 ||pixwox.net^
 ||pixwox.uk^
 ||plixi.com^
+||popygram.com^
 ||privatephotoviewer.com^
 ||pypi.org^
 ||quasa.io^
@@ -253,8 +286,8 @@
 ||simpliers.com^
 ||skweezer.net^
 ||smihub.io^
+||snapinsta.app^
 ||snapsave.app^
-||socialblade.com^
 ||socialoapp.com^
 ||socialplug.io^
 ||socialprivateviewer.com^
@@ -262,36 +295,47 @@
 ||spyinsta.org^
 ||spystoryviewer.com^
 ||sqirk.com^
+||sssgram.com^
 ||sssinstagram.com^
 ||ssstory.io^
 ||stalkio.co^
 ||stalkto.org^
 ||stalkyapp.com^
-||starngage.com^
+||stealthgram.com^
 ||stealthgram.net^
 ||storieanonimo.com^
 ||stories-agent.com^
 ||stories-view.com^
+||stories.watch^
 ||storiesanonimo.co^
 ||storiesanonviewer.com^
+||storiesdown.com^
 ||storiesdown.fun^
 ||storiesdown.info^
 ||storiesig.fun^
+||storiesig.me^
+||storiesig.net^
+||storiesig.ninja^
 ||storiesig.website^
 ||storiesigapp.com^
 ||storiesviewerbot.com^
 ||storistalker.com^
+||story-down.com
 ||story-viewer.co^
 ||story-viewer.org^
 ||storybox.io^
 ||storyghost.online^
+||storyinstanavigation.com^
 ||storynavigation.com^
+||storyninja.app^
 ||storysaver.fun^
 ||storysaver.net^
+||storysaver.to^
 ||storystalk.com^
 ||storystalker.app^
 ||storyviewer.ai^
 ||storyviewer.com^
+||superviral.io^
 ||swarmapp.com^
 ||swioz.com^
 ||tagged.com^
@@ -303,9 +347,9 @@
 ||tinygrab.com^
 ||toolzu.com^
 ||toot.dummy.cafe^
+||trailblazer.me^
 ||tubtic.com^
-||tumbral.com^
-||tumgir.com^
+||twicsy.com^
 ||unfollowgram.com^
 ||universeodon.com^
 ||upgrow.com^
@@ -318,16 +362,16 @@
 ||viewinsta.com^
 ||views4you.com^
 ||viewsocials.com^
+||viewsstory.com^
 ||viewstoriesanonymously.com^
 ||viralblade.com^
 ||viralyft.com^
 ||virtualsocialmedia.com^
+||vistasocial.com^
 ||wan.io^
-||wattpad.com^
 ||weareiu.com^
-||weheartit.com^
+||webstagram.org^
 ||witches.live^
 ||xnspy.com^
-||yaegames.com^
 ||zirk.us^
 ||zoominsta.de^
