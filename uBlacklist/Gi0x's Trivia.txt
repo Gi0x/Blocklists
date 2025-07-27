@@ -619,7 +619,6 @@
 *://*.hollywoodinsider.com/*
 *://*.hollywoodlife.com/*
 *://*.hollywoodoutbreak.com/*
-*://*.hollywoodpornstars.be/*
 *://*.hollywoodrag.com/*
 *://*.hollywoodreporter.com/*
 *://*.hollywoodsnowflakes.com/*
