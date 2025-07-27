@@ -65,6 +65,7 @@
 *://*.celebelek.hu/*
 *://*.celebers.com/*
 *://*.celebfeatures.com/*
+*://*.celebgossip.co.za/*
 *://*.celebgossip.co/*
 *://*.celebgossip.excite.com/*
 *://*.celebgossipz.com/*
@@ -244,8 +245,10 @@
 *://*.celebritynetworthonly.com/*
 *://*.celebritynetworths.net/*
 *://*.celebritynetworthz.com/*
+*://*.celebritynews.com/*
 *://*.celebritynews.wiki/*
 *://*.celebritynewsbiz.com/*
+*://*.celebritynewsdaily.net/*
 *://*.celebritypage.com/*
 *://*.celebritypalace.com/*
 *://*.celebrityparents.com/*
