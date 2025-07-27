@@ -372,6 +372,7 @@
 *://*.ceescat.org/*
 *://*.celebfeet.wiki/*
 *://*.celebfeets.com/*
+*://*.celebjihad.com/*
 *://*.celebjihad.me/*
 *://*.celebmasta.com/*
 *://*.celebrities-porn-gallery.xyz/*
