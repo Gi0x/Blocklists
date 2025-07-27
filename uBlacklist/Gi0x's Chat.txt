@@ -78,6 +78,7 @@
 *://*.dirtyroulette.io/*
 *://*.dodocam.com/*
 *://*.echat.live/*
+*://*.echat.one/*
 *://*.emeraldchat.com/*
 *://*.faceflow.com/*
 *://*.flingster.io/*
@@ -107,6 +108,7 @@
 *://*.monkey.app/*
 *://*.mychatrooms.com/*
 *://*.ome-tv.com/*
+*://*.ome-tv.net/*
 *://*.ome.tv/*
 *://*.omega.app/*
 *://*.omegla.chat/*
