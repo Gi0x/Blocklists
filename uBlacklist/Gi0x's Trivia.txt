@@ -520,17 +520,32 @@
 *://*.famedstar.com/*
 *://*.fameregistry.com/*
 *://*.fametastic.co.uk
+*://*.famewatcher.com/*
+*://*.famewiki.com/*
 *://*.famosos.mundodescargas.com/*
 *://*.famososycorazon.com/*
 *://*.famous-people-search.com/*
+*://*.famousbio.net/*
+*://*.famousbiography.io/*
 *://*.famousbirthdays.com/*
+*://*.famousbirthdays.io/*
 *://*.famousbirthsdeaths.com/*
+*://*.famousboard.com/*
+*://*.famousbodysize.com/*
 *://*.famousdb.net/*
 *://*.famousdetails.com/*
+*://*.famousentrepreneurs.com/*
 *://*.famousfix.com/*
+*://*.famousgravehunter.com/*
+*://*.famoushookups.com/*
+*://*.famousintro.com/*
 *://*.famouspeople.com/*
 *://*.famouspeopletoday.com/*
 *://*.famoustimes.com/*
+*://*.famousvenue.com/*
+*://*.famousworldpeople.com/*
+*://*.famousworldstars.com/*
+*://*.famoza.net/*
 *://*.fandango.com/*
 *://*.fandom.com/*
 *://*.fanpop.com/*
@@ -554,20 +569,30 @@
 *://*.gossip-addict.com
 *://*.gossip-girl.hypnoweb.net
 *://*.gossip-tv.gr/*
+*://*.gossip-vids.com/*
 *://*.gossip-vijesti.com
 *://*.gossip.about.com
 *://*.gossip.com
+*://*.gossip.fanpage/*
+*://*.gossip.fm/*
 *://*.gossip.imendio.org
+*://*.gossip.it/*
 *://*.gossip.iwon.com
+*://*.gossip.observer/*
 *://*.gossipandfashion.com
+*://*.gossipandgab.com/*
 *://*.gossipbiography.com
 *://*.gossipbucket.com
+*://*.gossipbucket.com/*
 *://*.gossipcenter.com
 *://*.gossipcentral.com
 *://*.gossipcop.com
+*://*.gossipcop.com/*
 *://*.gossipcraze.com
 *://*.gossipdavid.com
-*://*.gossipsdiary.com/*
+*://*.gossipdavid.com/*
+*://*.gossipflash.de/*
+*://*.gossipfm.com/*
 *://*.gossipgirl-blog.cwtv.com
 *://*.gossipgirl.net
 *://*.gossipgirlchat.com
@@ -578,12 +603,18 @@
 *://*.gossipgirls.com
 *://*.gossipgirlworld.org
 *://*.gossipgist.com
+*://*.gossipgist.com/*
 *://*.gossipjournal.canalblog.com
 *://*.gossipnewspoint.com
+*://*.gossippimp.com/*
 *://*.gossiprecords.com
 *://*.gossiprocks.com
+*://*.gossiprocks.com/*
 *://*.gossipsdiary.com
+*://*.gossipsdiary.com/*
+*://*.gossipsmag.com/*
 *://*.gossipthug.com
+*://*.gossipvzla.com/*
 *://*.gossipyouth.co.uk/*
 *://*.h-n-v-gossip.skyrock.com
 *://*.hotmommagossip.com
@@ -673,6 +704,17 @@
 *://*.ultimate-jetset.xooit.com
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Listicles
+
+*://*.deadorkicking.com/*
+*://*.facts.net/*
+*://*.howold.co/*
+*://*.knowsize.com/*
+*://*.infobae.com/*
+*://*.listal.com/*
+*://*.walikali.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Networth
 
 *://*.netforworth.blogspot/*
@@ -707,6 +749,8 @@
 *://*.networthwikibio.org/*
 *://*.networthxi.com/*
 *://*.networthzone.com/*
+*://*.thenetworthnews.com/*
+*://*.thenetworthportal.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # People
@@ -777,18 +821,31 @@
 # Pop Culture
 
 *://*.fanpop.com/*
-*://*.popbuzz.com
-*://*.popbytes.com
-*://*.popcrunch.com
-*://*.popcrush.com
-*://*.popeater.com
+*://*.popbabble.org/*
+*://*.popbitch.com/*
+*://*.popbuzz.com/*
+*://*.popbytes.com/*
+*://*.popcornsushi.com/*
+*://*.popcrunch.com/*
+*://*.popcrush.com/*
+*://*.popculture.com/*
+*://*.popdust.com/*
+*://*.popeater.com/*
+*://*.popexpresso.com/*
+*://*.popflock.com/*
 *://*.popkult.org/*
-*://*.poplifeart.com
-*://*.popminute.com
+*://*.poplifeart.com/*
+*://*.popminute.com/*
 *://*.popnable.com/*
+*://*.popsci.com/*
 *://*.popscribe.com
-*://*.popslider.com
-*://*.popsugar.com
+*://*.popslider.com/*
+*://*.popsugar.co/*
+*://*.popsugar.com/*
+*://*.popularbio.com/*
+*://*.popularheight.com/*
+*://*.popularnetworth.com/*
+*://*.popwrapped.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Rumors
@@ -899,13 +956,24 @@
 *://*.zoomstars.co
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Wikis & Other Listicles
+# Wikis
 
 *://*.aidwiki.com/*
-*://*.deadorkicking.com/*
-*://*.facts.net/*
-*://*.howold.co/*
-*://*.knowsize.com/*
-*://*.infobae.com/*
-*://*.listal.com/*
-*://*.walikali.com/*
+*://*.wikiany.net/*
+*://*.wikibery.com/*
+*://*.wikibioage.com/*
+*://*.wikibiography.in/*
+*://*.wikibioinside.com/*
+*://*.wikibioz.com/*
+*://*.wikibirthdays.com/*
+*://*.wikiblog.org/*
+*://*.wikifame.org/*
+*://*.wikifamous.com/*
+*://*.wikiheights.com/*
+*://*.wikinbio.com/*
+*://*.wikinetworth.com/*
+*://*.wikiodin.com/*
+*://*.wikispro.com/*
+*://*.wikistarbio.com/*
+*://*.wikiwand.com/*
+*://*.wikiyeah.com/*
