@@ -15,7 +15,18 @@
 *://*.biographs.org/*
 *://*.bioscops.com/*
 *://*.popularbio.com/*
-*://*.wikistarbio.com/*
+*://*.bioagewho.co/*
+*://*.biogossipy.com/*
+*://*.biografija.org/*
+*://*.biographicsworld.com/*
+*://*.biographiesofactors.com/*
+*://*.biography.com/*
+*://*.biographybro.com/*
+*://*.biographyhost.com/*
+*://*.biographymask.org/*
+*://*.biographystars.com/*
+*://*.biographytrendz.com/*
+*://*.biographytribune.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Celebrities
@@ -554,6 +565,29 @@
 *://*.glamourfame.com/*
 *://*.poznatelicnosti.org/*
 *://*.thefamousbirthdays.com/*
+*://*.fame10.com/*
+*://*.fameandname.com/*
+*://*.famedstar.com/*
+*://*.famewatcher.com/*
+*://*.famewiki.com/*
+*://*.familytron.com/*
+*://*.famousbio.net/*
+*://*.famousbiography.io/*
+*://*.famousbirthdays.com/*
+*://*.famousbirthdays.io/*
+*://*.famousbirthsdeaths.com/*
+*://*.famousboard.com/*
+*://*.famousbodysize.com/*
+*://*.famousdetails.com/*
+*://*.famousentrepreneurs.com/*
+*://*.famousfix.com/*
+*://*.famousgravehunter.com/*
+*://*.famoushookups.com/*
+*://*.famousintro.com/*
+*://*.famousvenue.com/*
+*://*.famousworldpeople.com/*
+*://*.famousworldstars.com/*
+*://*.famoza.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Gossip
@@ -998,3 +1032,9 @@
 *://*.wikistarbio.com/*
 *://*.wikiwand.com/*
 *://*.wikiyeah.com/*
+*://*.biographywiki.net/*
+*://*.biowikis.com/*
+*://*.biowikistory.com/*
+*://*.birthdaywiki.com/*
+*://*.birthdaywikia.com/*
+*://*.wikistarbio.com/*
