@@ -1,4 +1,4 @@
-# Name: Gi0x's Astrology
+# Name: Astro
 # Description: Hides astrology related sites from search results
 # DeDuplicated: Y
 # Sorted (A-Z): Y
