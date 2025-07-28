@@ -4820,6 +4820,17 @@
 ||*pecque*^
 ||*pedale*^
 ||*pede*^
+||*peder*^
+||*pedera*^
+||*pedere*^
+||*pedercina*^
+||*pedercine*^
+||*pedercini*^
+||*pedercino*^
+||*pedercinu*^
+||*pederi*^
+||*pederima*^
+||*pederu*^
 ||*pedo*^
 ||*pedobear*^
 ||*pedoph*^
