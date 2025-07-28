@@ -1,1 +1,32 @@
+! Name: Spam
+! Description: Blocks low-quality, fake & spammy sites
+! DeDup: Y
+! Sorted: Y
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Affiliate SEO spam
 
+||bestreviewsite.com^
+||productrankings.co^
+||top10best.com^
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Fake Download & Software Mirror Sites
+
+||filehippo.com^
+||freedownloadmanager.com^
+||softonic.com^
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Low-Quality Copycat Tutorials
+
+||geeksforgeeks.com^
+||studytonight.com^
+||tutorialspoint.com^
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Spammy Question & Answer Farms
+
+||answers.com^
+||ask.com^
+||quora.com^
