@@ -4,7 +4,7 @@
 # Sorted: Y
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# General Social Media
+# Social Media
 
 *://*.ask.fm/*
 *://*.bere.al/*
@@ -38,6 +38,7 @@
 *://*.mstdn.starnix.network/*
 *://*.myspace.com/*
 *://*.mytelegram.org/*
+*://*.quora.com/*
 *://*.reddit.com/*
 *://*.redditinc.com/*
 *://*.snapchat.com/*
@@ -97,6 +98,7 @@
 *://*.chaos.social/*
 *://*.counter.social/*
 *://*.daikatsu-navi.com/*
+*://*.darnell.one/*
 *://*.detracer.com/*
 *://*.dmpro.app/*
 *://*.dolphinradar.com/*
@@ -188,6 +190,7 @@
 *://*.insta-spy.net/*
 *://*.insta-stories-viewer.com/*
 *://*.insta-stories.ru/*
+*://*.insta-story-viewer.pl/*
 *://*.instaanony.com/*
 *://*.instabiography.com/*
 *://*.instadp.fun/*
@@ -214,14 +217,12 @@
 *://*.instasaverr.com/*
 *://*.instascop.com/*
 *://*.instasize.com/*
-*://*.inststalk.com/*
 *://*.instastalker.info/*
 *://*.instastories2.com/*
 *://*.instastories.watch/*
 *://*.instastory.org/*
 *://*.instastory.watch/*
 *://*.instastoryviewer.io/*
-*://*.insta-story-viewer.pl/*
 *://*.instastoryviewers.com/*
 *://*.instasupersave.com/*
 *://*.instasv.com/*
@@ -230,6 +231,7 @@
 *://*.instawebviewer.com/*
 *://*.instazoom.co/*
 *://*.instights.com/*
+*://*.inststalk.com/*
 *://*.instuky.com/*
 *://*.inthow.com/*
 *://*.inum.com/*
@@ -250,8 +252,8 @@
 *://*.meredithplays.com/*
 *://*.methodmi.com/*
 *://*.mewe.com/*
-*://*.mollygram.com/*
 *://*.mollygram.com.im/*
+*://*.mollygram.com/*
 *://*.mollygram.org/*
 *://*.monhai.com/*
 *://*.morogaming.com/*
@@ -300,8 +302,8 @@
 *://*.smihub.io/*
 *://*.snapinsta.app/*
 *://*.snapsave.app/*
-*://*.socialoapp.com/*
 *://*.socialblade.com/*
+*://*.socialoapp.com/*
 *://*.socialplug.io/*
 *://*.socialprivateviewer.com/*
 *://*.socinator.com/*
