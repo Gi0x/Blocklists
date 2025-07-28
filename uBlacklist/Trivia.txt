@@ -1,7 +1,7 @@
 # Title: Trivia
 # Description: Hides spammy clickbait about celebrities (their bios, fame & networth)
-# DeDuplicated: Y
-# Sorted (A-Z): Y
+# DeDup: Y
+# Sorted: Y
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Bios
