@@ -1,6 +1,6 @@
 ! Title: Dating
 ! Description: Blocks anything that has to with dating & seduction
-! DeDuplicated: N
+! DeDup: N
 ! Sorted: N
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
