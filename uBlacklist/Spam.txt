@@ -1,5 +1,5 @@
-# Name: Gi0x's Spam
-# Description: Hides low-quality, fake and spammy sites from search results
+# Name: Spam
+# Description: Hides low-quality, fake & spammy sites from search results
 # DeDup: Y
 # Sorted: Y
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
