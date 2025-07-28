@@ -1,4 +1,4 @@
-# Name: Gi0x's News
+# Name: News
 # Description: Hides news sites from search results
 # DeDuplicated: Y
 # Sorted (A-Z): Y
