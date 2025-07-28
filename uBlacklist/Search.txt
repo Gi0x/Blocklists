@@ -1,4 +1,4 @@
-# Title: Gi0x's Search
+# Title: Search
 # Description: Hides listed browsers & search engines from search results
 # Deduplicated: Y
 # Sorted (A-Z): Y
