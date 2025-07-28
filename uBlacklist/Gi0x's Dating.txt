@@ -37,6 +37,7 @@
 *://*.feeld.co/*
 *://*.finya.de/*
 *://*.flirtfair.de/*
+*://*.flirtic.com/*
 *://*.friendfinder.com/*
 *://*.gay.de/*
 *://*.gentlemansgazette.com/*
