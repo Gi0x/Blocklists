@@ -1,4 +1,4 @@
-! Title: Editors
+! Title: Web Photo Editors
 ! Description: Blocks web-based photo & graphics editors online
 ! DeDuplicated: Y
 ! Sorted: Y
