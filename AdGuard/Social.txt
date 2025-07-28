@@ -310,6 +310,7 @@
 ||spyinsta.org^
 ||spystoryviewer.com^
 ||sqirk.com^
+||squirk.com^
 ||sssgram.com^
 ||sssinstagram.com^
 ||ssstory.io^
