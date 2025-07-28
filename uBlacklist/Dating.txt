@@ -1,4 +1,4 @@
-# Name: Gi0x's Dating
+# Name: Dating
 # Description: Hides anything that has to do with dating & seduction from search results
 # DeDuplicated: N
 # Sorted (A-Z): N
