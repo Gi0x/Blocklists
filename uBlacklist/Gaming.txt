@@ -1,4 +1,4 @@
-# Name: Gi0x's Gaming
+# Name: Gaming
 # Description: Hides anything to do with gaming from search results
 # DeDuplicated: N
 # Sorted (A-Z): N
