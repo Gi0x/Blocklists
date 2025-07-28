@@ -1,4 +1,4 @@
-# Title: Gi0x's Social
+# Title: Social
 # Description: Hides social media from search results
 # DeDuplicated: Y
 # Sorted (A-Z): Y
