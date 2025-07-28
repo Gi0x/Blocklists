@@ -1,4 +1,4 @@
-# Title: Gi0x's Chat
+# Title: Chat
 # Description: Hides chat apps & sites from search results
 # DeDuplicated: Y
 # Sorted (A-Z): Y
