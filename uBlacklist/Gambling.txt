@@ -1,4 +1,4 @@
-# Title: Gi0x's Gambling
+# Title: Gambling
 # Description: Hides gambling & betting sites from search results
 # DeDuplicated: Y
 # Sorted (A-Z): N
