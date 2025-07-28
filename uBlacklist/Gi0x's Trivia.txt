@@ -577,6 +577,8 @@
 *://*.glamourpath.com/*
 *://*.infofamouspeople.com/*
 *://*.poznatelicnosti.org/*
+*://*.poznati.info/*
+*://*.poznativisina.com/*
 *://*.thefamousbirthdays.com/*
 *://*.thefamouspeople.com/*
 *://*.toptenfamous.co/*
