@@ -1480,16 +1480,13 @@
 ||*b*o*o*b*s*^
 ||*b*o*o*b*z*^
 ||*b*o*o*b*^
-||*ba*^
 ||*babe*^
 ||*babeland*^
 ||*babes*^
-||*babies*^
 ||*baby*batter*^
 ||*baby*juice*^
 ||*bacha*ma*culo*^
 ||*bachie*coupe*^
-||*backdoor*^
 ||*backdoorman*^
 ||*backseat*^
 ||*badfuck*^
@@ -1547,7 +1544,6 @@
 ||*bariledimerda*^
 ||*bassterd*^
 ||*bassterds*^
-||*bast*^
 ||*bastard*^
 ||*bastardacce*^
 ||*bastardacci*^
@@ -1636,7 +1632,6 @@
 ||*bigbastard*^
 ||*bigbreasts*^
 ||*bigbutt*^
-||*bigger*^
 ||*bigornette*^
 ||*bigtits*^
 ||*bimbo*^
@@ -1664,20 +1659,13 @@
 ||*bitchtit*^
 ||*bitchtits*^
 ||*bitchy*^
-||*bite*^
 ||*bitembois*^
 ||*biteme*^
-||*bitte*^
 ||*black*cock*^
-||*black*people*^
-||*black*^
 ||*blackcock*^
 ||*blackman*^
-||*blackout*^
-||*blacks*^
 ||*blad*^
 ||*bladt*^
-||*blind*^
 ||*bloblos*^
 ||*blonde*action*^
 ||*blonde*on*blonde*action*^
@@ -1731,10 +1719,6 @@
 ||*bollok*^
 ||*bollox*^
 ||*bolshy*^
-||*bomb*^
-||*bombers*^
-||*bombing*^
-||*bombs*^
 ||*bomd*^
 ||*bon*sang*^
 ||*bondage*^
@@ -1750,9 +1734,6 @@
 ||*booby*^
 ||*boobz*^
 ||*boody*^
-||*booger*^
-||*bookie*^
-||*boom*^
 ||*boomer*^
 ||*boong*^
 ||*boonga*^
@@ -1800,8 +1781,6 @@
 ||*bountybar*^
 ||*bourdille*^
 ||*bouseux*^
-||*bowel*^
-||*bowels*^
 ||*bra*^
 ||*brackmard*^
 ||*branlage*^
@@ -1869,8 +1848,6 @@
 ||*bunghole*^
 ||*bunny*fucker*^
 ||*buona*donna*^
-||*buried*^
-||*burn*^
 ||*burr*head*^
 ||*burr*heads*^
 ||*burrhead*^
@@ -2759,11 +2736,15 @@
 ||*drecksau*^
 ||*dreckskerl*^
 ||*dripdick*^
+||*drkacina*^
+||*drkaj*^
+||*drkaju*^
+||*drkam*^
+||*drkamo*^
+||*drkanje*^
+||*drkate*^
 ||*drouille*^
-||*drug*^
 ||*drugcunt*^
-||*drunk*^
-||*drunken*^
 ||*dry*hump*^
 ||*dryhump*^
 ||*du*schnoc*^
@@ -2775,7 +2756,6 @@
 ||*dugland*^
 ||*dumass*^
 ||*dumb*ass*^
-||*dumb*^
 ||*dumbass*^
 ||*dumbasses*^
 ||*dumbbitch*^
@@ -2792,7 +2772,6 @@
 ||*dummeschlampe*^
 ||*dummeschlampen*^
 ||*dummeshuhn*^
-||*dummy*^
 ||*dumshit*^
 ||*dun*cauf*^
 ||*duncauf*^
@@ -2950,7 +2929,6 @@
 ||*fartknocker*^
 ||*farty*^
 ||*fastfuck*^
-||*fat*^
 ||*fatah*^
 ||*fatass*bitch*^
 ||*fatass*whore*^
@@ -2970,7 +2948,6 @@
 ||*fcuking*^
 ||*fcuuk*^
 ||*fdp*^
-||*fear*^
 ||*fecal*^
 ||*feces*^
 ||*feck*^
@@ -3847,6 +3824,28 @@
 ||*je*pis*dans*ta*bouche*^
 ||*je*te*nique*ta*race*sale*fils*de*chien*^
 ||*jean*foutre*^
+||*jebace*^
+||*jebacemo*^
+||*jebaces*^
+||*jebacete*^
+||*jebacina*^
+||*jebacu*^
+||*jebala*^
+||*jebale*^
+||*jebali*ste*^
+||*jebali*^
+||*jebao*^
+||*jebati*^
+||*jebe*^
+||*jebem*^
+||*jebemo*^
+||*jebes*^
+||*jebete*^
+||*jebi*^
+||*jebiga*^
+||*jebigaaa*^
+||*jebote*^
+||*jebu*^
 ||*jebus*^
 ||*jeez*^
 ||*jelly*donut*^
@@ -4033,8 +4032,15 @@
 ||*kunts*^
 ||*kuntz*^
 ||*kurac*^
+||*kurca*^
+||*kurcem*^
+||*kurcu*^
 ||*kurombo*^
 ||*kurva*^
+||*kurvar*^
+||*kurvari*^
+||*kurve*^
+||*kurvetina*^
 ||*kurwa*^
 ||*kushi*^
 ||*kushis*^
@@ -4898,8 +4904,14 @@
 ||*pichacorta*^
 ||*picio*^
 ||*picka*^
+||*pickama*^
 ||*pickaninnies*^
 ||*pickaninny*^
+||*picke*^
+||*picki*^
+||*pickice*^
+||*picko*^
+||*picku*^
 ||*piece*of*shit*^
 ||*pieceofshit*^
 ||*pieces*of*shit*^
@@ -4976,6 +4988,11 @@
 ||*pixie*^
 ||*pixy*^
 ||*pizda*^
+||*pizdama*^
+||*pizdi*^
+||*pizde*^
+||*pizdeti*^
+||*pizdu*^
 ||*playboy*^
 ||*playgirl*^
 ||*pleasure*chest*^
@@ -5724,7 +5741,6 @@
 ||*slimeferit*^
 ||*slinguare*^
 ||*slinguata*^
-||*slope*^
 ||*slopehead*^
 ||*slopeheads*^
 ||*sloper*^
@@ -8966,39 +8982,6 @@
 ||*èpais*^
 ||*ètr0n*^
 ||*ètron*^
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Rules Syntax
-
-! Option 1a – Separate Rules for Single Keywords
-! To block any URL containing your keyword, use the rule: ||*keyword*^
-! ||*porn*^
-! ||*ads*^
-! ||*gambling*^
-! ||*keyword*^ matches anywhere in the full URL (domain, path, query, or file name).
-! Each line is a separate rule. This rule syntax is readable & widely compatible. 
-
-! Option 1b – Separate Rules for Consecutive Keywords
-! To block any URL that contains consecutive keywords, insert * between each keyword
-! ||*celebrity*list*^ –  example.com/celebrity-list, example.com/top-celebrity/list-of-stars, example.com/articles/celebrity_listicle.html, cdn.example.com/celebrityTop10List.jpg
-! The * matches any number of any characters, including spaces, hyphens, underscores, slashes, numbers, or letters.
-
-! Option 2 – Domain Specific Match for Multiple Keywords
-! To block any URL on example.com that contains your keyword(s), use the rule: ||example.com/*keyword*
-! ||example.com/*porn*
-! ||example.com/*ads*
-! ||example.com/*gambling*
-! Each line is a separate rule. 
-
-! Option 3 – Use a Single RegEx Rule
-! If you prefer a single advanced & compact RegEx rule to match multiple keywords in URLs, use: /^https?:\/\/.*(porn|ads|gambling).*$/
-! RegEx must start and end with /.../, and you can append $important to ensure the block takes precedence, ex: /^https?:\/\/.(porn|ads|gambling).*$/\$important
-! Avoid overusing RegEx rules, as they are slower and may cause performance issues if you use many. Only use them in desktop versions of AdGuard.
-
-! Notes:
-! Use ^ to anchor the end of a domain or path section.
-! Use wildcards * to broaden matches but avoid over-blocking.
-! These rules block URLs, not page content (e.g., if “keyword” appears in visible text, it won’t be blocked).
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Sources
