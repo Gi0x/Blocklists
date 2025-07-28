@@ -1,10 +1,8 @@
-! Name: Gi0x's Profanity
+! Name: Profanity
 ! Description: Blocks explicit content based on keywords that appear in URLs
-! DeDuplicated: Y
+! DeDup: Y
 ! Sorted (A-Z): Y
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Keywords – [abc]
 
