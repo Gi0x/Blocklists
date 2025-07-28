@@ -1,6 +1,6 @@
 ! Title: Chat
 ! Description: Blocks chat sites & apps
-! DeDuplicated: Y
+! DeDup: Y
 ! Sorted: Y
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
