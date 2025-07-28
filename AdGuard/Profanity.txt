@@ -5004,6 +5004,11 @@
 ||*pizde*^
 ||*pizdeti*^
 ||*pizdu*^
+||*pizdurina*^
+||*pizdurine*^
+||*pizdurini*^
+||*pizdurino*^
+||*pizdurinu*^
 ||*playboy*^
 ||*playgirl*^
 ||*pleasure*chest*^
