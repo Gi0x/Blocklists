@@ -1,7 +1,7 @@
 ! Title: Gambling
 ! Description: Blocks gambling & betting sites
-! DeDup: N
-! Sorted: N
+! DeDup: Y
+! Sorted: Y
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||0casino-online.com^
