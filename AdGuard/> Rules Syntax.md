@@ -30,3 +30,18 @@
 ! Use ^ to anchor the end of a domain or path section.
 ! Use wildcards * to broaden matches but avoid over-blocking.
 ! These rules block URLs, not page content (e.g., if “keyword” appears in visible text, it won’t be blocked).
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Blocking TLDs-cc
+
+! To block ALL domains (e.g., example.ru, abc.ru) under a specific ccTLD, use: ||*.ru^
+! Be cautious when blocking entire ccTLDs, because you may unintentionally block legitimate services. 
+
+! To unblock ALL domains under a specific ccTLD, use: @@||*.ch^
+! To unblock specific domains under a blocked ccTLD, use: @@||trustedsite.ch^, @@||example.ch^, @@||secure.ch^
+
+! Syntax Explanation:
+! || — wildcard for any domain.
+! *. — matches all subdomains and domains.
+! ru — the ccTLD you want to block.
+! ^ — marks the end of the domain part.
