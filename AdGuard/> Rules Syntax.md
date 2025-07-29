@@ -45,3 +45,18 @@
 ! *. — matches all subdomains and domains.
 ! ru — the ccTLD you want to block.
 ! ^ — marks the end of the domain part.
+
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Blocking TLDs-g
+
+! To block ALL domains (e.g., example.aaa, abc.aaa) under a specific gTLD, use: ||*.aaa^
+! Be cautious when blocking entire gTLDs, because you may unintentionally block legitimate services. 
+
+! To unblock ALL domains under a specific gTLD, use: @@||*.abb^
+! To unblock specific domains under a blocked gTLD, use: @@||trustedsite.abb^, @@||example.abb^, @@||secure.abb^
+
+! Syntax Explanation:
+! || — wildcard for any domain.
+! *. — matches all subdomains and domains.
+! aaa — the gTLD you want to block.
+! ^ — marks the end of the domain part.
