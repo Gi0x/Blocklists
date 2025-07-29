@@ -328,18 +328,3 @@
 ||*.இந்தியா^
 ||*.հայ^
 ||*.新加坡^
-
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Rules Syntax
-
-! To block ALL domains (e.g., example.ru, abc.ru) under a specific ccTLD, use: ||*.ru^
-! Be cautious when blocking entire ccTLDs, because you may unintentionally block legitimate services. 
-
-! To unblock ALL domains under a specific ccTLD, use: @@||*.ch^
-! To unblock specific domains under a blocked ccTLD, use: @@||trustedsite.ch^, @@||example.ch^, @@||secure.ch^
-
-! Syntax Explanation:
-! || — wildcard for any domain.
-! *. — matches all subdomains and domains.
-! ru — the ccTLD you want to block.
-! ^ — marks the end of the domain part.
