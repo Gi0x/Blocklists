@@ -244,7 +244,7 @@
 *://*.zmovies.cc/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Legit Streaming Sites – Needs further Sorting
+# Legit Streaming Sites
 
 *://*.4kfilmdb.com/*
 *://*.7plus.com.au/*
