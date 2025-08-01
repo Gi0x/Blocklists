@@ -1,8 +1,38 @@
+Suggested Input Order for Subscriptions: 
+
+- Ad & Tracking Server Domain List
+- Adult
+- Astro
+- BadwebsiteBlocklist
+- Chat
+- Dating
+- Fake Webstores
+- FMHY Unsafe Sites Filterlist
+- Gambling
+- Gaming
+- Generic Content Farms
+- News
+- Photo Editors
+- Profanity
+- Search
+- Social
+- Spam
+- SpamdexingSites
+- Sports
+- Streaming
+- Super-SEO-Spam-Suppressor
+- TLDs-cc
+- TLDs-g
+- uBlacklist Filters for Suspicious Downloads
+- uBlock-Origin-Dev-Filter
+- uBlockOrigin & uBlacklist Nuclear AI Blocklist
+
 List Sources: 
 A. https://ublacklist.github.io/subscriptions
 B. https://github.com/rjaus/awesome-ublacklist?tab=readme-ov-file
 C. https://github.com/nicoleahmed/nicoles-ublacklist/
 D: https://github.com/NyeUsr/Blacklist/tree/main/uBlacklist
+
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 MY LISTS
