@@ -4445,6 +4445,7 @@
 *://*.livesexcams.rocks/*
 *://*.livesexcams.work/*
 *://*.livesexcams9.com/*
+*://*.livesexchat.com/*
 *://*.lizardporn.com/*
 *://*.liztube.com/*
 *://*.llamamann-games.itch.io/*
