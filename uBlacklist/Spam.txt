@@ -1,4 +1,4 @@
-# Name: Spam
+# Name: Spam by Gi0x
 # Description: Hides low-quality, fake & spammy sites from search results
 # DeDup: Y
 # Sorted: Y
