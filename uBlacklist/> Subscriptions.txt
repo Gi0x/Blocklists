@@ -3,8 +3,7 @@ A. https://ublacklist.github.io/subscriptions
 B. https://github.com/rjaus/awesome-ublacklist?tab=readme-ov-file
 C. https://github.com/nicoleahmed/nicoles-ublacklist/
 D: https://github.com/NyeUsr/Blacklist/tree/main/uBlacklist
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 AI GENERATED IMAGES
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 [1] uBlockOrigin & uBlacklist Huge AI Blocklist - Nuclear by laylavish
@@ -47,9 +46,6 @@ UNSAFE & MALICIOUS SITES
 Info: Blocks a bunch of unsafe/harmful/malicious websites listed in FMHY Unsafe Sites page.
 Raw > https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt
 
-[2] 
+[2] uBlacklist filters for suspicious downloads
 Info: Blocks sites that host suspicious downloads
 Raw > https://raw.githubusercontent.com/ngoomie/uBlacklist-suspicious-downloads/main/list.txt
-
-
-
