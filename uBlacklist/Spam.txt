@@ -2,6 +2,7 @@
 # Description: Hides low-quality, fake & spammy sites from search results
 # DeDup: Y
 # Sorted: Y
+# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Spam.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Affiliate SEO spam
