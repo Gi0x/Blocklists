@@ -2,6 +2,7 @@
 # Description: Hides all sports related sites (incl. streaming) from search results
 # DeDup: Y
 # Sorted: Y
+# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Sports.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Sports Betting & Odds Sites
