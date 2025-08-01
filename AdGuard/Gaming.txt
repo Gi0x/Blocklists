@@ -2,6 +2,7 @@
 ! Description: Blocks online games, gaming news media & stores
 ! DeDup: Y
 ! Sorted: Y
+! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Gaming.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||007arcadegames.com^
