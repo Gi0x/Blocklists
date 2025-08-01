@@ -14,7 +14,7 @@ Raw > https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 
 CONTENT FARMS
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-[1]  Generic Content Farm
+[1]  Generic Content Farms
 By: wdmpa
 Info: Blocks AI content farm.
 Raw > https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
