@@ -1,4 +1,4 @@
-# Title: Photo Editors
+# Title: Photo Editors by Gi0x
 # Description: Hides web-based photo & graphics editors from search results
 # DeDup: Y
 # Sorted: Y
