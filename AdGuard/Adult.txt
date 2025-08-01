@@ -1,5 +1,5 @@
 ! Title: Adult by Gi0x
-! Description: Hides porn, sex shops & other adult material (ex. bdsm) from search results
+! Description: Blocks porn, sex shops & other adult material (ex. bdsm)
 ! DeDup: Y
 ! Sorted: Y
 ! Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
