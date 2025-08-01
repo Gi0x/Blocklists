@@ -1,1 +1,10 @@
-
+! Title: Streaming by Gi0x
+! Description: Hides audiovisual streaming sites from search results
+! DeDup: Y
+! Sorted: Y
+! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Streaming.txt
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! AUDIO
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Audiobook Platforms
