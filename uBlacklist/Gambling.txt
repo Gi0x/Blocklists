@@ -2,6 +2,7 @@
 # Description: Hides gambling & betting sites from search results
 # DeDup: Y
 # Sorted: Y
+# URL: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gambling.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.1xbet./*
