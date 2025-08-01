@@ -2,6 +2,7 @@
 ! Description: Blocks chat sites & apps
 ! DeDup: Y
 ! Sorted: Y
+! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Chat.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||321chat.com^
