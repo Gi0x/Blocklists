@@ -1,4 +1,4 @@
-! Name: Profanity
+! Name: Profanity by Gi0x
 ! Description: Blocks explicit content based on keywords that appear in URLs
 ! DeDup: Y
 ! Sorted: Y
