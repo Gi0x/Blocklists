@@ -1,4 +1,4 @@
-! Title: Gaming
+! Title: Gaming by Gi0x
 ! Description: Blocks online games, gaming news media & stores
 ! DeDup: Y
 ! Sorted: Y
