@@ -1,4 +1,4 @@
-# Name: Dating
+# Title: Dating by Gi0x
 # Description: Hides anything that has to do with dating & seduction from search results
 # DeDup: Y
 # Sorted: Y
