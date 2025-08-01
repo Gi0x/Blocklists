@@ -5,33 +5,6 @@
 # URL: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Social.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Social.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Social Media
-
-*://*.ask.fm/*
-*://*.bere.al/*
-*://*.bereal.com/*
-*://*.classmates.com/*
-*://*.clubhouse.com/*
-*://*.collabstr.com/*
-*://*.commentsmodule.com/*
-*://*.deviantart.com/*
-*://*.disqus.com/*
-*://*.linkedin.com/*
-*://*.myspace.com/*
-*://*.mytelegram.org/*
-*://*.quora.com/*
-*://*.t.me/*
-*://*.telegram.im/*
-*://*.telegram.me/*
-*://*.telegram.org/*
-*://*.tumblr.com/*
-*://*.vk.com/*
-*://*.vk.me/*
-*://*.wattpad.com/*
-*://*.weheartit.com/*
-*://*.wopita.com/*
-
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Discord
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
@@ -499,6 +472,28 @@
 *://*.mstdn.starnix.network/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Misc Social Media
+
+*://*.ask.fm/*
+*://*.bere.al/*
+*://*.bereal.com/*
+*://*.classmates.com/*
+*://*.clubhouse.com/*
+*://*.collabstr.com/*
+*://*.commentsmodule.com/*
+*://*.deviantart.com/*
+*://*.disqus.com/*
+*://*.linkedin.com/*
+*://*.myspace.com/*
+*://*.quora.com/*
+*://*.tumblr.com/*
+*://*.vk.com/*
+*://*.vk.me/*
+*://*.wattpad.com/*
+*://*.weheartit.com/*
+*://*.wopita.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Pinterest
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Pinterest.txt
 
@@ -582,6 +577,15 @@
 *://*.snapads.com/*
 *://*.snapchat.com/*
 *://*.snapkit.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Telegram
+
+*://*.mytelegram.org/*
+*://*.t.me/*
+*://*.telegram.im/*
+*://*.telegram.me/*
+*://*.telegram.org/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # TikTok
