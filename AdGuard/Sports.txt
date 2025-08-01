@@ -1,7 +1,8 @@
-! Name: Sports by Gi0x
+! Title: Sports by Gi0x
 ! Description: Blocks all sports related sites (incl. streaming)
 ! DeDup: Y
 ! Sorted: Y
+! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Sports.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||1-2pitch.com^
