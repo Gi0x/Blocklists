@@ -1,4 +1,4 @@
-# Name: Adult
+# Title: Adult by Gi0x
 # Description: Hides porn, sex shops & other adult material (ex. bdsm) from search results
 # DeDup: Y
 # Sorted: Y
