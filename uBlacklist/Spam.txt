@@ -11,11 +11,62 @@
 *://*.top10best.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Fake Bio Sites
+
+*://*.arrivebio.org/*
+*://*.articlebio.com/*
+*://*.bioagewho.co/*
+*://*.biogossipy.com/*
+*://*.biografija.org/*
+*://*.biografijaonline.com/*
+*://*.biografijapoznatih.com/*
+*://*.biographicsworld.com/*
+*://*.biographies.net/*
+*://*.biographiesareus.com/*
+*://*.biographiesofactors.com/*
+*://*.biographs.org/*
+*://*.biography.com/*
+*://*.biographybro.com/*
+*://*.biographygist.com/*
+*://*.biographyhost.com/*
+*://*.biographyline.com/*
+*://*.biographymafia.com/*
+*://*.biographymask.com/*
+*://*.biographymask.org/*
+*://*.biographypedia.org/*
+*://*.biographyscoop.com/*
+*://*.biographystars.com/*
+*://*.biographytrendz.com/*
+*://*.biographytribune.com/*
+*://*.bioscops.com/*
+*://*.biowikis.com/*
+*://*.ebiographypost.com/*
+*://*.marriedbiography.com/*
+*://*.metrobiography.com/*
+*://*.popularbio.com/*
+*://*.popularbiographies.wordpress.com/*
+*://*.purebiography.com/*
+*://*.shortbiography.info/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Fake Download & Software Mirror Sites
 
 *://*.filehippo.com/*
 *://*.freedownloadmanager.com/*
 *://*.softonic.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Fake Wikis
+
+*://*.wikiake.com/*
+*://*.wikibiography.in/*
+*://*.wikicelebs.com/*
+*://*.wikichowk.com/*
+*://*.wikigd.com/*
+*://*.wikiofcelebs.com/*
+*://*.wikiobits.com/*
+*://*.wikistarbio.com/*
+*://*.wikiwiki.in/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Low-Quality Copycat Tutorials
