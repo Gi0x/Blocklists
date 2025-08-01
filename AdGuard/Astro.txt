@@ -1,4 +1,4 @@
-! Title: Astro
+! Title: Astro by Gi0x
 ! Description: Blocks astrology & tarot websites
 ! DeDup: Y
 ! Sorted: N
