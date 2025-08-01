@@ -1,4 +1,4 @@
-! Name: Spam
+! Name: Spam by Gi0x
 ! Description: Blocks low-quality, fake & spammy sites
 ! DeDup: Y
 ! Sorted: Y
