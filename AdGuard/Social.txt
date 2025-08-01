@@ -1,13 +1,13 @@
-# Title: Social by Gi0x
-# Description: Blocks social media
-# DeDup: Y
-# Sorted: Y
-# URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Social.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Social.txt
-# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Discord
-# Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
+! Title: Social by Gi0x
+! Description: Blocks social media
+! DeDup: Y
+! Sorted: Y
+! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Social.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Social.txt
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Discord
+! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
 
 ||discord.com^
 ||discord.gg^
@@ -15,9 +15,9 @@
 ||discordapp.com^
 ||discordapp.net^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Facebook (Meta), Instagram & Threads
-# Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Facebook.txt
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Facebook (Meta), Instagram & Threads
+! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Facebook.txt
 
 ||atlassolutions.com^
 ||bulletin.com^
@@ -87,7 +87,7 @@
 ||wk.pl^
 ||workplace.com^
 
-# Instagram Viewing Sites
+! Instagram Viewing Sites
 
 ||ahasave.com^
 ||allstories.co^
@@ -448,8 +448,8 @@
 ||zirk.us^
 ||zoominsta.de^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Mastodon
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Mastodon
 
 ||joinmastodon.org^
 ||mas.to^
@@ -471,8 +471,8 @@
 ||mstdn.social^
 ||mstdn.starnix.network^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Misc Social Media
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Misc Social Media
 
 ||ask.fm^
 ||bere.al^
@@ -493,9 +493,9 @@
 ||weheartit.com^
 ||wopita.com^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Pinterest
-# Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Pinterest.txt
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Pinterest
+! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Pinterest.txt
 
 ||curator.co^
 ||instapaper.com^
@@ -552,18 +552,18 @@
 ||vochi.app^
 ||vochi.com^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Reddit
-# Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Reddit.txt
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Reddit
+! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Reddit.txt
 
 ||redd.it^
 ||reddit.com^
 ||redditmedia.com^
 ||redditstatic.com^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Snapchat
-# Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Snapchat.txt
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Snapchat
+! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Snapchat.txt
 
 ||bitmoji.com^
 ||feelinsonice.com^
@@ -578,8 +578,8 @@
 ||snapchat.com^
 ||snapkit.com^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Telegram
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Telegram
 
 ||mytelegram.org^
 ||t.me^
@@ -587,9 +587,9 @@
 ||telegram.me^
 ||telegram.org^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# TikTok
-# Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/TikTok.txt
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! TikTok
+! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/TikTok.txt
 
 ||bytedance.com^
 ||byteoversea.com^
@@ -601,9 +601,9 @@
 ||tiktokcdn.com^
 ||tiktokv.com^
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Twitter
-# Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Twitter.txt
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! Twitter
+! Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Twitter.txt
 
 ||mopub.com^
 ||periscope.tv^
