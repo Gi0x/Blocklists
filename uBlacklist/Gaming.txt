@@ -1,4 +1,4 @@
-# Name: Gaming
+# Name: Gaming by Gi0x
 # Description: Hides anything to do with gaming from search results
 # DeDup: N
 # Sorted: N
@@ -35,14 +35,9 @@
 *://*.gaming.net/*
 *://*.gamingonphone.com/*
 *://*.giantbomb.com/*
-*://*.igdb.com/*
-*://*.ign.com/*
-*://*.insider-gaming.com/*
-*://*.kotaku.com/*
 *://*.nba2k.com/*
 *://*.nulls-brawl.com/*
 *://*.officialactivision.com/*
-*://*.pcgamer.com/*
 *://*.playstation.com/*
 *://*.pocketgamer.com/*
 *://*.riotgames.com/*
@@ -69,14 +64,23 @@
 *://*.ubisoft.com/*
 *://*.unrealengine.com/*
 *://*.cgmagonline.com/*
-*://*.pcgamingwiki.com/*
-*://*.nichegamer.com/*
 *://*.g2a.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Gaming News Media
 
-
+*://*.eurogamer.net/*
+*://*.europeangaming.eu/*
+*://*.pcgamingwiki.com/*
+*://*.nichegamer.com/*
+*://*.pcgamer.com/*
+*://*.igdb.com/*
+*://*.ign.com/*
+*://*.insider-gaming.com/*
+*://*.kotaku.com/*
+*://*.gamerant.com/*
+*://*.gamereactor.eu/*
+*://*.gamerworldnews.com/*
 
 
 
@@ -137,8 +141,6 @@
 *://*.daysofwonder.com/*
 *://*.elderscrollsonline.com/*
 *://*.epicgames.com/*
-*://*.eurogamer.net/*
-*://*.europeangaming.eu/*
 *://*.eveonline.com/*
 *://*.freeonlinegames.com/*
 *://*.funbrain.com/*
@@ -148,9 +150,6 @@
 *://*.gameinformer.com/*
 *://*.gamepix.com/*
 *://*.gameranger.com/*
-*://*.gamerant.com/*
-*://*.gamereactor.eu/*
-*://*.gamerworldnews.com/*
 *://*.games.metv/*
 *://*.gamesgames.com/*
 *://*.gamesnewzz.com/*
@@ -168,7 +167,6 @@
 *://*.happygamer.com/*
 *://*.heyduggee.com/*
 *://*.igg.com/*
-*://*.ign.com/*
 *://*.innogames.com/*
 *://*.jackboxgames.com/*
 *://*.jiogames.com/*
