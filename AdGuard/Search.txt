@@ -1,4 +1,4 @@
-! Title: Search
+! Title: Search by Gi0x
 ! Description: Blocks listed browsers & search engines
 ! Dedup: Y
 ! Sorted: Y
