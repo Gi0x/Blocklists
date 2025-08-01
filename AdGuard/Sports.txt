@@ -1,4 +1,4 @@
-! Name: Sports
+! Name: Sports by Gi0x
 ! Description: Blocks all sports related sites (incl. streaming)
 ! DeDup: Y
 ! Sorted: Y
