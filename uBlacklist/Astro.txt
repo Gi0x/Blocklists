@@ -1,4 +1,4 @@
-# Name: Astro
+# Title: Astro by Gi0x
 # Description: Hides astrology related sites from search results
 # DeDup: Y
 # Sorted: Y
