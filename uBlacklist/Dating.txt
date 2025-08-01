@@ -2,6 +2,7 @@
 # Description: Hides anything that has to do with dating & seduction from search results
 # DeDup: Y
 # Sorted: Y
+# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Dating.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.007agent-russian-women.net/*
