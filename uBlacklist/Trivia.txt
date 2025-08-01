@@ -1,4 +1,4 @@
-# Title: Trivia
+# Title: Trivia by Gi0x
 # Description: Hides spammy clickbait about celebrities (their bios, fame & networth)
 # DeDup: Y
 # Sorted: Y
