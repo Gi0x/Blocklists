@@ -1,4 +1,4 @@
-# Name: Gaming by Gi0x
+# Title: Gaming by Gi0x
 # Description: Hides anything to do with gaming from search results
 # DeDup: N
 # Sorted: N
