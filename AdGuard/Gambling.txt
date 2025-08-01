@@ -1,4 +1,4 @@
-! Title: Gambling
+! Title: Gambling by Gi0x
 ! Description: Blocks gambling & betting sites
 ! DeDup: Y
 ! Sorted: Y
