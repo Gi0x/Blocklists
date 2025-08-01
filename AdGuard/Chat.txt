@@ -1,4 +1,4 @@
-! Title: Chat
+! Title: Chat by Gi0x
 ! Description: Blocks chat sites & apps
 ! DeDup: Y
 ! Sorted: Y
