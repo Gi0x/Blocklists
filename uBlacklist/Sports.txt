@@ -1,4 +1,4 @@
-# Name: Sports by Gi0x
+# Title: Sports by Gi0x
 # Description: Hides all sports related sites (incl. streaming) from search results
 # DeDup: Y
 # Sorted: Y
