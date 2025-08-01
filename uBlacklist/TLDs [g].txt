@@ -1,4 +1,4 @@
-# Name: gTLDs
+# Name: gTLDs by Gi0x
 # Description: Hides generic TLDs
 # DeDup: Y
 # Sorted: Y
