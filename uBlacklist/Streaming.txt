@@ -1,17 +1,113 @@
 # Name: Streaming
-# Description: Hides streaming sites from search results
+# Description: Hides audiovisual streaming sites from search results
 # DeDup: Y
 # Sorted: Y
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # AUDIO
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Audiobook Platforms
 
+*://*.audible.com/*
+*://*.audiobooks.com/*
+*://*.chirpbooks.com/*
+*://*.downpour.com/*
+*://*.highbridgeaudio.com/*
+*://*.kobo.com/audiobooks/*
+*://*.libriVox.org/*
+*://*.libro.fm/*
+*://*.storytel.com/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Internet Radio Platforms
 
+*://*.bbc.co.uk/sounds/*
+*://*.cbc.ca/listen/*
+*://*.iheart.com/*
+*://*.mytuner-radio.com/*
+*://*.npr.org/*
+*://*.radio.com/*
+*://*.radio.garden/*
+*://*.radio.net/*
+*://*.radiogarden.fm/*
+*://*.rad.io/*
+*://*.siriusxm.com/*
+*://*.streema.com/*
+*://*.tunein.com/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Music Streaming Sites
 
+*://*.amazonmusic.com/*
+*://*.anghami.com/*
+*://*.audiomack.com/*
+*://*.boomplay.com/*
+*://*.deezer.com/*
+*://*.gaana.com/*
+*://*.jiosaavn.com/*
+*://*.joox.com/*
+*://*.music.apple.com/*
+*://*.music.youtube.com/*
+*://*.napster.com/*
+*://*.open.spotify.com/*
+*://*.pandora.com/*
+*://*.qobuz.com/*
+*://*.soundcloud.com/*
+*://*.spotify.com/*
+*://*.tidal.com/*
+*://*.vk.com/music/*
+*://*.wynk.in/*
+*://*.yandex.music.ru/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Niche Audio Upload Platforms
+
+*://*.8tracks.com/*
+*://*.bandcamp.com/*
+*://*.hearthis.at/*
+*://*.jukesy.com/*
+*://*.mixcloud.com/*
+*://*.musicxray.com/*
+*://*.noisetrade.com/*
+*://*.reverbnation.com/*
+*://*.sonicbids.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Podcast Platforms
+
+*://*.anchor.fm/*
+*://*.blubrry.com/*
+*://*.buzzsprout.com/*
+*://*.castbox.fm/*
+*://*.google.com/podcasts/*
+*://*.open.spotify.com/show//*
+*://*.overcast.fm/*
+*://*.pocketcasts.com/*
+*://*.podbean.com/*
+*://*.podcasts.apple.com/*
+*://*.rss.com/*
+*://*.simplecast.com/*
+*://*.stitcher.com/*
+*://*.tunein.com/podcasts/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Smart Speaker Streaming Domains
+
+*://*.alexa.amazon.com/*
+*://*.alexa.amazon.co.uk/*
+*://*.device-metrics-us.amazon.com/*
+*://*.device-metrics.amazon.com/*
+*://*.gpmusic-pa.googleapis.com/*
+*://*.play.google.com/music/*
+*://*.sonos.com/*
+*://*.api.sonos.com/*
+*://*.music.amazon.com/*
+*://*.voice.google.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# YouTube Music
+
+*://*.music.youtube.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # VIDEO
