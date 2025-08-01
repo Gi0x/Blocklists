@@ -1,4 +1,4 @@
-! Title: Generic TLDs
+! Title: gTLDs by Gi0x
 ! Description: Blocks Generic Top Level Domains
 ! DeDup: Y
 ! Sorted: Y
