@@ -113,7 +113,7 @@
 *://*.wk.pl/*
 *://*.workplace.com/*
 
-# Instagram viewing sites
+# Instagram Viewing Sites
 
 *://*.ahasave.com/*
 *://*.allstories.co/*
@@ -157,6 +157,7 @@
 *://*.dolphinradar.com/*
 *://*.downev.com/*
 *://*.dumpor.co.uk/*
+*://*.dumpor.com/*
 *://*.dumpor.io/*
 *://*.embedsocial.com/*
 *://*.espressocoder.com/*
@@ -169,14 +170,17 @@
 *://*.fosstodon.org/*
 *://*.funer.cc/*
 *://*.gc2.jp/*
+*://*.gfe.gg/*
 *://*.glassagrm.com/*
 *://*.go5.dev/*
 *://*.goread.io/*
 *://*.gramhir.com/
+*://*.gramhir.com/*
 *://*.gramhir.pro/*
 *://*.gramhir.us/*
 *://*.gramho.com/*
 *://*.gramsnap.com/*
+*://*.gramvio.com/*
 *://*.gramvio.net/*
 *://*.gramzoom.com/*
 *://*.greatercollinwood.org/*
@@ -196,6 +200,7 @@
 *://*.iganonyviewer.com/*
 *://*.igcomment.com/*
 *://*.ighighlightviewer.com/*
+*://*.iglookup.com/*
 *://*.igmods.com/*
 *://*.igrab.online/*
 *://*.igram.mx/*
@@ -215,6 +220,7 @@
 *://*.imginn.io/*
 *://*.imginn.org/*
 *://*.imginnn.com/*
+*://*.imginnta.com/*
 *://*.imglooker.net/*
 *://*.imglookup.co/*
 *://*.imglookup.com/*
@@ -241,13 +247,18 @@
 *://*.insta-editor.com/*
 *://*.insta-navigator.com/*
 *://*.insta-spy.net/*
+*://*.insta-stalker.com/*
 *://*.insta-stories-viewer.com/*
+*://*.insta-stories.online/*
 *://*.insta-stories.ru/*
 *://*.insta-story-viewer.pl/*
+*://*.insta-viewer.com/*
 *://*.instaanony.com/*
 *://*.instabiography.com/*
 *://*.instadp.fun/*
+*://*.instadp.io/*
 *://*.instadp.net/*
+*://*.instafinsta.com/*
 *://*.instafollowers.co/*
 *://*.instafreeview.com/*
 *://*.instagramviewer.com/*
@@ -261,6 +272,7 @@
 *://*.instanonimo.com/*
 *://*.instanonymous.com/*
 *://*.instant-stories.com/*
+*://*.instaoffline.net/*
 *://*.instapeeker.com/*
 *://*.instaprofileviewer.com/*
 *://*.instapv.com/*
@@ -271,18 +283,24 @@
 *://*.instascop.com/*
 *://*.instasize.com/*
 *://*.instastalker.info/*
-*://*.instastories2.com/*
 *://*.instastories.watch/*
+*://*.instastories2.com/*
+*://*.instastoriesru.com/*
+*://*.instastoriesviewer.com/*
 *://*.instastory.org/*
 *://*.instastory.watch/*
 *://*.instastoryviewer.io/*
 *://*.instastoryviewers.com/*
 *://*.instasupersave.com/*
 *://*.instasv.com/*
+*://*.instausers.com/*
+*://*.instaview.me/*
 *://*.instaview.social/*
+*://*.instaviewer.app/*
 *://*.instavisor.net/*
 *://*.instawebviewer.com/*
 *://*.instazoom.co/*
+*://*.instazoom.mobi/*
 *://*.instights.com/*
 *://*.inststalk.com/*
 *://*.instuky.com/*
@@ -292,6 +310,7 @@
 *://*.invisispy.com/*
 *://*.inzto.com/*
 *://*.iqsaved.com/*
+*://*.izoomyou.com/*
 *://*.jolygram.com/*
 *://*.kahawatungu.com/*
 *://*.keesy.com/*
@@ -318,6 +337,7 @@
 *://*.pages.dev/*
 *://*.pathsocial.com/*
 *://*.pawoo.net/*
+*://*.paxtier.com/*
 *://*.picgger.com/*
 *://*.picnob.co.uk/*
 *://*.picnob.info/*
@@ -340,6 +360,7 @@
 *://*.popygram.com/*
 *://*.privatephotoviewer.com/*
 *://*.pypi.org/*
+*://*.qevna.com/*
 *://*.quasa.io/*
 *://*.quickfansandlikes.com/*
 *://*.recently-followed.com/*
@@ -347,6 +368,7 @@
 *://*.s.sneak.berlin/*
 *://*.save-free.app/*
 *://*.save-free.com/*
+*://*.save-insta.com/*
 *://*.scanick.com/*
 *://*.searchengineinsight.com/*
 *://*.simpliers.co/*
@@ -382,6 +404,7 @@
 *://*.storiesdown.com/*
 *://*.storiesdown.fun/*
 *://*.storiesdown.info/*
+*://*.storiesig.com/*
 *://*.storiesig.fun/*
 *://*.storiesig.me/*
 *://*.storiesig.net/*
@@ -395,6 +418,7 @@
 *://*.story-viewer.org/*
 *://*.storybox.io/*
 *://*.storyghost.online/*
+*://*.storyinsta.com/*
 *://*.storyinstanavigation.com/*
 *://*.storynavigation.com/*
 *://*.storyninja.app/*
@@ -441,10 +465,12 @@
 *://*.virtualsocialmedia.com/*
 *://*.vistasocial.com/*
 *://*.wan.io/*
+*://*.watchinsta.com/*
 *://*.weareiu.com/*
 *://*.webstagram.org/*
 *://*.witches.live/*
 *://*.xnspy.com/*
+*://*.yooying.com/*
 *://*.zirk.us/*
 *://*.zoominsta.de/*
 
