@@ -4,6 +4,7 @@ B. https://github.com/rjaus/awesome-ublacklist?tab=readme-ov-file
 C. https://github.com/nicoleahmed/nicoles-ublacklist/
 D: https://github.com/NyeUsr/Blacklist/tree/main/uBlacklist
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
 AI GENERATED IMAGES
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 [1] uBlockOrigin & uBlacklist Huge AI Blocklist - Nuclear by laylavish
