@@ -2,6 +2,7 @@
 # Description: Hides generic TLDs
 # DeDup: Y
 # Sorted: Y
+# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/TLDs%20%5Bg%5D.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # [A]
