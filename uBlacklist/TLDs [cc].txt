@@ -1,4 +1,4 @@
-# Name: TLDs [cc]
+# Name: ccTLDs by Gi0x
 # Description: Hides TLDs by country code
 # DeDup: Y
 # Sorted: Y
