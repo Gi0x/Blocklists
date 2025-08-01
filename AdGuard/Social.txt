@@ -1,4 +1,4 @@
-! Name: Social
+! Name: Social by Gi0x
 ! Description: Blocks social media
 ! DeDup: Y
 ! Sorted: Y
