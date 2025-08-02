@@ -1,9 +1,9 @@
-# Title: Adult by Gi0x
+# Title: Adult
 # Description: Hides porn, sex shops & other adult material (ex. bdsm) from search results
-# DeDup: Y
-# Sorted: Y
+# DeDup: Y, Sorted: Y
+# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Adult.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Adult.txt
 # Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
-# URL: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Adult.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.00101001.com/*
