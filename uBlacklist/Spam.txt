@@ -60,6 +60,7 @@
 
 *://*.arrivebio.org/*
 *://*.articlebio.com/*
+*://*.bignamebio.com/*
 *://*.bioagewho.co/*
 *://*.biogossipy.com/*
 *://*.biografija.org/*
@@ -87,6 +88,7 @@
 *://*.biowikis.com/*
 *://*.deepersonbiography.com/*
 *://*.ebiographypost.com/*
+*://*.legendsbio.com/*
 *://*.marriedbiography.com/*
 *://*.metrobiography.com/*
 *://*.nextbiography.com/*
@@ -98,6 +100,7 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Fake Celebrity, Gossip, Pop Culture & Networth Sites
 
+*://*.americancelebritynews.com/*
 *://*.celebsaga.com/*
 *://*.celebsagewiki.com/*
 *://*.celebsbiography.info/*
@@ -303,12 +306,14 @@
 *://*.celebrityfakes4u.com/*
 *://*.celebrityfashionperfume.com/*
 *://*.celebrityfitlifestyle.com/*
+*://*.celebrityflashhub.com/*
 *://*.celebrityfling.com/*
 *://*.celebrityfunfacts.com/*
 *://*.celebritygalls.com/*
 *://*.celebritygen.com/*
 *://*.celebritygossip.com/*
 *://*.celebritygossipshow.com/*
+*://*.celebrityherald.com/*
 *://*.celebrityhomes.eu/*
 *://*.celebrityhow.com/*
 *://*.celebrityink.com/*
@@ -383,6 +388,7 @@
 *://*.celebritywshow.com/*
 *://*.celebrityxyz.com/*
 *://*.celebrityzone.co.uk/*
+*://*.celebgate.org/*
 *://*.celebrooms.com/*
 *://*.celebrush.com/*
 *://*.celebrything.com/*
@@ -457,6 +463,7 @@
 *://*.celebzz.com/*
 *://*.checkcelebrity.com/*
 *://*.contactanycelebrity.com/*
+*://*.crazybollywoodcelebrities.com/*
 *://*.dailyhotcelebs.com/*
 *://*.datingcelebs.com/*
 *://*.ecelebfacts.com/*
@@ -519,6 +526,7 @@
 *://*.marriedceleb.com/*
 *://*.marriedcelebrity.com/*
 *://*.millionsofcelebs.com/*
+*://*.mmcelebrity.info/*
 *://*.mycelebritybio.com/*
 *://*.mycelebritylife.co/*
 *://*.networthcelebrities.com/*
@@ -533,6 +541,7 @@
 *://*.platinum-celebs.com/*
 *://*.playcelebs.net/*
 *://*.pregnant-celebrities.com/*
+*://*.richlistcelebs.com/*
 *://*.rockingcelebrity.com/*
 *://*.seulceleb.com/*
 *://*.shamelesscelebrities.com/*
@@ -593,6 +602,7 @@
 *://*.xelebrity.com/*
 *://*.yolocelebs.com/*
 *://*.yourcelebrity.net/*
+*://*.yourcelebritymagazines.com/*
 
 # Fame & Glamour
 
@@ -600,10 +610,10 @@
 *://*.allfamoustrend.com/*
 *://*.fame10.com/*
 *://*.fameandname.com/*
-*://*.fameshala.com/*
 *://*.famedpeople.com/*
 *://*.famedstar.com/*
 *://*.fameregistry.com/*
+*://*.fameshala.com/*
 *://*.fametastic.co.uk/*
 *://*.famewatcher.com/*
 *://*.famewiki.com/*
@@ -624,6 +634,7 @@
 *://*.famousfix.com/*
 *://*.famousgravehunter.com/*
 *://*.famoushookups.com/*
+*://*.famousintel.com/*
 *://*.famousintro.com/*
 *://*.famouspeople.com/*
 *://*.famouspeopletoday.com/*
@@ -778,6 +789,7 @@
 *://*.hollywoodunlocked.com/*
 *://*.hollywoodzam.com/*
 *://*.thehollywoodgossip.com/*
+*://*.younghollywood.com/*
 
 # Jet Set
 
@@ -937,6 +949,7 @@
 *://*.peoplewithimpact.com/*
 *://*.peopollywood.com/*
 *://*.perfectpeople.net/*
+*://*.personality-database.com/*
 *://*.pipole.net/*
 *://*.popbabble.org/*
 *://*.popbitch.com/*
@@ -970,6 +983,7 @@
 *://*.shootingpeople.org/*
 *://*.stuffwhitepeoplelike.com/*
 *://*.thepeoplehistory.com/*
+*://*.thepersonage.com/*
 *://*.waterforpeople.org/*
 
 # Stardom & Stars
@@ -983,6 +997,8 @@
 *://*.antoine-stars.skyrock.com/*
 *://*.biggeststars.com/*
 *://*.biosstars.com/*
+*://*.blackstarnews.com/*
+*://*.bollysuperstar.com/*
 *://*.buzzinsoapstars.co.uk/*
 *://*.canalstars.com/*
 *://*.dailystarnews.com/*
@@ -1047,6 +1063,7 @@
 *://*.starsagency.com/*
 *://*.starsansmaquillage.fr/*
 *://*.starsareunderground.free.fr/*
+*://*.starsaytruth.com/*
 *://*.starsblog.dallasnews.com/*
 *://*.starschanges.com/*
 *://*.starsdiary.com/*
@@ -1088,6 +1105,7 @@
 *://*.24usainfo.com/*
 *://*.24x365live.com/*
 *://*.arealnews.com/*
+*://*.azquotes.com/*
 *://*.bestthings.us/*
 *://*.bigbluevision.org/*
 *://*.bluenewsvision.net/*
@@ -1096,10 +1114,12 @@
 *://*.citimuzik.com/*
 *://*.deadorkicking.com/*
 *://*.disclose.tv/*
+*://*.distractify.com/*
 *://*.edailybuzz.com/*
 *://*.edudwar.com/*
 *://*.everytimestory.com/*
 *://*.expose-news.com/*
+*://*.factmandu.com/*
 *://*.factrider.com/*
 *://*.facts.net/*
 *://*.feelingnews.com/*
@@ -1107,6 +1127,7 @@
 *://*.gummypost.com/*
 *://*.heightpost.com/*
 *://*.howold.co/*
+*://*.howtallheight.com/*
 *://*.infobae.com/*
 *://*.informationcradle.com/*
 *://*.informationngr.com/*
@@ -1117,12 +1138,11 @@
 *://*.livemonitor.co.za/*
 *://*.longarticles.com/*
 *://*.losdanieles.net/*
-*://*.luxurytheme[.]com/*
+*://*.luxurytheme.com/*
 *://*.majorthoughts.com/*
 *://*.mediazone.news/*
 *://*.metropolitanworlds.com/*
 *://*.mintpressnews.com/*
-*://*.mmcelebrity.info/*
 *://*.mminfo24.com/*
 *://*.mmrednews.com/*
 *://*.myanmaralinn.best/*
@@ -1133,20 +1153,28 @@
 *://*.newspost.xyz/*
 *://*.onlinehartha.com/*
 *://*.onlinelawka.com/*
+*://*.oneworldinformation.com/*
 *://*.poppingboxmm.com/*
 *://*.poppingmyanmar.com/*
+*://*.prosieben.de/*
 *://*.pyawsayar.com/*
+*://*.quizbash.com/*
+*://*.ranker.com/*
 *://*.realrawnews.com/*
 *://*.santhitsa.net/*
 *://*.sportmyanmarnews.com/*
+*://*.startefacts.com/*
 *://*.storefeeling.com/*
 *://*.sweetmyanmar.com/*
+*://*.thefactscity.com/*
 *://*.thunkhuma.info/*
 *://*.thutazone.org/*
 *://*.tiemmesspecialnews.com/*
+*://*.trendradars.com/*
 *://*.updatenew.net/*
 *://*.walikali.com/*
 *://*.wowmyanmar.com/*
+*://*.zoomboola.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Copycat Tutorials
@@ -1191,7 +1219,7 @@
 *://*.zeallsoft.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake Wikis
+# Wikis
 
 *://*.aidwiki.com/*
 *://*.biographywiki.net/*
@@ -1204,12 +1232,15 @@
 *://*.rationalwiki.org/*
 *://*.spousewiki.com/*
 *://*.vergewiki.com/*
+*://*.wiki-en.org/*
+*://*.wikia.com/*
 *://*.wikiake.com/*
 *://*.wikiany.net/*
 *://*.wikibery.com/*
 *://*.wikibioage.com/*
 *://*.wikibiography.in/*
 *://*.wikibioinside.com/*
+*://*.wikibious.com/*
 *://*.wikibioz.com/*
 *://*.wikibirthdays.com/*
 *://*.wikiblog.org/*
@@ -1217,6 +1248,7 @@
 *://*.wikichowk.com/*
 *://*.wikifame.org/*
 *://*.wikifamous.com/*
+*://*.wikifamouspeople.com/*
 *://*.wikifeet.com/*
 *://*.wikifeetx.com/*
 *://*.wikigd.com/*
