@@ -228,6 +228,7 @@
 *://*.celebrities.ninemsn.com.au/*
 *://*.celebritiesbiodata.com/*
 *://*.celebritiesdeaths.com/*
+*://*.celebritiesdetails.com/*
 *://*.celebritiesfans.com/*
 *://*.celebritiesfrom.com/*
 *://*.celebritiesinformation.com/*
@@ -1098,11 +1099,12 @@
 *://*.zoomstars.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Clickbaity Websites
+# Clickbaity Listicles
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
 *://*.24x365live.com/*
+*://*.aitechtonic.com/*
 *://*.arealnews.com/*
 *://*.azquotes.com/*
 *://*.bestthings.us/*
