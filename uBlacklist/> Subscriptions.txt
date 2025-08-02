@@ -3,17 +3,17 @@ SUBSCRIPTION LISTS FOR UBLACKLIST
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 Suggested Input Order: 
 
-- Ad & Tracking Server Domain List
-- BadwebsiteBlocklist
-- Fake Webstores
-- FMHY Unsafe Sites Filterlist
-- Generic Content Farms
-- SpamdexingSites
-- Super-SEO-Spam-Suppressor
-- uBlacklist Filters for Suspicious Downloads
-- uBlock-Origin-Dev-Filter
-- uBlockOrigin & uBlacklist Nuclear AI Blocklist
-- Gi0x's Lists (A-Z)
++ Ad & Tracking Server Domain List
++ BadwebsiteBlocklist
++ Fake Webstores
++ FMHY Unsafe Sites Filterlist
++ Generic Content Farms
++ SpamdexingSites
++ Super-SEO-Spam-Suppressor
++ uBlacklist Filters for Suspicious Downloads
++ uBlock-Origin-Dev-Filter
++ uBlockOrigin & uBlacklist Nuclear AI Blocklist
++ Gi0x's Lists (A-Z)
 
 Sources: 
 A. https://ublacklist.github.io/subscriptions
