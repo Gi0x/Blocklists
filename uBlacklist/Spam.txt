@@ -1130,6 +1130,7 @@
 *://*.feelingnews.com/*
 *://*.focustimes.org/*
 *://*.gummypost.com/*
+*://*.hauls.blob.core.windows.net/*
 *://*.heightpost.com/*
 *://*.howold.co/*
 *://*.howtallheight.com/*
