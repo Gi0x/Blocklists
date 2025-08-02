@@ -1,8 +1,8 @@
-# Title: Gaming by Gi0x
+# Title: Gaming
 # Description: Hides anything to do with gaming from search results
-# DeDup: N
-# Sorted: N
-# URL: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gaming.txt
+# DeDup: N, Sorted: N
+# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gaming.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Game Development Companies
@@ -82,8 +82,6 @@
 *://*.gamerant.com/*
 *://*.gamereactor.eu/*
 *://*.gamerworldnews.com/*
-
-
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Online Games
