@@ -42,7 +42,6 @@
 *://*.neeness.com/*
 *://*.profound-answers.com/*
 *://*.qa.engineer.com/*
-*://*.quora.com/*
 *://*.questionsgems.com/*
 *://*.remodelormove.com/*
 *://*.retrotechno.com/*
@@ -98,7 +97,7 @@
 *://*.shortbiography.info/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake Celebrity Info Sites (inc. Gossip & Rumor, Fame, People & Pop Culture)
+# Fake Celebrity Info Sites (inc. Gossip & Rumor, Fame, Networth, People & Pop Culture etc.)
 
 *://*.americancelebritynews.com/*
 *://*.celebsaga.com/*
@@ -986,7 +985,7 @@
 *://*.thepersonage.com/*
 *://*.waterforpeople.org/*
 
-# Stardom & Stars
+# Stars
 
 *://*.actu-star.be/*
 *://*.actualite-de-stars.com/*
@@ -1099,7 +1098,7 @@
 *://*.zoomstars.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Clickbaity Listicles
+# Clickbaity Websites
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
@@ -1122,16 +1121,20 @@
 *://*.factmandu.com/*
 *://*.factrider.com/*
 *://*.facts.net/*
+*://*.fanboy.com/*
+*://*.fashionsizzle.com/*
 *://*.feelingnews.com/*
 *://*.focustimes.org/*
 *://*.gummypost.com/*
 *://*.heightpost.com/*
 *://*.howold.co/*
 *://*.howtallheight.com/*
+*://*.husbandinfo.com/*
 *://*.infobae.com/*
 *://*.informationcradle.com/*
 *://*.informationngr.com/*
 *://*.informone.com/*
+*://*.insightnewsgh.com/*
 *://*.knowsize.com/*
 *://*.latestmyanmarnews.com/*
 *://*.listal.com/*
@@ -1148,12 +1151,13 @@
 *://*.myanmaralinn.best/*
 *://*.myanmarfightcovid19.com/*
 *://*.myanmartodaylife.com/*
+*://*.mynewsgh.com/*
 *://*.naturalnews.com/*
 *://*.news.mintehrlay.xyz/*
 *://*.newspost.xyz/*
+*://*.oneworldinformation.com/*
 *://*.onlinehartha.com/*
 *://*.onlinelawka.com/*
-*://*.oneworldinformation.com/*
 *://*.poppingboxmm.com/*
 *://*.poppingmyanmar.com/*
 *://*.prosieben.de/*
@@ -1173,6 +1177,8 @@
 *://*.trendradars.com/*
 *://*.updatenew.net/*
 *://*.walikali.com/*
+*://*.wealthygorilla.com/*
+*://*.worthpoint.com/*
 *://*.wowmyanmar.com/*
 *://*.zoomboola.com/*
 
