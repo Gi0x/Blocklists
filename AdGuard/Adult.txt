@@ -2,9 +2,9 @@
 ! Description: Blocks porn, sex shops & other adult material (ex. bdsm)
 ! DeDup: Y
 ! Sorted: Y
+! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Adult.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Adult.txt
 ! Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
-! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Adult.txt
-! 
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||00101001.com^
