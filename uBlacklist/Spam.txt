@@ -1110,6 +1110,7 @@
 *://*.bestthings.us/*
 *://*.bigbluevision.org/*
 *://*.bluenewsvision.net/*
+*://*.brainberries.co/*
 *://*.breakingnewsblast.com/*
 *://*.buffalochronicle.com/*
 *://*.citimuzik.com/*
@@ -1123,6 +1124,7 @@
 *://*.factmandu.com/*
 *://*.factrider.com/*
 *://*.facts.net/*
+*://*.factsnippet.com/*
 *://*.fanboy.com/*
 *://*.fashionsizzle.com/*
 *://*.feelingnews.com/*
@@ -1180,6 +1182,7 @@
 *://*.updatenew.net/*
 *://*.walikali.com/*
 *://*.wealthygorilla.com/*
+*://*.wegotthiscovered.com/*
 *://*.worthpoint.com/*
 *://*.wowmyanmar.com/*
 *://*.zoomboola.com/*
