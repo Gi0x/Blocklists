@@ -1,8 +1,8 @@
 ! Title: Photo Editors by Gi0x
 ! Description: Blocks web-based photo & graphics editors online
-! DeDup: Y
-! Sorted: Y
-! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Photo%20Editors.txt
+! DeDup: Y, Sorted: Y
+! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Photo%20Editors.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Photo%20Editors.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||123rf.com^
