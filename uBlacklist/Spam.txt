@@ -56,7 +56,7 @@
 *://*.yourquickinfo.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake Bio Sites
+# Fake Bios
 
 *://*.arrivebio.org/*
 *://*.articlebio.com/*
@@ -98,7 +98,7 @@
 *://*.shortbiography.info/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake Celebrity, Gossip, Pop Culture & Networth Sites
+# Fake Celebrity Info Sites (inc. Gossip & Rumor, Fame, People & Pop Culture)
 
 *://*.americancelebritynews.com/*
 *://*.celebsaga.com/*
