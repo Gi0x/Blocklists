@@ -1180,6 +1180,7 @@
 *://*.thutazone.org/*
 *://*.tiemmesspecialnews.com/*
 *://*.trendradars.com/*
+*://*.triobrother.blob.core.windows.net/*
 *://*.updatenew.net/*
 *://*.walikali.com/*
 *://*.wealthygorilla.com/*
