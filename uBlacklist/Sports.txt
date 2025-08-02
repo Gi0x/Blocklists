@@ -1,8 +1,8 @@
-# Title: Sports by Gi0x
+# Title: Sports
 # Description: Hides all sports related sites (incl. streaming) from search results
-# DeDup: Y
-# Sorted: Y
-# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Sports.txt
+# DeDup: Y, Sorted: Y
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Sports.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Sports.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Sports Betting & Odds Sites
@@ -49,7 +49,7 @@
 *://*.unibet.com/*
 *://*.winners.bet/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Sports Mobile App Links
 
 *://*.apps.apple.com/us/app/espn/*
@@ -74,7 +74,7 @@
 *://*.play.google.com/store/apps/details?id=com.bleacherreport.android.teamstream/*
 *://*.play.google.com/store/apps/details?id=com.flashscore.android/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Sports News, Scores & Leagues
 
 *://*.abcsports.go.com/*
@@ -108,7 +108,7 @@
 *://*.supersport.com/*
 *://*.thesportsrush.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Sports Streaming (including Piracy Mirrors)
 
 *://*.7plus.com/*
