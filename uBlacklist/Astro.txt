@@ -1,8 +1,8 @@
-# Title: Astro by Gi0x
+# Title: Astro
 # Description: Hides astrology related sites from search results
-# DeDup: Y
-# Sorted: Y
-# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Astro.txt
+# DeDup: Y, Sorted: Y
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Astro.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Astro.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.123horoscope.com/*
