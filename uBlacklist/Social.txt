@@ -1,11 +1,10 @@
-# Title: Social by Gi0x
+# Title: Social
 # Description: Hides social media from search results
-# DeDup: Y
-# Sorted: Y
-# URL: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Social.txt
+# DeDup: Y, Sorted: Y
+# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Social.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Social.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Discord
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
 
@@ -15,7 +14,7 @@
 *://*.discordapp.com/*
 *://*.discordapp.net/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Facebook (Meta), Instagram & Threads
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Facebook.txt
 
@@ -448,7 +447,7 @@
 *://*.zirk.us/*
 *://*.zoominsta.de/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Mastodon
 
 *://*.joinmastodon.org/*
@@ -471,7 +470,7 @@
 *://*.mstdn.social/*
 *://*.mstdn.starnix.network/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Misc Social Media
 
 *://*.ask.fm/*
@@ -493,7 +492,7 @@
 *://*.weheartit.com/*
 *://*.wopita.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Pinterest
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Pinterest.txt
 
@@ -552,7 +551,7 @@
 *://*.vochi.app/*
 *://*.vochi.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Reddit
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Reddit.txt
 
@@ -561,7 +560,7 @@
 *://*.redditmedia.com/*
 *://*.redditstatic.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Snapchat
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Snapchat.txt
 
@@ -578,7 +577,7 @@
 *://*.snapchat.com/*
 *://*.snapkit.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Telegram
 
 *://*.mytelegram.org/*
@@ -587,7 +586,7 @@
 *://*.telegram.me/*
 *://*.telegram.org/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # TikTok
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/TikTok.txt
 
@@ -601,7 +600,7 @@
 *://*.tiktokcdn.com/*
 *://*.tiktokv.com/*
 
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Twitter
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Twitter.txt
 
