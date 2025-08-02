@@ -377,6 +377,7 @@
 *://*.celebritytap.org/*
 *://*.celebritytheatre.com/*
 *://*.celebritythegame.com/*
+*://*.celebritytidbit.com/*
 *://*.celebritytidings.com/*
 *://*.celebritytoob.com/*
 *://*.celebrityvibe.com/*
@@ -486,8 +487,6 @@
 *://*.hawtcelebs.com/*
 *://*.healthyceleb.com/*
 *://*.heightceleb.info/*
-*://*.hollywoodcelebgossips.com/*
-*://*.hollywoodcelebrities.org/*
 *://*.hotcelebon.com/*
 *://*.hotcelebrities.xyz/*
 *://*.hotcelebrity.name/*
@@ -769,11 +768,14 @@
 *://*.diaryofahollywoodstreetking.com/*
 *://*.hiphollywood.com/*
 *://*.hollyscoop.com/*
-*://*.hollywood411news.com/*
 *://*.hollywood.com/*
+*://*.hollywood411news.com/*
 *://*.hollywoodactressname.com/*
 *://*.hollywoodbackwash.com/*
+*://*.hollywoodcelebgossips.com/*
+*://*.hollywoodcelebrities.org/*
 *://*.hollywoodchaos.com/*
+*://*.hollywoodglee.com/*
 *://*.hollywoodgossips.net/*
 *://*.hollywoodgrind.com/*
 *://*.hollywoodinsider.com/*
@@ -782,6 +784,7 @@
 *://*.hollywoodpipeline.com/*
 *://*.hollywoodrag.com/*
 *://*.hollywoodreporter.com/*
+*://*.hollywoodreporter.it/*
 *://*.hollywoodsbio.com/*
 *://*.hollywoodsmagazine.com/*
 *://*.hollywoodsnowflakes.com/*
@@ -1109,6 +1112,7 @@
 *://*.azquotes.com/*
 *://*.bestthings.us/*
 *://*.bigbluevision.org/*
+*://*.bloger.blob.core.windows.net/*
 *://*.bluenewsvision.net/*
 *://*.brainberries.co/*
 *://*.breakingnewsblast.com/*
@@ -1129,6 +1133,8 @@
 *://*.fashionsizzle.com/*
 *://*.feelingnews.com/*
 *://*.focustimes.org/*
+*://*.gazettereview.com/*
+*://*.gridwaste.com/*
 *://*.gummypost.com/*
 *://*.hauls.blob.core.windows.net/*
 *://*.heightpost.com/*
@@ -1140,12 +1146,14 @@
 *://*.informationngr.com/*
 *://*.informone.com/*
 *://*.insightnewsgh.com/*
+*://*.inspiredpencil.com/*
 *://*.knowsize.com/*
 *://*.latestmyanmarnews.com/*
 *://*.listal.com/*
 *://*.livemonitor.co.za/*
 *://*.longarticles.com/*
 *://*.losdanieles.net/*
+*://*.luxlux.net/*
 *://*.luxurytheme.com/*
 *://*.majorthoughts.com/*
 *://*.mediazone.news/*
@@ -1175,6 +1183,7 @@
 *://*.startefacts.com/*
 *://*.storefeeling.com/*
 *://*.sweetmyanmar.com/*
+*://*.theeventchronicle.com/*
 *://*.thefactscity.com/*
 *://*.thunkhuma.info/*
 *://*.thutazone.org/*
