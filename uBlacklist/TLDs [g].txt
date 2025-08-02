@@ -1,11 +1,12 @@
-# Name: gTLDs by Gi0x
+# Name: gTLDs
 # Description: Hides generic TLDs
-# DeDup: Y
-# Sorted: Y
-# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/TLDs%20%5Bg%5D.txt
+# DeDup: Y, Sorted: Y
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/TLDs%20%5Bg%5D.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/TLDs%20%5Bg%5D.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [A]
+# A
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(aaa|aarp)($|\/)/
 /.*\.(abarth|abb|abbott|abbvie|abc|able|abogado|abudhabi)($|\/)/
@@ -24,11 +25,12 @@
 /.*\.(athleta|attorney)($|\/)/
 /.*\.(auction|audi|audible|audio|auspost|author|auto|autos)($|\/)/
 
-# Misc
+# ...
 /.*\.(akdn|aol|aquarelle|avianca|aws|axa|azure)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [B]
+# B
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(baby|baidu|banamex|bananarepublic|band|bank|bar|barcelona|barclaycard|barclays|barefoot|bargains|baseball|basketball|bauhaus|bayern)($|\/)/
 /.*\.(bbc|bbt|bbva)($|\/)/
@@ -42,11 +44,12 @@
 /.*\.(bradesco|bridgestone|broadway|broker|brother|brussels)($|\/)/
 /.*\.(budapest|bugatti|build|builders|business|buy|buzz)($|\/)/
 
-# Misc
+# ...
 /.*\.(bharti|bzh)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [C]
+# C
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\(cab|cafe|cal|call|calvinklein|cam|camera|camp|cancerresearch|canon|capetown|capital|capitalone|car|caravan|cards|care|career|careers|cars|cartier|casa|case|caseih|cash|casino|cat|catering|catholic)($|\/)/
 /.*\.(cba|cbn|cbre|cbs)($|\/)/
@@ -59,11 +62,12 @@
 /.*\.(credit|creditcard|creditunion|cricket|crown|crs|cruise|cruises)($|\/)/
 /.*\.(cymru|cyou)($|\/)/
 
-# Misc
+# ...
 /(cpa|csc|cuisinella)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [D]
+# D
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(dabur|dad|dance|data|date|dating|datsun|day)($|\/)/
 /.*\.(deal|dealer|deals|degree|delivery|dell|deloitte|delta|democrat|dental|dentist|desi|design|dev)($|\/)/
@@ -72,11 +76,12 @@
 /.*\.(dubai|duck|dunlop|duns|dupont|durban)($|\/)/
 /.*\.(dvag|dvr)($|\/)/
 
-# Misc
+# ...
 /.*\.(dclk|dds|dhl|dnp|drive|dtv)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [E]
+# E
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(earth|eat)($|\/)/
 /.*\.(edeka|education)($|\/)/
@@ -89,11 +94,12 @@
 /.*\.(events|everbank)($|\/)/
 /.*\.(exchange|expert|exposed|express|extraspace)($|\/)/
 
-# Misc
+# ...
 /.*\.(eco|equipment|etisalat)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [F]
+# F
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(fage|fail|fairwinds|faith|family|fan|fans|farm|farmers|fashion|fast)($|\/)/
 /.*\.(fedex|feedback|ferrari|ferrero)($|\/)/
@@ -103,11 +109,12 @@
 /.*\.(free|fresenius|frl|frogans|frontdoor|frontier)($|\/)/
 /.*\.(fujitsu|fujixerox|fun|fund|furniture|futbol)($|\/)/
 
-# Misc
+# ...
 /.*\.(ftr|fyi)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [G]
+# G
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(gal|gallery|gallo|gallup|game|games|gap|garden|gay)($|\/)/
 /.*\.(gea|gent|genting|george)($|\/)/
@@ -118,11 +125,12 @@
 /.*\.(grainger|graphics|gratis|green|gripe|grocery|group)($|\/)/
 /.*\.(guardian|gucci|guge|guide|guitars|guru)($|\/)/
 
-# Misc
+# ...
 /.*\.(gbiz|gdn|ggee)
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [H]
+# H
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(hair|hamburg|hangout|haus)($|\/)/
 /.*\.(hdfc|hdfcbank)($|\/)/
@@ -131,11 +139,12 @@
 /.*\.(hockey|holdings|holiday|homedepot|homegoods|homes|homesense|honda|honeywell|horse|hospital|host|hosting|hot|hoteles|hotels|hotmail|house|how)($|\/)/
 /.*\.(hyatt|hyundai)($|\/)/
 
-# Misc
+# ...
 /.*\.(hbo|hgtv|hkt|hsbc|htc|hughes)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [I]
+# I
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(icbc|ice|icu)($|\/)/
 /.*\.(imamat|imdb|immo|immobilien)($|\/)/
@@ -143,11 +152,12 @@
 /.*\.(iselect|ismaili|ist|istanbul)($|\/)/
 /.*\.(itau|itv)($|\/)/
 
-# Misc
+# ...
 /.*\.(ibm|ieee|ifm|iinet|ikano|ipiranga|irish|iveco)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [J]
+# J
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(jaguar|java)($|\/)/
 /.*\.(jcb|jcp)($|\/)/
@@ -156,11 +166,12 @@
 /.*\.(jpmorgan|jprs)($|\/)/
 /.*\.(juegos|juniper)($|\/)/
 
-# Misc
+# ...
 /.*\.(jio|jlc|jll|jmp|jnj)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [K]
+# K
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(kerryhotels|kerrylogistics|kerryproperties)($|\/)/
 /.*\.(kia|kids|kim|kinder|kindle|kitchen|kiwi)($|\/)/
@@ -168,11 +179,12 @@
 /.*\.(kpmg|kpn)($|\/)/
 /.*\.(krd|kred)($|\/)/
 
-# Misc
+# ...
 /.*\.(kaufen|kddi|kfh|kuokgroup|kyoto)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [L] 
+# L
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(lacaixa|ladbrokes|lamborghini|lamer|lancaster|lancia|lancome|land|landrover|lanxess|lasalle|lat|latino|latrobe|law|lawyer)($|\/)/
 /.*\.(lease|leclerc|lefrak|legal|lego|lexus)($|\/)/
@@ -183,11 +195,12 @@
 /.*\.(ltd|ltda)($|\/)/
 /.*\.(lundbeck|lupin|luxe|luxury)($|\/)/
 
-# Misc
+# ...
 /.*\.(lds|lgbt)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [M]
+# M
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(macys|madrid|maif|maison|makeup|man|management|mango|map|market|marketing|markets|marriott|marshalls|maserati|mattel)($|\/)/
 /.*\.(mcd|mcdonalds|mckinsey)($|\/)/
@@ -198,11 +211,12 @@
 /.*\.(mtn|mtpc|mtr)($|\/)/
 /.*\.(museum|music|mutual|mutuelle)($|\/)/
 
-# Misc
+# ...
 /.*\.(mba|mma|msd)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [N]
+# N
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(nab|nadex|nagoya|name|nationwide|natura|navy)($|\/)/
 /.*\.(nec|netbank|netflix|network|neustar|new|newholland|news|next|nextdirect|nexus)($|\/)/
@@ -210,11 +224,12 @@
 /.*\.(nokia|northwesternmutual|norton|now|nowruz|nowtv)($|\/)/
 /.*\.(nra|nrw)($|\/)/
 
-# Misc
+# ...
 /.*\.(nba|nfl|ngo|nhk|ntt|nyc)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [O]
+# O
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(obi|observer)($|\/)/
 /.*\.(off|office)($|\/)/
@@ -224,11 +239,12 @@
 /.*\.(oracle|orange|organic|orientexpress|origins)($|\/)/
 /.*\.(otsuka|ott)($|\/)/
 
-# Misc
+# ...
 /.*\.(okinawa|omega|osaka|ovh)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [P]
+# P
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(page|pamperedchef|panasonic|panerai|paris|pars|partners|parts|party|passagens|pay)($|\/)/
 /.*\.(pharmacy|phd|philips|phone|photo|photos|photography|physio)($|\/)/
@@ -237,19 +253,21 @@
 /.*\.(pohl|poker|politie|porn|post)($|\/)/
 /.*\.(pramerica|praxi|press|prime|pro|prod|productions|prof|progressive|promo|properties|property|protection|pru|prudential)($|\/)/
 
-# Misc
+# ...
 /.*\.(pccw|pet|pfizer|pnc|pub|pwc)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [Q]
+# Q
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(quebec|quest)($|\/)/
 
-# Misc
+# ...
 /.*\.(qpon|qvc)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# [R]
+# R
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(racing|radio|raid)($|\/)/
 /.*\.(read|realestate|realtor|realty|recipes|red|redstone|redumbrella|rehab|reise|reisen|reit|reliance|ren|rent|rentals|repair|report|republican|rest|restaurant|review|reviews|rexroth)($|\/)/
@@ -257,11 +275,12 @@
 /.*\.(rocher|rocks|rodeo|rogers|room)($|\/)/
 /.*\.(rugby|ruhr|run)($|\/)/
 
-# Misc
+# ...
 /.*\.(rmit|rsvp|rwe|ryukyu)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # S
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(saarland|safe|safety|sakura|sale|salon|samsclub|samsung|sandvik|sandvikcoromant|sanofi|sap|sapo|sarl|sas|save|saxo)($|\/)/
 /.*\.(sbi|sbs)($|\/)/
@@ -279,41 +298,45 @@
 /.*\.(swatch|swiftcover|swiss)($|\/)/
 /.*\.(sydney|symantec|systems)($|\/)/
 
-# Misc
+# ...
 /.*\.(sfr|sling|sncf)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # T
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(tab|taipei|talk|taobao|target|tatamotors|tatar|tattoo|tax|taxi)($|\/)/
 /.*\.(team|tech|technology|tel|telecity|telefonica)($|\/)/
 /.*\.(thd|theater|theatre|tiaa|tickets|tienda|tiffany|tips|tires|tirol|tjmaxx|tjx|tkmaxx|tmall|today|tokyo|tools|top|toray|toshiba|total|tours|town|toyota|toys|trade|trading|training|travel|travelchannel|travelers|travelersinsurance|trust|trv|tube|tui|tunes|tushu|tvs)($|\/)/
 
-# Misc
+# ...
 /.*\.(tci|tdk|temasek|tennis|teva|
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # U
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(ubank|ubs)($|\/)/
 /.*\.(unicom|university|uno)($|\/)/
 
-# Misc
+# ...
 /.*\.(uconnect|uol|ups)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # V
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(vacations|vana|vanguard)($|\/)/
 /.*\.(vegas|ventures|verisign|vermögensberater|vermögensberatung|versicherung|vet)($|\/)/
 /.*\.(viajes|video|vig|viking|villas|vin|vip|virgin|visa|vision|vista|vistaprint|viva|vivo)($|\/)/
 /.*\.(vodka|volkswagen|volvo|vote|voting|voto|voyage)($|\/)/
 
-# Misc
+# ...
 /.*\.(vlaanderen|vuelos)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # W
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(wales|walmart|walter|wang|wanggou|warman|watch|watches)($|\/)/
 /.*\.(weather|weatherchannel|webcam|weber|website|wed|wedding|weibo|weir)($|\/)/
@@ -321,37 +344,41 @@
 /.*\.(wolterskluwer|woodside|work|works|world|wow)($|\/)/
 /.*\.(wtc|wtf)($|\/)/
 
-# Misc
+# ...
 /.*\.(whoswho|wme)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # X
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(xihuan|xin)($|\/)/
 
-# Misc
+# ...
 /.*\.(xbox|xerox|xfinity|xperia|xxx|xyz)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Y
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(yachts|yahoo|yamaxun|yandex)($|\/)/
 /.*\.(yodobashi|yoga|yokohama|you|youtube)($|\/)/
 
-# Misc
+# ...
 /.*\.(yun)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Z
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(zappos|zara)($|\/)/
 /.*\.(zip|zippo)($|\/)/
 
-# Misc
+# ...
 /.*\.(zero|zone|zuerich)($|\/)/
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # ...
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
 /.*\.(католик|ком)($|\/)/
 /.*\.(онлайн|орг)($|\/)/
