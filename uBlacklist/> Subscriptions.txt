@@ -39,8 +39,8 @@ URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Dating.txt
 Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Dating.txt
 
 5 – Drugs
-URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Dating.txt
-Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Dating.txt
+URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Drugs.txt
+Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Drugs.txt
 
 6 – Gambling
 URL: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gambling.txt
