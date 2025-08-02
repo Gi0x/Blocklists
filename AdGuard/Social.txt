@@ -1,8 +1,7 @@
 ! Title: Social by Gi0x
 ! Description: Blocks social media
-! DeDup: Y
-! Sorted: Y
-! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Social.txt
+! DeDup: Y, Sorted: Y
+! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Social.txt
 ! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Social.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
