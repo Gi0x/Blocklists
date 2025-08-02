@@ -5,7 +5,7 @@
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Game Development Companies
+# Game Dev Companies
 
 *://*.2k.com/*
 *://*.2kczech.com/*
@@ -70,6 +70,7 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Gaming News Media
 
+*://*.besser-gaming.com/*
 *://*.eurogamer.net/*
 *://*.europeangaming.eu/*
 *://*.pcgamingwiki.com/*
@@ -79,9 +80,11 @@
 *://*.ign.com/*
 *://*.insider-gaming.com/*
 *://*.kotaku.com/*
+*://*.game-news24.com/*
 *://*.gamerant.com/*
 *://*.gamereactor.eu/*
 *://*.gamerworldnews.com/*
+*://*.gamestar.de/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Online Games
