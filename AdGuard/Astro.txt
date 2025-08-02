@@ -1,8 +1,8 @@
 ! Title: Astro by Gi0x
 ! Description: Blocks astrology & tarot websites
-! DeDup: Y
-! Sorted: N
-! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Astro.txt
+! DeDup: Y, Sorted: N
+! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Astro.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Astro.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||123horoscope.com^
