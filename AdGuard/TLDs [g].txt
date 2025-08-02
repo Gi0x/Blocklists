@@ -1,10 +1,10 @@
 ! Title: gTLDs by Gi0x
 ! Description: Blocks Generic Top Level Domains
-! DeDup: Y
-! Sorted: Y
+! DeDup: Y, Sorted: Y
+! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/TLDs%20%5Bg%5D.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/TLDs%20%5Bg%5D.txt
 ! Source: https://www.iana.org/domains/root/db
-! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/TLDs%20%5Bg%5D.txt
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||*.aaa^
 ||*.aarp^
@@ -1171,7 +1171,7 @@
 ||*.zone^
 ||*.zuerich^
 
-! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Other gTLDs
 
 ||*.δοκιμή^
