@@ -3,7 +3,7 @@
 ! DeDup: Y, Sorted: Y
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Gambling.txt
 ! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gambling.txt
-! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 ||0casino-online.com^
 ||0casinoonline.com^
