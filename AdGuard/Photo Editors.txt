@@ -1,4 +1,4 @@
-! Title: Photo Editors by Gi0x
+! Title: Image Editors by Gi0x
 ! Description: Blocks web-based photo & graphics editors online
 ! DeDup: Y, Sorted: Y
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Photo%20Editors.txt
