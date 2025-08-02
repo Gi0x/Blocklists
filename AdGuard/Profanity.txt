@@ -1,8 +1,8 @@
 ! Name: Profanity by Gi0x
 ! Description: Blocks explicit content based on keywords that appear in URLs
-! DeDup: Y
-! Sorted: Y
-! URL: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Profanity.txt
+! DeDup: Y, Sorted: Y
+! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Profanity.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Profanity.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! [abc]
