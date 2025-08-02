@@ -1,8 +1,8 @@
-# Title: Spam by Gi0x
+# Title: Spam
 # Description: Hides low-quality, fake & spammy sites from search results
-# DeDup: Y
-# Sorted: Y
-# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Spam.txt
+# DeDup: Y, Sorted: Y
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Spam.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Spam.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Affiliate SEO spam
@@ -1082,7 +1082,7 @@
 *://*.zoomstars.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Clickbait & Listicles
+# Clickbaity Listicles
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
@@ -1149,7 +1149,7 @@
 *://*.wowmyanmar.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Copycat Tutorials (Low-Quality)
+# Copycat Tutorials
 
 *://*.geeksforgeeks.com/*
 *://*.studytonight.com/*
