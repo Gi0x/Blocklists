@@ -1,8 +1,8 @@
-# Title: Dating by Gi0x
+# Title: Dating
 # Description: Hides anything that has to do with dating & seduction from search results
-# DeDup: Y
-# Sorted: Y
-# URL: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Dating.txt
+# DeDup: Y, Sorted: Y
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Dating.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Dating.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.007agent-russian-women.net/*
