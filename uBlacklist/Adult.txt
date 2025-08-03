@@ -3834,6 +3834,11 @@
 *://*.insatiable.itch.io/*
 *://*.instafitgirls.com/*
 *://*.instafuckfriend.com/*
+*://*.instagram.com/erotic.wallpapers/*
+*://*.instagram.com/lewd.wallpapers/*
+*://*.instagram.com/nsfw.wallpapers/*
+*://*.instagram.com/onlyhotwallpapers/*
+*://*.instagram.com/sexywallpapersdaily/*
 *://*.instakink.com/*
 *://*.instantfap.com/*
 *://*.instasexyblog.com/*
