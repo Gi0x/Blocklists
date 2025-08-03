@@ -769,6 +769,37 @@
 *://*.waytofamous.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# GitHub & GitLab
+
+*://*.bestgithub.com/*
+*://*.downloadgithub.com/*
+*://*.downloadergit.com/*
+*://*.freegithub.com/*
+*://*.gitclone.com/*
+*://*.gitcode.com/*
+*://*.gitcool.com/*
+*://*.gitdownload.net/*
+*://*.gitflic.ru/*
+*://*.githack.com/*
+*://*.github.io.cn/*
+*://*.github-proxy.xyz/*
+*://*.githubclone.com/*
+*://*.githubdownloader.com/*
+*://*.githubfast.com/*
+*://*.githubmemory.com/*
+*://*.githubplus.com/*
+*://*.githubs.cn/*
+*://*.gitlab.cn/*
+*://*.gitlabplus.com/*
+*://*.gitlink.org.cn/*
+*://*.gitmirror.com/*
+*://*.gitmirror.net/*
+*://*.gitproxy.com/*
+*://*.gittopdownload.com/*
+*://*.jsdelivr.xyz/*
+*://*.jsdelivrproxy.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Gossip & Rumors
 
 *://*.allstargossip.com/*
