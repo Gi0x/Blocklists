@@ -1,6 +1,7 @@
 # Title: Social
 # Description: Hides social media from search results
 # DeDup: Y, Sorted: Y
+# Note: Pinterest domains excluded, but available at NyeUsr
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Social.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Social.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
