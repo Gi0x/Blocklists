@@ -152,6 +152,70 @@
 *://*.yourquickinfo.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Antivirus
+
+*://*.1virusremoval.com/*
+*://*.advancedpctools.com/*
+*://*.antivirus-review.com/*
+*://*.antivirus360.org/*
+*://*.antivirus-live.com/*
+*://*.antiviruspcscans.com/*
+*://*.antispyware-101.com/*
+*://*.avast-download-free.com/*
+*://*.avira-security-download.com/*
+*://*.bestpctools.com/*
+*://*.cleanyourpcnow.com/*
+*://*.cloudav.net/*
+*://*.computervirusprotection.org/*
+*://*.defencescan.com/*
+*://*.easyantivirus.com/*
+*://*.fastpcspeed.com/*
+*://*.fixyourbrowser.com/*
+*://*.free-pc-scan.com/*
+*://*.freevirusremoval.com/*
+*://*.getavastfree.com/*
+*://*.instanthackscan.com/*
+*://*.malware-cleaner.com/*
+*://*.malwarefixes.com/*
+*://*.mypcutilities.com/*
+*://*.mypcspeedup.com/*
+*://*.myantispyware.com/*
+*://*.netscanner.co/*
+*://*.newsoftwares.net/*
+*://*.onlinesecurityscanner.com/*
+*://*.pccleanupsoftware.com/*
+*://*.pccurepro.com/*
+*://*.pcfixhelpcenter.com/*
+*://*.pcoptimizerhub.com/*
+*://*.pcprotectnow.com/*
+*://*.pcsecurityscan.net/*
+*://*.pcspeedup.com/*
+*://*.pcvirusscan.net/*
+*://*.pcvirusremovaltool.com/*
+*://*.reimageplus.com/*
+*://*.removepcviruses.com/*
+*://*.removethreats.com/*
+*://*.scanandrepairyourpc.com/*
+*://*.scanguard.com/*
+*://*.scanspyware.net/*
+*://*.secureyourpcnow.com/*
+*://*.securityscannersite.com/*
+*://*.soft-portal.com/*
+*://*.spywareremove.com/*
+*://*.spywareremovertool.com/*
+*://*.stopzilla.com/*
+*://*.superantispyware-free-download.com/*
+*://*.systemmechanicfree.com/*
+*://*.totalav.com/*
+*://*.trustmypc.com/*
+*://*.virus-cleaner.net/*
+*://*.virus-alerts.com/*
+*://*.virusbuster.org/*
+*://*.virusscanonline.com/*
+*://*.windows-defender-security-alert.com/*
+*://*.yourpcguardian.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Bios
 
 *://*.arrivebio.org/*
