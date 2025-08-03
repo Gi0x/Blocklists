@@ -6606,6 +6606,13 @@
 *://*.redtube.com.br/*
 *://*.redtube.com/*
 *://*.redtube.fm/*
+*://*.reddit.com/r/AltGoneWild/*
+*://*.reddit.com/r/AmateurWallpapers/*
+*://*.reddit.com/r/CosplayBabes/*
+*://*.reddit.com/r/NSFW_Wallpapers/*
+*://*.reddit.com/r/NSFWWallpaper/*
+*://*.reddit.com/r/NSFWWallpapersDaily/*
+*://*.reddit.com/r/SexyWallpapers/*
 *://*.redwap-cdn.com/*
 *://*.redwap-xxx.com/*
 *://*.redwap.me/*
@@ -8102,6 +8109,13 @@
 *://*.tukif.porn/*
 *://*.tumbex.com/*
 *://*.tumblr.com/*
+*://*.tumblr.com/blog/adultphonewallpapers/*
+*://*.tumblr.com/blog/eroticbeauty/*
+*://*.tumblr.com/blog/lewd-wallpapers/*
+*://*.tumblr.com/blog/nsfwwallpapers/*
+*://*.tumblr.com/blog/nudewallpapers/*
+*://*.tumblr.com/blog/sexywallpapers4u/*
+*://*.tumblr.com/blog/xwallpapers/*
 *://*.tumblrgallery.xyz/*
 *://*.tumview.com/*
 *://*.tushy.com/*
