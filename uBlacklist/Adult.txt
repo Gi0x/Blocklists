@@ -552,6 +552,7 @@
 *://*.arousingaffairs.com/*
 *://*.arrechote.com/*
 *://*.art-lingerie.com/*
+*://*.artbabes.com/*
 *://*.artdecade.itch.io/*
 *://*.arthurpalms.itch.io/*
 *://*.artoferotica.info/*
@@ -667,12 +668,14 @@
 *://*.azzporn.com/*
 *://*.azzyford.itch.io/*
 *://*.b-ass.org/*
+*://*.babe-galleries.com/*
 *://*.babe-pussy.com/*
 *://*.babe.today/*
 *://*.babe8.net/*
 *://*.babecock.xyz/*
 *://*.babecollection.co.uk/*
 *://*.babefanz.com/*
+*://*.babeimpact.com/*
 *://*.babeland.com/*
 *://*.babeoftheday.net/*
 *://*.babepedia.com/*
@@ -1018,6 +1021,7 @@
 *://*.blackdaddy.top/*
 *://*.blacked.com/*
 *://*.blackedraw.com/*
+*://*.blackedwallpapers.com/*
 *://*.blackforwife.com/*
 *://*.blackfree.tv/*
 *://*.blackgodz.com/*
@@ -2094,6 +2098,7 @@
 *://*.erofullsets.net/*
 *://*.erofus.com/*
 *://*.erogarga.com/*
+*://*.erogazoufactory.com/*
 *://*.erogenous-moonlight.itch.io/*
 *://*.erogifs.net/*
 *://*.erohut.com/*
@@ -3189,6 +3194,7 @@
 *://*.hdpornos.xxx/*
 *://*.hdpornpics.com/*
 *://*.hdpornpics.net/*
+*://*.hdpornpictures.com/*
 *://*.hdpornpictures.net/*
 *://*.hdporzo.com/*
 *://*.hdredtubeporns.com/*
@@ -3405,6 +3411,7 @@
 *://*.hentaivietsub.com/*
 *://*.hentaivox.com/*
 *://*.hentaivr.net/*
+*://*.hentaiwallpapers.net/*
 *://*.hentaiwatching.com/*
 *://*.hentaiwebtoon.com/*
 *://*.hentaiwikis.com/*
@@ -4058,6 +4065,7 @@
 *://*.joylovedolls.com/*
 *://*.joynights.org/*
 *://*.joyporn.me/*
+*://*.joyreactor.cc/*
 *://*.joysporn.com/*
 *://*.jp3x.me/*
 *://*.jp3x.net/*
@@ -5301,6 +5309,7 @@
 *://*.nsfwmonster.io/*
 *://*.nsfwnudes.com/*
 *://*.nsfwpics.co/*
+*://*.nsfwpics.org/*
 *://*.nsfwsauce.com/*
 *://*.nsfwsubreddits.com/*
 *://*.nsfwswipe.com/*
@@ -5533,6 +5542,7 @@
 *://*.onlyhentaistuff.com/*
 *://*.onlyhgames.com/*
 *://*.onlyhomemadeanal.com/*
+*://*.onlyhotwallpapers.com/*
 *://*.onlyindianporn.me/*
 *://*.onlyindianporn.tv/*
 *://*.onlyindianporn2.com/*
@@ -6199,6 +6209,7 @@
 *://*.pornphotos.ru/*
 *://*.pornpic.biz/*
 *://*.pornpic.rocks/*
+*://*.pornpicgalleries.net/*
 *://*.pornpichunter.net/*
 *://*.pornpics.casa/*
 *://*.pornpics.cloud/*
@@ -6995,6 +7006,7 @@
 *://*.sexviptube.com/*
 *://*.sexvit.com/*
 *://*.sexvr.com/*
+*://*.sexwallpapers.cc/*
 *://*.sexwebcams18.com/*
 *://*.sexwithdaddy.net/*
 *://*.sexwithmuslims.com/*
@@ -8572,6 +8584,7 @@
 *://*.xbiz.tv/*
 *://*.xblognetwork.com/*
 *://*.xbnat.com/*
+*://*.xbooru.com/*
 *://*.xcafe.com/*
 *://*.xcams.com/*
 *://*.xcamy.com/*
@@ -8618,6 +8631,7 @@
 *://*.xhams.gesek.info/*
 *://*.xhamster.blog.br/*
 *://*.xhamster.com/*
+*://*.xhamster.com/photos/*
 *://*.xhamster.dating/*
 *://*.xhamster.desi/*
 *://*.xhamster.one/*
@@ -8673,6 +8687,7 @@
 *://*.xmilfporn.com/*
 *://*.xmilfs.xyz/*
 *://*.xmissy.com/*
+*://*.xmobilewallpapers.com/*
 *://*.xmom.tv/*
 *://*.xmoviesforyou.com/*
 *://*.xmoviesforyou.net/*
@@ -8983,6 +8998,7 @@
 *://*.xxxputas.net/*
 *://*.xxxreal.com/*
 *://*.xxxrec.com/*
+*://*.xxxscreens.com/*
 *://*.xxxsearch.tv/*
 *://*.xxxselfie.com/*
 *://*.xxxsex.com.br/*
@@ -9033,6 +9049,7 @@
 *://*.yakuzafight.eu/*
 *://*.yaluar.itch.io/*
 *://*.yamyhub.com/*
+*://*.yande.re/*
 *://*.yanksvr.com/*
 *://*.yareel.com/*
 *://*.yavtube.com/*
