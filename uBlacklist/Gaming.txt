@@ -68,7 +68,7 @@
 *://*.g2a.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Gaming News Media
+# Gaming News & Reviews
 
 *://*.besser-gaming.com/*
 *://*.eurogamer.net/*
@@ -85,6 +85,47 @@
 *://*.gamereactor.eu/*
 *://*.gamerworldnews.com/*
 *://*.gamestar.de/*
+
+*://*.4players.de/*
+*://*.a9vg.com/*
+*://*.dualshockers.com/*
+*://*.destructoid.com/*
+*://*.esportstalk.com/*
+*://*.eurogamer.net/*
+*://*.gamer.no/*
+*://*.gameinformer.com/*
+*://*.gamepro.com/*
+*://*.gamesindustry.biz/*
+*://*.gamespot.com/*
+*://*.gamestar.de/*
+*://*.gamesradar.com/*
+*://*.gamerant.com/*
+*://*.gamasutra.com/*
+*://*.gamingbolt.com/*
+*://*.gamereactor.eu/*
+*://*.gamersglobal.de/*
+*://*.gamesvillage.it/*
+*://*.gamezone.com/*
+*://*.gamewatcher.com/*
+*://*.giantbomb.com/*
+*://*.ign.com/*
+*://*.jeuxvideo.com/*
+*://*.kotaku.com/*
+*://*.metacritic.com/*
+*://*.n4g.com/*
+*://*.operationrainfall.com/*
+*://*.pcgamer.com/*
+*://*.polygon.com/*
+*://*.press-start.com.au/*
+*://*.rockpapershotgun.com/*
+*://*.segmentnext.com/*
+*://*.shacknews.com/*
+*://*.siliconera.com/*
+*://*.spaziogames.it/*
+*://*.thegamer.com/*
+*://*.videogamer.com/*
+*://*.vg247.com/*
+*://*.worthplaying.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Online Games
