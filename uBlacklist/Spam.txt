@@ -406,6 +406,7 @@
 *://*.celebsandgossip.com/*
 *://*.celebsasyoung.com/*
 *://*.celebsbar.com/*
+*://*.celebsbirthdaytoday.com/*
 *://*.celebsbodysize.com/*
 *://*.celebscloseups.com/*
 *://*.celebscouples.com/*
@@ -429,6 +430,7 @@
 *://*.celebsline.com/*
 *://*.celebsmack.com/*
 *://*.celebsmoney.com/*
+*://*.celebsnetworthbio.com/*
 *://*.celebsnow.co.uk/*
 *://*.celebsnow.co/*
 *://*.celebsofworld.com/*
@@ -1154,9 +1156,70 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Software Mirror & Download Sites
 
+*://*.2software.net/*
+*://*.allpcworld.com/*
+*://*.allsoftwares.net/*
+*://*.anysoftwaretools.com/*
+*://*.apponic.com/*
+*://*.bestsoftware4download.com/*
+*://*.brothersoft.com/*
+*://*.crackhomes.com/*
+*://*.cracknow.com/*
+*://*.cracksnow.com/*
+*://*.crackzsoft.com/*
+*://*.downloadastro.com/*
+*://*.downloadcrew.com/*
+*://*.downloadly.ir/*
+*://*.downloadnewapps.com/*
+*://*.downloadwasp.com/*
+*://*.dowsn.com/*
 *://*.filehippo.com/*
+*://*.filehorse.com/*
+*://*.filesmint.com/*
+*://*.filespack.net/*
+*://*.filepuma.com/*
+*://*.filerox.com/*
+*://*.filewon.com/*
 *://*.freedownloadmanager.com/*
+*://*.fullcracksoftwares.com/*
+*://*.getintopc.com/*
+*://*.getpcsoft.com/*
+*://*.gigapurbalingga.net/*
+*://*.hitfile.net/*
+*://*.hostdl.com/*
+*://*.karanpc.com/*
+*://*.latestsoftwares.com/*
+*://*.malavida.com/*
+*://*.newfreedownloads.com/*
+*://*.offlineinstallerdownload.com/*
+*://*.pcfileszone.com/*
+*://*.pcwonderland.com/*
+*://*.portablebull.com/*
+*://*.profullcrack.com/*
+*://*.prosoftpc.com/*
+*://*.rahim-soft.com/*
+*://*.revdl.com/*
+*://*.safecatdownloads.com/*
+*://*.soft32.com/*
+*://*.soft98.ir/*
+*://*.softfamous.com/*
+*://*.softlay.com/*
+*://*.softpedia-download.com/*
+*://*.software-fullversion.com/*
+*://*.softwareaddict.org/*
+*://*.softwareok.com/*
+*://*.softwarepatch.com/*
+*://*.softwares-free-download.com/*
+*://*.softget.com/*
 *://*.softonic.com/*
+*://*.softonit.com/*
+*://*.softspecial.com/*
+*://*.startcrack.com/*
+*://*.top4download.com/*
+*://*.uptodown.net/*
+*://*.windowslatestdownload.com/*
+*://*.yakhoe.com/*
+*://*.zcteam.id/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Stars
@@ -1481,16 +1544,18 @@
 *://*.wikibioz.com/*
 *://*.wikibirthdays.com/*
 *://*.wikiblog.org/*
-*://*.wikicelebs.com/*
 *://*.wikichowk.com/*
+*://*.wikidaddy.com/*
 *://*.wikifame.org/*
 *://*.wikifamous.com/*
 *://*.wikifamouspeople.com/*
 *://*.wikifeet.com/*
 *://*.wikifeetx.com/*
+*://*.wikifoxnews.com/*
 *://*.wikigd.com/*
 *://*.wikiheights.com/*
 *://*.wikilivre.org/*
+*://*.wikilogy.com/*
 *://*.wikinbio.com/*
 *://*.wikinetworth.com/*
 *://*.wikiobits.com/*
