@@ -7,6 +7,15 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Ad Delivery Domains
 
+# Wildcard Rules
+
+*://*click*ads*/*
+*://*popads*/*
+*://*ads*redirect*/*
+*://*track*ad*/*
+
+# Domains
+
 *://*.01script.com/*
 *://*.1phads.com/*
 *://*.247mediaz.com/*
