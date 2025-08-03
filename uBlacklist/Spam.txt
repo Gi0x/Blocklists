@@ -1843,6 +1843,7 @@
 *://*.birthdaywiki.com/*
 *://*.birthdaywikia.com/*
 *://*.everybodywiki.com/*
+*://*.idolwiki.com/*
 *://*.marriedwiki.com/*
 *://*.rationalwiki.org/*
 *://*.spousewiki.com/*
