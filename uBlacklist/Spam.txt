@@ -55,7 +55,7 @@
 *://*.yourquickinfo.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake Bios
+# Bios
 
 *://*.arrivebio.org/*
 *://*.articlebio.com/*
@@ -97,7 +97,7 @@
 *://*.shortbiography.info/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake Celebrity Info Sites (inc. Gossip & Rumor, Fame, Networth, People & Pop Culture etc.)
+# Celebrity Info Sites 
 
 *://*.americancelebritynews.com/*
 *://*.celebsaga.com/*
@@ -603,6 +603,110 @@
 *://*.yourcelebrity.net/*
 *://*.yourcelebritymagazines.com/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Clickait Misc – Listicles, Quotes, Rankings etc.
+
+*://*.24online.news/*
+*://*.24usainfo.com/*
+*://*.24x365live.com/*
+*://*.aitechtonic.com/*
+*://*.arealnews.com/*
+*://*.azquotes.com/*
+*://*.bestthings.us/*
+*://*.bigbluevision.org/*
+*://*.bloger.blob.core.windows.net/*
+*://*.bluenewsvision.net/*
+*://*.brainberries.co/*
+*://*.breakingnewsblast.com/*
+*://*.buffalochronicle.com/*
+*://*.citimuzik.com/*
+*://*.deadorkicking.com/*
+*://*.disclose.tv/*
+*://*.distractify.com/*
+*://*.edailybuzz.com/*
+*://*.edudwar.com/*
+*://*.everytimestory.com/*
+*://*.expose-news.com/*
+*://*.factmandu.com/*
+*://*.factrider.com/*
+*://*.facts.net/*
+*://*.factsnippet.com/*
+*://*.fanboy.com/*
+*://*.fashionsizzle.com/*
+*://*.feelingnews.com/*
+*://*.focustimes.org/*
+*://*.gazettereview.com/*
+*://*.gridwaste.com/*
+*://*.gummypost.com/*
+*://*.hauls.blob.core.windows.net/*
+*://*.heightpost.com/*
+*://*.howold.co/*
+*://*.howtallheight.com/*
+*://*.husbandinfo.com/*
+*://*.infobae.com/*
+*://*.informationcradle.com/*
+*://*.informationngr.com/*
+*://*.informone.com/*
+*://*.insightnewsgh.com/*
+*://*.inspiredpencil.com/*
+*://*.knowsize.com/*
+*://*.latestmyanmarnews.com/*
+*://*.listal.com/*
+*://*.livemonitor.co.za/*
+*://*.longarticles.com/*
+*://*.losdanieles.net/*
+*://*.luxlux.net/*
+*://*.luxurytheme.com/*
+*://*.majorthoughts.com/*
+*://*.mediazone.news/*
+*://*.metropolitanworlds.com/*
+*://*.mintpressnews.com/*
+*://*.mminfo24.com/*
+*://*.mmrednews.com/*
+*://*.myanmaralinn.best/*
+*://*.myanmarfightcovid19.com/*
+*://*.myanmartodaylife.com/*
+*://*.mynewsgh.com/*
+*://*.naturalnews.com/*
+*://*.news.mintehrlay.xyz/*
+*://*.newspost.xyz/*
+*://*.oneworldinformation.com/*
+*://*.onlinehartha.com/*
+*://*.onlinelawka.com/*
+*://*.poppingboxmm.com/*
+*://*.poppingmyanmar.com/*
+*://*.prosieben.de/*
+*://*.pyawsayar.com/*
+*://*.quizbash.com/*
+*://*.ranker.com/*
+*://*.realrawnews.com/*
+*://*.santhitsa.net/*
+*://*.sportmyanmarnews.com/*
+*://*.startefacts.com/*
+*://*.storefeeling.com/*
+*://*.sweetmyanmar.com/*
+*://*.theeventchronicle.com/*
+*://*.thefactscity.com/*
+*://*.thunkhuma.info/*
+*://*.thutazone.org/*
+*://*.tiemmesspecialnews.com/*
+*://*.trendradars.com/*
+*://*.triobrother.blob.core.windows.net/*
+*://*.updatenew.net/*
+*://*.walikali.com/*
+*://*.wealthygorilla.com/*
+*://*.wegotthiscovered.com/*
+*://*.wowmyanmar.com/*
+*://*.zoomboola.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Copycat Tutorials
+
+*://*.geeksforgeeks.com/*
+*://*.studytonight.com/*
+*://*.tutorialspoint.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Fame & Glamour
 
 *://*.allfamous.org/*
@@ -662,6 +766,7 @@
 *://*.toptenfamous.co/*
 *://*.waytofamous.com/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Gossip & Rumors
 
 *://*.allstargossip.com/*
@@ -762,6 +867,7 @@
 *://*.timessquaregossip.com/*
 *://*.ubergossip.com/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Hollywood
 
 *://*.accesshollywoodtours.com/*
@@ -794,6 +900,7 @@
 *://*.thehollywoodgossip.com/*
 *://*.younghollywood.com/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Jet Set
 
 *://*.designjetset.com/*
@@ -841,6 +948,58 @@
 *://*.twojetsetdivas.com/*
 *://*.ultimate-jetset.xooit.com/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Lyrics
+
+*://*.123lyrics.com/*
+*://*.azlyrics.biz/*
+*://*.azlyrics.mobi/*
+*://*.azlyricscom.com/*
+*://*.cancioneros.com/*
+*://*.elyrics.net/*
+*://*.geniuslyrics.net/*
+*://*.hindigeetmala.net/*
+*://*.hindilyrics4u.com/*
+*://*.hindisonglyrics.cc/*
+*://*.justsomelyrics.com/*
+*://*.kboing.com.br/letras/*
+*://*.letssingit.com/*
+*://*.lyrics.com.co/*
+*://*.lyrics.net.in/*
+*://*.lyrics007.com/*
+*://*.lyrics007.net/*
+*://*.lyricsbogie.com/*
+*://*.lyricsbogie.mobi/*
+*://*.lyricsdrive.com/*
+*://*.lyricsmint.com/*
+*://*.lyricsoff.com/*
+*://*.lyricsol.com/*
+*://*.lyricsoption.com/*
+*://*.lyricstime.com/*
+*://*.lyricstranslate.cc/*
+*://*.lyricwikia.com/*
+*://*.metrolyrics.something/*
+*://*.mojim.com/*
+*://*.musiclyricszone.com/*
+*://*.musicsonglyrics.com/*
+*://*.mylyricsfinder.com/*
+*://*.naijalyricszone.com/*
+*://*.onlyrics.com/*
+*://*.paroles-musique.com/*
+*://*.plyrics.com/*
+*://*.quedeletras.com/*
+*://*.songlyrics.com/*
+*://*.stlyrics.com/*
+*://*.tekstowo.pl/*
+*://*.top40db.net/*
+*://*.tracelyrics.com/*
+*://*.vagalume.com.br/*
+*://*.versuri.ro/*
+*://*.wowlyrics.com/*
+*://*.xtralyrics.com/*
+*://*.youlistener.com/lyrics/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Networth
 
 *://*.anetworth.net/*
@@ -892,7 +1051,9 @@
 *://*.trustednetworth.com/*
 *://*.vipnetworth.com/*
 *://*.wealthypeeps.com/*
+*://*.worthpoint.com/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # People & Pop Culture
 
 *://*.123people.com/*
@@ -933,6 +1094,7 @@
 *://*.people.plurielles.fr/*
 *://*.people.yahoo.com/*
 *://*.people.zoho.com/*
+*://*.peoplaid.com/*
 *://*.peopleandprofiles.com/*
 *://*.peopleconnection.aol.com/*
 *://*.peopledaily.com.cn/*
@@ -989,6 +1151,14 @@
 *://*.thepersonage.com/*
 *://*.waterforpeople.org/*
 
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Software Mirror & Download Sites
+
+*://*.filehippo.com/*
+*://*.freedownloadmanager.com/*
+*://*.softonic.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Stars
 
 *://*.actu-star.be/*
@@ -1105,118 +1275,7 @@
 *://*.zoomstars.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Clickbaity Listicle Sources
-
-*://*.24online.news/*
-*://*.24usainfo.com/*
-*://*.24x365live.com/*
-*://*.aitechtonic.com/*
-*://*.arealnews.com/*
-*://*.azquotes.com/*
-*://*.bestthings.us/*
-*://*.bigbluevision.org/*
-*://*.bloger.blob.core.windows.net/*
-*://*.bluenewsvision.net/*
-*://*.brainberries.co/*
-*://*.breakingnewsblast.com/*
-*://*.buffalochronicle.com/*
-*://*.citimuzik.com/*
-*://*.deadorkicking.com/*
-*://*.disclose.tv/*
-*://*.distractify.com/*
-*://*.edailybuzz.com/*
-*://*.edudwar.com/*
-*://*.everytimestory.com/*
-*://*.expose-news.com/*
-*://*.factmandu.com/*
-*://*.factrider.com/*
-*://*.facts.net/*
-*://*.factsnippet.com/*
-*://*.fanboy.com/*
-*://*.fashionsizzle.com/*
-*://*.feelingnews.com/*
-*://*.focustimes.org/*
-*://*.gazettereview.com/*
-*://*.gridwaste.com/*
-*://*.gummypost.com/*
-*://*.hauls.blob.core.windows.net/*
-*://*.heightpost.com/*
-*://*.howold.co/*
-*://*.howtallheight.com/*
-*://*.husbandinfo.com/*
-*://*.infobae.com/*
-*://*.informationcradle.com/*
-*://*.informationngr.com/*
-*://*.informone.com/*
-*://*.insightnewsgh.com/*
-*://*.inspiredpencil.com/*
-*://*.knowsize.com/*
-*://*.latestmyanmarnews.com/*
-*://*.listal.com/*
-*://*.livemonitor.co.za/*
-*://*.longarticles.com/*
-*://*.losdanieles.net/*
-*://*.luxlux.net/*
-*://*.luxurytheme.com/*
-*://*.majorthoughts.com/*
-*://*.mediazone.news/*
-*://*.metropolitanworlds.com/*
-*://*.mintpressnews.com/*
-*://*.mminfo24.com/*
-*://*.mmrednews.com/*
-*://*.myanmaralinn.best/*
-*://*.myanmarfightcovid19.com/*
-*://*.myanmartodaylife.com/*
-*://*.mynewsgh.com/*
-*://*.naturalnews.com/*
-*://*.news.mintehrlay.xyz/*
-*://*.newspost.xyz/*
-*://*.oneworldinformation.com/*
-*://*.onlinehartha.com/*
-*://*.onlinelawka.com/*
-*://*.poppingboxmm.com/*
-*://*.poppingmyanmar.com/*
-*://*.prosieben.de/*
-*://*.pyawsayar.com/*
-*://*.quizbash.com/*
-*://*.ranker.com/*
-*://*.realrawnews.com/*
-*://*.santhitsa.net/*
-*://*.sportmyanmarnews.com/*
-*://*.startefacts.com/*
-*://*.storefeeling.com/*
-*://*.sweetmyanmar.com/*
-*://*.theeventchronicle.com/*
-*://*.thefactscity.com/*
-*://*.thunkhuma.info/*
-*://*.thutazone.org/*
-*://*.tiemmesspecialnews.com/*
-*://*.trendradars.com/*
-*://*.triobrother.blob.core.windows.net/*
-*://*.updatenew.net/*
-*://*.walikali.com/*
-*://*.wealthygorilla.com/*
-*://*.wegotthiscovered.com/*
-*://*.worthpoint.com/*
-*://*.wowmyanmar.com/*
-*://*.zoomboola.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Copycat Tutorials
-
-*://*.geeksforgeeks.com/*
-*://*.studytonight.com/*
-*://*.tutorialspoint.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake Download & Software Mirror Sites
-
-*://*.filehippo.com/*
-*://*.freedownloadmanager.com/*
-*://*.softonic.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake Tech News, Error Fix Blogs & How-To Spam
+# Tech News, Error Fix Blogs & How-To Spam
 
 *://*.appuals.com/*
 *://*.auslogics.com/en/articles/*
