@@ -1044,6 +1044,7 @@
 *://*.starissime.info/*
 *://*.starlifetalk.com/*
 *://*.starlinetours.com/*
+*://*.starmag.com/*
 *://*.starmagazine.com/*
 *://*.starmap.com/*
 *://*.starmometer.com/*
@@ -1072,9 +1073,11 @@
 *://*.starsdiary.com/*
 *://*.starsducinema.com/*
 *://*.starsetpeople.com/*
+*://*.starsfact.com/*
 *://*.starsgab.com/*
 *://*.starsgossip.blogspot.com/*
 *://*.starsinformer.com/*
+*://*.starsinsider.com/*
 *://*.starsinyou.com/*
 *://*.starslikeyou.com/*
 *://*.starsoffline.com/*
@@ -1102,7 +1105,7 @@
 *://*.zoomstars.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Clickbaity Listicles
+# Clickbaity Listicle Sources
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
@@ -1239,6 +1242,105 @@
 *://*.windowsreport.com/*
 *://*.woshub.com/*
 *://*.zeallsoft.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# Wallpapers
+
+*://*.1freewallpapers.com/*
+*://*.1zoom.me/*
+*://*.4kwallpapers.com/*
+*://*.4kwallpapers.net/*
+*://*.abduzeedo.com/*
+*://*.allwallpapersfree.org/*
+*://*.alphacoders.com/*
+*://*.amazingwallpapers.org/*
+*://*.androidwallpape.rs/*
+*://*.anime-wallpaper.com/*
+*://*.animemotivation.com/*
+*://*.artstation.com/*
+*://*.awesomewallpapers.info/*
+*://*.best-wallpaper.net/*
+*://*.bingwallpaperhd.com/*
+*://*.coloringpagesonly.com/*
+*://*.coolbackgrounds.io/*
+*://*.coolwallpapers.me/*
+*://*.cutewallpaper.org/*
+*://*.dailywallpapers.net/*
+*://*.designyourway.net/*
+*://*.desktopnexus.com/*
+*://*.deviantart.com/*
+*://*.digitalblasphemy.com/*
+*://*.dribbble.com/*
+*://*.eskipaper.com/*
+*://*.fantasymoods.com/*
+*://*.fullhdpictures.com/*
+*://*.gamingwallpapers.com/*
+*://*.getwallpapers.com/*
+*://*.goodfon.com/*
+*://*.hdqwalls.com/*
+*://*.hdwallpapers.cat/*
+*://*.hdwallpapers.in/*
+*://*.hdwallpapers.net/*
+*://*.hivewallpaper.com/*
+*://*.interfacelift.com/*
+*://*.ioshacker.com/*
+*://*.jootix.com/*
+*://*.kde-look.org/*
+*://*.minimaldesktops.com/*
+*://*.mob.org/*
+*://*.mobileabyss.com/*
+*://*.mobileswall.com/*
+*://*.mobilewallpapers.com/*
+*://*.myanimelist.net/*
+*://*.myhdwallpapers.net/*
+*://*.mywallpapers.net/*
+*://*.papers.co/*
+*://*.pexels.com/*
+*://*.picswalls.com/*
+*://*.pixabay.com/*
+*://*.pngall.com/*
+*://*.pxfuel.com/*
+*://*.rare-gallery.com/*
+*://*.s9wallpapers.com/*
+*://*.scenicreflections.com/*
+*://*.setaswall.com/*
+*://*.setaswallpapers.com/*
+*://*.simpledesktops.com/*
+*://*.simplewallpapers.cc/*
+*://*.theotaku.com/*
+*://*.thepaperwall.com/*
+*://*.topwallpaper.net/*
+*://*.truehdwallpaper.com/*
+*://*.uhdpaper.com/*
+*://*.ultrahdwallpapers.net/*
+*://*.unsplash.com/*
+*://*.vladstudio.com/*
+*://*.wall.alphacoders.com/*
+*://*.wallcoo.net/*
+*://*.wallhaven.cc/*
+*://*.wallpaperabyss.com/*
+*://*.wallpaperaccess.com/*
+*://*.wallpaperboat.com/*
+*://*.wallpaperbro.com/*
+*://*.wallpapercave.com/*
+*://*.wallpaperflare.com/*
+*://*.wallpapers.com/*
+*://*.wallpapersafari.com/*
+*://*.wallpaperscraft.com/*
+*://*.wallpapersden.com/*
+*://*.wallpaperset.com/*
+*://*.wallpapersforu.com/*
+*://*.wallpapershdbackgrounds.com/*
+*://*.wallpapershdfree.com/*
+*://*.wallpapershome.com/*
+*://*.wallpapersmob.com/*
+*://*.wallpaperswide.com/*
+*://*.wallpapertag.com/*
+*://*.wallpapertip.com/*
+*://*.wallsdesk.com/*
+*://*.wlppr.com/*
+*://*.yandex.com/images/*
+*://*.zedge.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Wikis
