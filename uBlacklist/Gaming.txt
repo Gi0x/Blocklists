@@ -1287,20 +1287,15 @@
 *://*.dandwiki.com/*
 *://*.dorkly.com/*
 *://*.dotlan.net/*
-*://*.dualshockers.com/*
 *://*.epicnpc.com/*
-*://*.eurogamer.net/*
-*://*.fanbyte.com/*
 *://*.fandomwire.com/*
 *://*.fanpop.com/*
 *://*.fastcharacter.com/*
 *://*.finalfantasyforums.net/*
 *://*.fiverr.com/categories/gaming/*
-*://*.gamefaqs.gamespot.com/*
 *://*.gamegator.net/*
-*://*.gameinformer.com/*
 *://*.gamejargon.com/*
-*://*.gamerant.com/*
+*://*.gamer.no/*
 *://*.gamerbraves.com/*
 *://*.gamersdecide.com/*
 *://*.gaminggorilla.com/*
@@ -1312,7 +1307,6 @@
 *://*.geekculture.co/*
 *://*.geeksundergrace.com/*
 *://*.geektyrant.com/*
-*://*.giantbomb.com/*
 *://*.gmbinder.com/*
 *://*.gonintendo.com/*
 *://*.gossipgamers.com/*
@@ -1322,6 +1316,7 @@
 *://*.humblebundle.com/*
 *://*.hummingbird.me/*
 *://*.iamag.co/*
+*://*.igdb.com/*
 *://*.ign.com/wikis/*
 *://*.ignboards.com/*
 *://*.imgflip.com/m/gaming/*
@@ -1360,9 +1355,6 @@
 *://*.otakumode.com/*
 *://*.otakutale.com/*
 *://*.parodygamer.com/*
-*://*.pcgamer.com/*
-*://*.personality-database.com/*
-*://*.personalityquiz.net/*
 *://*.playerauctions.com/*
 *://*.powerlisting.fandom.com/*
 *://*.proprofs.com/*
@@ -1396,7 +1388,6 @@
 *://*.syfy.com/tags/gaming/*
 *://*.tabletopaudio.com/*
 *://*.teepublic.com/t-shirts/gaming/*
-*://*.thegamer.com/*
 *://*.thegeekyjuans.com/*
 *://*.theinventory.com/*
 *://*.thisquiz.com/*
@@ -1411,7 +1402,6 @@
 *://*.uproxx.com/gaming/*
 *://*.vg247.com/*
 *://*.vicioustrap.com/*
-*://*.videogamer.com/*
 *://*.vndb.org/*
 *://*.vulkk.com/*
 *://*.weebtrash.com/*
@@ -1459,7 +1449,6 @@
 *://*.ocbase.com/*
 *://*.pc-gamebenchmark.com/*
 *://*.pcbenchmarks.org/*
-*://*.pcgamingwiki.com/*
 *://*.pcspecs.net/*
 *://*.pingtestlive.com/*
 *://*.powerboard.gg/*
@@ -1544,7 +1533,6 @@
 *://*.nintendopedia.com/*
 *://*.nintenpedia.com/*
 *://*.opencritic.com/*
-*://*.pcgamingwiki.com/*
 *://*.psxdatacenter.com/*
 *://*.raregamer.co.uk/*
 *://*.rateyourmusic.com/games/*
@@ -1973,7 +1961,6 @@
 *://*.dayzrpg.com/forums/*
 *://*.deathmatchzone.com/forums/*
 *://*.destinythegame.com/forums/*
-*://*.destructoid.com/*
 *://*.diablofans.com/*
 *://*.diabloii.net/forums/*
 *://*.discord.com/channels/*gaming*
@@ -2076,7 +2063,6 @@
 *://*.gamingonlinux.com/*
 *://*.gamingsubreddit.com/*
 *://*.geforceforums.nvidia.com/*
-*://*.giantbomb.com/*
 *://*.gmodstore.com/forums/*
 *://*.grcade.co.uk/*
 *://*.gtaforums.com/*
@@ -2103,7 +2089,6 @@
 *://*.karmagames.com/forums/*
 *://*.kingdomcomeforum.com/*
 *://*.kongregate.com/forums/*
-*://*.kotaku.com/*
 *://*.kotaku.com/forums/*
 *://*.leagueoflegends.com/board/*
 *://*.leagueoflegends.com/forums/*
@@ -2220,7 +2205,6 @@
 *://*.ubisoftconnect.com/*
 *://*.unity3d.com/forums/*
 *://*.valvecommunity.com/*
-*://*.vg247.com/*
 *://*.vgc.games/forums/*
 *://*.vgcforums.com/*
 *://*.vgforums.com/*
@@ -3131,13 +3115,11 @@
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 14. Gaming News & Reviews ... 
 
-*://*.4players.de/*
 *://*.a9vg.com/*
 *://*.dualshockers.com/*
 *://*.destructoid.com/*
 *://*.esportstalk.com/*
 *://*.eurogamer.net/*
-*://*.gamer.no/*
 *://*.gameinformer.com/*
 *://*.gamepro.com/*
 *://*.gamesindustry.biz/*
@@ -3149,7 +3131,6 @@
 *://*.gamingbolt.com/*
 *://*.gamereactor.eu/*
 *://*.gamersglobal.de/*
-*://*.gamesvillage.it/*
 *://*.gamezone.com/*
 *://*.gamewatcher.com/*
 *://*.giantbomb.com/*
@@ -3171,7 +3152,6 @@
 *://*.videogamer.com/*
 *://*.worthplaying.com/*
 *://*.3djuegos.com/*
-*://*.4players.de/*
 *://*.areajugones.sport.es/*
 *://*.douxie.com/*
 *://*.everyeye.it/*
@@ -3192,14 +3172,12 @@
 *://*.ign.it/*
 *://*.ign.jp/*
 *://*.jeuxactu.com/*
-*://*.jeuxvideo.com/*
 *://*.levelup.com/*
 *://*.meristation.com/*
 *://*.mygaming.co.za/*
 *://*.nextn.es/*
 *://*.playfront.de/*
 *://*.pszone.fr/*
-*://*.spaziogames.it/*
 *://*.vgtime.com/*
 *://*.xgn.nl/*
 
@@ -3401,6 +3379,12 @@
 *://*.xnmodapk.com/*
 *://*.youapk.com/*
 *://*.zippyapk.com/*
+*://*.besser-gaming.com/*
+*://*.europeangaming.eu/*
+*://*.nichegamer.com/*
+*://*.insider-gaming.com/*
+*://*.game-news24.com/*
+*://*.gamerworldnews.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 21. Niche & Indie Game Portals ... OK
@@ -3410,62 +3394,3 @@
 *://*.ludumdare.com/*
 *://*.nitrome.com/*
 *://*.tigsource.com/*
-
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Gaming News & Reviews
-
-*://*.besser-gaming.com/*
-*://*.eurogamer.net/*
-*://*.europeangaming.eu/*
-*://*.pcgamingwiki.com/*
-*://*.nichegamer.com/*
-*://*.pcgamer.com/*
-*://*.igdb.com/*
-*://*.ign.com/*
-*://*.insider-gaming.com/*
-*://*.kotaku.com/*
-*://*.game-news24.com/*
-*://*.gamerant.com/*
-*://*.gamereactor.eu/*
-*://*.gamerworldnews.com/*
-*://*.gamestar.de/*
-*://*.4players.de/*
-*://*.a9vg.com/*
-*://*.dualshockers.com/*
-*://*.destructoid.com/*
-*://*.esportstalk.com/*
-*://*.eurogamer.net/*
-*://*.gamer.no/*
-*://*.gameinformer.com/*
-*://*.gamepro.com/*
-*://*.gamesindustry.biz/*
-*://*.gamespot.com/*
-*://*.gamestar.de/*
-*://*.gamesradar.com/*
-*://*.gamerant.com/*
-*://*.gamasutra.com/*
-*://*.gamingbolt.com/*
-*://*.gamereactor.eu/*
-*://*.gamersglobal.de/*
-*://*.gamesvillage.it/*
-*://*.gamezone.com/*
-*://*.gamewatcher.com/*
-*://*.giantbomb.com/*
-*://*.ign.com/*
-*://*.jeuxvideo.com/*
-*://*.kotaku.com/*
-*://*.metacritic.com/*
-*://*.n4g.com/*
-*://*.operationrainfall.com/*
-*://*.pcgamer.com/*
-*://*.polygon.com/*
-*://*.press-start.com.au/*
-*://*.rockpapershotgun.com/*
-*://*.segmentnext.com/*
-*://*.shacknews.com/*
-*://*.siliconera.com/*
-*://*.spaziogames.it/*
-*://*.thegamer.com/*
-*://*.videogamer.com/*
-*://*.vg247.com/*
-*://*.worthplaying.com/*
