@@ -5,7 +5,7 @@
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Image%20Editors.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2D/3D Modeling & Design Platforms
+# 1. 2D/3D Modeling & Design Platforms
 
 *://*.blendernation.com/*
 *://*.figma.com/*
@@ -17,14 +17,14 @@
 *://*.vectr.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# AI Art Generators & Creative Experiments
+# 2. AI Art Generators & Creative Experiments
 
 *://*.avatoon.me/*
 *://*.deeparteffects.com/*
 *://*.playgroundai.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# AI-Powered Image Tools (Upscalers, Enhancers, Background Removers, Generators)
+# 3. AI-Powered Image Tools (Upscalers, Enhancers, Background Removers, Generators)
 
 *://*.artbreeder.com/*
 *://*.bigjpg.com/*
@@ -46,7 +46,7 @@
 *://*.waifu2x.udp.jp/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Graphic Design & Layout Tools (Presentation, Print, Web Templates)
+# 4. Graphic Design & Layout Tools (Presentation, Print, Web Templates)
 
 *://*.123rf.com/*
 *://*.adobe.com/express/*
@@ -62,7 +62,7 @@
 *://*.visme.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Image Editors (Traditional, Browser-Based Photoshop Alternatives)
+# 5. Image Editors (Traditional, Browser-Based Photoshop Alternatives)
 
 *://*.anymaking.com/*
 *://*.batchphoto.com/*
@@ -143,7 +143,7 @@
 *://*.vsco.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Video Editors & Animation Tools (Online Editing, Short-Form Content)
+# 6. Video Editors & Animation Tools (Online Editing, Short-Form Content)
 
 *://*.clipchamp.com/*
 *://*.flexclip.com/*

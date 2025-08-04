@@ -5,7 +5,7 @@
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Search.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Browsers
+# 1. Browsers
 
 *://*.arc.net/*
 *://*.avantbrowser.com/*
@@ -78,7 +78,7 @@
 *://*.yandex.com/browser/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# AI-Based Search Engines
+# 2. AI-Based Search Engines
 
 *://*.andi.io/*
 *://*.arc.net/*
@@ -102,7 +102,7 @@
 *://*.you.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# General Search Engines
+# 3. General Search Engines
 
 *://*.100searchengines.com/*
 *://*.aol.com/search/*
@@ -341,7 +341,7 @@
 *://*.zapmeta.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# SearX & XNG Instances
+# 4. SearX & XNG Instances
 
 *://*.bndkt.cz/*
 *://*.bndkt.io/*

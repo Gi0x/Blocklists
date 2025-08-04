@@ -5,7 +5,7 @@
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Spam.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Ad Delivery Domains
+# 1. Ad Delivery Domains
 
 # Wildcard Rules
 
@@ -102,14 +102,14 @@
 *://*.zeroredirect1.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Affiliate SEO spam
+# 2. Affiliate SEO spam
 
 *://*.bestreviewsite.com/*
 *://*.productrankings.co/*
 *://*.top10best.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# AI Generated Nonesense & Content Spam Farms
+# 3. AI Generated Nonesense & Content Spam Farms
 
 *://*.answerbun.com/*
 *://*.answercatch.com/*
@@ -152,7 +152,7 @@
 *://*.yourquickinfo.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Antivirus
+# 4. Antivirus
 
 *://*.1virusremoval.com/*
 *://*.advancedpctools.com/*
@@ -216,7 +216,7 @@
 *://*.yourpcguardian.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Bios
+# 5. Bios
 
 *://*.arrivebio.org/*
 *://*.articlebio.com/*
@@ -258,7 +258,7 @@
 *://*.shortbiography.info/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Celebrity Info Sites 
+# 6. Celebrity Info Sites 
 
 *://*.americancelebritynews.com/*
 *://*.celebsaga.com/*
@@ -767,7 +767,7 @@
 *://*.yourcelebritymagazines.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Clickait Misc – Listicles, Quotes, Rankings etc.
+# 7. Clickait Misc – Listicles, Quotes, Rankings etc.
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
@@ -863,7 +863,7 @@
 *://*.zoomboola.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Copycat Tutorials
+# 8. Copycat Tutorials
 
 *://*.askavy.com/*
 *://*.askcodez.com/*
@@ -934,7 +934,7 @@
 *://*.www.interviewbit.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Data Brokers
+# 9. Data Brokers
 
 *://*.addresses.com/*
 *://*.advancedbackgroundchecks.com/*
@@ -993,7 +993,7 @@
 *://*.zabasearch.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fame & Glamour
+# 10. Fame & Glamour
 
 *://*.allfamous.org/*
 *://*.allfamoustrend.com/*

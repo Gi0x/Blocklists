@@ -5,7 +5,7 @@
 ! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Drugs.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Cannabis & Marijuana (Retail, Culture, Info)
+! 1. Cannabis & Marijuana (Retail, Culture, Info)
 
 ||apothecarium.com^
 ||barneysfarm.com^
@@ -34,7 +34,7 @@
 ||weedmaps.com^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! CBD Product Retailers
+! 2. CBD Product Retailers
 
 ||absolute-nature-cbd.com^
 ||americanhempoil.net^
@@ -59,7 +59,7 @@
 ||veritasfarms.com^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Darknet Drug Market Mirrors / Directories
+! 3. Darknet Drug Market Mirrors / Directories
 
 ||dark.fail^
 ||darknetlive.com^
@@ -67,7 +67,7 @@
 ||onion.live^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Drug Forums, Smart Drugs, Nootropics, Research Chems
+! 4. Drug Forums, Smart Drugs, Nootropics, Research Chems
 
 ||afinilexpress.com^
 ||bluelight.org^
@@ -85,7 +85,7 @@
 ||supersmart.com^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Tobacco & Cigarettes
+! 5. Tobacco & Cigarettes
 
 ||buycigarettesonline.org^
 ||cheapcigarettes.com^
@@ -99,7 +99,7 @@
 ||tobaccousa.com^
 
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-! Vaping & E-Cigarettes
+! 6. Vaping & E-Cigarettes
 
 ||centralvapors.com^
 ||ecig-city.com^
