@@ -5,7 +5,7 @@
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. Browser-Based Gaming & Casual Games ... OK
+# 1. Browser-Based Gaming ... OK
 
 *://*.2pg.com/*
 *://*.7k7k.com/*
@@ -342,7 +342,7 @@
 *://*.zibbo.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Game Developers (AAA, Indie, Mobile, VR, Web3 & Blockchain) + Publisher Sites ... OK
+# 2. Game Devs (AAA, Indie, Mobile, VR, Web3 & Blockchain) + Publisher Sites ... OK
 
 *://*.4:33.co.kr/*
 *://*.99games.in/*
@@ -703,7 +703,7 @@
 *://*.zlongame.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Game Streaming Platforms, eSports & Video Content Creators ... OK
+# 3. Game Streaming Platforms, eSports & Video Creators ... OK
 
 *://*.4gamers.tv/*
 *://*.100thieves.com/*
@@ -1473,7 +1473,7 @@
 *://*.yourgamingsetup.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Gaming Catalogs, Lists, & Stats Sites ... OK
+# 7. Gaming Catalogs, Lists, & Stats ... OK
 
 *://*.1morecastle.com/*
 *://*.1001games.com/*
@@ -2753,7 +2753,7 @@
 *://*.zoneofgames.ru/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 12.  Gaming Distribution Platforms ... OK
+# 12. Gaming Distribution Platforms ... OK
 
 *://*.2game.com/*
 *://*.aerosoft.com/*
