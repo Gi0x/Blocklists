@@ -1,11 +1,23 @@
 # Title: Dating
-# Description: Hides anything that has to do with dating & seduction from search results
+# Description: Hides dating & seduction sites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Dating.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Dating.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# 1. Adult, Casual & Hookup-Oriented Dating Platforms
+# 2. AI Companions, Virtual Girlfriends & Simulated Romance
+# 3. App Store Redirects & Promotional Microsites
+# 4. Escort Directories & “Companion” Booking Services
+# 5. Fake, Spammy & Scam-Prone Dating Domains
+# 6. Fetish-Specific Dating & Kink Communities
+# 7. General Dating Platforms (Mainstream & Intl.)
+# 8. Influencer Redirects, Cloakers & Affiliate Networks
+# 9. Niche Dating Platforms (Religion, Lifestyle, Subcultures, Interests)
+# 10. OnlyFans Discovery & Promotion Platforms
+# 11. Regional & Language Specific Dating Platforms
+# 12. Soft-Core NSFW “Advice” for Men & Lifestyle Improvement Media
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Adult, Casual & Hookup-Oriented Dating Platforms
+# 1. Adult, Casual & Hookup-Oriented Dating Platforms
 
 *://*.1fuckdate.com/*
 *://*.3somer.com/*
@@ -124,7 +136,7 @@
 *://*.zoosksexdate.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# AI Companions, Virtual Girlfriends & Simulated Romance
+# 2. AI Companions, Virtual Girlfriends & Simulated Romance
 
 *://*.animaapp.ai/*
 *://*.anima.ai/*
@@ -172,7 +184,7 @@
 *://*.yourwaifu.ai/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# App Store Redirects & Promotional Microsites
+# 3. App Store Redirects & Promotional Microsites
 
 *://*.1clickmatch.com/*
 *://*.adating.site/*
@@ -251,7 +263,7 @@
 *://*.yourmatchzone.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Escort Directories & “Companion” Booking Services
+# 4. Escort Directories & “Companion” Booking Services
 
 *://*.adultsearch.com/*
 *://*.adultlook.com/*
@@ -308,7 +320,7 @@
 *://*.yesbackpage.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fake, Spammy & Scam-Prone Dating Domains
+# 5. Fake, Spammy & Scam-Prone Dating Domains
 
 *://*.1fuckdate.com/*
 *://*.adultchatdatings.com/*
@@ -429,7 +441,7 @@
 *://*.yourhotmatch.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Fetish-Specific Dating & Kink Communities
+# 6. Fetish-Specific Dating & Kink Communities
 
 *://*.alt.com/*
 *://*.altplayground.net/*
@@ -470,7 +482,7 @@
 *://*.whiplr.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# General Dating Platforms (Mainstream & Intl.)
+# 7. General Dating Platforms (Mainstream & Intl.)
 
 *://*.adatingnest.com/*
 *://*.adultfriendfinder.com/*
@@ -541,7 +553,7 @@
 *://*.zoosk.co.uk/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Influencer Redirects, Cloakers & Affiliate Networks
+# 8. Influencer Redirects, Cloakers & Affiliate Networks
 
 *://*.allmylinks.com/*
 *://*.beacons.ai/*
@@ -582,7 +594,7 @@
 *://*.znap.link/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Niche Dating Platforms (Religion, Lifestyle, Subcultures, Interests)
+# 9. Niche Dating Platforms (Religion, Lifestyle, Subcultures, Interests)
 
 *://*.airg.com/*
 *://*.bbwdatefinder.com/*
@@ -702,7 +714,7 @@
 *://*.youreable.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# OnlyFans Discovery & Promotion Platforms
+# 10. OnlyFans Discovery & Promotion Platforms
 
 *://*.allfans.cc/*
 *://*.allfansleaks.com/*
@@ -747,7 +759,7 @@
 *://*.yournsfwfinder.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Regional & Language Specific Dating Platforms
+# 11. Regional & Language Specific Dating Platforms
 
 *://*.2redbeans.com/*
 *://*.amolatina.com/*
@@ -830,7 +842,7 @@
 *://*.zhenai.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Soft-Core NSFW “Advice” for Men & Lifestyle Improvement Media
+# 12. Soft-Core NSFW “Advice” for Men & Lifestyle Improvement Media
 
 *://*.aaronmarino.com/*
 *://*.alpha-m.com/*

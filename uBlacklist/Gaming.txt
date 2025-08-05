@@ -4,7 +4,6 @@
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gaming.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-
 # 1. Browser-Based Gaming ... ok
 # 2. Game Devs (AAA, Indie, Mobile, VR, Web3 & Blockchain) & Publisher Sites ... ok
 # 3. Game Streaming Platforms, eSports & Video Creators ... ok
@@ -23,7 +22,6 @@
 # 16. Gaming Guides, Subreddits & Wikis ... 
 # 17. Mobile Gaming Portals & App-Based Games ... ok
 # 18. Niche & Indie Game Portals ... ok
-
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Browser-Based Gaming

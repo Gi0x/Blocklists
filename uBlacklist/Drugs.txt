@@ -4,14 +4,12 @@
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Drugs.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Drugs.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-
 # 1. Cannabis & Marijuana (Retail, Culture, Info)
 # 2. CBD Product Retailers
 # 3. Darknet Drug Market Mirrors / Directories
 # 4. Drug Forums, Smart Drugs, Nootropics, Research Chems
 # 5. Tobacco & Cigarettes
 # 6. Vaping & E-Cigarettes
-
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Cannabis & Marijuana (Retail, Culture, Info)

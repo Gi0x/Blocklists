@@ -4,14 +4,12 @@
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Image%20Editors.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Image%20Editors.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-
 # 1. 2D/3D Modeling & Design Platforms
 # 2. AI Art Generators & Creative Experiments
 # 3. AI-Powered Image Tools (Upscalers, Enhancers, Background Removers & Generators)
 # 4. Graphic Design & Layout Tools (Presentation, Print & Web Templates)
 # 5. Image Editors (Browser-Based Photoshop Alternatives)
 # 6. Video Editors & Animation Tools (Online Editing, Short-Form Content)
-
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. 2D/3D Modeling & Design Platforms
