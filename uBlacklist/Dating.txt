@@ -1,4 +1,4 @@
-# Title: Dating
+# Title: Gi0x's Dating
 # Description: Hides dating & seduction sites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Dating.txt

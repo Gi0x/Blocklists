@@ -1,4 +1,4 @@
-# Title: Image Editors
+# Title: Gi0x's Image Editors
 # Description: Hides web-based photo & graphics editors from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Image%20Editors.txt

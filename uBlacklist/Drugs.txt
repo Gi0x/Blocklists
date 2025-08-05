@@ -1,4 +1,4 @@
-# Title: Drugs
+# Title: Gi0x's Drugs
 # Description: Hides drugs & tobacco related websites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Drugs.txt

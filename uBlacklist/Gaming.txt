@@ -1,4 +1,4 @@
-# Title: Gaming
+# Title: Gi0x's Gaming
 # Description: Hides gaming related sites from search results
 # DeDup: N, Sorted: N
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gaming.txt

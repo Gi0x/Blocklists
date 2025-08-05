@@ -1,4 +1,4 @@
-# Title: Chat
+# Title: Gi0x's Chat
 # Description: Hides chat apps & sites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Chat.txt

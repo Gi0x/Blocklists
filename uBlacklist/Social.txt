@@ -1,4 +1,4 @@
-# Title: Social
+# Title: Gi0x's Social
 # Description: Hides social media from search results
 # DeDup: Y, Sorted: Y
 # Note: Pinterest domains excluded, but available from NyeUsr

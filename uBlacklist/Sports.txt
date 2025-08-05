@@ -1,4 +1,4 @@
-# Title: Sports
+# Title: Gi0x's Sports
 # Description: Hides sports related sites (incl. streaming) from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Sports.txt

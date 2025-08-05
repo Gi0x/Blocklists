@@ -1,4 +1,4 @@
-# Title: Gambling
+# Title: Gi0x's Gambling
 # Description: Hides gambling & betting sites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gambling.txt

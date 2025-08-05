@@ -1,4 +1,4 @@
-# Title: Streaming
+# Title: Gi0x's Streaming
 # Description: Hides audiovisual streaming sites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Streaming.txt

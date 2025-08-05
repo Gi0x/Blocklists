@@ -1,4 +1,4 @@
-# Title: Search
+# Title: Gi0x's Search
 # Description: Hides specific browsers & search engines from search results
 # Dedup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Search.txt

@@ -1,4 +1,4 @@
-# Title: Spam
+# Title: Gi0x's Spam
 # Description: Hides low-quality, fake & spammy sites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Spam.txt

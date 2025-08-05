@@ -1,4 +1,4 @@
-# Title: Astro
+# Title: Gi0x's Astro
 # Description: Hides astrology & tarot related sites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Astro.txt
