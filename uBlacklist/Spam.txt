@@ -4,17 +4,37 @@
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Spam.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Spam.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# 1. Ad Delivery Domains
+# 2. Affiliate SEO spam
+# 3. AI Generated Nonesense & Content Spam Farms
+# 4. AI Tool Directories & Generators 
+# 5. Antivirus
+# 6. Bios
+# 7. Celebrities
+# 8. Clickait Misc
+# 9. Copycat Tutorials
+# 10. Crypto-Adjacent Grifting & Web3 Hype Sites
+# 11. Fake Entrepreneurship, Hustle Culture, Success & Income Claim Sites
+# 12. Fake Psychology & Therapy Advice Blogs 
+# 13. Fake Learning Platforms & Low-Quality Course Sites
+# 14. Fame & Glamour
+# 15. GitHub
+# 16. Gossip & Rumors
+# 17. Hollywood (incl. Bollywood)
+# 18. Jet Set
+# 19. Lyrics
+# 20. Networth
+# 21. People & Pop Culture
+# 22. Pop Psychology & Productivity Spam Blogs
+# 23. Quotes
+# 24. Software Mirror & Download Sites
+# 25. Stars
+# 26. Tech News, Error Fix Blogs & How-To Spam
+# 27. Wallpapers
+# 28. Wikis
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Ad Delivery Domains
-
-# Wildcard Rules
-
-*://*click*ads*/*
-*://*popads*/*
-*://*ads*redirect*/*
-*://*track*ad*/*
-
-# Domains
 
 *://*.01script.com/*
 *://*.1phads.com/*
@@ -152,7 +172,33 @@
 *://*.yourquickinfo.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Antivirus
+# 4. AI Tool Directories & Generators 
+
+*://*.ai-directory.top/*
+*://*.aibesttools.com/*
+*://*.aidirectory.site/*
+*://*.aifinder.tools/*
+*://*.aitools.fyi/*
+*://*.aitoolslist.io/*
+*://*.aitoptools.com/*
+*://*.allabtai.com/*
+*://*.bestaitools.ai/*
+*://*.futurpedia.io/*
+*://*.futurepedia.io/*
+*://*.gptdirectory.ai/*
+*://*.gptunfiltered.com/*
+*://*.insidr.ai/*
+*://*.thereisan.ai/*
+*://*.toolfinder.ai/*
+*://*.toolpilot.ai/*
+*://*.toolzz.com/*
+*://*.topaitools.online/*
+*://*.topai.tools/*
+*://*.unite.ai/*
+*://*.zmo.ai/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 5. Antivirus
 
 *://*.1virusremoval.com/*
 *://*.advancedpctools.com/*
@@ -216,14 +262,17 @@
 *://*.yourpcguardian.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Bios
+# 6. Bios
 
 *://*.arrivebio.org/*
 *://*.articlebio.com/*
 *://*.bignamebio.com/*
 *://*.bioagewho.co/*
 *://*.biogossipy.com/*
+*://*.biografame.com/*
+*://*.biografieonline.it/*
 *://*.biografija.org/*
+*://*.biografiacorta.net/*
 *://*.biografijaonline.com/*
 *://*.biografijapoznatih.com/*
 *://*.biographicsworld.com/*
@@ -233,6 +282,7 @@
 *://*.biographs.org/*
 *://*.biography.com/*
 *://*.biographybro.com/*
+*://*.biographyexpress.com/*
 *://*.biographygist.com/*
 *://*.biographyhost.com/*
 *://*.biographyline.com/*
@@ -248,6 +298,7 @@
 *://*.biowikis.com/*
 *://*.deepersonbiography.com/*
 *://*.ebiographypost.com/*
+*://*.getsbio.com/*
 *://*.legendsbio.com/*
 *://*.marriedbiography.com/*
 *://*.metrobiography.com/*
@@ -255,23 +306,15 @@
 *://*.popularbio.com/*
 *://*.popularbiographies.wordpress.com/*
 *://*.purebiography.com/*
+*://*.short-biography.com/*
 *://*.shortbiography.info/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Celebrity Info Sites 
+# 7. Celebrities 
 
-*://*.americancelebritynews.com/*
-*://*.celebsaga.com/*
-*://*.celebsagewiki.com/*
-*://*.celebsbiography.info/*
-*://*.celebsuburb.com/*
-*://*.celebwiki.org/*
-*://*.celebwikiage.com/*
-*://*.celebzall.com/*
-*://*.celebzwiki.com/*
+*://*.123celebritygossip.com/*
 *://*.1celebritysearch.com/*
 *://*.2krota.ru/celebrities/*
-*://*.123celebritygossip.com/*
 *://*.aboutcelebritynews.com/*
 *://*.actu-celebrite.blogspot.com/*
 *://*.all-pictures.org/*/celebrities
@@ -279,6 +322,7 @@
 *://*.allcelebritylifestyle.com/*
 *://*.allcelebritywiki.com/*
 *://*.amacelebrity.com/*
+*://*.americancelebritynews.com/*
 *://*.amiaceleb.com/*
 *://*.annu-celebrites.cquoi.net/*
 *://*.annuaire-stars-celebrites.com/*
@@ -288,15 +332,16 @@
 *://*.bigcelebritybuzz.com/*
 *://*.cageyceleb.com/*
 *://*.calicelebs.com/*
+*://*.capitalceleb.com/*
 *://*.caribbeancelebrity.com/*
 *://*.cebnet.org/*
-*://*.celeb24x7.com/*
 *://*.celeb-gossip./*
 *://*.celeb-networth.com/*
 *://*.celeb-surgery.com/*
 *://*.celeb-true.com/*
 *://*.celeb.gate/*
 *://*.celeb.tv/*
+*://*.celeb24x7.com/*
 *://*.celebaddress.com/*
 *://*.celeband.com/*
 *://*.celebanswers.com/*
@@ -314,6 +359,7 @@
 *://*.celebelek.hu/*
 *://*.celebers.com/*
 *://*.celebfeatures.com/*
+*://*.celebgate.org/*
 *://*.celebgossip.co.za/*
 *://*.celebgossip.co/*
 *://*.celebgossip.excite.com/*
@@ -363,6 +409,7 @@
 *://*.celebpot.com/*
 *://*.celebpox.com/*
 *://*.celebprivate.com/*
+*://*.celebratingthesoaps.com/*
 *://*.celebreject.com/*
 *://*.celebreligions.com/*
 *://*.celebretainment.com/*
@@ -442,6 +489,7 @@
 *://*.celebritybeliefs.com/*
 *://*.celebrityblackberrysightings.com/*
 *://*.celebritybodygossip.com/*
+*://*.celebritybodyshape.com/*
 *://*.celebrityborn.com/*
 *://*.celebritybreakingnews.com/*
 *://*.celebritybuzzer.org/*
@@ -482,6 +530,7 @@
 *://*.celebrityinsider.org/*
 *://*.celebrityjet.com/*
 *://*.celebrityjuicy.com/*
+*://*.celebritykind.com/*
 *://*.celebritylatestgossip.com/*
 *://*.celebrityleak.co/*
 *://*.celebritylifecycle.com/*
@@ -490,8 +539,8 @@
 *://*.celebritymound.com/*
 *://*.celebritynation.blogspot.com/*
 *://*.celebritynationalities.com/*
-*://*.celebritynetworth123.com/*
 *://*.celebritynetworth.com/*
+*://*.celebritynetworth123.com/*
 *://*.celebritynetworthonly.com/*
 *://*.celebritynetworths.net/*
 *://*.celebritynetworthz.com/*
@@ -550,23 +599,26 @@
 *://*.celebritywshow.com/*
 *://*.celebrityxyz.com/*
 *://*.celebrityzone.co.uk/*
-*://*.celebgate.org/*
 *://*.celebrooms.com/*
 *://*.celebrush.com/*
 *://*.celebrything.com/*
-*://*.celebs101.com/*
 *://*.celebs-networth.com/*
 *://*.celebs-pics.xyz/*
 *://*.celebs-place.com/*
 *://*.celebs.info/*seemedia/*
+*://*.celebs.infoseemedia.com/*
 *://*.celebs.infoseemedia/*
 *://*.celebs.japansuki.com/*
 *://*.celebs.webcastr.com/*
+*://*.celebs101.com/*
+*://*.celebsaga.com/*
 *://*.celebsages.com/*
+*://*.celebsagewiki.com/*
 *://*.celebsagewiki.com/*
 *://*.celebsandgossip.com/*
 *://*.celebsasyoung.com/*
 *://*.celebsbar.com/*
+*://*.celebsbiography.info/*
 *://*.celebsbirthdaytoday.com/*
 *://*.celebsbodysize.com/*
 *://*.celebscloseups.com/*
@@ -603,6 +655,7 @@
 *://*.celebstar.org/*
 *://*.celebstation.org/*
 *://*.celebsuburb.com/*
+*://*.celebsuburb.com/*
 *://*.celebsupdate.com/*
 *://*.celebswhotwitter.com/*
 *://*.celebswiki.info/*
@@ -615,14 +668,21 @@
 *://*.celebtv.com/*
 *://*.celebuzz.com/*
 *://*.celebvogue.com/*
+*://*.celebvolt.com/*
 *://*.celebwell.com/*
+*://*.celebwhois.com/*
 *://*.celebwiki.in/*
 *://*.celebwiki.org/*
+*://*.celebwiki.org/*
+*://*.celebwikiage.com/*
 *://*.celebwikibiography.com/*
+*://*.celebwikicorner.com/*
 *://*.celebwikigossip.com/*
 *://*.celebwist.com/*
 *://*.celebworth.net/*
+*://*.celebzall.com/*
 *://*.celebztoday.com/*
+*://*.celebzwiki.com/*
 *://*.celebzwurld.com/*
 *://*.celebzz.com/*
 *://*.checkcelebrity.com/*
@@ -693,6 +753,7 @@
 *://*.mycelebritylife.co/*
 *://*.networthcelebrities.com/*
 *://*.networthofcelebrities.org/*
+*://*.newcelebwiki.com/*
 *://*.newcelebworld.com/*
 *://*.nicecelebrity.blogspot/*
 *://*.noticeleb.com/*
@@ -705,6 +766,7 @@
 *://*.pregnant-celebrities.com/*
 *://*.richlistcelebs.com/*
 *://*.rockingcelebrity.com/*
+*://*.selebartis.com/*
 *://*.seulceleb.com/*
 *://*.shamelesscelebrities.com/*
 *://*.showhype.com/celebrities*
@@ -728,6 +790,7 @@
 *://*.thecelebritydresses.com/*
 *://*.thecelebritysource.com/*
 *://*.thecelebscloset.com/*
+*://*.thecelebshub.com/*
 *://*.thecelebworth.com/*
 *://*.thecityceleb.com/*
 *://*.thedailycelebritynews.com/*
@@ -767,38 +830,50 @@
 *://*.yourcelebritymagazines.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Clickait Misc – Listicles, Quotes, Rankings etc.
+# 8. Clickait Misc – Listicles, Rankings etc.
 
 *://*.24online.news/*
 *://*.24usainfo.com/*
 *://*.24x365live.com/*
 *://*.aitechtonic.com/*
 *://*.arealnews.com/*
-*://*.azquotes.com/*
 *://*.bestthings.us/*
 *://*.bigbluevision.org/*
+*://*.birthdaydbs.com/*
 *://*.bloger.blob.core.windows.net/*
 *://*.bluenewsvision.net/*
 *://*.brainberries.co/*
 *://*.breakingnewsblast.com/*
 *://*.buffalochronicle.com/*
+*://*.buzz-gibi.com/*
+*://*.calendarz.com/*
+*://*.cigarsexperts.com/*
 *://*.citimuzik.com/*
+*://*.collegepill.com/*
 *://*.deadorkicking.com/*
 *://*.disclose.tv/*
 *://*.distractify.com/*
+*://*.doyouremember.com/*
 *://*.edailybuzz.com/*
 *://*.edudwar.com/*
 *://*.everytimestory.com/*
 *://*.expose-news.com/*
+*://*.expressandstar.com/*
 *://*.factmandu.com/*
 *://*.factrider.com/*
 *://*.facts.net/*
+*://*.factsbeyond.com/*
 *://*.factsnippet.com/*
+*://*.fanbolt.com/*
 *://*.fanboy.com/*
 *://*.fashionsizzle.com/*
+*://*.fasttrackfba.com/*
 *://*.feelingnews.com/*
+*://*.firstknowwhatyouwant.com/*
 *://*.focustimes.org/*
+*://*.fresherpost.com/*
 *://*.gazettereview.com/*
+*://*.gofugyourself.com/*
 *://*.gridwaste.com/*
 *://*.gummypost.com/*
 *://*.hauls.blob.core.windows.net/*
@@ -810,10 +885,15 @@
 *://*.informationcradle.com/*
 *://*.informationngr.com/*
 *://*.informone.com/*
+*://*.infoseemedia.com/*
+*://*.infoupdate.org/*
 *://*.insightnewsgh.com/*
 *://*.inspiredpencil.com/*
+*://*.jagranjosh.com/*
 *://*.knowsize.com/*
+*://*.knowyourmeme.com/*
 *://*.latestmyanmarnews.com/*
+*://*.lifeyet.com/*
 *://*.listal.com/*
 *://*.livemonitor.co.za/*
 *://*.longarticles.com/*
@@ -821,7 +901,9 @@
 *://*.luxlux.net/*
 *://*.luxurytheme.com/*
 *://*.majorthoughts.com/*
+*://*.meaww.com/*
 *://*.mediazone.news/*
+*://*.mentalfloss.com/*
 *://*.metropolitanworlds.com/*
 *://*.mintpressnews.com/*
 *://*.mminfo24.com/*
@@ -830,9 +912,12 @@
 *://*.myanmarfightcovid19.com/*
 *://*.myanmartodaylife.com/*
 *://*.mynewsgh.com/*
+*://*.naijanews.com/*
 *://*.naturalnews.com/*
 *://*.news.mintehrlay.xyz/*
+*://*.newscoverage.blob.core.windows.net/*
 *://*.newspost.xyz/*
+*://*.omgblog.com/*
 *://*.oneworldinformation.com/*
 *://*.onlinehartha.com/*
 *://*.onlinelawka.com/*
@@ -844,26 +929,36 @@
 *://*.ranker.com/*
 *://*.realrawnews.com/*
 *://*.santhitsa.net/*
+*://*.screendollars.com/*
 *://*.sportmyanmarnews.com/*
+*://*.sssamiti.org/*
 *://*.startefacts.com/*
+*://*.statmuse.com/*
 *://*.storefeeling.com/*
 *://*.sweetmyanmar.com/*
 *://*.theeventchronicle.com/*
 *://*.thefactscity.com/*
+*://*.thenewsgod.com/*
 *://*.thunkhuma.info/*
 *://*.thutazone.org/*
 *://*.tiemmesspecialnews.com/*
+*://*.top10point.com/*
 *://*.trendradars.com/*
 *://*.triobrother.blob.core.windows.net/*
+*://*.tsot.edu/*
+*://*.tvovermind.com/*
 *://*.updatenew.net/*
+*://*.uselessdaily.com/*
+*://*.very-interesting.com/*
 *://*.walikali.com/*
-*://*.wealthygorilla.com/*
 *://*.wegotthiscovered.com/*
+*://*.windows.net/*
+*://*.wisetoast.com/*
 *://*.wowmyanmar.com/*
 *://*.zoomboola.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 8. Copycat Tutorials
+# 9. Copycat Tutorials
 
 *://*.askavy.com/*
 *://*.askcodez.com/*
@@ -934,66 +1029,253 @@
 *://*.www.interviewbit.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Data Brokers
+# 10. Crypto-Adjacent Grifting & Web3 Hype Sites
 
-*://*.addresses.com/*
-*://*.advancedbackgroundchecks.com/*
-*://*.anywho.com/*
-*://*.backgroundalert.com/*
-*://*.backgroundcheck.run/*
-*://*.backgroundfinder.com/*
-*://*.beenverified.com/*
-*://*.birthdatabase.com/*
-*://*.checkpeople.com/*
-*://*.checkthem.com/*
-*://*.clustrmaps.com/*
-*://*.cocofinder.com/*
-*://*.cyberbackgroundchecks.com/*
-*://*.easypeoplesearch.com/*
-*://*.fastpeoplesearch.com/*
-*://*.find-people-fast.com/*
-*://*.findpeoplefast.net/*
-*://*.findpeoplenow.com/*
-*://*.freepeopledirectory.com/*
-*://*.freepeoplesearch.org/*
-*://*.govdatadownload.com/*
-*://*.idtrue.com/*
-*://*.instantcheckmate.com/*
-*://*.intelius.com/*
-*://*.kubelabs.com/*
-*://*.mylife.com/*
-*://*.nuwber.com/*
-*://*.numberguru.com/*
-*://*.opencourtrecords.com/*
-*://*.peoplebyname.com/*
-*://*.peoplefinder.com/*
-*://*.peoplefinders.com/*
-*://*.peoplelooker.com/*
-*://*.peekyou.com/*
-*://*.persopo.com/*
-*://*.privateeye.com/*
-*://*.publicbackgroundchecks.com/*
-*://*.radaris.com/*
-*://*.rehold.com/*
-*://*.searchpeoplefree.com/*
-*://*.spokeo.com/*
-*://*.spytox.com/*
-*://*.talentwise.com/*
-*://*.telvox.com/*
-*://*.thatsthem.com/*
-*://*.thepublicindex.org/*
-*://*.truthfinder.com/*
-*://*.usa-people-search.com/*
-*://*.veripages.com/*
-*://*.verispy.com/*
-*://*.voterrecords.com/*
-*://*.voteref.com/*
-*://*.whitepages.com/*
-*://*.yellowpagesgoesgreen.org/*
-*://*.zabasearch.com/*
+*://*.altcoinbuzz.io/*
+*://*.andrecruz.io/*
+*://*.anthonypompliano.com/*
+*://*.banklesshq.com/*
+*://*.bitboycrypto.com/*
+*://*.blockchaincenter.net/*
+*://*.blockgeeks.com/*
+*://*.blockworks.co/*
+*://*.btcpeers.com/*
+*://*.cex.io/blog/*
+*://*.coinbureau.com/*
+*://*.coinfomania.com/*
+*://*.coinmarketbag.com/*
+*://*.cointelegraph.com/*
+*://*.cryptobriefing.com/*
+*://*.cryptobullsclub.com/*
+*://*.cryptodaily.co.uk/*
+*://*.cryptoinfluencers.io/*
+*://*.cryptonewsz.com/*
+*://*.cryptoslate.com/*
+*://*.cryptosrus.com/*
+*://*.decrypt.co/*
+*://*.defipulse.com/*
+*://*.dumbmoney.tv/*
+*://*.dydx.foundation/*
+*://*.egg.fi/*
+*://*.finematics.com/*
+*://*.gainbitcoin.com/*
+*://*.investorplace.com/cryptocurrency-news/*
+*://*.ivanontech.com/*
+*://*.lunacrush.com/*
+*://*.metaversal.banklesshq.com/*
+*://*.moralis.io/*
+*://*.nftcalendar.io/*
+*://*.nftevening.com/*
+*://*.ramp.network/*
+*://*.realvision.com/*
+*://*.thedailyhodl.com/*
+*://*.thedefiant.io/*
+*://*.thegivingblock.com/*
+*://*.trustmachine.io/*
+*://*.uphold.com/blog/*
+*://*.venturecoinist.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 10. Fame & Glamour
+# 11. Fake Entrepreneurship, Hustle Culture, Success & Income Claim Sites
+
+*://*.addicted2success.com/*
+*://*.affiliatesuccessbuilder.com/*
+*://*.affiliatetips.com/*
+*://*.alexbeadon.com/*
+*://*.alexhormozi.com/*
+*://*.andrewhubbard.co/*
+*://*.andrewtate.com/*
+*://*.argentrapidement.fr/*
+*://*.azizgazipura.com/*
+*://*.biggerpockets.com/*
+*://*.binancetrade.fr/*
+*://*.briantracy.com/*
+*://*.business2community.com/*
+*://*.clickbankuniversity.com/*
+*://*.clickfunnels.com/*
+*://*.coachedbytristan.com/*
+*://*.coachfinancier.ca/*
+*://*.danhenry.org/*
+*://*.danlok.com/*
+*://*.daveramsey.com/*
+*://*.digitalmillionairecoach.com/*
+*://*.dinerosmart.com/*
+*://*.dreamshala.com/*
+*://*.elitemeetsmoney.com/*
+*://*.emilywheeler.co/*
+*://*.emprenderfacil.com/*
+*://*.entreinstitute.com/*
+*://*.entrepreneurshiplife.com/*
+*://*.ericthomas.com/*
+*://*.estrategafinanciera.com/*
+*://*.finanzaspracticas.com.mx/*
+*://*.foundr.com/*
+*://*.frankkern.com/*
+*://*.freedomfastlane.com/*
+*://*.freedomwithwriting.com/*
+*://*.freelancermap.com/*
+*://*.fromdreamstolifestyle.com/*
+*://*.ganadineroya.com/*
+*://*.garyvaynerchuk.com/*
+*://*.gohighlevel.com/*
+*://*.grandcardone.com/*
+*://*.grantcardone.com/*
+*://*.hablemosdeinversiones.com/*
+*://*.hustlersuniversity.com/*
+*://*.iamattorneychris.com/*
+*://*.incomeholic.com/*
+*://*.incomeschool.com/*
+*://*.indianmoney.com/*
+*://*.influencive.com/*
+*://*.inversorinteligente.net/*
+*://*.invertirenbolsa.mx/*
+*://*.investwithlex.com/*
+*://*.jasoncapital.com/*
+*://*.jefflernerofficial.com/*
+*://*.johnnyberba.com/*
+*://*.jonpenberthy.com/*
+*://*.jordansyed.com/*
+*://*.kevinoleary.com/*
+*://*.kevinzhang.com/*
+*://*.kfm.com/*
+*://*.kingpinlifestyle.com/*
+*://*.latribu.io/*
+*://*.lewishowes.com/*
+*://*.libertex.org/*
+*://*.makingmoneyonline.com/*
+*://*.makingsenseofcents.com/*
+*://*.mejorarmifinanzas.com/*
+*://*.mikedillard.com/*
+*://*.millionairedream.com/*
+*://*.millionairementor.net/*
+*://*.milliondollarjourney.com/*
+*://*.millonarioz.com/*
+*://*.moneycontrol.com/*
+*://*.moneynerd.co.uk/*
+*://*.moneypeach.com/*
+*://*.moneysmart.gov.sg/*
+*://*.motivationgrid.com/*
+*://*.mrfinanzaspersonales.com/*
+*://*.mrmoneymustache.com/*
+*://*.neilpatel.com/*
+*://*.onepercentclub.io/*
+*://*.openbankingbrasil.org.br/*
+*://*.platafinanciera.com/*
+*://*.projectlifemastery.com/*
+*://*.quicksprout.com/*
+*://*.robbinsresearch.com/*
+*://*.robertkiyosaki.com/*
+*://*.ryanpineda.com/*
+*://*.ryrob.com/*
+*://*.savingspinay.ph/*
+*://*.scamrisk.com/*
+*://*.scottoldford.com/*
+*://*.sejutacita.id/*
+*://*.sidehustlenation.com/*
+*://*.smartaffiliatesuccess.com/*
+*://*.smartpassiveincome.com/*
+*://*.solopreneursllc.com/*
+*://*.startupbros.com/*
+*://*.successwise.com/*
+*://*.tai-lopez.com/*
+*://*.thedailypositive.com/*
+*://*.thedollarhacks.com/*
+*://*.thefutureparty.com/*
+*://*.thehustle.co/*
+*://*.themillennialmoneywoman.com/*
+*://*.themoneysack.com/*
+*://*.themotivationmentalist.com/*
+*://*.thepennypicker.com/*
+*://*.thisiswhyimbroke.com/*
+*://*.thisonlineworld.com/*
+*://*.tiffanyaliche.com/*
+*://*.tonyrobbins.com/*
+*://*.toptieraffiliate.com/*
+*://*.trafficthinktank.com/*
+*://*.tucapital.es/*
+*://*.vivus.com.mx/*
+*://*.wealthacademy.com/*
+*://*.wealthelite.com/*
+*://*.wealthmentor.co.nz/*
+*://*.wealthygorilla.com/*
+*://*.wealthyspy.com/*
+*://*.yopreneur.com/*
+*://*.youpreneur.com/*
+*://*.zonadinero.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 12. Fake Psychology & Therapy Advice Blogs 
+
+*://*.alltherapist.com/*
+*://*.anxieties.com/*
+*://*.blossapp.com/*
+*://*.calmerry.com/blog/*
+*://*.counselingwise.com/*
+*://*.dailypositive.com/*
+*://*.drjohngottman.net/*
+*://*.drleaf.com/*
+*://*.drnicolelapera.com/*
+*://*.exploringyourmind.com/*
+*://*.getselfhelp.co.uk/*
+*://*.heysigmund.com/*
+*://*.inlpcenter.org/*
+*://*.lonerwolf.com/*
+*://*.markmanson.net/*
+*://*.mindfulambition.net/*
+*://*.mindful.org/*
+*://*.mindwise.org.uk/*
+*://*.nickwignall.com/*
+*://*.positivepsychology.com/*
+*://*.psychcentral.com/*
+*://*.psychmechanics.com/*
+*://*.psychology-spot.com/*
+*://*.psychreg.org/*
+*://*.reallifecounseling.us/*
+*://*.shrink4men.com/*
+*://*.shrmind.org/*
+*://*.stevenaitchison.co.uk/*
+*://*.thriveglobal.com/*
+*://*.tinybuddha.com/*
+*://*.upjourney.com/*
+*://*.veryanxious.com/*
+*://*.wakeupcloud.com/*
+*://*.youhaveacalling.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 13. Fake Learning Platforms & Low-Quality Course Sites
+
+*://*.acadium.com/*
+*://*.alison.com/*
+*://*.bitdegree.org/*
+*://*.blog.udemy.com/*
+*://*.coursemarks.com/*
+*://*.coursesity.com/*
+*://*.edapp.com/*
+*://*.eduonix.com/*
+*://*.eudemy.org/*
+*://*.grinfer.com/*
+*://*.guroo.pro/*
+*://*.instructor-academy.online/*
+*://*.learndigital.withgoogle.com/*
+*://*.learnvern.com/*
+*://*.learninglinked.com/*
+*://*.learningplatforms.org/*
+*://*.masterofproject.com/*
+*://*.mygreatlearning.com/*
+*://*.quickstart.com/*
+*://*.reed.co.uk/courses/*
+*://*.scrimba.com/*
+*://*.skilllync.com/*
+*://*.teachfloor.com/*
+*://*.teachable.com/blog/*
+*://*.teachinguide.com/*
+*://*.tutorialspoint.com/*
+*://*.upskillwise.com/*
+*://*.xllearning.org/*
+*://*.zenva.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 14. Fame & Glamour
 
 *://*.allfamous.org/*
 *://*.allfamoustrend.com/*
@@ -1026,6 +1308,7 @@
 *://*.famousintel.com/*
 *://*.famousintro.com/*
 *://*.famouspeople.com/*
+*://*.famouspeople.io/*
 *://*.famouspeopletoday.com/*
 *://*.famoustimes.com/*
 *://*.famousvenue.com/*
@@ -1053,7 +1336,7 @@
 *://*.waytofamous.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# GitHub & GitLab
+# 15. GitHub
 
 *://*.bestgithub.com/*
 *://*.downloadgithub.com/*
@@ -1084,7 +1367,7 @@
 *://*.jsdelivrproxy.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Gossip & Rumors
+# 16. Gossip & Rumors
 
 *://*.allstargossip.com/*
 *://*.bbcgossip.com/*
@@ -1120,6 +1403,7 @@
 *://*.gossipcop.com/*
 *://*.gossipcraze.com/*
 *://*.gossipdavid.com/*
+*://*.gossipetv.com/*
 *://*.gossipflash.de/*
 *://*.gossipfm.com/*
 *://*.gossipgirl-blog.cwtv.com/*
@@ -1185,9 +1469,10 @@
 *://*.ubergossip.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Hollywood
+# 17. Hollywood (incl. Bollywood)
 
 *://*.accesshollywoodtours.com/*
+*://*.bollywoodfox.com/*
 *://*.diaryofahollywoodstreetking.com/*
 *://*.hiphollywood.com/*
 *://*.hollyscoop.com/*
@@ -1203,6 +1488,8 @@
 *://*.hollywoodgrind.com/*
 *://*.hollywoodinsider.com/*
 *://*.hollywoodlife.com/*
+*://*.hollywoodmask.com/*
+*://*.hollywoodmemorabilia.com/*
 *://*.hollywoodoutbreak.com/*
 *://*.hollywoodpipeline.com/*
 *://*.hollywoodrag.com/*
@@ -1214,11 +1501,13 @@
 *://*.hollywoodstreetking.com/*
 *://*.hollywoodunlocked.com/*
 *://*.hollywoodzam.com/*
+*://*.newsinbollywood.com/*
+*://*.skjbollywoodnews.com/*
 *://*.thehollywoodgossip.com/*
 *://*.younghollywood.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Jet Set
+# 18. Jet Set
 
 *://*.designjetset.com/*
 *://*.drinkjetset.com/*
@@ -1266,7 +1555,7 @@
 *://*.ultimate-jetset.xooit.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Lyrics
+# 19. Lyrics
 
 *://*.123lyrics.com/*
 *://*.azlyrics.biz/*
@@ -1317,10 +1606,11 @@
 *://*.youlistener.com/lyrics/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Networth
+# 20. Networth
 
 *://*.anetworth.net/*
 *://*.bossnetworth.com/*
+*://*.checknetworth.com/*
 *://*.correctnetworth.com/*
 *://*.heightweightnetworth.com/*
 *://*.highnetworth.com/*
@@ -1331,6 +1621,7 @@
 *://*.nettvplus.com/*
 *://*.networth202.com/*
 *://*.networth.live/*
+*://*.networthalerts.com/*
 *://*.networthandsalary.com/*
 *://*.networthblaze.com/*
 *://*.networthbobserver.com/*
@@ -1354,6 +1645,7 @@
 *://*.networthpost.org/*
 *://*.networthq.com/*
 *://*.networthreporter.com/*
+*://*.networthsize.com/*
 *://*.networthstatus.com/*
 *://*.networthupdates.com/*
 *://*.networthwikibio.org/*
@@ -1365,13 +1657,14 @@
 *://*.salaryandnetworth.com/*
 *://*.thenetworthnews.com/*
 *://*.thenetworthportal.com/*
+*://*.thenetworths.com/*
 *://*.trustednetworth.com/*
 *://*.vipnetworth.com/*
 *://*.wealthypeeps.com/*
 *://*.worthpoint.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# People & Pop Culture
+# 21. People & Pop Culture
 
 *://*.123people.com/*
 *://*.actualitepeople.tootisy.com/*
@@ -1386,6 +1679,7 @@
 *://*.fanpop.com/*
 *://*.freepeople.com/*
 *://*.fun-people.fr/*
+*://*.grandpeoples.com/*
 *://*.healthypeople.gov/*
 *://*.hystericpeople.com/*
 *://*.investorsinpeople.co.uk/*
@@ -1469,7 +1763,88 @@
 *://*.waterforpeople.org/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Software Mirror & Download Sites
+# 22. Pop Psychology & Productivity Spam Blogs
+
+*://*.alifeofproductivity.com/*
+*://*.artofmanliness.com/*
+*://*.bakadesuyo.com/*
+*://*.betterhumans.pub/*
+*://*.brainpickings.org/*
+*://*.charlesngo.com/*
+*://*.dariusforoux.com/*
+*://*.fourminutebooks.com/*
+*://*.fs.blog/*
+*://*.growth-hackers.net/*
+*://*.lifeoptimizer.org/*
+*://*.makingsenseofcents.com/*
+*://*.mattmorris.com/*
+*://*.nesslabs.com/*
+*://*.noisli.com/blog/*
+*://*.paulminors.com/*
+*://*.personalexcellence.co/*
+*://*.productivityist.com/*
+*://*.productivemuslim.com/*
+*://*.radreads.co/*
+*://*.rescuetime.com/blog/*
+*://*.richardstep.com/*
+*://*.ryanholiday.net/*
+*://*.scotthyoung.com/*
+*://*.selfgrowth.com/*
+*://*.stephsmith.io/*
+*://*.success.com/*
+*://*.thepowerofsilence.co/*
+*://*.toastybrains.com/*
+*://*.tomorrow.do/*
+*://*.zenhabits.net/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 23. Quotes
+
+*://*.azquotes.com/*
+*://*.citationcelebre.com/*
+*://*.englishluminary.com/*
+*://*.famousquotes123.com/*
+*://*.favquotes.com/*
+*://*.gkbooks.in/*
+*://*.greatest-quotations.com/*
+*://*.inspiringquotes.us/*
+*://*.lifequotes.pics/*
+*://*.morefamousquotes.com/*
+*://*.motivational-quotes.in/*
+*://*.motivationalgateway.com/*
+*://*.notedlex.com/*
+*://*.quotationof.com/*
+*://*.quote-citation.com/*
+*://*.quoteambition.com/*
+*://*.quotebanner.com/*
+*://*.quoteeveryday.com/*
+*://*.quotefancy.com/*
+*://*.quotehd.com/*
+*://*.quoteideas.com/*
+*://*.quoteikon.com/*
+*://*.quoteinspector.com/*
+*://*.quotemaster.org/*
+*://*.quotemaster.org/*
+*://*.quotepark.com/*
+*://*.quotes.net/*
+*://*.quotes.tn/*
+*://*.quotes.yourdictionary.com/*
+*://*.quotescosmos.com/*
+*://*.quoteslyfe.com/*
+*://*.quotespedia.org/*
+*://*.quoteswise.com/*
+*://*.quotetab.com/*
+*://*.searchquotes.com/*
+*://*.thefamouspeople.com/quotes/*
+*://*.thequotesmaster.com/*
+*://*.thinkexist.com/*
+*://*.topfamousquotes.com/*
+*://*.wisefamousquotes.com/*
+*://*.wordsonimages.com/*
+*://*.worldquotations.com/*
+
+# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 24. Software Mirror & Download Sites
 
 *://*.2software.net/*
 *://*.allpcworld.com/*
@@ -1537,7 +1912,7 @@
 *://*.zcteam.id/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Stars
+# 25. Stars
 
 *://*.actu-star.be/*
 *://*.actualite-de-stars.com/*
@@ -1653,7 +2028,7 @@
 *://*.zoomstars.co/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Tech News, Error Fix Blogs & How-To Spam
+# 26. Tech News, Error Fix Blogs & How-To Spam
 
 *://*.appuals.com/*
 *://*.auslogics.com/en/articles/*
@@ -1681,7 +2056,7 @@
 *://*.zeallsoft.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Wallpapers
+# 27. Wallpapers
 
 *://*.1freewallpapers.com/*
 *://*.1zoom.me/*
@@ -1697,6 +2072,7 @@
 *://*.artstation.com/*
 *://*.awesomewallpapers.info/*
 *://*.best-wallpaper.net/*
+*://*.bingwallpaper.net/*
 *://*.bingwallpaperhd.com/*
 *://*.coloringpagesonly.com/*
 *://*.coolbackgrounds.io/*
@@ -1715,10 +2091,13 @@
 *://*.getwallpapers.com/*
 *://*.goodfon.com/*
 *://*.hdqwalls.com/*
+*://*.hdwalle.com/*
 *://*.hdwallpapers.cat/*
 *://*.hdwallpapers.in/*
 *://*.hdwallpapers.net/*
+*://*.hdwpro.com/*
 *://*.hivewallpaper.com/*
+*://*.ilikewallpaper.net/*
 *://*.instagram.com/4kwallpapers/*
 *://*.instagram.com/abstract.wallpapers/*
 *://*.instagram.com/aesthetic.wallpapers/*
@@ -1752,6 +2131,7 @@
 *://*.mobileabyss.com/*
 *://*.mobileswall.com/*
 *://*.mobilewallpapers.com/*
+*://*.moviehdwallpapers.com/*
 *://*.myanimelist.net/*
 *://*.myhdwallpapers.net/*
 *://*.mywallpapers.net/*
@@ -1759,6 +2139,7 @@
 *://*.pexels.com/*
 *://*.picswalls.com/*
 *://*.pixabay.com/*
+*://*.pixmule.com/*
 *://*.pngall.com/*
 *://*.pxfuel.com/*
 *://*.rare-gallery.com/*
@@ -1811,9 +2192,11 @@
 *://*.wallhaven.cc/*
 *://*.wallpaperabyss.com/*
 *://*.wallpaperaccess.com/*
+*://*.wallpaperbetter.com/*
 *://*.wallpaperboat.com/*
 *://*.wallpaperbro.com/*
 *://*.wallpapercave.com/*
+*://*.wallpapercrafter.com/*
 *://*.wallpaperflare.com/*
 *://*.wallpapers.com/*
 *://*.wallpapersafari.com/*
@@ -1829,12 +2212,13 @@
 *://*.wallpapertag.com/*
 *://*.wallpapertip.com/*
 *://*.wallsdesk.com/*
+*://*.wallup.net/*
 *://*.wlppr.com/*
 *://*.yandex.com/images/*
 *://*.zedge.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Wikis
+# 28. Wikis
 
 *://*.aidwiki.com/*
 *://*.biographywiki.net/*
@@ -1842,16 +2226,20 @@
 *://*.biowikistory.com/*
 *://*.birthdaywiki.com/*
 *://*.birthdaywikia.com/*
+*://*.characterswiki.net/*
+*://*.entertainerwiki.com/*
 *://*.everybodywiki.com/*
 *://*.idolwiki.com/*
 *://*.marriedwiki.com/*
 *://*.rationalwiki.org/*
 *://*.spousewiki.com/*
+*://*.thewikifeed.com/*
 *://*.vergewiki.com/*
 *://*.wiki-en.org/*
 *://*.wikia.com/*
 *://*.wikiake.com/*
 *://*.wikiany.net/*
+*://*.wikibelll.com/*
 *://*.wikibery.com/*
 *://*.wikibioage.com/*
 *://*.wikibiography.in/*
@@ -1878,6 +2266,7 @@
 *://*.wikiodin.com/*
 *://*.wikiofcelebs.com/*
 *://*.wikiqube.net/*
+*://*.wikisenior.es/*
 *://*.wikispro.com/*
 *://*.wikistarbio.com/*
 *://*.wikiwand.com/*

@@ -1,11 +1,32 @@
 # Title: Gaming
-# Description: Hides anything to do with gaming from search results
+# Description: Hides gaming related sites from search results
 # DeDup: N, Sorted: N
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gaming.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+# 1. Browser-Based Gaming ... ok
+# 2. Game Devs (AAA, Indie, Mobile, VR, Web3 & Blockchain) & Publisher Sites ... ok
+# 3. Game Streaming Platforms, eSports & Video Creators ... ok
+# 4. Gaming Addons, Maps, & Tools ... ok
+# 5. Gaming Adjacent Domains ... ok
+# 6. Gaming Analytics, Benchmarking, & Performance ... ok
+# 7. Gaming Catalogs, Lists, & Stats ... ok
+# 8. Gaming Cheats, Mods, Cracks & Trainers ... ok
+# 9. Gaming Communities & Forums (incl. Fan-Made, Niche and Obscure) ... ok
+# 10. Gaming Console Specific Services ... ok
+# 11. Gaming Databases & Companion Apps ... ok
+# 12. Gaming Distribution Platforms ... ok
+# 13. Gaming Merchandise & Gear ... 
+# 14. Gaming News & Reviews ... 
+# 15. Gaming VR-AR Sites & Platforms ...
+# 16. Gaming Guides, Subreddits & Wikis ... 
+# 17. Mobile Gaming Portals & App-Based Games ... ok
+# 18. Niche & Indie Game Portals ... ok
+
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 1. Browser-Based Gaming ... OK
+# 1. Browser-Based Gaming
 
 *://*.2pg.com/*
 *://*.7k7k.com/*
@@ -342,7 +363,7 @@
 *://*.zibbo.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Game Devs (AAA, Indie, Mobile, VR, Web3 & Blockchain) + Publisher Sites ... OK
+# 2. Game Devs (AAA, Indie, Mobile, VR, Web3 & Blockchain) & Publisher Sites
 
 *://*.4:33.co.kr/*
 *://*.99games.in/*
@@ -703,7 +724,7 @@
 *://*.zlongame.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Game Streaming Platforms, eSports & Video Creators ... OK
+# 3. Game Streaming Platforms, eSports & Video Creators
 
 *://*.4gamers.tv/*
 *://*.100thieves.com/*
@@ -962,7 +983,7 @@
 *://*.zhanqi.tv/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 4. Gaming Addons, Maps, & Tools ... OK
+# 4. Gaming Addons, Maps, & Tools
 
 *://*.7mods.ru/*
 *://*.9minecraft.net/*
@@ -1257,7 +1278,7 @@
 *://*.zophar.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 5. Gaming-Adjacent Domains ... OK
+# 5. Gaming Adjacent Domains
 
 *://*.achievementhunter.com/*
 *://*.adventurenerds.com/*
@@ -1412,7 +1433,7 @@
 *://*.zerodrop.gg/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 6. Gaming Analytics, Benchmarking, & Performance ... OK
+# 6. Gaming Analytics, Benchmarking, & Performance
 
 *://*.3dmark.com/*
 *://*.afterburner-download.com/*
@@ -1473,7 +1494,7 @@
 *://*.yourgamingsetup.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 7. Gaming Catalogs, Lists, & Stats ... OK
+# 7. Gaming Catalogs, Lists, & Stats
 
 *://*.1morecastle.com/*
 *://*.1001games.com/*
@@ -1892,7 +1913,7 @@
 *://*.zombsroyalecheats.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 9. Gaming Communities & Forums (incl. Fan-Made, Niche and Obscure) ... OK
+# 9. Gaming Communities & Forums (incl. Fan-Made, Niche and Obscure)
 
 *://*.4chan.org/v/*
 *://*.4players.de/*
@@ -2230,7 +2251,7 @@
 *://*.zeldawiki.org/forums/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 10. Gaming Console-Specific Services ... OK
+# 10. Gaming Console Specific Services
 
 *://*.account.sonyentertainmentnetwork.com/*
 *://*.amiibo.life/*
@@ -2298,7 +2319,7 @@
 *://*.zeldadungeon.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 11. Gaming Databases & Companion Apps ... OK
+# 11. Gaming Databases & Companion Apps
 
 *://*.7ds.guide/*
 *://*.13sv.net/*
@@ -2753,7 +2774,7 @@
 *://*.zoneofgames.ru/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 12. Gaming Distribution Platforms ... OK
+# 12. Gaming Distribution Platforms
 
 *://*.2game.com/*
 *://*.aerosoft.com/*
@@ -3095,7 +3116,7 @@
 *://*.zorinbooster.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 13. Gaming Merchandise & Gear ... 
+# 13. Gaming Merchandise & Gear 
 
 *://*.alienware.com/*
 *://*.asus.com/*
@@ -3113,7 +3134,7 @@
 *://*.play-asia.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 14. Gaming News & Reviews ... 
+# 14. Gaming News & Reviews 
 
 *://*.a9vg.com/*
 *://*.dualshockers.com/*
@@ -3182,7 +3203,7 @@
 *://*.xgn.nl/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 18. Gaming VR / AR Sites & Platforms ... 
+# 15. Gaming VR / AR Sites & Platforms
 
 *://*.altvr.com/*
 *://*.bigscreenvr.com/*
@@ -3192,7 +3213,7 @@
 *://*.vrchat.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 19. Gaming Guides, Subreddits & Wikis ... 
+# 16. Gaming Guides, Subreddits & Wikis
 
 *://*.apexlegendsstatus.com/*
 *://*.dragonquest-fan.com/*
@@ -3237,7 +3258,7 @@
 *://*.zeldauniverse.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 20. Mobile Gaming Portals & App-Based Games ... OK
+# 17. Mobile Gaming Portals & App-Based Games
 
 *://*.1apk.org/*
 *://*.5play.ru/*
@@ -3387,7 +3408,7 @@
 *://*.gamerworldnews.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 21. Niche & Indie Game Portals ... OK
+# 18. Niche & Indie Game Portals
 
 *://*.gamehouse.com/*
 *://*.jayisgames.com/*

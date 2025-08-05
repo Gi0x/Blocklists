@@ -1,10 +1,14 @@
 # Title: Sports
-# Description: Hides all sports related sites (incl. streaming) from search results
+# Description: Hides sports related sites (incl. streaming) from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Sports.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Sports.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+# 1. Sports Betting & Odds Sites
+# 2. Sports Mobile App Links
+# 3. Sports News, Scores & Leagues
+# 4. Sports Streaming (incl. Piracy Mirrors)
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # 1. Sports Betting & Odds Sites
 
 *://*.1xbet.com/*
@@ -50,7 +54,7 @@
 *://*.winners.bet/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Sports Mobile App Links
+# 2. Sports Mobile App Links
 
 *://*.apps.apple.com/us/app/espn/*
 *://*.apps.apple.com/us/app/yahoo-sports/*
@@ -75,7 +79,7 @@
 *://*.play.google.com/store/apps/details?id=com.flashscore.android/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Sports News, Scores & Leagues
+# 3. Sports News, Scores & Leagues
 
 *://*.abcsports.go.com/*
 *://*.beinsports.com/*
@@ -109,7 +113,7 @@
 *://*.thesportsrush.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Sports Streaming (including Piracy Mirrors)
+# 4. Sports Streaming (incl. Piracy Mirrors)
 
 *://*.7plus.com/*
 *://*.collegesportslive.com/*

@@ -4,10 +4,24 @@
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Streaming.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Streaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+# AUDIO 
+# 1. Audiobook Platforms
+# 2. Internet Radio Platforms
+# 3. Music Streaming Sites
+# 4. Niche Audio Upload Platforms
+# 5. Podcast Platforms
+# 6. Smart Speaker Streaming Domains
+# 7. YouTube Music
+
+# VIDEO
+# 8. Back-End File Hosting Sites
+# 9. Front-End Piracy Streaming Sites
+# 10. Legit Streaming Sites
+
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# AUDIO
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Audiobook Platforms
+# 1. Audiobook Platforms
 
 *://*.audible.com/*
 *://*.audiobooks.com/*
@@ -20,7 +34,7 @@
 *://*.storytel.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Internet Radio Platforms
+# 2. Internet Radio Platforms
 
 *://*.bbc.co.uk/sounds/*
 *://*.cbc.ca/listen/*
@@ -37,7 +51,7 @@
 *://*.tunein.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Music Streaming Sites
+# 3. Music Streaming Sites
 
 *://*.amazonmusic.com/*
 *://*.anghami.com/*
@@ -61,7 +75,7 @@
 *://*.yandex.music.ru/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Niche Audio Upload Platforms
+# 4. Niche Audio Upload Platforms
 
 *://*.8tracks.com/*
 *://*.bandcamp.com/*
@@ -74,7 +88,7 @@
 *://*.sonicbids.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Podcast Platforms
+# 5. Podcast Platforms
 
 *://*.anchor.fm/*
 *://*.blubrry.com/*
@@ -92,7 +106,7 @@
 *://*.tunein.com/podcasts/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Smart Speaker Streaming Domains
+# 6. Smart Speaker Streaming Domains
 
 *://*.alexa.amazon.com/*
 *://*.alexa.amazon.co.uk/*
@@ -106,14 +120,12 @@
 *://*.voice.google.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# YouTube Music
+# 7. YouTube Music
 
 *://*.music.youtube.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# VIDEO
-# ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Back-End File Hosting Sites
+# 8. Back-End File Hosting Sites
 
 *://*.anonfiles.com/*
 *://*.bayfiles.com/*
@@ -221,7 +233,7 @@
 *://*.wolfstream.tv/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Front-End Piracy Streaming Sites
+# 9. Front-End Piracy Streaming Sites
 
 *://*.0123movie.net/*
 *://*.1234movies.cyou/*
@@ -341,7 +353,7 @@
 *://*.zmovies.cc/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# Legit Streaming Sites
+# 10. Legit Streaming Sites
 
 *://*.4kfilmdb.com/*
 *://*.7plus.com.au/*

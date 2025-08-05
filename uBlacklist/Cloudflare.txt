@@ -1,0 +1,23 @@
+# Title: Cloudflare
+# Description: Hide all known Cloudflare domains as well as any subsidiaries.
+# DeDup: Y, Sorted: Y
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Cloudflare.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Cloudflare.txt
+# Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Cloudflare.txt
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+
+*://*.1.0.0.1/*
+*://*.1.0.0.3/*
+*://*.1.1.1.1/*
+*://*.1.1.1.3/*
+*://*.cloudflare-dns.com/*
+*://*.cloudflare.com/*
+*://*.cloudflare.net/*
+*://*.cloudflare.tv/*
+*://*.cloudflarebolt.com/*
+*://*.cloudflareclient.com/*
+*://*.cloudflareinsights.com/*
+*://*.cloudflareresolve.com/*
+*://*.cloudflarestatus.com/*
+*://*.one.one.one.one/*
+*://*.pacloudflare.com/*

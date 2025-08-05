@@ -1,5 +1,5 @@
 # Title: Profanity
-# Description: Hides any website from search results if profane keyword is detected in URL
+# Description: Hides websites from search results if their URLs containing profanity 
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Profanity.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Profanity.txt 

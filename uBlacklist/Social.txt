@@ -5,6 +5,17 @@
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Social.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Social.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+# 1. Discord
+# 2. Facebook & Threads
+# 3. Instagram, IG Phishing Clones (incl. Login Pages) & IG Viewing Sites
+# 4. Mastodon
+# 5. Misc Social Media
+# 6. Reddit
+# 7. Snapchat
+# 8. Telegram
+# 9. TikTok
+# 10. Twitter
+# ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. Discord
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Discord.txt
@@ -16,7 +27,7 @@
 *://*.discordapp.net/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 2. Facebook, Instagram & Threads (Meta)
+# 2. Facebook & Threads
 # Source: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Facebook.txt
 
 *://*.atlassolutions.com/*
@@ -44,9 +55,6 @@
 *://*.giphy.com/*
 *://*.giphy.world/*
 *://*.i.org/*
-*://*.igsonar.net/*
-*://*.instagram.com/*
-*://*.instagram.net/*
 *://*.internet.org/*
 *://*.las.so/*
 *://*.lassovideos.com/*
@@ -88,11 +96,14 @@
 *://*.workplace.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-# 3. Instagram Viewing Sites
+# 3. Instagram, IG Phishing Clones (incl. Login Pages) & IG Viewing Sites
 
+*://*.0insta.com/*
+*://*.1stagram.com/*
 *://*.ahasave.com/*
 *://*.allstories.co/*
 *://*.anon-viewer.com/*
+*://*.anongram.com/*
 *://*.anonigviewer.com/*
 *://*.anonimoig.com/*
 *://*.anonimostory.com/*
@@ -113,6 +124,7 @@
 *://*.anotherfollower.com/*
 *://*.anticapitalist.party/*
 *://*.anycontrol.app/*
+*://*.apkun.com/*
 *://*.aware-online.com/*
 *://*.bigbangram.com/*
 *://*.bigsta.net/*
@@ -124,6 +136,7 @@
 *://*.buzzoid.com/*
 *://*.c.im/*
 *://*.chaos.social/*
+*://*.clonestagram.com/*
 *://*.counter.social/*
 *://*.daikatsu-navi.com/*
 *://*.darnell.one/*
@@ -131,12 +144,15 @@
 *://*.dmpro.app/*
 *://*.dolphinradar.com/*
 *://*.downev.com/*
+*://*.dumphor.net/*
 *://*.dumpor.co.uk/*
 *://*.dumpor.com/*
 *://*.dumpor.io/*
 *://*.embedsocial.com/*
 *://*.espressocoder.com/*
 *://*.exploreig.com/*
+*://*.fakelogininstagram.com/*
+*://*.fakeloginpages.com/*
 *://*.famety.com/*
 *://*.fenced.ai/*
 *://*.flocksocial.com/*
@@ -149,12 +165,15 @@
 *://*.glassagrm.com/*
 *://*.go5.dev/*
 *://*.goread.io/*
+*://*.gram-log-in.com/*
+*://*.gramblr.me/*
 *://*.gramhir.com/
 *://*.gramhir.com/*
 *://*.gramhir.pro/*
 *://*.gramhir.us/*
 *://*.gramho.com/*
 *://*.gramsnap.com/*
+*://*.gramspy.net/*
 *://*.gramvio.com/*
 *://*.gramvio.net/*
 *://*.gramzoom.com/*
@@ -166,6 +185,7 @@
 *://*.heylocate.mobi/*
 *://*.howsights.com/*
 *://*.hypeauditor.com/*
+*://*.ig-analyzer.com/*
 *://*.ig-crate.com/*
 *://*.iganony.cc/*
 *://*.iganony.cloud/*
@@ -175,12 +195,16 @@
 *://*.iganonyviewer.com/*
 *://*.igcomment.com/*
 *://*.ighighlightviewer.com/*
+*://*.iglogins.com/*
 *://*.iglookup.com/*
 *://*.igmods.com/*
 *://*.igrab.online/*
+*://*.igram-login.com/*
+*://*.igram.app/*
 *://*.igram.mx/*
 *://*.igram.world/*
 *://*.igreveal.com/*
+*://*.igsonar.net/*
 *://*.igspy.click/*
 *://*.igstan.com/*
 *://*.igstoryviewer.pro/*
@@ -188,6 +212,7 @@
 *://*.igviewer.io/*
 *://*.igviewer.one/*
 *://*.igviewer.pro/*
+*://*.igviewers.com/*
 *://*.imagerocket.com/*
 *://*.imganony.com/*
 *://*.imginn-instanavigation.com/*
@@ -196,9 +221,11 @@
 *://*.imginn.org/*
 *://*.imginnn.com/*
 *://*.imginnta.com/*
+*://*.imgko.com/*
 *://*.imglooker.net/*
 *://*.imglookup.co/*
 *://*.imglookup.com/*
+*://*.imperiafollowers.com/*
 *://*.indown.io/*
 *://*.inflact.com/*
 *://*.influence.co/*
@@ -219,8 +246,16 @@
 *://*.insnoop.net/*
 *://*.insnoop.org/*
 *://*.inspiretothrive.com/*
+*://*.inst-account-verification.com/*
+*://*.inst4gram.com/*
+*://*.insta-checker.com/*
+*://*.insta-downloader.net/*
 *://*.insta-editor.com/*
+*://*.insta-follow-checker.com/*
+*://*.insta-login.com/*
 *://*.insta-navigator.com/*
+*://*.insta-recovery.com/*
+*://*.insta-security-check.com/*
 *://*.insta-spy.net/*
 *://*.insta-stalker.com/*
 *://*.insta-stories-viewer.com/*
@@ -230,14 +265,27 @@
 *://*.insta-viewer.com/*
 *://*.instaanony.com/*
 *://*.instabiography.com/*
+*://*.instabusters.com/*
+*://*.instaccess.net/*
 *://*.instadp.fun/*
 *://*.instadp.io/*
 *://*.instadp.net/*
+*://*.instafakeviewer.com/*
 *://*.instafinsta.com/*
 *://*.instafollowers.co/*
+*://*.instafonts.io/*
+*://*.instaformlogin.com/*
 *://*.instafreeview.com/*
+*://*.instagimg.com/*
+*://*.instagrab.net/*
+*://*.instagram.com/*
+*://*.instagram.net/*
 *://*.instagramviewer.com/*
+*://*.instagrap.net/*
 *://*.instagrilz.com/*
+*://*.instahack.org/*
+*://*.instaloginpanel.com/*
+*://*.instalogon.net/*
 *://*.instalooker.org/*
 *://*.instanavi.me/*
 *://*.instanavigation.com/*
@@ -249,25 +297,35 @@
 *://*.instant-stories.com/*
 *://*.instaoffline.net/*
 *://*.instapeeker.com/*
+*://*.instaphish.com/*
+*://*.instapreview.net/*
+*://*.instaprofiler.com/*
 *://*.instaprofileviewer.com/*
 *://*.instapv.com/*
 *://*.instapv.org/*
+*://*.instasafecheck.com/*
 *://*.instasave.website/*
 *://*.instasaved.net/*
 *://*.instasaverr.com/*
 *://*.instascop.com/*
 *://*.instasize.com/*
+*://*.instaspoof.com/*
+*://*.instaspy.net/*
+*://*.instastalker.com/*
 *://*.instastalker.info/*
 *://*.instastories.watch/*
 *://*.instastories2.com/*
 *://*.instastoriesru.com/*
 *://*.instastoriesviewer.com/*
+*://*.instastory.net/*
 *://*.instastory.org/*
 *://*.instastory.watch/*
 *://*.instastoryviewer.io/*
 *://*.instastoryviewers.com/*
 *://*.instasupersave.com/*
 *://*.instasv.com/*
+*://*.instatracklog.com/*
+*://*.instausernames.com/*
 *://*.instausers.com/*
 *://*.instaview.me/*
 *://*.instaview.social/*
@@ -279,6 +337,7 @@
 *://*.instights.com/*
 *://*.inststalk.com/*
 *://*.instuky.com/*
+*://*.intagramb.com/*
 *://*.inthow.com/*
 *://*.inum.com/*
 *://*.inviewer.co/*
@@ -293,8 +352,14 @@
 *://*.liangyu.dev/*
 *://*.likee.video/*
 *://*.likefy.com/*
+*://*.login-ig.com/*
+*://*.login-instagram.com/*
+*://*.login-instgram.com/*
+*://*.loginig.net/*
+*://*.logininstagram.net/*
 *://*.love.alicecomplex.com/*
 *://*.m.cmx.im/*
+*://*.mangools.net/*
 *://*.megafamous.com/*
 *://*.meredithplays.com/*
 *://*.methodmi.com/*
@@ -326,6 +391,7 @@
 *://*.pieville.net/*
 *://*.pikdo.net/*
 *://*.piktag.com/*
+*://*.piktuk.com/*
 *://*.pixelfed.social/*
 *://*.pixelixe.com/*
 *://*.pixnoy.com/*
@@ -333,7 +399,9 @@
 *://*.pixwox.uk/*
 *://*.plixi.com/*
 *://*.popygram.com/*
+*://*.privateinsta.com/*
 *://*.privatephotoviewer.com/*
+*://*.privateviewer.net/*
 *://*.pypi.org/*
 *://*.qevna.com/*
 *://*.quasa.io/*
@@ -346,10 +414,15 @@
 *://*.save-insta.com/*
 *://*.scanick.com/*
 *://*.searchengineinsight.com/*
+*://*.secure-instagram.com/*
+*://*.secureinsta.net/*
+*://*.signininsta.com/*
 *://*.simpliers.co/*
 *://*.simpliers.com/*
 *://*.skweezer.net/*
+*://*.smihub.com/*
 *://*.smihub.io/*
+*://*.smihub.net/*
 *://*.snapinsta.app/*
 *://*.snapsave.app/*
 *://*.socialblade.com/*
@@ -387,7 +460,10 @@
 *://*.storiesig.website/*
 *://*.storiesigapp.com/*
 *://*.storiesviewerbot.com/*
+*://*.storieswatch.com/*
+*://*.storistalk.com/*
 *://*.storistalker.com/*
+*://*.storiystalker.com/*
 *://*.story-down.com
 *://*.story-viewer.co/*
 *://*.story-viewer.org/*
@@ -398,6 +474,7 @@
 *://*.storynavigation.com/*
 *://*.storyninja.app/*
 *://*.storysaver.fun/*
+*://*.storysaver.io/*
 *://*.storysaver.net/*
 *://*.storysaver.to/*
 *://*.storystalk.com/*
@@ -421,6 +498,7 @@
 *://*.tumbral.com/*
 *://*.tumgir.com/*
 *://*.twicsy.com/*
+*://*.ulust.com/*
 *://*.unfollowgram.com/*
 *://*.universeodon.com/*
 *://*.upgrow.com/*
@@ -431,6 +509,8 @@
 *://*.viewerstory.com/*
 *://*.viewgram.net/*
 *://*.viewinsta.com/*
+*://*.viewprivateinsta.net/*
+*://*.viewprivateprofiles.net/*
 *://*.views4you.com/*
 *://*.viewsocials.com/*
 *://*.viewsstory.com/*
@@ -442,12 +522,15 @@
 *://*.wan.io/*
 *://*.watchinsta.com/*
 *://*.weareiu.com/*
+*://*.webinstagram.org/*
 *://*.webstagram.org/*
 *://*.witches.live/*
 *://*.xnspy.com/*
 *://*.yooying.com/*
 *://*.zirk.us/*
+*://*.zoominsta.com/*
 *://*.zoominsta.de/*
+*://*.zoomprofile.com/*
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 4. Mastodon

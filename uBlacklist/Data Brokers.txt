@@ -1,5 +1,5 @@
 # Title: Data Brokers
-# Description: Hides websites belonging to data brokers from search results
+# Description: Hides data broker websites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Data%20Brokers.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Data%20Brokers.txt

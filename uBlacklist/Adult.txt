@@ -1,5 +1,5 @@
 # Title: Adult
-# Description: Hides porn, sex shops & other adult material (ex. bdsm) from search results
+# Description: Hides adult related sites from search results
 # DeDup: Y, Sorted: Y
 # Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Adult.txt
 # Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Adult.txt
