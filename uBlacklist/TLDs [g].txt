@@ -19,7 +19,7 @@
 /.*\.(alfaromeo|alibaba|alipay|allfinanz|allstate|ally|alsace|alstom)($|\/)/
 /.*\.(amazon|americanexpress|americanfamily|amex|amfam|amica|amsterdam)($|\/)/
 /.*\.(analytics|android|anquan|anz)($|\/)/
-/.*\.(apartments|app|apple)($|\/)/
+/.*\.(apartments|apple)($|\/)/
 /.*\.(arab|aramco|archi|army|arpa|art|arte)($|\/)/
 /.*\.(asda|asia|associates)($|\/)/
 /.*\.(athleta|attorney)($|\/)/
@@ -27,6 +27,8 @@
 
 # ...
 /.*\.(akdn|aol|aquarelle|avianca|aws|axa|azure)($|\/)/
+
+# Excluded: app
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # B
