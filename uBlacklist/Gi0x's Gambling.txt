@@ -1,8 +1,8 @@
 # Title: Gi0x's Gambling
 # Description: Hides gambling & betting sites from search results
 # DeDup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gambling.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gambling.txt
+# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gi0x's%20Gambling.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Gambling.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 *://*.1xbet./*
