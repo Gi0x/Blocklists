@@ -1602,6 +1602,7 @@
 *://*.bdsm-club.com/*
 *://*.bdsm-club.org/*
 *://*.bdsm-daily.com/*
+*://*.horny-dragon.itch.io/*
 *://*.bdsm-files.com/*
 *://*.bdsm-latex.net/*
 *://*.bdsm-paradiese.info/*
@@ -1965,6 +1966,8 @@
 *://*.comdotgame.com/*
 *://*.free-3d-porn.com/*
 *://*.395games.itch.io/*
+*://*.hooligapps.com/*
+*://*.hopesgaming.itch.io/*
 *://*.adultgamingroom.com/*
 *://*.d-game.itch.io/*
 *://*.enjoy3dporn.com/*
@@ -5907,7 +5910,6 @@
 *://*.hiddenwall.itch.io/*
 *://*.hidefporn.ws/*
 *://*.highporn.net/*
-*://*.highwebmedia.com/*
 *://*.hims.com/*
 *://*.hitprn.com/*
 *://*.hmvmania.com/*
@@ -5921,11 +5923,8 @@
 *://*.honeymaestro.itch.io/*
 *://*.honeyplaybox.com/*
 *://*.honhonmaid.itch.io/*
-*://*.hooligapps.com/*
-*://*.hopesgaming.itch.io/*
 *://*.horn-nii-san.itch.io/*
 *://*.hornstown.com/*
-*://*.horny-dragon.itch.io/*
 *://*.hornyasf.com/*
 *://*.hornybank.com/*
 *://*.hornybitches.org/*
