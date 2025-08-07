@@ -1,8 +1,8 @@
-! Title: Search by Gi0x
+! Title: Gi0x's Search
 ! Description: Blocks listed browsers & search engines
 ! Dedup: Y, Sorted: Y
-! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Search.txt
-! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Search.txt
+! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Gi0x's%20Search.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Search.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! Browsers
