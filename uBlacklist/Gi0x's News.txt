@@ -1,8 +1,8 @@
 # Title: Gi0x's News
 # Description: Hides news sites from search results
 # DeDup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/News.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/News.txt
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Gi0x's%20News.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20NewsNews.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. News 🇷🇸 🇲🇪 🇧🇦
