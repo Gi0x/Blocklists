@@ -1,8 +1,8 @@
 # Title: Gi0x's Gaming
 # Description: Hides gaming related sites from search results
 # DeDup: N, Sorted: N
-# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gaming.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gaming.txt
+# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gi0x's%20Gaming.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Gaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # 1. Browser-Based Gaming ... ok
 # 2. Game Devs (AAA, Indie, Mobile, VR, Web3 & Blockchain) & Publisher Sites ... ok
