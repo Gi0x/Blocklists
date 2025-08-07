@@ -2,8 +2,8 @@
 ! Description: Blocks Generic Top Level Domains
 ! DeDup: Y, Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
-! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/TLDs%20%5Bg%5D.txt
-! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/TLDs%20%5Bg%5D.txt
+! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Gi0x's%20gTLDs.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20gTLDs.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! A
