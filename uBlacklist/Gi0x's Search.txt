@@ -1,8 +1,8 @@
 # Title: Gi0x's Search
 # Description: Hides specific browsers & search engines from search results
 # Dedup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Search.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Search.txt
+# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gi0x's%20Search.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Search.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # 1. Browsers
 # 2. AI-Based Search Engines
