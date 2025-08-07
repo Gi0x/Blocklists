@@ -1,4 +1,4 @@
-! Title: Gaming by Gi0x
+! Title: Gi0x's Gaming
 ! Description: Blocks online games, gaming news media & stores
 ! DeDup: Y, Sorted: Y
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Gaming.txt

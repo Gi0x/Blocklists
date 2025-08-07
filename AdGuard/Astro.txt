@@ -1,4 +1,4 @@
-! Title: Astro by Gi0x
+! Title: Gi0x's Astro
 ! Description: Blocks astrology & tarot websites
 ! DeDup: Y, Sorted: N
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Astro.txt

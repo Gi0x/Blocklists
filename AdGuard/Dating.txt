@@ -1,4 +1,4 @@
-! Title: Dating by Gi0x
+! Title: Gi0x's Dating
 ! Description: Hides anything that has to do with dating & seduction from search results
 ! DeDup: Y, Sorted: Y
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Dating.txt

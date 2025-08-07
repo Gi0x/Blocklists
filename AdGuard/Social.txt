@@ -1,4 +1,4 @@
-! Title: Social by Gi0x
+! Title: Gi0x's Social
 ! Description: Blocks social media
 ! DeDup: Y, Sorted: Y
 ! Note: Pinterest domains excluded, but available from NyeUsr

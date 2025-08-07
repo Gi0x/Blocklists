@@ -1,4 +1,4 @@
-! Title: Adult by Gi0x
+! Title: Gi0x's Adult
 ! Description: Blocks porn, sex shops & other adult material (ex. bdsm)
 ! DeDup: Y, Sorted: Y
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Adult.txt

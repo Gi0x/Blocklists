@@ -1,4 +1,4 @@
-! Title: Drugs
+! Title: Gi0x's Drugs
 ! Description: Blocks drugs & tobacco related websites
 ! DeDup: Y, Sorted: Y
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Drugs.txt

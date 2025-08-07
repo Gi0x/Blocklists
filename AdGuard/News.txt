@@ -1,4 +1,4 @@
-! Title: News by Gi0x
+! Title: Gi0x's News
 ! Description: Blocks news media sites
 ! DeDup: N, Sorted: N
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/News.txt

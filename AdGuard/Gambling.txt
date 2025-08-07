@@ -1,4 +1,4 @@
-! Title: Gambling by Gi0x
+! Title: Gi0x's Gambling
 ! Description: Blocks gambling & betting sites
 ! DeDup: Y, Sorted: Y
 ! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Gambling.txt
