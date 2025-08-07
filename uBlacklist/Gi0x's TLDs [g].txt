@@ -1,8 +1,8 @@
 # Title: Gi0x's TLDs [g]
 # Description: Hides generic TLDs
 # DeDup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/TLDs%20%5Bg%5D.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/TLDs%20%5Bg%5D.txt
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Gi0x's%20TLDs%20%5Bg%5D.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20TLDs%20%5Bg%5D.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # A
