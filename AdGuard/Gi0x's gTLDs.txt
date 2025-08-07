@@ -1,4 +1,4 @@
-! Title: gTLDs by Gi0x
+! Title: Gi0x's gTLDs
 ! Description: Blocks Generic Top Level Domains
 ! DeDup: Y, Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
