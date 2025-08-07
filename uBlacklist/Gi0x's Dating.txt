@@ -1,8 +1,8 @@
 # Title: Gi0x's Dating
 # Description: Hides dating & seduction sites from search results
 # DeDup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Dating.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Dating.txt
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Gi0x's%20Dating.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Dating.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # 1. Adult, Casual & Hookup-Oriented Dating Platforms
 # 2. AI Companions, Virtual Girlfriends & Simulated Romance
