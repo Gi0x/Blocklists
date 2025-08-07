@@ -1,8 +1,8 @@
 # Title: Gi0x's TLDs [cc]
 # Description: Hides TLDs by country code
 # DeDup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/.txt
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Gi0x's%20TLDs%20%5Bcc%5D.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20TLDs%20%5Bcc%5D.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 1. 🛖 AFRICA
