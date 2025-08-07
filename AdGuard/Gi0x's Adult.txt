@@ -1,8 +1,8 @@
 ! Title: Gi0x's Adult
 ! Description: Blocks porn, sex shops & other adult material (ex. bdsm)
 ! DeDup: Y, Sorted: Y
-! Main: https://github.com/Gi0x/Blocklists/edit/main/AdGuard/Adult.txt
-! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Adult.txt
+! Main: https://github.com/Gi0x/Blocklists/blob/main/AdGuard/Gi0x's%20Adult.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Adult.txt
 ! Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
