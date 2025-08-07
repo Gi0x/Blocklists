@@ -1,9 +1,10 @@
 Title: Generic TLDs
 Description: Blocks Generic Top Level Domains
-DeDup: Y
-Sorted: Y
+DeDup: Y, Sorted: Y
 Source: https://www.iana.org/domains/root/db
-▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+A
 
 *.aaa^
 *.aarp^
@@ -87,6 +88,10 @@ Source: https://www.iana.org/domains/root/db
 *.aws^
 *.axa^
 *.azure^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+B 
+
 *.baby^
 *.baidu^
 *.banamex^
@@ -164,6 +169,10 @@ Source: https://www.iana.org/domains/root/db
 *.buy^
 *.buzz^
 *.bzh^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+C 
+
 *.cab^
 *.cafe^
 *.cal^
@@ -271,6 +280,10 @@ Source: https://www.iana.org/domains/root/db
 *.cuisinella^
 *.cymru^
 *.cyou^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+D
+
 *.dabur^
 *.dad^
 *.dance^
@@ -325,6 +338,10 @@ Source: https://www.iana.org/domains/root/db
 *.durban^
 *.dvag^
 *.dvr^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+E
+
 *.earth^
 *.eat^
 *.eco^
@@ -354,6 +371,10 @@ Source: https://www.iana.org/domains/root/db
 *.exposed^
 *.express^
 *.extraspace^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+F 
+
 *.fage^
 *.fail^
 *.fairwinds^
@@ -414,6 +435,10 @@ Source: https://www.iana.org/domains/root/db
 *.furniture^
 *.futbol^
 *.fyi^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+G 
+
 *.gal^
 *.gallery^
 *.gallo^
@@ -468,6 +493,10 @@ Source: https://www.iana.org/domains/root/db
 *.guide^
 *.guitars^
 *.guru^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+H 
+
 *.hair^
 *.hamburg^
 *.hangout^
@@ -511,6 +540,10 @@ Source: https://www.iana.org/domains/root/db
 *.hughes^
 *.hyatt^
 *.hyundai^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+I 
+
 *.ibm^
 *.icbc^
 *.ice^
@@ -546,6 +579,10 @@ Source: https://www.iana.org/domains/root/db
 *.itau^
 *.itv^
 *.iveco^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+J 
+
 *.jaguar^
 *.java^
 *.jcb^
@@ -566,6 +603,10 @@ Source: https://www.iana.org/domains/root/db
 *.jprs^
 *.juegos^
 *.juniper^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+K 
+
 *.kaufen^
 *.kddi^
 *.kerryhotels^
@@ -588,6 +629,10 @@ Source: https://www.iana.org/domains/root/db
 *.kred^
 *.kuokgroup^
 *.kyoto^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+L 
+
 *.lacaixa^
 *.ladbrokes^
 *.lamborghini^
@@ -649,6 +694,10 @@ Source: https://www.iana.org/domains/root/db
 *.lupin^
 *.luxe^
 *.luxury^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+M 
+
 *.macys^
 *.madrid^
 *.maif^
@@ -718,6 +767,11 @@ Source: https://www.iana.org/domains/root/db
 *.music^
 *.mutual^
 *.mutuelle^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+N 
+
+
 *.nab^
 *.nadex^
 *.nagoya^
@@ -756,6 +810,10 @@ Source: https://www.iana.org/domains/root/db
 *.nrw^
 *.ntt^
 *.nyc^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+O 
+
 *.obi^
 *.observer^
 *.off^
@@ -782,6 +840,10 @@ Source: https://www.iana.org/domains/root/db
 *.otsuka^
 *.ott^
 *.ovh^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+P 
+
 *.page^
 *.pamperedchef^
 *.panasonic^
@@ -842,10 +904,18 @@ Source: https://www.iana.org/domains/root/db
 *.prudential^
 *.pub^
 *.pwc^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Q
+
 *.qpon^
 *.quebec^
 *.quest^
 *.qvc^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+R 
+
 *.racing^
 *.radio^
 *.raid^
@@ -892,6 +962,10 @@ Source: https://www.iana.org/domains/root/db
 *.run^
 *.rwe^
 *.ryukyu^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+S 
+
 *.saarland^
 *.safe^
 *.safety^
@@ -1009,6 +1083,10 @@ Source: https://www.iana.org/domains/root/db
 *.sydney^
 *.symantec^
 *.systems^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+T 
+
 *.tab^
 *.taipei^
 *.talk^
@@ -1069,6 +1147,10 @@ Source: https://www.iana.org/domains/root/db
 *.tunes^
 *.tushu^
 *.tvs^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+U 
+
 *.ubank^
 *.ubs^
 *.uconnect^
@@ -1077,6 +1159,10 @@ Source: https://www.iana.org/domains/root/db
 *.uno^
 *.uol^
 *.ups^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+V 
+
 *.vacations^
 *.vana^
 *.vanguard^
@@ -1110,6 +1196,10 @@ Source: https://www.iana.org/domains/root/db
 *.voto^
 *.voyage^
 *.vuelos^
+
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+W 
+
 *.wales^
 *.walmart^
 *.walter^
@@ -1170,8 +1260,8 @@ Source: https://www.iana.org/domains/root/db
 *.zone^
 *.zuerich^
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-Other gTLDs
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+...
 
 *.δοκιμή^
 *.дети^
@@ -1183,7 +1273,7 @@ Other gTLDs
 *.орг^
 *.рус^
 *.сайт^
-*.موقع‎^
+*.موقع^
 *.कॉम^
 *.नेट^
 *.परीक्षा^
@@ -1252,7 +1342,7 @@ Other gTLDs
 *.诺基亚^
 *.谷歌^
 *.购物^
-*.通販‎^
+*.通販^
 *.集团^
 *.電訊盈科^
 *.飞利浦^
