@@ -1,9 +1,9 @@
 # Title: Gi0x's Adult
 # Description: Hides adult related sites from search results
 # DeDup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Adult.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Adult.txt
 # Sources: https://github.com/NyeUsr/Blacklist/blob/main/uBlacklist/Porn.txt
+# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gi0x's%20Adult.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Adult.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # Aggregators & Index Sites
