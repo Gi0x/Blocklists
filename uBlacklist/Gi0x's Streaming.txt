@@ -1,8 +1,8 @@
 # Title: Gi0x's Streaming
 # Description: Hides audiovisual streaming sites from search results
 # DeDup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Streaming.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Streaming.txt
+# Main: https://github.com/Gi0x/Blocklists/edit/main/uBlacklist/Gi0x's%20Streaming.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Streaming.txt
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
 # AUDIO 
