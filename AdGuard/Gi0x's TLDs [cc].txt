@@ -1,4 +1,4 @@
-! Title: Gi0x's ccTLDs
+! Title: Gi0x's TLDs [cc]
 ! Description: Blocks Top Level Domains by Country Code
 ! Dedup: Y, Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
