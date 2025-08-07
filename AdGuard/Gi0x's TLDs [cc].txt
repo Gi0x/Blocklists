@@ -2,8 +2,8 @@
 ! Description: Blocks Top Level Domains by Country Code
 ! Dedup: Y, Sorted: Y
 ! Source: https://www.iana.org/domains/root/db
-! Main: https://github.com/Gi0x/Blocklists/blob/main/AdGuard/Gi0x's%20ccTLDs.txt
-! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20ccTLDs.txt
+! Main: https://github.com/Gi0x/Blocklists/blob/main/AdGuard/Gi0x's%20TLDs%20%5Bcc%5D.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20TLDs%20%5Bcc%5D.txt
 ! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 ! 🛖 AFRICA
