@@ -541,6 +541,7 @@
 *://*.hoopladigital.com/*
 *://*.horizon.tv/*
 *://*.hotstar.com/*
+*://*.howdy.tv/*
 *://*.hulu.com/*
 *://*.iflix.com/*
 *://*.indieflix.com/*
