@@ -1,7 +1,7 @@
 # Title: Gi0x's Profanity
 # Description: Hides websites from search results if their URLs containing profanity 
 # DeDup: Y, Sorted: Y
-# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Profanity.txt
-# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Profanity.txt 
+# Main: https://github.com/Gi0x/Blocklists/blob/main/uBlacklist/Gi0x's%20Profanity.txt
+# Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/uBlacklist/Gi0x's%20Profanity.txt 
 # ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 
