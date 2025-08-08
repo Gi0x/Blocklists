@@ -1,1 +1,6 @@
-
+! Title: Gi0x's Data Brokers
+! Description: Hides anything that has to do with dating & seduction from search results
+! DeDup: Y, Sorted: Y
+! Main: https://github.com/Gi0x/Blocklists/blob/main/AdGuard/Gi0x's%20Dating.txt
+! Raw: https://raw.githubusercontent.com/Gi0x/Blocklists/refs/heads/main/AdGuard/Gi0x's%20Dating.txt
+! ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
