@@ -557,6 +557,7 @@
 
 # ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 # 5. Misc Social Media
+# Excluded: *://*.linkedin.com/*
 
 *://*.ask.fm/*
 *://*.bere.al/*
@@ -567,7 +568,6 @@
 *://*.commentsmodule.com/*
 *://*.deviantart.com/*
 *://*.disqus.com/*
-*://*.linkedin.com/*
 *://*.myspace.com/*
 *://*.quora.com/*
 *://*.tumblr.com/*
